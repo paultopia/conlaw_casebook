@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# usage: ./addcase "filename" "cite"
+
+cd fetch_case/fetch_case
+poetry run python fetch_case.py "$1" "$2"
