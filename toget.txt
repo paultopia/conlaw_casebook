@@ -1,0 +1,4 @@
+(not on courtlistener; check CAP and add that API to my download script): 
+northwest_v_ginsberg 572 U.S. 273
+Zivotofsky v. Kerry 576 U.S. 1059
+shelby_county 570 U.S. 529
