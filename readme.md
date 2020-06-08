@@ -1,0 +1,1 @@
+Repository for a fully open-source constitutional law casebook.  Work in progress; currently being cobbled together from a variety of materials from prior courses of mine in a fairly willy-nilly fashion, will be refined over time. 
