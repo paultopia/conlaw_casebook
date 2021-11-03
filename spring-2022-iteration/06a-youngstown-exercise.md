@@ -9,7 +9,7 @@ Here is a summary of Justice Jackson's three categories.
 
 **Category 3**: Congress has legislatively forbidden the Presidential action.
 
-Take ten minutes or so, *individually*, and write down one concrete example for each of the following situations:
+Take ten minutes or so and write down one concrete example for each of the following situations:
 
 1. Something that would be impermissible for the President even under category 1. 
 
