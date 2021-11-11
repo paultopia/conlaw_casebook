@@ -15,7 +15,7 @@
 
 All of those except for the political question doctrine derive from the "cases" and "controversies" requirement of Article 3, which the Court has interpreted to mean that the judicial branch can only hear genuine disputes between two parties with real opposing interests to be resolved by the court. 
 
-In addition to that textual rationale, there are some well-accepted policy reasons for enforcing the justiciability doctrines. First, there's a worry about wasting judicial resources by resolving cases where people don't have a real stake. Second, there's a worry that if the courts handle cases where there aren't litigants with an incentive to develop the facts and law (because they have actual money or other interests on the table, the court could make garbage precedent, based in inadequate facts and legal argument. The adversary system depends on parties with genuine motives to litigate the cases themselves to the fullest. 
+In addition to that textual rationale, there are some well-accepted policy reasons for enforcing the justiciability doctrines. First, there's a worry about wasting judicial resources by resolving cases where people don't have a real stake. Second, there's a worry that if the courts handle cases where there aren't litigants with an incentive to develop the facts and law (because they have actual money or other interests on the table, the court could make garbage precedent, based in inadequate facts and legal argument. The adversary system depends on parties with genuine motives to litigate the cases themselves to the fullest. Third, there are basic issues both of democracy and individual liberty: federal court rulings are a big hammer, and we don't want our judges either ordering private citizens around or striking down democratically enacted laws and such unless someone's rights are actually violated in a meaningful way.
 
 ## Standing
 
@@ -41,15 +41,25 @@ There are roughly three prudential standing rules:
 
 2. "Generalized grievances" do not suffice.  The key kind of case where this comes up is in taxpayer standing, where someone challenges government expenditure and the injury they claim is that their tax dollars are being spent on some illegal program. With very few exceptions, these claims are rejected.
 
-3. Third-party lawsuits (suits to vindicate the rights of someone else) are disfavored. However, where the third party has his or her own interest at stake too, sometimes they'll be allowed (classic case: *Craig v. Boren*, alcohol seller challenging sexist drinking age, the plaintiff has an economic interest in having the ability to sell to the people who are forbidden from buying).
+3. Third-party lawsuits (suits to vindicate the rights of someone else) are disfavored. However, where the third party has his or her own interest at stake too, sometimes they'll be allowed. [A classic case: *Craig v. Boren*, 429 U.S. 190 (1976), alcohol seller challenging sexist drinking age, the plaintiff has an economic interest in having the ability to sell to the people who are forbidden from buying.]
 
-A big open question is the extent to which Congress may confer "injury" for the purposes of standing on a plaintiff by giving them a cause of action.
+A difficult question is the extent to which Congress may confer "injury" for the purposes of standing on a plaintiff by giving them a cause of action.
 
 Consider the *qui tam* lawsuit. That is where a private plaintiff brings suit against another private party, but on behalf of the government as a whistleblower, typically in order to recover money fradulently taken from the government---and if they win, the plaintiff gets a cut. With qui tam suits, Congress has essentially recruited private plaintiffs as bounty hunters for government fraud. See casebook discussion of *Vermont Agency of Natural Resources v. United States*, in which the Court approved standing in such cases.
 
 A good exercise is to get very clear on how the qui tam is distinguished from *Lujan*.  At the very least, 1, the plaintiff has a concrete financial stake, and 2, there is another party with an individualized injury---the government---who can basically assign the claim to the plaintiff. Assigning claims is a traditional tool with a long common-law history (insurance companies, etc.).
 
-The Supreme Court recently heard, but punted on, a very interesting case from the 9th Circuit on whether violations of an individual statutory right are sufficient injury to confer standing even in the absence of a concrete real-world harm---Spokeo v. Robins. [UPDATE ME, ALSO, OTHER RECENT STANDING CASES?]
+The Supreme Court has recently clarified the congressionally-created standing issue, and taken a restrictive view. See the 2021 5-4 decision in *Transunion, LLC v. Ramirez*, considering class-action plaintiffs who had been erroneously flagged as potential terrorists by a credit reporting company (*seriously*). Even though plaintiffs had alleged violations of the Fair Credit Reporting Act (which requires much less sloppy procedures for getting information into a credit report) they didn't have standing *unless* Transunion had provided a credit report to a buyer (employer, landlord, lender, etc.) containing the erroneous information as to the specific plaintiff seeking to be included in the class. In the Court's words:
+
+> For standing purposes, therefore, an important difference exists between (i) a plaintiff ’s statutory cause of action to sue a defendant over the defendant’s violation of federal law, and (ii) a plaintiff ’s suffering concrete harm because of the defendant’s violation of federal law. Congress may enact legal prohibitions and obligations. And Congress may create causes of action for plaintiffs to sue defendants who violate those legal prohibitions or obligations. But under Article III, an injury in law is not an injury in fact. Only those plaintiffs who have been concretely harmed by a defendant’s statutory violation may sue that private defendant over that violation in federal court.^[Slip op. at 11]
+
+As I write these notes, the Court is considering a notorious Texas law which may lead to the overturning of the constitutional right to abortion. The law in question gives any private plaintiff a right to sue anyone who "aids or abets" an abortion for statutory damages. This, of course, is exactly the idea that horrified the Court in the Transunion case.  Consider the following language from Transunion:
+
+> As those examples illustrate, if the law of Article III did not require plaintiffs to demonstrate a “concrete harm,” Congress could authorize virtually any citizen to bring a statutory damages suit against virtually any defendant who violated virtually any federal law. Such an expansive understanding of Article III would flout constitutional text, history, and precedent. In our view, the public interest that private entities comply with the law cannot “be converted into an individual right by a statute that denominates it as such, and that permits all citizens (or, for that matter, a subclass of citizens who suffer no distinctive concrete harm) to sue.” Lujan, 504 U. S., at 576–577.2
+
+> A regime where Congress could freely authorize unharmed plaintiffs to sue defendants who violate federal law not only would violate Article III but also would infringe on the Executive Branch’s Article II authority. We accept the “displacement of the democratically elected branches when necessary to decide an actual case.” But otherwise, the choice of how to prioritize and how aggressively to pursue legal actions against defendants who violate the law falls within the discretion of the Executive Branch, not within the purview of private plaintiffs (and their attorneys). Private plaintiffs are not accountable to the people and are not charged with pursuing the public interest in enforcing a defendant’s general compliance with regulatory law.^[Slip op. at 13-14, internal citations omitted]
+
+Quick pop quiz: why won't the Supreme Court just strike down Texas's abortion law on Transunion grounds?  The answer is the next footnote, but don't link until you have a rationale in your head.^[The Texas law authorizes suit in state courts.  But the cases and controversies requirement is a rule of federal constitutional law limiting the power of the federal judiciary. Texas presumably has some version of its own standing doctrine, but it need not interpret that doctrine quite the same was as the Supreme Court interprets the federal doctrine.  It is worth considering, however, that the federal courts probably couldn't hear a Texas abortion damages suit (under, for example, diversity jursidiction).]
 
 ## Mootness
 
@@ -77,7 +87,7 @@ I am of the (controversial) opinion that ripeness in most real cases is just ano
 
 In an odd way, the political question doctrine is kind of the opposite of the sorts of ideas that we saw in Marbury v. Madison. Remember that Chief Justice Marshall's whole argument in Marbury was that the other branches had to obey the Constitution, and the Court's job was to say what the Constitution means, full stop. Now we learn that this isn't completely true, that if, for example, the Constitution says that the Senate shall try all impeachments, the Supreme Court has no business saying what "try," as written in the Constitution, means---that's actually the sole determination of the Senate.
 
-Baker v. Carr, has the core test for political questions. The key passage states a test that runs as follows.
+Baker v. Carr has the core test for political questions. The key passage states a test that runs as follows.
 
 An issue is a nonjusticiable political question if the issue is characterized by one of the following:
 
@@ -93,7 +103,7 @@ An issue is a nonjusticiable political question if the issue is characterized by
 
 6. "the potentiality of embarrassment from multifarious pronouncements by various departments on one question."
 
-The these elements of the test have a few broad ideas in common: 
+These elements of the test have a few broad ideas in common: 
 
 - The separation of powers means the Court can't decide everything---if it's asked to rule on the internal procedures of another branch (like the Senate's procedures for conducting impeachment in Nixon v. U.S.), or something within the unique competence of another branch, it should probably stay out of it. 
 
