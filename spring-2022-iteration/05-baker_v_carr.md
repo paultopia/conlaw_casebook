@@ -365,4 +365,5 @@ elements which render Guaranty Clause claims nonjusticiable as actually to
 present a political question itself. But we have found that not to be the case
 here.
 
+\newpage
 
