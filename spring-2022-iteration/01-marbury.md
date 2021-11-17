@@ -1,894 +1,335 @@
-5 U.S. 1
+# Marbury v. Madison, 5 U.S. 137 (1803)
 
-1 Cranch 1
 
-2 L.Ed. 15
+At the last term on the affidavits then read and filed with the clerk, a rule was granted in this case, requiring the secretary of state to show cause why a mandamus *154 *should not issue, directing him to deliver to William Marbury his commission as a justice of the peace for the county of Washington, in the district of Columbia.
 
-SILAS TALBOT  
-v.  
-HANS FREDERICK SEEMAN.
+No cause has been shown, and the present motion is for a mandamus. The peculiar delicacy of this case, the novelty of some of its circumstances, and the real difficulty attending the points which occur in it, require a complete exposition of the principles on which the opinion to be given by the court is founded.
 
-August Term, 1801
+These principles have been, on the side of the applicant, very ably argued at the bar. In rendering the opinion of the court, there will be some departure in form, though not in substance, from the points stated in that argument.
 
-THIS was a libel for salvage, filed in the district court of New York, by
-Silas Talbot, Esq. for himself and the officers and crew of the Constitution,
-a vessel of the United States, against the ship Amelia, the property of
-merchant citizens of Hamburgh; she having been recaptured on the high seas by
-the Constitution on the 15th of September 1799, after her capture on the 6th
-of September, by a French corvette, while on her voyage from Calcutta to
-Hamburgh. The captors placed a prize master and men on board of the Amelia,
-and ordered her to St. Domingo. On her re-capture, by captain Talbot, she was
-sent to New York. The district court allowed salvage to the libellants, and
-the circuit court reversed the decree. The case came up by writ of error to
-the circuit court, on the part of the libellants.
+*154 In the order in which the court has viewed this subject, the following questions have been considered and decided.
 
-For the respondents the points made were,
+1st. Has the applicant a right to the commission he demands?
 
-1\. That captain Talbot had no right to interfere with the Amelia, she being a
-neutral vessel and not liable to condemnation by the laws of nations.
+2dly. If he has a right, and that right has been violated, do the laws of his country afford him a remedy?
 
-2\. That salvage is only due when a benefit has been conferred; and here none
-was received.
+3dly. If they do afford him a remedy, is it a mandamus issuing from this court?
 
-3\. That salvage imports a lawful consideration.
+The first object of inquiry is,
 
-4\. That to support it there must be a consideration express or implied.
+1st. Has the applicant a right to the commission he demands?
 
-For the libellants it was claimed,
+His right originates in an act of congress passed in February, 1801, concerning the district of Columbia.
 
-1\. That the Amelia, under the circumstances in which she was met by the
-Constitution, was liable to recapture.
+After dividing the district into two counties, the 11th section of this law enacts, "that there shall be appointed in and for each of the said counties, such number of discreet persons to be justices of the peace as the president of the United States shall, from time to time, think expedient, to continue in office for five years.
 
-2\. That the libellants saved the property from condemnation in the courts of
-France.
+*It appears, from the affidavits, that in compliance with *155 this law, a commission for William Marbury, as a justice of peace for the county of Washington, was signed by John Adams, then President of the United States; after which the seal of the United States was affixed to it; but the commission has never reached the person for whom it was made out.
 
-3\. That by the laws of nations, and the provisions of the act of congress,
-the recaptors were entitled to salvage.
+In order to determine whether he is entitled to this commission, it becomes necessary to inquire whether he has been appointed to the office. For if he has been appointed, the law continues him in office for five years, and he is entitled to the possession of those evidences of office, which, being completed, became his property.
 
-[Statement of Case from pages 1-26 intentionally omitted]
+The 2d section of the 2d article of the constitution declares, that "the president shall nominate, and, by and with the advice and consent of the senate, shall appoint, ambassadors, other public ministers and consuls, and all other officers of the United States, whose appointments are not otherwise provided for."
 
-Mr. Chief Justice MARSHALL delivered the opinion of the court.
+The 3d section declares, that "he shall commission all the officers of the United States."
 
-1
+An act of congress directs the secretary of state to keep the seal of the United States, "to make out and record, and affix the said seal to all civil commissions *155 to officers of the United States, to be appointed by the president, by and with the consent of the senate, or by the president alone; provided, that the said seal shall not be affixed to any commission before the same shall have been signed by the President of the United States."
 
-This was a writ of error to a decree of the circuit court for the district of
-New York, by which the decree of the district court of that state, restoring
-the ship Amelia to her owner on payment of one half for salvage, was reversed,
-and a decree rendered directing the restoration of the vessel without salvage.
+These are the clauses of the constitution and laws of the United States, which affect this part of the case. They seem to contemplate three distinct operations:
 
-2
+1st. The nomination. This is the sole act of the president, and is completely voluntary.
 
-The facts agreed by the parties, and the pleadings in the cause present the
-following case:
+2d. The appointment. This is also the act of the president, and is also a voluntary act, though it can only be performed by and with the advice and consent of the senate.
 
-3
+*156 *3d. The commission. To grant a commission to a person appointed, might, perhaps, be deemed a duty enjoined by the constitution. "He shall," says that instrument, "commission all the officers of the United States."
 
-The ship Amelia sailed from Calcutta in Bengal in April 1799, loaded with a
-cargo of the product and manufacture of that country, and was bound to
-Hamburgh. On the 6th of September she was captured by the French national
-corvette La Diligente, commanded by L. J. Dubois, who took out the captain,
-part of the crew, and most of the papers of the Amelia, and putting a prize
-master and French sailors on board her, ordered her to St. Domingo to be
-judged according to the laws of war.
+The acts of appointing to office, and commissioning the person appointed, can scarcely be considered as one and the same; since the power to perform them is given in two separate and distinct sections of the constitution. The distinction between the appointment and the commission will be rendered more apparent by adverting to that provision in the second section of the second article of the constitution, which authorizes congress "to vest, by law, the appointment of such inferior officers, as they think proper, in the president alone, in the courts of law, or in the heads of departments;" thus contemplating cases where the law may direct the president to commission an officer appointed by the courts, or by the heads of departments. In such a case, to issue a commission would be apparently a duty distinct from the appointment, the performance of which, perhaps, could not legally be refused.
 
-4
+Although that clause of the constitution which requires the president to commission all the officers of the United States, may never have been applied to officers appointed otherwise than by himself, yet it would be difficult to deny the legislative power to apply it to such cases. Of consequence, the constitutional distinction between the appointment to an office and the commission of an officer who has been appointed, remains the same *156 as if in practice the president had commissioned officers appointed by an authority other than his own.
 
-On the 15th of September she was recaptured by captain Talbot, commander of
-the Constitution, who ordered her into New York for adjudication.
+It follows, too, from the existence of this distinction, that if an appointment was to be evidenced by any public act, other than the commission, the performance of such public act would create the officer; and if he was not removable at the will of the president, would either give him a right to his commission, or enable him to perform the duties without it.
 
-5
+These observations are premised solely for the purpose of rendering more intelligible those which apply more directly to the particular case under consideration.
 
-At the time of the recapture, the Amelia had eight iron cannon, and eight
-wooden guns, with which she left Calcutta. From the ship's papers, and other
-testimony, it appeared that she was the property of Chapeau Rouge, a citizen
-and merchant of Hamburgh; and it was conceded by the counsel below, that
-France and Hamburgh were not in a state of hostility with each other, and that
-Hamburgh was to be considered as neutral between the present belligerent
-powers.
+*This is an appointment made by the president, by and *157 with the advice and consent of the senate, and is evidenced by no act but the commission itself. In such a case, therefore, the commission and the appointment seem inseparable; it being almost impossible to show an appointment otherwise than by proving the existence of a commission; still the commission is not necessarily the appointment, though conclusive evidence of it.
 
-6
+But at what stage does it amount to this conclusive evidence?
 
-The district court of New York, before whom the cause first came, decreed one
-half of the gross amount of the ship and cargo as salvage to the recaptors.
-The circuit court of New York reversed this decree: from which reversal the
-recaptors appealed to this court.
+The answer to this question seems an obvious one. The appointment being the sole act of the president, must be completely evidenced, when it is shown that he has done every thing to be performed by him.
 
-7
+Should the commission, instead of being evidence of an appointment, even be considered as constituting the appointment itself; still it would be made when the last act to be done by the president was performed, or, at furthest, when the commission was complete.
 
-The Amelia was libelled as a French vessel, and the libellant prays that she
-may be condemned as prize; or, if restored to any person entitled to her, as
-the former owner, that such restoration should be made on paying salvage. The
-claim and answer of Hans Frederick Seeman, discloses the neutral character of
-the vessel, and claims her on behalf of the owners.
+The last act to be done by the president is the signature of the commission. He has then acted on the advice and consent of the senate to his own nomination. The time for deliberation has then passed. He has decided. His judgment, on the advice and consent of the senate concurring with his nomination, has been made, and the officer is appointed. This appointment is evidenced by an open, unequivocal act; and being the last act required from the person making it, necessarily excludes the idea of its being, so far as respects the appointment, an inchoate and incomplete transaction.
 
-8
+Some point of time must be taken when the power of the executive over an officer, not removable at his will, *157 must cease. That point of time must be when the constitutional power of appointment has been exercised. And this power has been exercised when the last act, required from the person possessing the power, has been performed. This last act is the signature of the commission. This idea seems to have prevailed with the legislature, when the act passed converting the department *158 *of foreign affairs into the department of state. By that act it is enacted, that the secretary of state shall keep the seal of the United States, "and shall make out and record, and shall affix the said seal to all civil commissions to officers of the United States, to be appointed by the president;" "Provided, that the said seal shall not be affixed to any commission before the same shall have been signed by the President of the United States; nor to any other instrument or act, without the special warrant of the president therefor."
 
-The questions growing out of these facts, and to be decided by the court, are,
-Is captain Talbot, the plaintiff in error, entitled to any, and if to any, to
-what salvage in the case which has been stated?
+The signature is a warrant for affixing the great seal to the commission; and the great seal is only to be affixed to an instrument which is complete. It attests, by an act supposed to be of public notoriety, the verity of the presidential signature.
 
-9
+It is never to be affixed till the commission is signed, because the signature, which gives force and effect to the commission, is conclusive evidence that the appointment is made.
 
-Salvage is a compensation for actual service rendered to the property charged
-with it.
+The commission being signed, the subsequent duty of the secretary of state is prescribed by law, and not to be guided by the will of the president. He is to affix the seal of the United States to the commission, and is to record it.
 
-10
+This is not a proceeding which may be varied, if the judgment of the executive shall suggest one more eligible; but is a precise course accurately marked out by law, and is to be strictly pursued. It is the duty of the secretary of state to conform to the law, and in this he is an officer of the United States, bound to obey the laws. He acts, in this respect, as has been very properly stated at the bar, under the authority of law, and not by the instructions of the president. It is a ministerial act which the law enjoins on a particular officer for a particular purpose.
 
-It is demandable of right for vessels saved from pirates or from the enemy.
+If it should be supposed, that the solemnity of affixing the seal is necessary not only to the validity of the commission, *158 but even to the completion of an appointment, still when the seal is affixed the appointment is made, and *the commission is valid. No other solemnity is required *159 by law; no other act is to be performed on the part of government. All that the executive can do to invest the person with his office is done; and unless the appointment be then made, the executive cannot make one without the coöperation of others.
 
-11
+After searching anxiously for the principles on which a contrary opinion may be supported, none have been found which appear of sufficient force to maintain the opposite doctrine.
 
-In order, however, to support the demand, two circumstances must concur.
+Such as the imagination of the court could suggest, have been very deliberately examined, and after allowing them all the weight which it appears possible to give them, they do not shake the opinion which has been formed.
 
-12
+In considering this question, it has been conjectured that the commission may have been assimilated to a deed, to the validity of which delivery is essential.
 
-1\. The taking must be lawful.
+This idea is founded on the supposition that the commission is not merely evidence of an appointment, but is itself the actual appointment; a supposition by no means unquestionable. But for the purpose of examining this objection fairly, let it be conceded, that the principle claimed for its support is established.
 
-13
+The appointment being, under the constitution, to be made by the president personally, the delivery of the deed of appointment, if necessary to its completion, must be made by the president also. It is not necessary that the delivery should be made personally to the grantee of the office: it never is so made. The law would seem to contemplate that it should be made to the secretary of state, since it directs the secretary to affix the seal to the commission after it shall have been signed by the president. If, then, the act of livery be necessary to give validity to the commission, it has been delivered when executed and given to the secretary for the purpose of being sealed, recorded, and transmitted to the party.
 
-2\. There must be a meritorious service rendered to the recaptured.
+But in all cases of letters patent, certain solemnities are required by law, which solemnities are the evidences *of the validity of the instrument. A formal *160 delivery to the person is not among them. In cases *160 of commissions, the sign manual of the president, and the seal of the United States, are those solemnities. This objection, therefore, does not touch the case.
 
-14
+It has also occurred as possible, and barely possible, that the transmission of the commission, and the acceptance thereof, might be deemed necessary to complete the right of the plaintiff.
 
-1\. The taking must be lawful--for no claim can be maintained in a court of
-justice, founded on an act in itself tortious. On a recapture, therefore, made
-by a neutral power, no claim for salvage can arise, because the act of
-retaking is a hostile act, not justified by the situation of the nation to
-which the vessel making the recapture belongs, in relation to that from the
-possession of which such recaptured vessel was taken. The degree of service
-rendered the rescued vessel is precisely the same as if it had been rendered
-by a belligerent; yet the rights accruing to the recaptor are not the same,
-because no right can accrue from an act in itself unlawful.
+The transmission of the commission is a practice directed by convenience, but not by law. It cannot, therefore, be necessary to constitute the appointment which must precede it, and which is the mere act of the president. If the executive required that every person appointed to an office should himself take means to procure his commission, the appointment would not be the less valid on that account. The appointment is the sole act of the president; the transmission of the commission is the sole act of the officer to whom that duty is assigned, and may be accelerated or retarded by circumstances which can have no influence on the appointment. A commission is transmitted to a person already appointed; not to a person to be appointed or not, as the letter enclosing the commission should happen to get into the post-office and reach him in safety, or to miscarry.
 
-15
+It may have some tendency to elucidate this point, to inquire whether the possession of the original commission be indispensably necessary to authorize a person, appointed to any office, to perform the duties of that office. If it was necessary, then a loss of the commission would lose the office. Not only negligence, but accident or fraud, fire or theft, might deprive an individual of his office. In such a case, I presume it could not be doubted but that a copy from the record of the office of the secretary of state would be, to every intent and purpose, equal to the original. The act of congress has expressly made it so. To give that copy validity, it would not be necessary to prove that the original had been transmitted and afterwards lost. The copy would be complete evidence that the original had existed, and that the appointment had been made, but not that the original had been transmitted. If indeed it should appear that *161 *the original had been mislaid in the office of state, that circumstance would not affect the operation of the *161 copy. When all the requisites have been performed which authorize a recording officer to record any instrument whatever, and the order for that purpose has been given, the instrument is, in law, considered as recorded, although the manual labour of inserting it in a book kept for that purpose may not have been performed.
 
-In order then to decide on the right of captain Talbot, it becomes necessary
-to examine the relative situation of the United States and France at the date
-of the recapture.
+In the case of commissions, the law orders the secretary of state to record them. When, therefore, they are signed and sealed, the order for their being recorded is given; and whether inserted in the book or not, they are in law recorded.
 
-16
+A copy of this record is declared equal to the original, and the fees to be paid by a person requiring a copy are ascertained by law. Can a keeper of a public record erase therefrom a commission which has been recorded? Or can he refuse a copy thereof to a person demanding it on the terms prescribed by law?
 
-The whole powers of war being, by the constitution of the United States,
-vested in congress, the acts of that body can alone be resorted to as our
-guides in this inquiry. It is not denied, nor in the course of the argument
-has it been denied, that congress may authorize general hostilities, in which
-case the general laws of war apply to our situation; or partial hostilities,
-in which case the laws of war, so far as they actually apply to our situation,
-must be noticed.
+Such a copy would, equally with the original, authorize the justice of peace to proceed in the performance of his duty, because it would, equally with the original, attest his appointment.
 
-17
+If the transmission of a commission be not considered as necessary to give validity to an appointment, still less is its acceptance. The appointment is the sole act of the president; the acceptance is the sole act of the officer, and is, in plain common sense, posterior to the appointment. As he may resign, so may he refuse to accept: but neither the one nor the other is capable of rendering the appointment a non-entity.
 
-To determine the real situation of America in regard to France, the acts of
-congress are to be inspected.
+That this is the understanding of the government, is apparent from the whole tenor of its conduct.
 
-18
+A commission bears date, and the salary of the officer commences, from his appointment; not from the transmission or acceptance of his commission. When a person appointed to any office refuses to accept that office, the successor is nominated in the place of the person who *has declined to accept, and not in the place *162 of the person who had been previously in office, and had created the original vacancy.
 
-The first act on this subject passed on the 28th of May 1798, and is entitled,
-'an act more effectually to protect the commerce and coasts of the United
-States.'
+It is, therefore, decidedly the opinion of the court, *162 that when a commission has been signed by the president, the appointment is made; and that the commission is complete when the seal of the United States has been affixed to it by the secretary of state.
 
-19
+Where an officer is removable at the will of the executive, the circumstance which completes his appointment is of no concern; because the act is at any time revocable; and the commission may be arrested, if still in the office. But when the officer is not removable at the will of the executive, the appointment is not revocable, and cannot be annulled. It has conferred legal rights which cannot be resumed.
 
-This act authorises any armed vessel of the United States to capture any armed
-vessel sailing under the authority, or pretence of authority, of the Republic
-of France, which shall have committed depredations on vessels belonging to the
-citizens of the United States, or which shall be found hovering on the coasts
-for the purpose of committing such depredations. It also authorises the
-recapture of vessels belonging to the citizens of the United States.
+The discretion of the executive is to be exercised until the appointment has been made. But having once made the appointment, his power over the office is terminated in all cases, where by law the officer is not removable by him. The right to the office is then in the person appointed, and he has the absolute, unconditional power of accepting or rejecting it.
 
-20
+Mr. Marbury, then, since his commission was signed by the president, and sealed by the secretary of state, was appointed; and as the law creating the office, gave the officer a right to hold for five years, independent of the executive, the appointment was not revocable, but vested in the officer legal rights, which are protected by the laws of his country.
 
-On the 25th of June 1798, an act was passed 'to authorise the defence of the
-merchant vessels of the United States against French depredations.'
+To withhold his commission, therefore, is an act deemed by the court not warranted by law, but violative of a vested legal right.
 
-21
+This brings us to the second inquiry; which is,
 
-This act empowers merchant vessels, owned wholly by citizens of the United
-States, to defend themselves against any attack which may be made on them by
-the commander or crew of any armed vessel sailing under French colours, or
-acting or pretending to act, by or under the authority of the French Republic;
-and to capture any such vessel. This act also authorizes the recapture of
-merchant vessels belonging to the citizens of the United States. By the second
-section, such armed vessel is to be brought in and condemned for the use of
-the owners and captors.
+2dly. If he has a right, and that right has been violated, do the laws of his country afford him a remedy?
 
-22
+*163 *The very essence of civil liberty certainly consists in the right of every individual to claim the protection of the laws, whenever he receives an injury. One of the first duties of government is to afford that protection. In Great Britain the king himself is sued in the respectful form of a petition, and he never fails to comply with the judgment of his court.
 
-By the same section, recaptured vessels belonging to the citizens of the
-United States, are to be restored, they paying for salvage not less than one-
-eighth nor more than one-half of the true value of such vessel and cargo.
+In the 3d vol. of his Commentaries, p. 23. Blackstone states two cases in which a remedy is afforded by mere operation of law.
 
-23
+*163 In all other cases," he says, "it is a general and indisputable rule, that where there is a legal right, there is also a legal remedy by suit, or action at law, when ever that right is invaded."
 
-On the 28th of June, an act passed 'in addition to the act more effectually to
-protect the commerce and coasts of the United States.'
+And afterwards, p. 109. of the same vol. he says, "I am next to consider such injuries as are cognisable by the courts of the common law. And herein I shall for the present only remark, that all possible injuries whatsoever, that did not fall within the exclusive cognisance of either the ecclesiastical, military, or maritime tribunals, are, for that very reason, within the cognisance of the common law courts of justice; for it is a settled and invariable principle in the laws of England that every right, when withheld, must have a remedy, and every injury its proper redress."
 
-24
+The government of the United States has been emphatically termed a government of laws, and not of men. It will certainly cease to deserve this high appellation, if the laws furnish no remedy for the violation of a vested legal right.
 
-This authorises the condemnation of vessels brought in under the first act,
-with their cargoes, excepting only from such condemnation the goods of any
-citizen or person resident within the United States, which shall have been
-before taken by the crew of such captured vessel.
+If this obloquy is to be cast on the jurisprudence of our country, it must arise from the peculiar character of the case.
 
-25
+It behoves us, then, to inquire whether there be in its composition any ingredient which shall exempt it from legal investigation, or exclude the injured party from legal redress. In pursuing this inquiry the first question which presents itself is, whether this can be arranged *with that class of cases which come under the *164 description of damnum absque injuria; a loss without an injury.
 
-The second section provides that whenever any vessel or goods, the property of
-any citizen of the United States or person resident therein, shall be
-recaptured, the same shall be restored, he paying for salvage one eighth part
-of the value free from all deductions.
+This description of cases never has been considered, and it is believed never can be considered, as comprehending offices of trust, of honour, or of profit. The office of justice of peace in the district of Columbia is such an office; it is therefore worthy of the attention and guardianship of the laws. It has received that attention and guardianship. It has been created by special act of congress, and has been secured, so far as the laws can give security, to the person appointed to fill it, for five years. It is not, then, on account of the worthlessness of the thing pursued, that the injured party can be alleged to be without remedy.
 
-26
+*164 Is it in the nature of the transaction? Is the act of delivering or withholding a commission to be considered as a mere political act, belonging to the executive department alone, for the performance of which entire confidence is place by our constitution in the supreme executive; and for any misconduct respecting which, the injured individual has no remedy?
 
-On the 9th of July another law was enacted, 'further to protect the commerce
-of the United States.'
+That there may be such cases is not to be questioned; but that every act of duty, to be performed in any of the great departments of government, constitutes such a case, is not to be admitted.
 
-27
+By the act concerning invalids, passed in June, 1794, vol. 3. p. 112. the secretary at war is ordered to place on the pension list all persons whose names are contained in a report previously made by him to congress. If he should refuse to do so, would the wounded veteran be without remedy? Is it to be contended that where the law in precise terms, directs the performance of an act, in which an individual is interested, the law is incapable of securing obedience to its mandate? Is it on account of the character of the person against whom the complaint is made? Is it to be contended that the heads of departments are not amenable to the laws of their country?
 
-This act authorises the public armed vessels of the United States to take any
-armed French vessel found on the high seas. It also directs such armed vessel,
-with her apparel, guns, &c. and the goods and effects found on board, being
-French property, to be condemned as forfeited.
+Whatever the practice on particular occasions may be, the theory of this principle will certainly never be *165 maintained. *No act of the legislature confers so extraordinary a privilege, nor can it derive countenance from the doctrines of the common law. After stating that personal injury from the king to a subject is presumed to be impossible, Blackstone, vol. 3. p. 255. says, "but injuries to the rights of property can scarcely be committed by the crown without the intervention of its officers; for whom the law, in matters of right, entertains no respect or delicacy; but furnishes various methods of detecting the errors and misconduct of those agents, by whom the king has been deceived and induced to do a temporary injustice."
 
-28
+By the act passed in 1796, authorizing the sale of the lands above the mouth of Kentucky river, (vol. 3.p. 299.) the purchaser, on paying his purchase-money, becomes completely entitled to the property purchased; and on producing to the secretary of state the receipt of the *165 treasurer upon a certificate required by the law, the President of the United States is authorized to grant him a patent. It is further enacted that all patents shall be countersigned by the secretary of state, and recorded in the office. If the secretary of state should choose to withhold this patent; or, the patent being lost, should refuse a copy of it; can it be imagined that the law furnishes to the injured person no remedy?
 
-The same power of capture is extended to private armed vessels.
+It is not believed that any person whatever would attempt to maintain such a proposition.
 
-29
+It follows, then, that the question, whether the legality of an act of the head of a department be examinable in a court of justice or not, must always depend on the nature of that act.
 
-The sixth section provides, that the vessel or goods of any citizen of the
-United States, or person residing therein, shall be restored, on paying for
-salvage not less than one eighth, nor more than one half of the value of such
-recapture, without any deduction.
+If some acts be examinable, and others not, there must be some rule of law to guide the court in the exercise of its jurisdiction.
 
-30
+In some instances there may be difficulty in applying the rule to particular cases; but there cannot, it is believed, be much difficulty in laying down the rule.
 
-The seventh section of the act for the government of the navy, passed the 2d
-of March 1799, enacts 'that for the ships or goods belonging to the citizens
-of the United States, or to the citizens or subjects of any nation in amity
-with the United States, if retaken within twenty-four hours, the owners are to
-allow one-eighth part of the whole value for salvage,' and if they have
-remained above ninety-six hours in possession of the enemy, one-half is to be
-allowed.
+By the constitution of the United States, the president is invested with certain important political powers, in the *exercise of which he is to use his own discretion, and is *166 accountable only to his country in his political character and to his own conscience. To aid him in the performance of these duties, he is authorized to appoint certain officers, who act by his authority, and in conformity with his orders.
 
-31
+In such cases, their acts are his acts; and whatever opinion may be entertained of the manner in which executive discretion may be used, still there exists, and can exist, no power to control that discretion. The subjects are political. They respect the nation, not individual rights, and being intrusted to the executive, the decision of the executive is conclusive. The application of this remark will be perceived by adverting to the act of congress for establishing the department of foreign affairs. This officer, as his duties were prescribed by that act, is to conform precisely to the will of the president. He is the mere organ by whom that will is communicated. The acts of such an officer, as an officer, can never be examinable by the courts.
 
-On the 3d of March 1800, congress passed 'an act providing for salvage in
-cases of recapture.'
+But when the legislature proceeds to impose on that officer other duties: when he is directed peremptorily to *166 perform certain acts; when the rights of individuals are dependent on the performance of those acts; he is so far the officer of the law; is amenable to the laws for his conduct; and cannot at his discretion sport away the vested rights of others.
 
-32
+The conclusion from this reasoning is, that where the heads of departments are the political or confidential agents of the executive, merely to execute the will of the president, or rather to act in cases in which the executive possesses a constitutional or legal discretion, nothing can be more perfectly clear than that their acts are only politically examinable. But where a specific duty is assigned by law, and individual rights depend upon the performance of that duty, it seems equally clear that the individual who considers himself injured, has a right to resort to the laws of his country for a remedy.
 
-This law regulates the salvage to be paid 'when any vessels or goods, which
-shall be taken as prize as aforesaid, shall appear to have before belonged to
-any person or persons permanently resident within the territory and under the
-protection of any foreign prince, government or state in amity with the United
-States, and to have been taken by an enemy of the United States, or by
-authority or pretence of authority from any prince, government or state
-against which the United States have authorised, or shall authorise defence or
-reprisals.'
+If this be the rule, let us inquire how it applies to the case under the consideration of the court.
 
-33
+*167 *The power of nominating to the senate, and the power of appointing the person nominated, are political powers, to be exercised by the president according to his own discretion. When he has made an appointment, he has exercised his whole power, and his discretion has been completely applied to the case. If, by law, the officer be removable at the will of the president, then a new appointment may be immediately made, and the rights of the officer are terminated. But as a fact which has existed cannot be made never to have existed, the appointment cannot be annihilated; and, consequently, if the officer is by law not removable at the will of the president, the rights he has acquired are protected by the law, and are not resumable by the president. They cannot be extinguished by executive authority, and he has the privilege of asserting them in like manner as if they had been derived from any other source.
 
-These are the laws of the United States, which define their situation in
-regard to France, and which regulate salvage to accrue on recaptures made in
-consequence of that situation.
+The question whether a right has vested or not, is, in its nature, judicial, and must be tried by the judicial authority. If, for example, Mr. Marbury had taken the oaths of a magistrate, and proceeded to act as one; in consequence of which a suit had been instituted against him, in which his defence had depended on his being a magistrate, the validity of his appointment must have been determined by judicial authority.
 
-34
+So, if he conceives that, by virtue of his appointment, *167 he has a legal right either to the commission which has been made out for him, or to a copy of that commission, it is equally a question examinable in a court, and the decision of the court upon it must depend on the opinion entertained of his appointment.
 
-A neutral armed vessel which has been captured, and which is commanded and
-manned by Frenchmen, whether found cruizing on the high seas, or sailing
-directly for a French port, does not come within the description of those
-which the laws authorise as American ship of war to capture, unless she be
-considered quoad hoc as a French vessel.
+That question has been discussed, and the opinion is, that the latest point of time which can be taken as that at which the appointment was complete, and evidenced, was when, after the signature of the president, the seal of the United States was affixed to the commission.
 
-35
+It is, then, the opinion of the court,
 
-Very little doubt can be entertained but that a vessel thus circumstanced,
-encountering an American unarmed merchantman, or one which should be armed,
-but of inferior force, would as readily capture such merchantman as if she had
-sailed immediately from the ports of France. One direct and declared object of
-the war then, which was the protection of the American commerce, would as
-certainly require the capture of such a vessel, as of others more
-determinately specified; but the rights of a neutral vessel, which the
-government of the United States cannot be considered as having disregarded,
-here intervene; and the vessel certainly is not, correctly speaking, a French
-vessel.
+1st. That by signing the commission of Mr. Marbury, the President of the United States appointed him a justice *of peace for the county of Washington, in the district *168 of Columbia; and that the seal of the United States, affixed thereto by the secretary of state, is conclusive testimony of the verity of the signature, and of the completion of the appointment; and that the appointment conferred on him a legal right to the office for the space of five years.
 
-36
+2dly. That, having this legal title to the office, he has a consequent right to the commission; a refusal to deliver which is a plain violation of that right, for which the laws of his country afford him a remedy.
 
-If the Amelia was not, on the 15th September 1799, a French vessel within the
-description of the act of congress, could her capture be lawful?
+It remains to be inquired whether,
 
-37
+3dly. He is entitled to the remedy for which he applies. This depends on,
 
-It is, I believe, a universal principle, which applies to those engaged in a
-partial, as well as those engaged in a general war, that where there is
-probable cause to believe the vessel met with at sea is in the condition of
-one liable to capture, it is lawful to take her, and subject her to the
-examination and adjudication of the courts.
+1st. The nature of the writ applied for; and,
 
-38
+2dly. The power of this court.
 
-The Amelia was an armed vessel commanded and manned by Frenchmen. It does not
-appear that there was evidence on board to ascertain her character. It is not
-then to be questioned, but that there was probable cause to bring her in for
-adjudication.
+1st. The nature of the writ.
 
-39
+Blackstone, in the 3d volume of his Commentaries, page 110. defines a mandamus to be "a command issuing in the king's name from the court of king's bench, and directed to any person, corporation, or inferior court of judicature within the king's dominions, requiring them to do some particular thing therein specified, which appertains to their office and duty, and which the court of king's bench has previously determined, or at least supposes, to be consonant to right and justice."
 
-The recapture then was lawful.
+Lord Mansfield, in 3 Burrow, 1266. in the case of The King v. Baker et al., states, with much precision and explicitness the cases in which this writ may be used.
 
-40
+"Whenever," says that very able judge, "there is a right to execute an office, perform a service, or exercise *168 a franchise, (more especially if it be in a matter of public concern, or attended with profit,) and a person is kept out of possession, or dispossessed of such right, and *169 *has no other specific legal remedy, this court ought to assist by mandamus, upon reasons of justice, as the writ expresses, and upon reasons of public policy, to preserve peace, order and good government." In the same case he says, "this writ ought to be used upon all occasions where the law has established no specific remedy, and where in justice and good government there ought to be one."
 
-But it has been insisted that this recapture was only lawful in consequence of
-the doubtful character of the Amelia, and that no right of salvage can accrue
-from an act which was founded in mistake, and which is only justified by the
-difficulty of avoiding error, arising from the doubtful circumstances of the
-case.
+In addition to the authorities now particularly cited, many others were relied on at the bar, which show how far the practice has conformed to the general doctrines that have been just quoted.
 
-41
+This writ, if awarded, would be directed to an officer of government, and its mandate to him would be, to use the words of Blackstone, "to do a particular thing therein specified, which appertains to his office and duty, and which the court has previously determined, or at least supposes, to be consonant to right and justice." Or, in the words of Lord Mansfield, the applicant, in this case, has a right to execute an office of public concern, and is kept out of possession of that right.
 
-The opinion of the court is, that had the character of the Amelia been
-completely ascertained by captain Talbot, yet as she was an armed vessel under
-French authority, and in a condition to annoy the American commerce, it was
-his duty to render her incapable of mischief. To have taken out the arms of
-the crew, was as little authorised by the construction of the act of congress
-contended for by the claimants, as to have taken possession of the vessel
-herself.
+These circumstances certainly concur in this case.
 
-42
+Still, to render the mandamus a proper remedy, the officer to whom it is to be directed, must be one to whom, on legal principles, such writ may be directed; and the person applying for it must be without any other specific and legal remedy.
 
-It has, I believe, been practised in the course of the present war, and if
-not, is certainly very practicable, to man a prize and cruize with her for a
-considerable time without sending her in for condemnation. The property of
-such vessel would not, strictly speaking, be changed so as to become a French
-vessel, and yet it would probably have been a great departure from the real
-intent of congress, to have permitted such vessel to cruize unmolested. An
-armed ship under these circumstances might have attacked one of the public
-vessels of the United States. The acts which have been recited expressly
-authorise the capture of such vessel so commencing hostilities by a private
-armed ship, but not by one belonging to the public. To suppose that a capture
-would in one case be lawful, and in the other unlawful; or to suppose that
-even in the limited state of hostilities in which we were placed, two vessels
-armed and manned by the enemy, and equally cruizing on American commerce,
-might the one be lawfully captured, while the other, though an actual
-assailant, could not, or if captured, that the act could only be justified
-from the probable cause of capture furnished by appearances; would be to
-attribute a capriciousness to our legislation on the subject of war, which can
-only be proper when inevitable.
+1st. With respect to the officer to whom it would be directed. The intimate political relation subsisting between the President of the United States and the heads of departments, necessarily renders any legal investigation of the acts of one of those high officers peculiarly irksome, as well as delicate; and excites some hesitation with respect to the propriety of entering into such investigation. Impressions are often received without much reflection or examination, and it is not wonderful that in such a case as this the assertion, by an individual, of his legal claims in a court of justice, to which claims it is the duty of that court to *170 attend, should at first view be considered *by some, *170 as an attempt to intrude into the cabinet, and to inter-meddle with the prerogatives of the executive.
 
-43
+It is scarcely necessary for the court to disclaim all pretensions to such a jurisdiction. An extravagance, so absurd and excessive, could not have been entertained for a moment. The province of the court is, solely, to decide on the rights of individuals, not to inquire how the executive, or executive officers, perform duties in which they have a discretion. Questions in their nature political, or which are, by the constitution and laws, submitted to the executive, can never be made in this court.
 
-There must then be incidents growing out of those acts of hostility
-specifically authorized, which a fair construction of the acts will authorize
-likewise.
+But, if this be not such a question; if, so far from being an intrusion into the secrets of the cabinet, it respects a paper which, according to law, is upon record, and to a copy of which the law gives a right, on the payment of ten cents; if it be no intermeddling with a subject over which the executive can be considered as having exercised any control; what is there in the exalted station of the officer, which shall bar a citizen from asserting, in a court of justice, his legal rights, or shall forbid a court to listen to the claim, or to issue a mandamus, directing the performance of a duty, not depending on executive discretion, but on particular acts of congress, and the general principles of law?
 
-44
+If one of the heads of departments commits any illegal act, under colour of his office, by which an individual sustains an injury, it cannot be pretended that his office alone exempts him from being sued in the ordinary mode of proceeding, and being compelled to obey the judgment of the law. How, then, can his office exempt him from this particular mode of deciding on the legality of his conduct, if the case be such a case as would, were any other individual the party complained of, authorize the process?
 
-This was obviously the sense of congress.
+It is not by the office of the person to whom the writ is directed, but the nature of the thing to be done, that the propriety or impropriety of issuing a mandamus is to be determined. Where the head of a department acts in a case, in which executive discretion is to be exercised; in which he is the mere organ of executive will; it is *again repeated, that any application *171 *171 to a court to control, in any respect, his conduct would be rejected without hesitation.
 
-45
+But where he is directed by law to do a certain act affecting the absolute rights of individuals, in the performance of which he is not placed under the particular direction of the president, and the performance of which the president cannot lawfully forbid, and therefore is never presumed to have forbidden; as for example, to record a commission, or a patent for land, which has received all the legal solemnities; or to give a copy of such record; in such cases, it is not perceived on what ground the courts of the country are further excused from the duty of giving judgment that right be done to an injured individual, than if the same services were to be performed by a person not the head of a department.
 
-If by the laws of congress on this subject that body shall appear to have
-legislated upon a perfect conviction that the state of war in which this
-country was placed was such as to authorize recaptures generally from the
-enemy; if one part of the system should be manifestly founded on this
-construction of the other part, it would have considerable weight in rendering
-certain what might before have been doubtful.
+This opinion seems not now, for the first time, to be taken up in this country.
 
-46
+It must be well recollected that in 1792, an act passed, directing the secretary at war to place on the pension list such disabled officers and soldiers as should be reported to him, by the circuit courts, which act, so far as the duty was imposed on the courts, was deemed unconstitutional; but some of the judges thinking that the law might be executed by them in the character of commissioners, proceeded to act, and to report in that character.
 
-Upon a critical investigation of the acts of congress it will appear, that the
-right of recapture is expressly given in no single instance, but that of a
-vessel or goods belonging to a citizen of the United States.
+This law being deemed unconstitutional at the circuits, was repealed, and a different system was established; but the question whether those persons who had been reported by the judges, as commissioners, were entitled, in consequence of that report, to be placed on the pension list, was a legal question, properly determinable in the courts, although the act of placing such persons on the list was to be performed by the head of a department.
 
-47
+That this question might be properly settled, congress passed an act in February, 1793, making it the duty of the secretary of war, in conjunction with the attorney-general, to take such measures as might be necessary to obtain an adjudication of the supreme *172 court of the United *States on the validity of any such rights, claimed under the act aforesaid.
 
-It will also appear that the quantum of salvage is regulated as if the right
-to it existed previous to the regulation.
+After the passage of this act, a mandamus was moved *172 for, to be directed to the secretary at war, commanding him to place on the pension list, a person stating himself to be on the report of the judges.
 
-48
+There is, therefore, much reason to believe, that this mode of trying the legal right of the complainant was deemed by the head of a department, and by the highest law officer of the United States, the most proper which could be selected for the purpose.
 
-Although no right of recapture is given in terms for the vessels and goods
-belonging to persons residing within the United States not being citizens, yet
-an act, passed so early as the 28th of June 1798, declares, that vessels and
-goods of this description, when recaptured, shall be restored on paying
-salvage; thereby plainly indicating that such recapture was sufficiently
-warranted by law to be the foundation of a claim for salvage.
+When the subject was brought before the court, the decision was, not that a mandamus would not lie to the head of a department directing him to perform an act, enjoined by law, in the performance of which an individual had a vested interest; but that a mandamus ought not to issue in that case; the decision necessarily to be made if the report of the commissioners did not confer on the applicant a legal right.
 
-49
+The judgment, in that case, is understood to have decided the merits of all claims of that description; and the persons, on the report of the commissioners, found it necessary to pursue the mode prescribed by the law subsequent to that which had been deemed unconstitutional, in order to place themselves on the pension list.
 
-If the recapture of vessels of one description, not expressly authorized by
-the very terms of the act of congress, be yet a rightful act, recognised by
-congress as the foundation for a claim to salvage, which claim congress
-proceeds to regulate, then it would seem that other recaptures from the same
-enemy are equally rightful; and where the claim they afford for salvage has
-not been regulated by congress, such claim must be determined by the
-principles of general law.
+The doctrine, therefore, now advanced, is by no means a novel one.
 
-50
+It is true that the mandamus, now moved for, is not for the performance of an act expressly enjoined by statute.
 
-In this situation remained the recaptured vessels of any other power also at
-war with France until the act of the 2d of March 1799, which regulates the
-salvage demandable from them. Neither by that act, nor by any previous act,
-was a power given in terms to recapture such vessels. But their recapture was
-an incident which unavoidably grew out of the state of war. On the capture of
-a French vessel, having with her as a prize the vessel of such a power, the
-prize was inevitably recaptured. On the idea that the recapture was lawful,
-and that it was a foundation on which the right to salvage could stand, the
-legislature in March 1799 declared what the amount of that salvage should be.
+It is to deliver a commission; on which subject the acts of congress are silent. This difference is not considered as affecting the case. It has already been stated that the applicant has, to that commission, a vested legal right, of which the executive cannot deprive him. He has been appointed to an office, from which he is not removable at the will of the executive; and being so *appointed, he has a right to the *173 commission which the secretary has received from the president for his use. The act of congress does not indeed order the secretary of state to send it to him, but it is placed in his hands for the person entitled to it; and cannot be more lawfully withheld by him than by any other person.
 
-51
+It was at first doubted whether the action of detinue was not a specific legal remedy for the commission which *173 has been withheld from Mr. Marbury; in which case a mandamus would be improper. But this doubt has yielded to the consideration that the judgment in detinue is for the thing itself, or its value. The value of a public office not to be sold is incapable of being ascertained; and the applicant has a right to the office itself, or to nothing. He will obtain the office by obtaining the commission, or a copy of it from the record.
 
-The expression of this act is by no means explicit. If it extends to neutrals,
-then it governs in this case; if otherwise, the law respecting them continued
-still longer on the same ground with the law respecting a belligerent prior to
-the passage of the act of the 2d of March 1799. Thus it continued until the 3d
-of March 1800, when the legislature regulated the salvage to be paid by
-neutrals recaptured from a power against which the United States have
-authorized defence or reprisals.
+This, then, is a plain case for a mandamus, either to deliver the commission, or a copy of it from the record; and it only remains to be inquired,
 
-52
+Whether it can issue from this court.
 
-This act having passed subsequent to the recapture of the Amelia, can
-certainly not affect that case as to the quantity of salvage, or give a right
-to salvage which did not exist before. But it manifests, in like manner with
-the laws already commented on, the system which congress considered itself as
-having established. This act was passed at a time when no additional hostility
-against France could have been contemplated. It was only designed to keep up
-the defensive system which had before been formed, and which it was deemed
-necessary to continue, till the negotiation then pending should have a pacific
-termination. Accordingly there is no expression in the act extending the power
-of re-capture, or giving it in the case of neutrals. This power is supposed to
-exist as an incident growing out of the state of war, and the right to salvage
-produced by that power is regulated in the act.
+The act to establish the judicial courts of the United States authorizes the supreme court "to issue writs of mandamus, in cases warranted by the principles and usages of law, to any courts appointed, or persons holding office, under the authority of the United States."
 
-53
+The secretary of state, being a person holding an office under the authority of the United States, is precisely within the letter of the description; and if this court is not authorized to issue a writ of mandamus to such an officer, it must be because the law is unconstitutional, and therefore absolutely incapable of conferring the authority, and assigning the duties which its words purport to confer and assign.
 
-In case of a recapture subsequent to the act, no doubt could be entertained
-but that salvage, according to its terms, would be demandable. Yet there is
-not a syllable in it which would warrant an idea that the right of recapture
-was extended by it, or did not exist before.
+The constitution vests the whole judicial power of the United States in one supreme court, and such inferior courts as congress shall, from time to time, ordain and establish. This power is expressly extended to all cases arising under the laws of the United States; and, consequently, in some form, may be exercised over *174 the present *case; because the right claimed is given by a law of the United States.
 
-54
+In the distribution of this power it is declared that "the supreme court shall have original jurisdiction in all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be a party. In all other cases, the supreme court shall have appellate jurisdiction."
 
-It must then have existed from the passage of the laws which commenced a
-general resistance to the aggressions we had so long experienced and submitted
-to.
+It has been insisted, at the bar, that as the original grant of jurisdiction, to the supreme and inferior courts, is general, and the clause, assigning original jurisdiction to the supreme court, contains no negative or restrictive words, the power remains to the legislature, *174 to assign original jurisdiction to that court in other cases than those specified in the article which has been recited; provided those cases belong to the judicial power of the United States.
 
-55
+If it had been intended to leave it in the discretion of the legislature to apportion the judicial power between the supreme and inferior courts according to the will of that body, it would certainly have been useless to have proceeded further than to have defined the judicial power, and the tribunals in which it should be vested. The subsequent part of the section is mere surplusage, is entirely without meaning, if such is to be the construction. If congress remains at liberty to give this court appellate jurisdiction, where the constitution has declared their jurisdiction shall be original; and original jurisdiction where the constitution has declared it shall be appellate; the distribution of jurisdiction, made in the constitution, is form without substance.
 
-It is not unworthy of notice that the first regulation of the right of salvage
-in the case of a recapture, not expressly enumerated among the specified acts
-of hostility warranted by the law, is to be found in one of those acts which
-constitute a part of the very system of defence determined on by congress, and
-is the first which subjects to condemnation the prizes made by our public
-ships of war.
+Affirmative words are often, in their operation, negative of other objects than those affirmed; and in this case, a negative or exclusive sense must be given to them, or they have no operation at all.
 
-56
+It cannot be presumed that any clause in the constitution is intended to be without effect; and, therefore, such a construction is inadmissible, unless the words require it.
 
-It has not escaped the consideration of the court that a legislative act,
-founded on a mistaken opinion of what was law, does not change the actual
-state of the law as to pre-existing cases.
+*If the solicitude of the convention, respecting our *175 peace with foreign powers, induced a provision that the supreme court should take original jurisdiction in cases which might be supposed to affect them; yet the clause would have proceeded no further than to provide for such cases, if no further restriction on the powers of congress had been intended. That they should have appellate jurisdiction in all other cases, with such exceptions as congress might make, is no restriction; unless the words be deemed exclusive of original jurisdiction.
 
-57
+When an instrument organizing fundamentally a judicial system, divides it into one supreme, and so many inferior courts as the legislature may ordain and establish; then enumerates its powers, and proceeds so far to distribute them, as to define the jurisdiction of the supreme court by declaring the cases in which *175 it shall take original jurisdiction, and that in others it shall take appellate jurisdiction; the plain import of the words seems to be, that in one class of cases its jurisdiction is original, and not appellate; in the other it is appellate, and not original. If any other construction would render the clause inoperative, that is an additional reason for rejecting such other construction, and for adhering to their obvious meaning.
 
-This principle is not shaken by the opinion now given. The court goes no
-further than to use the provisions in one of several acts forming a general
-system, as explanatory of other parts of the same system; and this appears to
-be in obedience to the best established rules of exposition, and to be
-necessary to a sound construction of the law.
+To enable this court, then, to issue a mandamus, it must be shown to be an exercise of appellate jurisdiction, or to be necessary to enable them to exercise appellate jurisdiction.
 
-58
+It has been stated at the bar that the appellate jurisdiction may be exercised in a variety of forms, and that if it be the will of the legislature that a mandamus should be used for that purpose, that will must be obeyed. This is true, yet the jurisdiction must be appellate, not original.
 
-An objection was made to the claim of salvage by one of the counsel for the
-defendant in error, unconnected with the acts of congress, and which it is
-proper here to notice.
+It is the essential criterion of appellate jurisdiction, that it revises and corrects the proceedings in a cause already instituted, and does not create that cause. Although, therefore, a mandamus may be directed to courts, yet to issue such a writ to an officer for the delivery of a paper, is in effect the same as to sustain an original action for that paper, and, therefore, seems not *176 to belong to *appellate, but to original jurisdiction. Neither is it necessary in such a case as this, to enable the court to exercise its appellate jurisdiction.
 
-59
+The authority, therefore, given to the supreme court, by the act establishing the judicial courts of the United States, to issue writs of mandamus to public officers, appears not to be warranted by the constitution; and it becomes necessary to inquire whether a jurisdiction so conferred can be exercised.
 
-He states that to give title to salvage the means used must not only have
-produced the benefit, but must have been used with that sole view. For this he
-cites _Beawes, Lex Mercatoria_ , 158.
+The question, whether an act, repugnant to the constitution, can become the law of the land, is a question deeply interesting to the United States; but, happily, not of an intricacy proportioned to its interest. It seems only necessary to recognise certain principles, supposed to have been long and well established, to decide it.
 
-60
+That the people have an original right to establish, for their future government, such principles as, in their opinion, shall most conduce to their own happiness *176 is the basis on which the whole American fabric has been erected. The exercise of this original right is a very great exertion; nor can it, nor ought it, to be frequently repeated. The principles, therefore, so established, are deemed fundamental. And as the authority from which they proceed is supreme, and can seldom act, they are designed to be permanent.
 
-The principle is applied by Beawes to the single case of a vessel saved at sea
-by throwing overboard a part of her cargo. In that case the principle is
-unquestionably correct, and in the case of a recapture it is as unquestionably
-incorrect. The recaptor is seldom actuated by the sole view of saving the
-vessel, and in no case of the sort has the inquiry ever been made.
+This original and supreme will organizes the government, and assigns to different departments their respective powers. It may either stop here, or establish certain limits not to be transcended by those departments.
 
-61
+The government of the United States is of the latter description. The powers of the legislature are defined and limited; and that those limits may not be mistaken, or forgotten, the constitution is written. To what purpose are powers limited, and to what purpose is that limitation committed to writing, if these limits may, at any time, be passed by those intended to be restrained? The distinction between a government with limited and unlimited powers is abolished, if those limits do not confine the persons on whom they are imposed, and if acts prohibited *and acts allowed, *177 are of equal obligation. It is a proposition too plain to be contested, that the constitution controls any legislative act repugnant to it; or, that the legislature may alter the constitution by an ordinary act.
 
-It is then the opinion of the court, on a consideration of the acts of
-congress, and of the circumstances of the case, that the recapture of the
-Amelia was lawful, and that, if the claim to salvage be in other respects well
-founded, there is nothing to defeat it in the character of the original
-taking.
+Between these alternative there is no middle ground. The constitution is either a superior paramount law, unchangeable by ordinary means, or it is on a level with ordinary legislative acts, and, like other acts, is alterable when the legislature shall please to alter it.
 
-62
+If the former part of the alternative be true, then a legislative act contrary to the constitution is not law: if the latter part be true, then written constitutions are absurd attempts, on the part of the people, to limit a power in its own nature illimitable.
 
-It becomes then necessary to inquire----
+Certainly all those who have framed written constitutions contemplate them as forming the fundamental and paramount law of the nation, and, consequently, the theory of every such government must be, that an act of the legislature, repugnant to the constitution, is void.
 
-63
+This theory is essentially attached to a written constitution, and, is consequently, to be considered, by this *177 court, as one of the fundamental principles of our society. It is not therefore to be lost sight of in the further consideration of this subject.
 
-2\. Whether there has been such a meritorious service rendered to the
-recaptured as entitles the recaptor to salvage.
+If an act of the legislature, repugnant to the constitution, is void, does it, notwithstanding its invalidity, bind the courts, and oblige them to give it effect? Or, in other words, though it be not law, does it constitute a rule as operative as if it was a law? This would be to overthrow in fact what was established in theory; and would seem, at first view, an absurdity too gross to be insisted on. It shall, however, receive a more attentive consideration.
 
-64
+It is emphatically the province and duty of the judicial department to say what the law is. Those who apply the rule to particular cases, must of necessity expound and interpret that rule. If two laws conflict with each other, the courts must decide on the operation of each.
 
-The Amelia was a neutral ship, captured by a French cruizer, and recaptured
-while on her way to a French port to be adjudged according to the laws of war.
+*178 *So if a law be in opposition to the constitution; if both the law and the constitution apply to a particular case, so that the court must either decide that case conformably to the law, disregarding the constitution; or conformably to the constitution, disregarding the law; the court must determine which of these conflicting rules governs the case. This is of the very essence of judicial duty.
 
-65
+If, then, the courts are to regard the constitution, and the constitution is superior to any ordinary act of the legislature, the constitution, and not such ordinary act, must govern the case to which they both apply.
 
-It is stated to be the settled doctrine of the law of nations, that a neutral
-vessel captured by a belligerent is to be discharged without paying salvage:
-and for this several authorities have been quoted, and many more might
-certainly be cited. That such has been a general rule is not to be questioned.
-As little is it to be questioned that this rule is founded exclusively on the
-supposed safety of the neutral. It is expressly stated in the case of The War
-Onskan, cited from _Robinson's Reports_ , to be founded on this plain
-principle, 'that the liberation of a clear neutral from the hand of the enemy
-is no essential service rendered to him, inasmuch as that the same enemy would
-be compelled by the tribunals of his own country, after he had carried the
-neutral into port, to release him with costs and damages for the injurious
-seizure and detention.' It is not unfrequent to consisder and speak of a
-regular practice under a rule, as itself forming a rule. A regular course of
-decisions on the text of the law, constitutes a rule of construction by which
-that text is to be applied to all similar cases: but alter the text, and the
-rule no longer governs. So in the case of salvage. The general principle is,
-that salvage is only payable where a meritorious service has been rendered. In
-the application of this principle, it has been decided that neutrals carried
-in by a belligerent for examination, being in no danger, receive no benefit
-from recapture; and ought not therefore to pay salvage.
+Those, then, who controvert the principle that the constitution is to be considered, in court, as a paramount law, are reduced to the necessity of maintaining that courts must close their eyes on the constitution, and see only the law.
 
-66
-
-The principle is that without benefit salvage is not payable: and it is merely
-a consequence from this principle, which exempts recaptured neutrals from its
-payment. But let a nation change its laws and its practice on this subject;
-let its legislation be such as to subject to condemnation all neutrals
-captured by its cruizers, and who will say that no benefit is conferred by a
-recapture? In such a course of things the state of the neutral is completely
-changed. So far from being safe he is in as much danger of condemnation as if
-captured by his own declared enemy. A series of decisions then, and of rules
-founded on his supposed safety, no longer apply. Only those rules are
-applicable which regulate a situation of actual danger. This is not, as it has
-been termed, a change of principle, but a preservation of principle by a
-practical application of it according to the original substantial good sense
-of the rule.
+This doctrine would subvert the very foundation of all written constitutions. It would declare that an act which, according to the principles and theory of our government, is entirely void, is yet, in practice, completely obligatory. It would declare that if the legislature shall do what is expressly forbidden, such act, notwithstanding the express prohibition, is in reality effectual. It would be giving to the legislature a practical and real omnipotence, with the same breath which professes to restrict their powers within narrow limits. It is prescribing limits, *178 and declaring that those limits may be passed at pleasure.
 
-67
-
-It becomes then necessary to inquire whether the laws of France were such as
-to have rendered the condemnation of the Amelia so extremely probable, as to
-create a case of such real danger, that her recapture by captain Talbot must
-be considered as a meritorious service entitling him to salvage.
+That it thus reduces to nothing what we have deemed the greatest improvement on political institutions, a written constitution, would of itself be sufficient, in America, where written constitutions have been viewed with so much reverence, for rejecting the construction. But the peculiar expressions of the constitution of the United States furnish additional arguments in favour of its rejection.
 
-68
+The judicial power of the United States is extended to all cases arising under the constitution.
 
-To prove this the counsel for the plaintiff in error has offered several
-decrees of the French government, and especially one of the 18th of January
-1798.
+*Could it be the intention of those who gave this *179 power, to say that in using it the constitution should not be looked into? That a case arising under the constitution should be decided without examining the instrument under which it arises?
 
-69
+This is too extravagant to be maintained.
 
-Objections have been made to the reading of these decrees as being the laws of
-a foreign nation, and therefore facts, which, like other facts, ought to have
-been proved, and to have formed a part of the case stated for the
-consideration of the court.
+In some cases, then, the constitution must be looked into by the judges. And if they can open it at all, what part of it are they forbidden to read or to obey?
 
-70
+There are many other parts of the constitution which serve to illustrate this subject.
 
-That the laws of a foreign nation, designed only for the direction of its own
-affairs, are not to be noticed by the courts of other countries, unless proved
-as facts, and that this court, with respect to facts, is limited to the
-statement made in the court below, cannot be questioned. The real and only
-question is, whether the public laws of a foreign nation on a subject of
-common concern to all nations, promulgated by the governing powers of a
-country, can be noticed as law by a court of admiralty of that country, or
-must be still further proved as a fact.
+It is declared that "no tax or duty shall be laid on articles exported from any state." Suppose a duty on the export of cotton, of tobacco, or of flour; and a suit instituted to recover it. Ought judgment to be rendered in such a case? ought the judges to close their eyes on the constitution, and only see the law.
 
-71
+The constitution declares "that no bill of attainder or ex post facto law shall be passed."
 
-The negative of this proposition has not been maintained in any of the
-authorities which have been adduced. On the contrary, several have been
-quoted, (and such seems to have been the general practice) in which the marine
-ordinances of a foreign nation are read as law without being proved as fact.
-It has been said that this is done by consent; that it is a matter of general
-convenience not to put parties to the trouble and expense of proving permanent
-and well known laws which it is in their power to prove; and this opinion is
-countenanced by the case cited from Douglas. If it be correct, yet this decree
-having been promulgated in the United States as the law of France, by the
-joint act of that department which is entrusted with foreign intercourse, and
-of that which is invested with the powers of war, seems to assume a character
-of notoriety which renders it admissible in our courts.
+If, however, such a bill should be passed, and a person should be prosecuted under it; must the court condemn to death those victims whom the constitution endeavours to preserve?
 
-72
+"No person," says the constitution, "shall be convicted of treason unless on the testimony of two witnesses to the same overt act, or on confession in open court."
 
-It is therefore the opinion of the court that the decree should be read as an
-authenticated copy of a public law of France interesting to all nations.
+Here the language of the constitution is addressed especially to the courts. It prescribes, directly for them, a rule of evidence not to be departed from. If the legislature should change that rule, and declare one witness, or a confession out of court, sufficient for conviction, *179 must the constitutional principle yield to the legislative act?
 
-73
+From these, and many other selections which might be made, it is apparent, that the framers of the constitution *180 *contemplated that instrument as a rule for the government of courts, as well as of the legislature.
 
-The decree ordains that 'the character of vessels, relative to their quality
-of neuter or enemy, shall be determined by their cargo; in consequence, every
-vessel found at sea, loaded in whole or in part with merchandize the
-production of England or her possessions, shall be declared good prize,
-whoever the owner of these goods or merchandize may be.' This decree subjects
-to condemnation in the courts of France a neutral vessel laden, in whole or in
-part, with articles the growth of England or any of its possessions. A neutral
-thus circumstanced cannot be considered as in a state of safety. His recaptor
-cannot be said to have rendered him no service. It cannot reasonably be
-contended that he would have been discharged in the ports of the belligerent,
-with costs and damages.
+Why otherwise does it direct the judges to take an oath to support it? This oath certainly applies in an especial manner, to their conduct in their official character. How immoral to impose it on them, if they were to be used as the instruments, and the knowing instruments, for violating what they swear to support!
 
-74
+The oath of office, too, imposed by the legislature, is completely demonstrative of the legislative opinion on this subject. It is in these words: "I do solemnly swear that I will administer justice without respect to persons, and do equal right to the poor and to the rich; and that I will faithfully and impartially discharge all the duties incumbent on me as, according to the best of my abilities and understanding, agreeably to the constitution and laws of the United States."
 
-Let us then inquire whether this was the situation of the Amelia. The first
-fact states her to have sailed from Calcutta in Bengal in April 1799, laden
-with a cargo of the product and manufacture of that country. Here it is
-contended that the whole of Bengal may possibly not be in possession of the
-English, and therefore it does not appear that the cargo was within the
-description of the decree. But to this it has been answered, that, in
-inquiring whether the Amelia was in danger or not, this court must put itself
-in the place of a French court of admiralty, and determine as such court would
-have determined. Doing this, there seems to be no reason to doubt that the
-cargo, without inquiring into the precise situation of the British power in
-every part of Bengal, being prima facie of the product and manufacture of a
-possession of England, would have been so considered, unless the contrary
-could have been plainly shown.
-
-75
+Why does a judge swear to discharge his duties agreeably to the constitution of the United States, if that constitution forms no rule for his government? if it is closed upon him, and cannot be inspected by him?
 
-The next fact relied on by the defendant in error is, that the Amelia was sent
-to be adjudged according to the laws of war, and from thence it is inferred
-that she could not have been judged according to the decree of the 18th of
-January.
+If such be the real state of things, this is worse than solemn mockery. To prescribe, or, to take this oath, becomes equally a crime.
 
-76
+It is also not entirely unworthy of observation, that in declaring what shall be the supreme law of the land, the constitution itself is first mentioned; and not the laws of the United States generally, but those only which shall be made in pursuance of the constitution, have that rank.
 
-It is to be remembered that these are the orders of the captor, and without a
-question, in the language of a French cruizer, a law of his own country
-furnishing a rule of conduct in time of war, will be spoken of as one of the
-laws of war.
+Thus, the particular phraseology of the constitution of the United States confirms and strengthens the principle, supposed to be essential to all written constitutions, that a law repugnant to the constitution is void; and that courts, as well as other departments, are bound by that instrument.
 
-77
-
-But the third and fourth facts in the statement admit the Amelia with her
-cargo to have belonged to a citizen of Hamburgh, which city was not in a state
-of hostility with the Republic of France, but was to be considered as neutral
-between the then belligerent powers.
-
-78
+The rule must be discharged.
 
-It has been contended that these facts not only do not show the recaptured
-vessel to have been one on which the decree could operate, but positively show
-that the decree could not have affected her.
 
-79
-
-The whole statement taken together amounts to nothing more than that Hamburgh
-was a neutral city; and it is precisely against neutrals that the decree is in
-terms directed. To prove, therefore, that the Amelia was a neutral vessel, is
-to prove her within the very words of the decree, and consequently to
-establish the reality of her danger.
-
-80
-
-Among the very elaborate arguments which have been used in this case, there
-are some which the court deem it proper more particularly to notice.
-
-81
-
-It has been contended that this decree might have been merely in terrorem;
-that it might never have been executed; and that being in opposition to the
-law of nations, the court ought to presume it never would have been executed.
-
-82
-
-But the court cannot presume the laws of any country to have been enacted in
-terrorem, nor that they will be disregarded by its judicial authority. Their
-obligation on their own courts must be considered as complete; and without
-resorting either to public notoriety, or the declarations of our own laws on
-the subject, the decisions of the French courts must be admitted to have
-conformed to the rules prescribed by their government.
-
-83
-
-It has been contended that France is an independent nation, entitled to the
-benefits of the law of nations, and further, that if she has violated them, we
-ought not to violate them also, but ought to remonstrate against such
-misconduct.
-
-84
-
-These positions have never been controverted; but they lead to a very
-different result from that which they have been relied on as producing.
-
-85
-
-The respect due to France is totally unconnected with the danger in which her
-laws had placed the Amelia; nor is France in any manner to be affected by the
-decree this court may pronounce. Her interest in the vessel was terminated by
-the recapture, which was authorised by the state of hostility then subsisting
-between the two nations. From that time it has been a question only between
-the Amelia and the recaptor, with which France has nothing to do.
-
-86
-
-It is true that a violation of the law of nations by one power does not
-justify its violation by another; but that remonstrance is the proper course
-to be pursued, and this is the course which has been pursued. America did
-remonstrate, most earnestly remonstrate to France against the injuries
-committed on her; but remonstrance having failed, she appealed to a higher
-tribunal, and authorised limited hostilities. This was not violating the law
-of nations, but conforming to it. In the course of these limited hostilities
-the Amelia has been recaptured, and the inquiry now is, not whether the
-conduct of France would justify a departure from the law of nations, but what
-is the real law in the case. This depends on the danger from which she has
-been saved.
-
-87
-
-Much has been said about the general conduct of France and England on the
-seas, and it has been urged that the course of the latter has been still more
-injurious than that of the former. This is a consideration not to be taken up
-in this cause. Animadversions on either, in the present case, would be
-considered as extremely unbecoming the judges of this court, who have only to
-inquire what was the real danger in which the laws of one of the countries
-placed the Amelia, and from which she has been freed by her recapture.
-
-88
-
-It has been contended that an illegal commission to take, given by France,
-cannot authorise our vessels to retake; that we have no right by legislation
-to grant salvage out of the property of a citizen of Hamburgh, who might have
-objected to the condition of the service.
-
-89
-
-But it is not the authority given by the French government to capture
-neutrals, which is legalizing the recapture made by captain Talbot; it is the
-state of hostility between the two nations which is considered as having
-authorised that act. The recapture having been made lawfully, then the right
-to salvage, on general principles, depends on the service rendered. We cannot
-presume this service to have been unacceptable to the Hamburgher, because it
-has bettered his condition; but a recapture must always be made without
-consulting the recaptured. The act is one of the incidents of war, and is in
-itself only offensive as against the enemy. The subsequent fate of the
-recaptured depends on the service he has received, and on other circumstances.
-
-90
-
-To give a right to salvage, it is said there must be a contract either express
-or implied.
-
-91
-
-Had Hamburgh been in a state of declared war with France, the recaptured
-vessels of that city would be admitted to be liable to pay salvage. If a
-contract be necessary, from what circumstances would the law, in that state of
-things, imply it? Clearly from the benefit received and the risk incurred. If
-in the actual state of things there were also benefit and risk, then the same
-circumstances concur, and they warrant the same result.
-
-92
-
-It is also urged that to maintain this right, the danger ought not to be
-merely speculative, but must be imminent, and the loss certain.
-
-93
-
-That a mere speculative danger will not be sufficient to entitle a person to
-salvage is unquestionably true. But that the danger must be such that escape
-from it by other means was inevitable, can not be admitted.
-
-94
-
-In all the cases stated by the counsel for the defendant in error, safety by
-other means was possible, though not probable. The flames of a ship on fire
-might be extinguished by the crew, or by a sudden tempest. A ship on the rocks
-might possibly be got off by the aid of wind and tides without assistance from
-others. A vessel captured by an enemy might be separated from her captor, and
-if sailors had been placed on board the prize, a thousand accidents might
-possibly destroy them; or they might even be blown by a storm into a port of
-the country to which the prize vessel originally belonged.
-
-95
-
-It cannot, therefore, be necessary that the loss should be inevitably certain;
-but it is necessary that the danger should be real and imminent. It is
-believed to have been so in this case. The captured vessel was of such
-description that the law by which she was to be tried, condemned her as good
-prize to the captor. Her danger then was real and imminent. The service
-rendered her was an essential service, and the court is therefore of opinion
-that the recaptor is entitled to salvage.
-
-96
-
-The next object of inquiry, is, what salvage ought to be allowed? The captors
-claim one half the gross value of the ship and cargo. To support this claim
-they rely on the act 'for the government of the navy of the United States,'
-passed the 2d of March 1799. This act regulates the salvage payable on the
-ships and goods belonging to the citizens of the United States, or to the
-citizens or subjects of any nation in amity with the United States, retaken
-from the enemy.
-
-97
-
-It has been contended that the case before the court is in the very words of
-the act. That the owner of the Amelia is a citizen of a state in amity with
-the United States, retaken from the enemy. That the description would have
-been more limited, had the intention of the act been to restrain its
-application to a recaptured vessel belonging to a nation engaged with the
-United States against the same enemy.
-
-98
-
-The words of the act would certainly admit of this construction.
-
-99
-
-Against it, it has been urged, and we think with great force, that the laws of
-the United States ought not, if it be avoidable, so to be construed as to
-infract the common principles and usages of nations, or the general doctrines
-of national law. If the construction contended for be given to the act, it
-subjects to the same rate of salvage a recaptured neutral, and a recaptured
-belligerent vessel. Yet, according to the law of nations, a neutral is
-generally to be restored without salvage.
-
-100
-
-This argument, in the opinion of the court, derives great additional weight
-from the consideration that the act in question is not temporary, but
-permanent. It is not merely fitted to the then existing state of things, and
-calculated to expire with them, but is a regulation applying to present and
-future times.
-
-101
-
-Whenever the danger resulting to captured neutrals from the laws of France
-should cease, then, according to the principles laid down in this decree, the
-liability of recaptured neutrals to the payment of salvage would, in
-conformity with the general law and usage of nations, cease also. This event
-might have happened, and probably did happen, before hostilities between the
-United States and France were terminated by a treaty. Yet, if this law applies
-to the case, salvage from a recaptured neutral would still be demandable.
-
-102
-
-This act then, if the words admit it, since it provides a permanent rule for
-the payment of salvage, ought to be construed to apply only to cases in which
-salvage is permanently payable.
-
-103
-
-On inspecting the clause in question, the court is struck with the description
-of those from whom the vessel is to be retaken in order to come within the
-provisions of the act. The expression used is the enemy. A vessel retaken from
-the enemy. The enemy of whom? The court thinks it not unreasonable to answer,
-of both parties. By this construction the act of congress will never violate
-those principles which we believe, and which it is our duty to believe, the
-legislature of the United States will always hold sacred.
-
-104
-
-If this act does not comprehend the case, then the court is to decide, on a
-just estimate of the danger from which the recaptured was saved, and of the
-risk attending the retaking of the vessel, what is a reasonable salvage.
-Considering the circumstances, and considering also what rule has been adopted
-in other courts of admiralty, one-sixth appears to be a reasonable allowance.
-
-105
-
-It is therefore the opinion of the court, that the decree of the circuit
-court, held for the district of New York, was correct in reversing the decree
-of the district court, but not correct in decreeing the restoration of the
-Amelia without paying salvage. This court, therefore, is of opinion, that the
-decree, so far as the restoration of the Amelia without salvage is ordered,
-ought to be reversed, and that the Amelia and her cargo ought to be restored
-to the claimant, on paying for salvage one sixth part of the net value, after
-deducting therefrom the charges which have been incurred.
 
