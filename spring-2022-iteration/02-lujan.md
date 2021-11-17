@@ -1,92 +1,5 @@
-112 S.Ct. 2130
+Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)
 
-504 U.S. 555
-
-119 L.Ed.2d 351
-
-Manuel LUJAN, Jr., Secretary of the Interior, Petitioner  
-v.  
-DEFENDERS OF WILDLIFE, et al.
-
-No. 90-1424.
-
-Argued Dec. 3, 1991.
-
-Decided June 12, 1992.
-
-_Syllabus_
-
-Section 7(a)(2) of the Endangered Species Act of 1973 divides responsibilities
-regarding the protection of endangered species between petitioner Secretary of
-the Interior and the Secretary of Commerce, and requires each federal agency
-to consult with the relevant Secretary to ensure that any action funded by the
-agency is not likely to jeopardize the continued existence or habitat of any
-endangered or threatened species. Both Secretaries initially promulgated a
-joint regulation extending § 7(a)(2)'s coverage to actions taken in foreign
-nations, but a subsequent joint rule limited the section's geographic scope to
-the United States and the high seas. Respondents, wildlife conservation and
-other environmental organizations, filed an action in the District Court,
-seeking a declaratory judgment that the new regulation erred as to § 7(a)(2)'s
-geographic scope, and an injunction requiring the Secretary of the Interior to
-promulgate a new rule restoring his initial interpretation. The Court of
-Appeals reversed the District Court's dismissal of the suit for lack of
-standing. Upon remand, on cross-motions for summary judgment, the District
-Court denied the Secretary's motion, which renewed his objection to standing,
-and granted respondents' motion, ordering the Secretary to publish a new rule.
-The Court of Appeals affirmed.
-
-_Held:_ The judgment is reversed, and the case is remanded.
-
-911 F.2d 117, (CA 8 1990), reversed and remanded.
-
-Justice Scalia delivered the opinion of the Court, except as to Part III-B,
-concluding that respondents lack standing to seek judicial review of the rule.
-Pp. 559-567, 571.
-
-(a) As the parties invoking federal jurisdiction, respondents bear the burden
-of showing standing by establishing, _inter alia,_ that they have suffered an
-injury in fact, _i.e.,_ a concrete and particularized, actual or imminent
-invasion of a legally-protected interest. To survive a summary judgment
-motion, they must set forth by affidavit or other evidence specific facts to
-support their claim. Standing is particularly difficult to show here, since
-third parties, rather than respondents, are the object of the Government
-action or inaction to which respondents object. Pp. 559-562.
-
-(b) Respondents did not demonstrate that they suffered an injury in fact.
-Assuming that they established that funded activities abroad threaten certain
-species, they failed to show that one or more of their members would thereby
-be directly affected apart from the members' special interest in the subject.
-See _Sierra Club v. Morton,_ 405 U.S. 727, 735, 739, 92 S.Ct. 1361, 1366,
-1368, 31 L.Ed.2d 636. Affidavits of members claiming an intent to revisit
-project sites at some indefinite future time, at which time they will
-presumably be denied the opportunity to observe endangered animals, do not
-suffice, for they do not demonstrate an "imminent" injury. Respondents also
-mistakenly rely on a number of other novel standing theories. Their theory
-that any person using any part of a contiguous ecosystem adversely affected by
-a funded activity has standing even if the activity is located far away from
-the area of their use is inconsistent with this Court's opinion in _Lujan v.
-National Wildlife Federation,_ 497 U.S. 871, 110 S.Ct. 3177, 111 L.Ed.2d 695.
-And they state purely speculative, nonconcrete injuries when they argue that
-suit can be brought by anyone with an interest in studying or seeing
-endangered animals anywhere on the globe and anyone with a professional
-interest in such animals. Pp. 562-567.
-
-(c) The Court of Appeals erred in holding that respondents had standing on the
-ground that the statute's citizen-suit provision confers on all persons the
-right to file suit to challenge the Secretary's failure to follow the proper
-consultative procedure, notwithstanding their inability to allege any separate
-concrete injury flowing from that failure. This Court has consistently held
-that a plaintiff claiming only a generally available grievance about
-government, unconnected with a threatened concrete interest of his own, does
-not state an Article III case or controversy. See, _e.g., Fairchild v.
-Hughes,_ 258 U.S. 126, 129-130, 42 S.Ct. 274, 275, 66 L.Ed. 499. Vindicating
-the public interest is the function of the Congress and the Chief Executive.
-To allow that interest to be converted into an individual right by a statute
-denominating it as such and permitting all citizens to sue, regardless of
-whether they suffered any concrete injury, would authorize Congress to
-transfer from the President to the courts the Chief Executive's most important
-constitutional duty, to "take Care that the Laws be faithfully executed," Art.
-II, § 3\. Pp. 571-578.
 
 SCALIA, J., announced the judgment of the Court and delivered the opinion of
 the Court with respect to Parts I, II, III-A, and IV, in which REHNQUIST,
@@ -101,8 +14,6 @@ Justice SCALIA delivered the opinion of the Court with respect to Parts I, II,
 III-A, and IV, and an opinion with respect to Part III-B in which the Chief
 Justice, Justice WHITE, and Justice THOMAS join.
 
-1
-
 This case involves a challenge to a rule promulgated by the Secretary of the
 Interior interpreting § 7 of the Endangered Species Act of 1973 (ESA), 87
 Stat. 884, 892, as amended, 16 U.S.C. § 1536, in such fashion as to render it
@@ -110,21 +21,9 @@ applicable only to actions within the United States or on the high seas. The
 preliminary issue, and the only one we reach, is whether the respondents here,
 plaintiffs below, have standing to seek judicial review of the rule.
 
-2
+The ESA seeks to protect species of animals against threats to their continuing existence caused by man. The ESA instructs the Secretary of the Interior to promulgate by regulation a list of those species which are either endangered or threatened under enumerated criteria, and to define the critical habitat of these species. Section 7(a)(2) of the Act then provides, in pertinent part:
 
-* The ESA, 87 Stat. 884, as amended, 16 U.S.C. § 1531 _et seq.,_ seeks to protect species of animals against threats to their continuing existence caused by man. See generally _TVA v. Hill,_ 437 U.S. 153, 98 S.Ct. 2279, 57 L.Ed.2d 117 (1978). The ESA instructs the Secretary of the Interior to promulgate by regulation a list of those species which are either endangered or threatened under enumerated criteria, and to define the critical habitat of these species. 16 U.S.C. §§ 1533, 1536. Section 7(a)(2) of the Act then provides, in pertinent part:
-
-3
-
-"Each Federal agency shall, in consultation with and with the assistance of
-the Secretary [of the Interior], insure that any action authorized, funded, or
-carried out by such agency . . . is not likely to jeopardize the continued
-existence of any endangered species or threatened species or result in the
-destruction or adverse modification of habitat of such species which is
-determined by the Secretary, after consultation as appropriate with affected
-States, to be critical." 16 U.S.C. § 1536(a)(2).
-
-4
+> Each Federal agency shall, in consultation with and with the assistance of the Secretary [of the Interior], insure that any action authorized, funded, or carried out by such agency . . . is not likely to jeopardize the continued existence of any endangered species or threatened species or result in the destruction or adverse modification of habitat of such species which is determined by the Secretary, after consultation as appropriate with affected States, to be critical.
 
 In 1978, the Fish and Wildlife Service (FWS) and the National Marine Fisheries
 Service (NMFS), on behalf of the Secretary of the Interior and the Secretary
