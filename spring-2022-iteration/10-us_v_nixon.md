@@ -1,179 +1,28 @@
-418 U.S. 683
+# United States v. Nixon, 418 U.S. 683 (1974)
 
-94 S.Ct. 3090
 
-41 L.Ed.2d 1039
-
-UNITED STATES, Petitioner,  
-v.  
-Richard M. NIXON, President of the United States, et al. Richard M. NIXON,
-President of the United States, Petitioner, v. UNITED STATES.
-
-Nos. 73--1766, 73--1834.
-
-Argued July 8, 1974.
-
-Decided July 24, 1974.
-
-Syllabus
-
-Following indictment alleging violation of federal statutes by certain staff
-members of the White House and political supporters of the President, the
-Special Prosecutor filed a motion under Fed.Rule Crim.Proc. 17(c) for a
-subpoena duces tecum for the production before trial of certain tapes and
-documents relating to precisely identified conversations and meetings between
-the President and others. The President, claiming executive privilege, filed a
-motion to quash the subpoena. The District Court, after treating the
-subpoenaed material as presumptively privileged, concluded that the Special
-Prosecutor had made a sufficient showing to rebut the presumption and that the
-requirements of Rule 17(c) had been satisfied. The court thereafter issued an
-order for an in camera examination of the subpoenaed material, having rejected
-the President's contentions (a) that the dispute between him and the Special
-Prosecutor was nonjusticiable as an 'intra-executive' conflict and (b) that
-the judiciary lacked authority to review the President's assertion of
-executive privilege. The court stayed its order pending appellate review,
-which the President then sought in the Court of Appeals. The Special
-Prosecutor then filed in this Court a petition for a writ of certiorari before
-judgment (No. 73--1766) and the President filed a cross-petition for such a
-writ challenging the grand-jury action (No. 73--1834) The Court granted both
-petitions. Held:
-
-1\. The District Courts order was appealable as a 'final' order under 28
-U.S.C. § 1291, was therefore properly 'in' the Court of Appeals, 28 U.S.C. §
-1254, when the petition for certiorari before judgment was filed in this
-Court, and is now properly before this Court for review. Although such an
-order is normally not final and subject to appeal, an exception is made in a
-'limited class of cases where denial of immediate review would render
-impossible any review whatsoever of an individual's claims.' United States v.
-Ryan, 402 U.S. 530, 533, 91 S.Ct. 1580, 1582, 29 L.Ed.2d 85. Such an exception
-is proper in the unique circumstances of this case where it would be
-inappropriate to subject the President to the procedure of securing review by
-resisting the order and inappropriate to require that the District Court
-proceed by a traditional contempt citation in order to provide appellate
-review. Pp. 690--692.
-
-2\. The dispute between the Special Prosecutor and the President presents a
-justiciable controversy. Pp. 692--697.
-
-(a) The mere assertion of an 'intrabranch dispute,' without more, does not
-defeat federal jurisdiction. United States v. ICC, 337 U.S. 426, 69 S.Ct.
-1410, 93 L.Ed. 1451. P. 693.
-
-(b) The Attorney General by regulation has conferred upon the Special
-Prosecutor unique tenure and authority to represent the United States and has
-given the Special Prosecutor explicit power to contest the invocation of
-executive privilege in seeking evidence deemed relevant to the performance of
-his specially delegated duties. While the regulation remains in effect, the
-Executive Branch is bound by it. United States ex rel. Accardi v. Shaughnessy,
-347 U.S. 260, 74 S.Ct. 499, 98 L.Ed. 681. Pp. 694 696.
-
-(c) The action of the Special Prosecutor within the scope of his express
-authority seeking specified evidence preliminarily determined to be relevant
-and admissible in the pending criminal case, and the President's assertion of
-privilege in opposition thereto, present issues 'of a type which are
-traditionally justiciable,' United States v. ICC, supra, 337 U.S., at 430, 69
-S.Ct., at 1413, and the fact that both litigants are officers of the Executive
-Branch is not a bar to justiciability. Pp. 696--697.
-
-3\. From this Court's examination of the material submitted by the Special
-Prosecutor in support of his motion for the subpoena, much of which is under
-seal, it is clear that the District Court's denial of the motion to quash
-comported with Rule 17(c) and that the Special Prosecutor has made a
-sufficient showing to justify a subpoena for production before trial. Pp. 697
---702.
-
-4\. Neither the doctrine of separation of powers nor the generalized need for
-confidentiality of high-level communications, without more, can sustain an
-absolute unqualified presidential privilege of immunity from judicial process
-under all circumstances. See, e.g., Murbury v. Madison, 1 Cranch 137, 177, 2
-L.Ed. 60; Baker v. Carr, 369 U.S. 186, 211, 82 S.Ct. 691, 706, 7 L.Ed.2d 663.
-Absent a claim of need to protect military, diplomatic, or sensitive national
-security secrets, the confidentiality of presidential communications is not
-significantly diminished by producing material for a criminal trial under the
-protected conditions of in camera inspection, and any absolute executive
-privilege under Art. II of the Constitution would plainly conflict with the
-function of the courts under the Constitution. Pp. 703 707.
-
-5\. Although the courts will afford the utmost deference to presidential acts
-in the performance of an Art. II function, United States v. Burr, 25 F.Cas.
-pp. 187, 190, 191--192 (No. 14,694), when a claim of presidential privilege as
-to materials subpoenaed for use in a criminal trial is based, as it is here,
-not on the ground that military or diplomatic secrets are implicated, but
-merely on the ground of a generalized interest in confidentiality, the
-President's generalized assertion of privilege must yield to the demonstrated,
-specific need for evidence in a pending criminal trial and the fundamental
-demands of due process of law in the fair administration of criminal justice.
-Pp. 707--713.
-
-6\. On the basis of this Court's examination of the record, it cannot be
-concluded that the District Court erred in ordering in camera examination of
-the subpoenaed material, which shall now forthwith be transmitted to the
-District Court. Pp. 713--714.
-
-7\. Since a President's communications encompass a vastly wider range of
-sensitive material than would be true of an ordinary individual, the public
-interest requires that presidential confidentiality be afforded the greatest
-protection consistent with the fair administration of justice, and the
-District Court has a heavy responsibility to ensure that material involving
-presidential conversations irrelevant to or inadmissible in the criminal
-prosecution be accorded the high degree of respect due a President and that
-such material be returned under seal to its lawful custodian. Until released
-to the Special Prosecutor no in camera material is to be released to anyone.
-Pp. 714--716.
-
-No. 73--1766, 377 F.Supp. 1326, affirmed; No. 73--1834, certiorari dismissed
-as improvidently granted.
-
-Leon Jaworski and Philip A. Lacovara, Washington, D.C., for United States.
-
-James D. St. Clair, Washington, D.C., for the President.
-
-Mr. Chief Justice BURGER delivered the opinion of the Court.
+**Mr. Chief Justice BURGER delivered the opinion of the Court.**
 
 1
-
 This litigation presents for review the denial of a motion, filed in the
 District Court on behalf of the President of the United States, in the case of
-United States v. Mitchell et al. (D.C.Crim. No. 74--110), to quash a third-
+United States v. Mitchell et al. to quash a third-
 party subpoena duces tecum issued by the United States District Court for the
 District of Columbia, pursuant to Fed.Rule Crim.Proc. 17(c). The subpoena
 directed the President to produce certain tape recordings and documents
 relating to his conversations with aides and advisers. The court rejected the
 President's claims of absolute executive privilege, of lack of jurisdiction,
-and of failure to satisfy the requirements of Rule 17(c). The President
-appealed to the Court of Appeals. We granted both the United States' petition
-for certiorari before judgment (No. 73--1766),1 and also the President's
-cross-petition for certiorari before judgment (No. 73--1834),2 because of the
-public importance of the issues presented and the need for their prompt
-resolution 417 U.S. 927 and 960, 94 S.Ct. 2637 and 3162, 41 L.Ed.2d 231
-(1974).
+and of failure to satisfy the requirements of Rule 17(c). 
 
-2
 
 On March 1, 1974, a grand jury of the United States District Court for the
-District of Columbia returned an indictment charging seven named individuals3
+District of Columbia returned an indictment charging seven named individuals
 with various offenses, including conspiracy to defraud the United States and
 to obstruct justice. Although he was not designated as such in the indictment,
 the grand jury named the President, among others, as an unindicted
-coconspirator.4 On April 18, 1974, upon motion of the Special Prosecutor, see
-n. 8, infra, a subpoena duces tecum was issued pursuant to Rule 17(c) to the
+coconspirator. On April 18, 1974, upon motion of the Special Prosecutor,a subpoena duces tecum was issued pursuant to Rule 17(c) to the
 President by the United States District Court and made returnable on May 2,
-1974. This subpoena required the production, in advance of the September 9
-trial date, of certain tapes, memoranda, papers, transcripts or other writings
-relating to certain precisely identified meetings between the President and
-others.5 The Special Prosecutor was able to fix the time, place, and persons
-present at these discussions because the White House daily logs and
-appointment records had been delivered to him. On April 30, the President
-publicly released edited transcripts of 43 conversations; portions of 20
-conversations subject to subpoena in the present case were included. On May 1,
-1974, the President's counsel, filed a 'special appearance' and a motion to
-quash the subpoena under Rule 17(c). This motion was accompanied by a formal
-claim of privilege. At a subsequent hearing,6 further motions to expunge the
-grand jury's action naming the President as an unindicted coconspirator and
-for protective orders against the disclosure of that information were filed or
-raised orally by counsel for the President.
-
-3
+1974. 
 
 On May 20, 1974, the District Court denied the motion to quash and the motions
 to expunge and for protective orders. 377 F.Supp. 1326. It further ordered
@@ -187,124 +36,14 @@ Court rejected jurisdictional challenges based on a contention that the
 dispute was nonjusticiable because it was between the Special Prosecutor and
 the Chief Executive and hence 'intra-executive' in character; it also rejected
 the contention that the Judiciary was without authority to review an assertion
-of executive privilege by the President. The court's rejection of the first
-challenge was based on the authority and powers vested in the Special
-Prosecutor by the regulation promulgated by the Attorney General; the court
-concluded that a justiciable controversy was presented. The second challenge
-was held to be foreclosed by the decision in Nixon v. Sirica, 159 U.S.App.D.C.
-58, 487 F.2d 700 (1973).
+of executive privilege by the President. 
 
-4
 
 The District Court held that the judiciary, not the President, was the final
 arbiter of a claim of executive privilege. The court concluded that under the
 circumstances of this case the presumptive privilege was overcome by the
 Special Prosecutor's prima facie 'demonstration of need sufficiently
-compelling to warrant judicial examination in chambers . . ..' 377 F.Supp., at
-1330. The court held, finally, that the Special Prosecutor had satisfied the
-requirements of Rule 17(c). The District Court stayed its order pending
-appellate review on condition that review was sought before 4 p.m., May 24.
-The court further provided that matters filed under seal remain under seal
-when transmitted as part of the record.
-
-5
-
-On May 24, 1974, the President filed a timely notice of appeal from the
-District Court order, and the certified record from the District Court was
-docketed in the United States Court of Appeals for the District of Columbia
-Circuit. On the same day, the President also filed a petition for writ of
-mandamus in the Court of Appeals seeking review of the District Court order.
-
-6
-
-Later on May 24, the Special Prosecutor also filed, in this Court, a petition
-for a writ of certiorari before judgment. On May 31, the petition was granted
-with an expedited briefing schedule, 417 U.S. 927, 94 S.Ct. 2637, 41 L.Ed.2d
-231. On June 6, the President filed, under seal, a cross-petition for writ of
-certiorari before judgment. This cross-petition was granted June 15, 1974, 417
-U.S. 960, 94 S.Ct. 3162, 41 L.Ed.2d 1134, and the case was set for argument on
-July 8, 1974.
-
-7
-
-* JURISDICTION
-
-8
-
-The threshold question presented is whether the May 20, 1974, order of the
-District Court was an appealable order and whether this case was properly 'in'
-the Court of Appeals when the petition for certiorari was filed in this Court.
-28 U.S.C. § 1254\. The Court of Appeals' jurisdiction under 28 U.S.C. § 1291
-encompasses only 'final decisions of the district courts.' Since the appeal
-was timely filed and all other procedural requirements were met, the petition
-is properly before this Court for consideration if the District Court order
-was final. 28 U.S.C. §§ 1254(1), 2101(e).
-
-9
-
-The finality requirement of 28 U.S.C. § 1291 embodies a strong congressional
-policy against piecemeal reviews, and against obstructing or impeding an
-ongoing judicial proceeding by interlocutory appeals. See, e.g., Cobbledick v.
-United States, 309 U.S. 323, 324--326, 60 S.Ct. 540, 541--542, 84 L.Ed. 783
-(1940). This requirement ordinarily promotes judicial efficiency and hastens
-the ultimate termination of litigation. In applying this principle to an order
-denying a motion to quash and requiring the production of evidence pursuant to
-a subpoena duces tecum, it has been repeatedly held that the order is not
-final and hence not appealable. United States v. Ryan, 402 U.S. 530, 532, 91
-S.Ct. 1580, 1581, 29 L.Ed.2d 85 (1971); Cobbledick v. United States, supra;
-Alexander v. United States, 201 U.S. 117, 26 S.Ct. 356, 50 L.Ed. 686 (1906).
-This Court has
-
-10
-
-'consistently held that the necessity for expedition in the administration of
-the criminal law justifies putting one who seeks to resist the production of
-desired information to a choice between compliance with a trial court's order
-to produce prior to any review of that order, and resistance to that order
-with the concomitant possibility of an adjudication of contempt if his claims
-are rejected on appeal.' United States v. Ryan, supra, 402 U.S., at 533, 91
-S.Ct., at 1582.
-
-11
-
-The requirement of submitting to contempt, however, is not without exception
-and in some instances the purposes underlying the finality rule require a
-different result. For example, in Perlman v. United States, 247 U.S. 7, 38
-S.Ct. 417, 62 L.Ed. 950 (1918), a subpoena had been directed to a third party
-requesting certain exhibits; the appellant, who owned the exhibits, sought to
-raise a claim of privilege. The Court held an order compelling production was
-appealable because it was unlikely that the third party would risk a contempt
-citation in order to allow immediate review of the appellant's claim of
-privilege. Id., at 12--13, 38 S.Ct. at 419--420\. That case fell within the
-'limited class of cases where denial of immediate review would render
-impossible any review whatsoever of an individual's claims.' United States v.
-Ryan, supra, 402 U.S., at 533, 91 S.Ct., at 1582.
-
-12
-
-Here too, the traditional contempt avenue to immediate appeal is peculiarly
-inappropriate due to the unique setting in which the question arises. To
-require a President of the United States to place himself in the posture of
-disobeying an order of a court merely to trigger the procedural mechanism for
-review of the ruling would be unseemly, and would present an unnecessary
-occasion for constitutional confrontation between two branches of the
-Government. Similarly, a federal judge should not be placed in the posture of
-issuing a citation to a President simply in order to invoke review. The issue
-whether a President can be cited for contempt could itself engender protracted
-litigation, and would further delay both review on the merits of his claim of
-privilege and the ultimate termination of the underlying criminal action for
-which his evidence is sought. These considerations lead us to conclude that
-the order of the District Court was an appealable order. The appeal from that
-order was therefore properly 'in' the Court of Appeals, and the case is now
-properly before this Court on the writ of certiorari before judgment. 28
-U.S.C. § 1254; 28 U.S.C. § 2101(e). Gay v. Ruff, 292 U.S. 25, 30, 54 S.Ct.
-608, 610, 78 L.Ed. 1099 (1934).7
-
-II
-
-JUSTICIABILITY
-
-13
+compelling to warrant judicial examination in chambers . . ..' 
 
 In the District Court, the President's counsel argued that the court lacked
 jurisdiction to issue the subpoena because the matter was an intra-branch
@@ -317,84 +56,50 @@ areas committed to the other branches of Government. He views the present
 dispute as essentially a 'jurisdictional' dispute within the Executive Branch
 which he analogizes to a dispute between two congressional committees. Since
 the Executive Branch has exclusive authority and absolute discretion to decide
-whether to prosecute a case, Confiscation Cases, 7 Wall. 454, 19 L.Ed. 196
-(1869); United States v. Cox, 342 F.2d 167, 171 (CA5), cert. denied sub nom.
-Cox v. Hauberg, 381 U.S. 935, 85 S.Ct. 1767, 14 L.Ed.2d 700 (1965), it is
+whether to prosecute a case, it is
 contended that a President's decision is final in determining what evidence is
 to be used in a given criminal case. Although his counsel concedes that the
 President has delegated certain specific powers to the Special Prosecutor, he
 has not 'waived nor delegated to the Special Prosecutor the President's duty
 to claim privilege as to all materials . . . which fall within the President's
-inherent authority to refuse to disclose to any executive officer.' Brief for
-the President 42. The Special Prosecutor's demand for the items therefore
+inherent authority to refuse to disclose to any executive officer.'  The Special Prosecutor's demand for the items therefore
 presents, in the view of the President's counsel, a political question under
-Baker v. Carr, 369 U.S. 186, 82 S.Ct. 691, 7 L.Ed.2d 663 (1962), since it
-involves a 'textually demonstrable' grant of power under Art. II.
+Baker v. Carr, since it involves a 'textually demonstrable' grant of power under Art. II.
 
-14
-
-The mere assertion of a claim of an 'intra-branch dispute,' without more, has
-never operated to defeat federal jurisdiction; justiciability does not depend
-on such a surface inquiry. In United States v. ICC, 337 U.S. 426, 69 S.Ct.
-1410, 93 L.Ed. 1451 (1949), the Court observed, 'courts must look behind names
-that symbolize the parties to determine whether a justiciable case or
-controversy is presented.' Id., at 430, 69 S.Ct., at 1413. See also Powell v.
-McCormack, 395 U.S. 486, 89 S.Ct. 1944, 23 L.Ed.2d 491 (1969); ICC v. Jersey
-City, 322 U.S. 503, 64 S.Ct. 1129, 88 L.Ed. 1420 (1944); United States ex rel.
-Chapman v. FPC, 345 U.S. 153, 73 S.Ct. 609, 97 L.Ed. 918 (1953); Secretary of
-Agriculture v. United States, 347 U.S. 645, 74 S.Ct. 826, 98 L.Ed. 1015
-(1954); FMB v. Isbrandtsen Co., 356 U.S. 481, 483 n. 2, 78 S.Ct. 851, 853, 2
-L.Ed.2d 926 (1958); United States v. Marine Bancorporation Inc., 418 U.S. 602,
-94 S.Ct. 2856, 41 L.Ed.2d 978; and United States v. Connecticut National Bank,
-418 U.S. 656, 94 S.Ct. 2788, 41 L.Ed.2d 1016.
-
-15
 
 Our starting point is the nature of the proceeding for which the evidence is
 sought--here a pending criminal prosecution. It is a judicial proceeding in a
 federal court alleging violation of federal laws and is brought in the name of
-the United States as sovereign. Verger v. United States, 295 U.S. 78, 88, 55
-S.Ct. 629, 633, 79 L.Ed. 1314 (1935). Under the authority of Art. II, § 2,
+the United States as sovereign.  Under the authority of Art. II, § 2,
 Congress has vested in the Attorney General the power to conduct the criminal
-litigation of the United States Government. 28 U.S.C. § 516\. It has also
+litigation of the United States Government.  It has also
 vested in him the power to appoint subordinate officers to assist him in the
-discharge of his duties. 28 U.S.C. §§ 509, 510, 515, 533. Acting pursuant to
+discharge of his duties.  Acting pursuant to
 those statutes, the Attorney General has delegated the authority to represent
 the United States in these particular matters to a Special Prosecutor with
-unique authority and tenure.8 The regulation gives the Special Prosecutor
+unique authority and tenure. The regulation gives the Special Prosecutor
 explicit power to contest the invocation of executive privilege in the process
 of seeking evidence deemed relevant to the performance of these specially
-delegated duties.9 38 Fed.Reg. 30739, as amended by 38 Fed.Reg. 32805.
-
-16
+delegated duties.
 
 So long as this regulation is extant it has the force of law. In United States
-ex rel. Accardi v. Shaughnessy, 347 U.S. 260, 74 S.Ct. 499, 98 L.Ed. 681
-(1954), regulations of the Attorney General delegated certain of his
-discretionary powers to the Board of Immigration Appeals and required that
+ex rel. Accardi v. Shaughnessy, regulations of the Attorney General delegated certain of his discretionary powers to the Board of Immigration Appeals and required that
 Board to exercise its own discretion on appeals in deportation cases. The
 Court held that so long as the Attorney General's regulations remained
 operative, he denied himself the authority to exercise the discretion
 delegated to the Board even though the original authority was his and he could
-reassert it by amending the regulations. Service v. Dulles, 354 U.S. 363, 388,
-77 S.Ct. 1152, 1165, 1 L.Ed.2d 1403 (1957), and Vitarelli v. Seaton, 359 U.S.
-535, 79 S.Ct. 968, 3 L.Ed.2d 1012 (1959), reaffirmed the basic holding of
-Accardi.
-
-17
+reassert it by amending the regulations. 
 
 Here, as in Accardi, it is theoretically possible for the Attorney General to
 amend or revoke the regulation defining the Special Prosecutor's authority.
-But he has not done so.10 So long as this regulation remains in force the
+But he has not done so. So long as this regulation remains in force the
 Executive Branch is bound by it, and indeed the United States as the sovereign
 composed of the three branches is bound to respect and to enforce it.
 Moreover, the delegation of authority to the Special Prosecutor in this case
 is not an ordinary delegation by the Attorney General to a subordinate
 officer: with the authorization of the President, the Acting Attorney General
 provided in the regulation that the Special Prosecutor was not to be removed
-without the 'consensus' of eight designated leaders of Congress. N. 8, supra.
-
-18
+without the 'consensus' of eight designated leaders of Congress. 
 
 The demands of and the resistance to the subpoena present an obvious
 controversy in the ordinary sense, but that alone is not sufficient to meet
@@ -406,19 +111,17 @@ admissible in a pending criminal case. It is sought by one official of the
 Executive Branch within the scope of his express authority; it is resisted by
 the Chief Executive on the ground of his duty to preserve the confidentiality
 of the communications of the President. Whatever the correct answer on the
-merits, these issues are 'of a type which are traditionally justiciable.'
-United States v. ICC, 337 U.S., at 430, 69 S.Ct., at 1413. The independent
+merits, these issues are 'of a type which are traditionally justiciable.' The independent
 Special Prosecutor with his asserted need for the subpoenaed material in the
 underlying criminal prosecution is opposed by the President with his steadfast
 assertion of privilege against disclosure of the material. This setting
 assures there is 'that concrete adverseness which sharpens the presentation of
 issues upon which the court so largely depends for illumination of difficult
-constitutional questions'. Baker v. Carr, 369 U.S., at 204, 82 S.Ct., at 703.
+constitutional questions'. Baker v. Carr.
 Moreover, since the matter is one arising in the regular course of a federal
 criminal prosecution, it is within the traditional scope of Art. III power.
 Id., at 198, 82 S.Ct. 691.
 
-19
 
 In light of the uniqueness of the setting in which the conflict arises, the
 fact that both parties are officers of the Executive Branch cannot be viewed
@@ -427,217 +130,15 @@ law and regulation, and the unique facts of this case to conclude other than
 that the Special Prosecutor has standing to bring this action and that a
 justiciable controversy is presented for decision.
 
-III
-
-Rule 17(c)
-
-20
-
-The subpoena duces tecum is challenged on the ground that the Special
-Prosecutor failed to satisfy the requirements of Fed.Rule Crim.Proc. 17(c),
-which governs the issuance of subpoenas duces tecum in federal criminal
-proceedings. If we sustained this challenge, there would be no occasion to
-reach the claim of privilege asserted with respect to the subpoenaed material.
-Thus we turn to the question whether the requirements of Rule 17(c) have been
-satisfied. See Arkansas Louisiana Gas Co. v. Dept. of Public Utilities, 304
-U.S. 61, 64, 58 S.Ct. 770, 771, 82 L.Ed. 1149 (1938); Ashwander v. TVA, 297
-U.S. 288, 346--347, 56 S.Ct. 466, 482--483, 80 L.Ed. 688 (1936) (Brandeis, J.,
-concurring).
-
-Rule 17(c) provides:
-
-21
-
-'A subpoena may also command the person to whom it is directed to produce the
-books, papers, documents or other objects designated therein. The court on
-motion made promptly may quash or modify the supoena if compliance would be
-unreasonable or oppressive. The court may direct that books, papers, documents
-or objects designated in the subpoena be produced before the court at a time
-prior to the trial or prior to the time when they are to be offered in
-evidence and may upon their production permit the books, papers, documents or
-objects or portions thereof to be inspected by the parties and their
-attorneys.'
-
-22
-
-A subpoena for documents may be quashed if their production would be
-'unreasonable or oppressive,' but not otherwise. The leading case in this
-Court interpreting this standard is Bowman Dairy Co. v. United States, 341
-U.S. 214, 71 S.Ct. 675, 95 L.Ed. 879 (1951). This case recognized certain
-fundamental characteristics of the subpoena duces tecum in criminal cases: (1)
-it was not intended to provide a means of discovery for criminal cases, id.,
-at 220, 71 S.Ct. 675; (2) its chief innovation was to expedite the trial by
-providing a time and place before trial for the inspection of subpoenaed
-materials,11 ibid. As both parties agree, cases decided in the wake of Bowman
-have generally followed Judge Weinfeld's formulation in United States v.
-Iozia, 13 F.R.D. 335, 338 (SDNY 1952), as to the required showing. Under this
-test, in order to require production prior to trial, the moving party must
-show: (1) that the documents are evidentiary12 and relevent; (2) that they are
-not otherwise procurable reasonably in advance of trial by exercise of due
-diligence; (3) that the party cannot properly prepare for trial without such
-production and inspection in advance of trial and that the failure to obtain
-such inspection may tend unreasonably to delay the trial; and (4) that the
-application is made in good faith and is not intended as a general 'fishing
-expedition.'
-
-23
-
-Against this background, the Special Prosecutor, in order to carry his burden,
-must clear three hurdles: (1) relevancy; (2) admissibility; (3) specificity.
-Our own review of the record necessarily affords a less comprehensive view of
-the total situation than was available to the trial judge and we are unwilling
-to conclude that the District Court erred in the evaluation of the Special
-Prosecutor's showing under Rule 17(c). Our conclusion is based on the record
-before us, much of which is under seal. Of course, the contents of the
-subpoenaed tapes could not at that stage be described fully by the Special
-Prosecutor, but there was a sufficient likelihood that each of the tapes
-contains conversations relevant to the offenses charged in the indictment.
-United States v. Gross, 24 F.R.D. 138 (SDNY 1959). With respect to many of the
-tapes, the Special Prosecutor offered the sworn testimony or statements of one
-or more of the participants in the conversations as to what was said at the
-time. As for the remainder of the tapes, the identity of the participants and
-the time and place of the conversations, taken in their total context, permit
-a rational inference that at least part of the conversations relate to the
-offenses charged in the indictment.
-
-24
-
-We also conclude there was a sufficient preliminary showing that each of the
-subpoenaed tapes contains evidence admissible with respect to the offenses
-charged in the indictment. The most cogent objection to the admissibility of
-the taped conversations here at issue is that they are a collection of out-of-
-court statements by declarants who will not be subject to cross-examination
-and that the statements are therefore inadmissible hearsay. Here, however,
-most of the tapes apparently contain conversations to which one or more of the
-defendants named in the indictment were party. The hearsay rule does not
-automatically bar all out-of-court statements by a defendant in a criminal
-case.13 Declarations by one defendant may also be admissible against other
-defendants upon a sufficient showing, by independent evidence,14 of a
-conspiracy among one or more other defendants and the delarant and if the
-declarations at issue were in furtherance of that conspiracy. The same is true
-of declarations of coconspirators who are not defendants in the case on trial.
-Dutton v. Evans, 400 U.S. 74, 81, 91 S.Ct. 210, 215, 27 L.Ed.2d 213 (1970).
-Recorded conversations may also be admissible for the limited purpose of
-impeaching the credibility of any defendant who testifies or any other
-coconspirator who testifies. Generally, the need for evidence to impeach
-witnesses is insufficient to require its production in advance of trial. See,
-e.g., United States v. Carter, 15 F.R.D. 367, 371 (DC 1954). Here, however,
-there are other valid potential evidentiary uses for the same material, and
-the analysis and possible transcription of the tapes may take a significant
-period of time. Accordingly, we cannot conclude that the District Court erred
-in authorizing the issuance of the subpoena duces tecum.
-
-25
-
-Enforcement of a pretrial subpoena duces tecum must necessarily be committed
-to the sound discretion of the trial court since the necessity for the
-subpoena most often turns upon a determination of factual issues. Without a
-determination of arbitrariness or that the trial court finding was without
-record support, an appellate court will not ordinarily disturb a finding that
-the applicant for a subpoena complied with Rule 17(c). See, e.g., Sue v.
-Chicago Transit Authority, 279 F.2d 416, 419 (CA7 1960); Shotkin v. Nelson,
-146 F.2d 402 (CA10 1944).
-
-26
-
-In a case such as this, however, where a subpoena is directed to a President
-of the United States, appellate review, in deference to a coordinate branch of
-Government, should be particularly meticulous to ensure that the standards of
-Rule 17(c) have been correctly applied. United States v. Burr, 25 F.Cas. pp.
-30, 34 (No. 14,692d) (CC Va.1807). From our examination of the materials
-submitted by the Special Prosecutor to the District Court in support of his
-motion for the subpoena, we are persuaded that the District Court's denial of
-the President's motion to quash the subpoena was consistent with Rule 17(c).
-We also conclude that the Special Prosecutor has made a sufficient showing to
-justify a subpoena for production before trial. The subpoenaed materials are
-not available from any other source, and their examination and processing
-should not await trial in the circumstances shown. Bowman Dairy Co. v. United
-States, 341 U.S. 214, 71 S.Ct. 675, 95 L.Ed. 879 (1951); United States v.
-Iozia, 13 F.R.D. 335 (S.D.N.Y. 1952).
-
-IV
-
-THE CLAIM OF PRIVILEGE
-
-A.
-
-27
-
-Having determined that the requirements of Rule 17(c) were satisfied, we turn
-to the claim that the subpoena should be quashed because it demands
+[W]e turn to the claim that the subpoena should be quashed because it demands
 'confidential conversations between a President and his close advisors that it
-would be inconsistent with the public interest to produce.' App. 48a. The
+would be inconsistent with the public interest to produce.'  The
 first contention is a broad claim that the separation of powers doctrine
 precludes judicial review of a President's claim of privilege. The second
 contention is that if he does not prevail on the claim of absolute privilege,
 the court should hold as a matter of constitutional law that the privilege
 prevails over the subpoena duces tecum.
 
-28
-
-In the performance of assigned constitutional duties each branch of the
-Government must initially interpret the Constitution, and the interpretation
-of its powers by any branch is due great respect from the others. The
-President's counsel, as we have noted, reads the Constitution as providing an
-absolute privilege of confidentiality for all Presidential communications.
-Many decisions of this Court, however, have unequivocally reaffirmed the
-holding of Marbury v. Madison, 1 Cranch, 137, 2 L.Ed. 60 (1803), that '(i)t is
-emphatically the province and duty of the judicial department to say what the
-law is.' Id., at 177, 2 L.Ed. 60.
-
-29
-
-No holding of the Court has defined the scope of judicial power specifically
-relating to the enforcement of a subpoena for confidential Presidential
-communications for use in a criminal prosecution, but other exercises of power
-by the Executive Branch and the Legislative Branch have been found invalid as
-in conflict with the Constitution. Powell v. McCormack, 395 U.S. 486, 89 S.Ct.
-1944, 23 L.Ed.2d 491 (1969); Youngstown, Sheet & Tube Co. v. Sawyer, 343 U.S.
-579, 72 S.Ct. 863, 96 L.Ed. 1153 (1952). In a series of cases, the Court
-interpreted the explicit immunity conferred by express provisions of the
-Constitution on Members of the House and Senate by the Speech or Debate
-Clause, U.S.Const. Art. I, § 6\. Doe v. McMillan, 412 U.S. 306, 93 S.Ct. 2018,
-36 L.Ed.2d 912 (1973); Gravel v. United States, 408 U.S. 606, 92 S.Ct. 2614,
-33 L.Ed.2d 583 (1972); United States v. Brewster, 408 U.S. 501, 92 S.Ct. 2531,
-33 L.Ed.2d 507 (1972); United States v. Johnson, 383 U.S. 169, 86 S.Ct. 749,
-15 L.Ed.2d 681 (1966). Since this Court has consistently exercised the power
-to construe and delineate claims arising under express powers, it must follow
-that the Court has authority to interpret claims with respect to powers
-alleged to derive from enumerated powers.
-
-30
-
-Our system of government 'requires that federal courts on occasion interpret
-the Constitution in a manner at variance with the construction given the
-document by another branch.' Powell v. McCormack, supra, 395 U.S., at 549, 89
-S.Ct., at 1978. And in Baker v. Carr, 369 U.S., at 211, 82 S.Ct., at 706, the
-Court stated:
-
-31
-
-'(D)eciding whether a matter has in any measure been committed by the
-Constitution to another branch of government, or whether the action of that
-branch exceeds whatever authority has been committed, is itself a delicate
-exercise in constitutional interpretation, and is a responsibility of this
-Court as ultimate interpreter of the Constitution.'
-
-32
-
-Notwithstanding the deference each branch must accord the others, the
-'judicial Power of the United States' vested in the federal courts by Art.
-III, § 1, of the Constitution can no more be shared with the Executive Branch
-than the Chief Executive, for example, can share with the Judiciary the veto
-power, or the Congress share with the Judiciary the power to override a
-Presidential veto. Any other conclusion would be contrary to the basic concept
-of separation of powers and the checks and balances that flow from the scheme
-of a tripartite government. The Federalist, No. 47, p. 313 (S. Mittell ed.
-1938). We therefore reaffirm that it is the province and duty of this Court
-'to say what the law is' with respect to the claim of privilege presented in
-this case. Marbury v. Madison, supra, 1 Cranch. at 177, 2 L.Ed. 60.
-
-B
-
-33
 
 In support of his claim of absolute privilege, the President's counsel urges
 two grounds, one of which is common to all governments and one of which is
@@ -648,25 +149,20 @@ the importance of this confidentiality is too plain to require further
 discussion. Human experience teaches that those who expect public
 dissemination of their remarks may well temper candor with a concern for
 appearances and for their own interests to the detriment of the decisionmaking
-process.15 Whatever the nature of the privilege of confidentiality of
+process. Whatever the nature of the privilege of confidentiality of
 Presidential communications in the exercise of Art. II powers, the privilege
 can be said to derive from the supremacy of each branch within its own
 assigned area of constitutional duties. Certain powers and privileges flow
-from the nature of enumerated powers;16 the protection of the confidentiality
+from the nature of enumerated powers; the protection of the confidentiality
 of Presidential communications has similar constitutional underpinnings.
-
-34
 
 The second ground asserted by the President's counsel in support of the claim
 of absolute privilege rests on the doctrine of separation of powers. Here it
 is argued that the independence of the Executive Branch within its own sphere,
-Humphrey's Executor v. United States, 295 U.S. 602, 629--630, 55 S.Ct. 869,
-874--875, 79 L.Ed. 1611 (1935); Kilbourn v. Thompson, 103 U.S. 168, 190--191,
-26 L.Ed. 377 (1881), insulates a President from a judicial subpoena in an
+Humphrey's Executor v. United States, insulates a President from a judicial subpoena in an
 ongoing criminal prosecution, and thereby protects confidential Presidential
 communications.
 
-35
 
 However, neither the doctrine of separation of powers, nor the need for
 confidentiality of high-level communications, without more, can sustain an
@@ -682,8 +178,6 @@ of Presidential communications is significantly diminished by production of
 such material for in camera inspection with all the protection that a district
 court will be obliged to provide.
 
-36
-
 The impediment that an absolute, unqualified privilege would place in the way
 of the primary constitutional duty of the Judicial Branch to do justice in
 criminal prosecutions would plainly conflict with the function of the courts
@@ -692,16 +186,6 @@ allocating the sovereign power among three co-equal branches, the Framers of
 the Constitution sought to provide a comprehensive system, but the separate
 powers were not intended to operate with absolute independence.
 
-37
-
-'While the Constitution diffuses power the better to secure liberty, it also
-contemplates that practice will integrate the dispersed powers into a workable
-government. It enjoins upon its branches separateness but interdependence,
-autonomy but reciprocity.' Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S., at
-635, 72 S.Ct., at 870 (Jackson, J., concurring).
-
-38
-
 To read the Art. II powers of the President as providing an absolute privilege
 as against a subpoena essential to enforcement of criminal statutes on no more
 than a generalized claim of the public interest in confidentiality of
@@ -709,19 +193,12 @@ nonmilitary and nondiplomatic discussions would upset the constitutional
 balance of 'a workable government' and gravely impair the role of the courts
 under Art. III.
 
-C
-
-39
-
 Since we conclude that the legitimate needs of the judicial process may
 outweigh Presidential privilege, it is necessary to resolve those competing
 interests in a manner that preserves the essential functions of each branch.
 The right and indeed the duty to resolve that question does not free the
 Judiciary from according high respect to the representations made on behalf of
-the President. United States v. Burr, 25 F.Cas. pp. 187, 190, 191 192 (No.
-14,694) (CCVa.1807).
-
-40
+the President. 
 
 The expectation of a President to the confidentiality of his conversations and
 correspondence, like the claim of confidentiality of judicial deliberations,
@@ -734,22 +211,12 @@ decisions and to do so in a way many would be unwilling to express except
 privately. These are the considerations justifying a presumptive privilege for
 Presidential communications. The privilege is fundamental to the operation of
 Government and inextricably rooted in the separation of powers under the
-Constitution.17 In Nixon v. Sirica, 159 U.S.App.D.C. 58, 487 F.2d 700 (1973),
-the Court of Appeals held that such Presidential communications are
-'presumptively privileged,' id., at 75, 487 F.2d, at 717, and this position is
-accepted by both parties in the present litigation. We agree with Mr. Chief
-Justice Marshall's observation, therefore, that '(i)n no case of this kind
-would a court be required to proceed against the president as against an
-ordinary individual.' United States v. Burr, 25 F.Cas., at 192.
-
-41
+Constitution.
 
 But this presumptive privilege must be considered in light of our historic
 commitment to the rule of law. This is nowhere more profoundly manifest than
 in our view that 'the twofold aim (of criminal justice) is that guilt shall
-not escape or innocence suffer.' Berger v. United States, 295 U.S., at 88, 55
-S.Ct., at 633. We have elected to employ an adversary system of criminal
-justice in which the parties contest all issues before a court of law. The
+not escape or innocence suffer.'  We have elected to employ an adversary system of criminal justice in which the parties contest all issues before a court of law. The
 need to develop all relevant facts in the adversary system is both fundamental
 and comprehensive. The ends of criminal justice would be defeated if judgments
 were to be founded on a partial or speculative presentation of the facts. The
@@ -759,21 +226,7 @@ of evidence. To ensure that justice is done, it is imperative to the function
 of courts that compulsory process be available for the production of evidence
 needed either by the prosecution or by the defense.
 
-42
 
-Only recently the Court restated the ancient proposition of law, albeit in the
-context of a grand jury inquiry rather than a trial,
-
-43
-
-'that 'the public . . . has a right to every man's evidence,' except for those
-persons protected by a constitutional, common-law, or statutory privilege,
-United States v. Bryan, 339 U.S. (323, 331, 70 S.Ct. 724, 730 (1949));
-Blackmer v. United States, 284 U.S. 421, 438 (52 S.Ct. 252, 76 L.Ed. 375)
-(1932). . . .' Branzburg v. Hayes, United States, 408 U.S. 665, 688 (92 S.Ct.
-2646, 33 L.Ed.2d 626) (1972).
-
-44
 
 The privileges referred to by the Court are designed to protect weighty and
 legitimate competing interests. Thus, the Fifth Amendment to the Constitution
@@ -784,9 +237,7 @@ interests are recognized in law by privileges against forced disclosure,
 established in the Constitution, by statute, or at common law. Whatever their
 origins, these exceptions to the demand for every man's evidence are not
 lightly created nor expansively construed, for they are in derogation of the
-search for truth.18
-
-45
+search for truth.
 
 In this case the President challenges a subpoena served on him as a third
 party requiring the production of materials for use in a criminal prosecution;
@@ -794,36 +245,16 @@ he does so on the claim that he has a privilege against diclosure of
 confidential communications. He does not place his claim of privilege on the
 ground they are military or diplomatic secrets. As to these areas of Art. II
 duties the courts have traditionally shown the utmost deference to
-Presidential responsibilities. In C. & S. Air Lines v. Waterman S.S. Corp.,
-333 U.S. 103, 111, 68 S.Ct. 431, 436, 92 L.Ed. 568 (1948), dealing with
+Presidential responsibilities. In C. & S. Air Lines v. Waterman S.S. Corp., dealing with
 Presidential authority involving foreign policy considerations, the Court
 said:
 
-46
+> The President, both as Commander-in-Chief and as the Nation's organ for foreign affairs, has available intelligence services whose reports are not and ought not to be published to the world. It would be intolerable that courts, without the relevant information, should review and perhaps nullify actions of the Executive taken on information properly held secret.
 
-'The President, both as Commander-in-Chief and as the Nation's organ for
-foreign affairs, has available intelligence services whose reports are not and
-ought not to be published to the world. It would be intolerable that courts,
-without the relevant information, should review and perhaps nullify actions of
-the Executive taken on information properly held secret.'
 
-47
+In United States v. Reynolds, dealing with a claimant's demand for evidence in a Tort Claims Act case against the Government, the Court said:
 
-In United States v. Reynolds, 345 U.S. 1, 73 S.Ct. 528, 97 L.Ed. 727 (1953),
-dealing with a claimant's demand for evidence in a Tort Claims Act case
-against the Government, the Court said:
-
-48
-
-'It may be possible to satisfy the court, from all the circumstances of the
-case, that there is a reasonable danger that compulsion of the evidence will
-expose military matters which, in the interest of national security, should
-not be divulged. When this is the case, the occasion for the privilege is
-appropriate, and the court should not jeopardize the security which the
-privilege is meant to protect by insisting upon an examination of the
-evidence, even by the judge alone, in chambers.' Id., at 10.
-
-49
+> It may be possible to satisfy the court, from all the circumstances of the case, that there is a reasonable danger that compulsion of the evidence will expose military matters which, in the interest of national security, should not be divulged. When this is the case, the occasion for the privilege is appropriate, and the court should not jeopardize the security which the privilege is meant to protect by insisting upon an examination of the evidence, even by the judge alone, in chambers.' 
 
 No case of the Court, however, has extended this high degree of deference to a
 President's generalized interest in confidentiality. Nowhere in the
@@ -831,7 +262,6 @@ Constitution, as we have noted earlier, is there any explicit reference to a
 privilege of confidentiality, yet to the extent this interest relates to the
 effective discharge of a President's powers, it is constitutionally based.
 
-50
 
 The right to the production of all evidence at a criminal trial similarly has
 constitutional dimensions. The Sixth Amendment explicitly confers upon every
@@ -842,19 +272,15 @@ deprived of liberty without due process of law. It is the manifest duty of the
 courts to vindicate those guarantees, and to accomplish that it is essential
 that all relevant and admissible evidence be produced.
 
-51
-
 In this case we must weigh the importance of the general privilege of
 confidentiality of Presidential communications in performance of the
 President's responsibilities against the inroads of such a privilege on the
-fair administration of criminal justice.19 The interest in preserving
+fair administration of criminal justice. The interest in preserving
 confidentiality is weighty indeed and entitled to great respect. However, we
 cannot conclude that advisers will be moved to temper the candor of their
 remarks by the infrequent occasions of disclosure because of the possibility
 that such conversations will be called for in the context of a criminal
-prosecution.20
-
-52
+prosecution.
 
 On the other hand, the allowance of the privilege to withhold evidence that is
 demonstrably relevant in a criminal trial would cut deeply into the guarantee
@@ -869,369 +295,10 @@ communications will not be vitiated by disclosure of a limited number of
 conversations preliminarily shown to have some bearing on the pending criminal
 cases.
 
-53
-
 We conclude that when the ground for asserting privilege as to subpoenaed
 materials sought for use in a criminal trial is based only on the generalized
 interest in confidentiality, it cannot prevail over the fundamental demands of
 due process of law in the fair administration of criminal justice. The
 generalized assertion of privilege must yield to the demonstrated, specific
 need for evidence in a pending criminal trial.
-
-D
-
-54
-
-We have earlier determined that the District Court did not err in authorizing
-the issuance of the subpoena. If a President concludes that compliance with a
-subpoena would be injurious to the public interest he may properly, as was
-done here, invoke a claim of privilege on the return of the subpoena. Upon
-receiving a claim of privilege from the Chief Executive, it became the further
-duty of the District Court to treat the subpoenaed material as presumptively
-privileged and to require the Special Prosecutor to demonstrate that the
-Presidential material was 'essential to the justice of the (pending criminal)
-case.' United States v. Burr, 25 Fed.Cas., at 192. Here the District Court
-treated the material as presumptively privileged, proceeded to find that the
-Special Prosecutor had made a sufficient showing to rebut the presumption, and
-ordered an in camera examination of the subpoenaed material. On the basis of
-our examination of the record we are unable to conclude that the District
-Court erred in ordering the inspection. Accordingly we affirm the order of the
-District Court that subpoenaed materials be transmitted to that court. We now
-turn to the important question of the District Court's responsibilities in
-conducting the in camera examination of Presidential materials or
-communications delivered under the compulsion of the subpoena duces tecum.
-
-E
-
-55
-
-Enforcement of the subpoena duces tecum was stayed pending this Court's
-resolution of the issues raised by the petitions for certiorari. Those issues
-now having been disposed of, the matter of implementation will rest with the
-District Court. '(T)he guard, furnished to (the President) to protect him from
-being harassed by vexatious and unnecessary subpoenas, is to be looked for in
-the conduct of a (district) court after those subpoenas have issued; not in
-any circumstance which is to precede their being issued.' United States v.
-Burr, supra, at 34. Statements that meet the test of admissibility and
-relevance must be isolated; all other material must be excised. At this stage
-the District Court is not limited to representations of the Special Prosecutor
-as to the evidence sought by the subpoena; the material will be available to
-the District Court. It is elementary that in camera inspection of evidence is
-always a procedure calling for scrupulous protection against any release or
-publication of material not found by the court, at that stage, probably
-admissible in evidence and relevant to the issues of the trial for which it is
-sought. That being true of an ordinary situation, it is obvious that the
-District Court has a very heavy responsibility to see to it that Presidential
-conversations, which are either not relevant or not admissible, are accorded
-that high degree of respect due the President of the United States. Mr. Chief
-Justice Marshall, sitting as a trial judge in the Burr case, supra, was
-extraordinarily careful to point out that
-
-56
-
-'(i)n no case of this kind would a court be required to proceed against the
-president as against an ordinary individual.' at 192.
-
-57
-
-Marshall's statement cannot be read to mean in any sense that a President is
-above the law, but relates to the singularly unique role under Art. II of a
-President's communications and activities, related to the performance of
-duties under that Article. Moreover, a President's communications and
-activities encompass a vastly wider range of sensitive material than would be
-true of any 'ordinary individual.' It is therefore necessary21 in the public
-interest to afford Presidential confidentiality the greatest protection
-consistent with the fair administration of justice. The need for
-confidentiality even as to idle conversations with associates in which casual
-reference might be made concerning political leaders within the country or
-foreign statesmen is too obvious to call for further treatment. We have no
-doubt that the District Judge will at all times accord to Presidential records
-that high degree of deference suggested in United States v. Burr, supra and
-will discharge his responsibility to see to it that until released to the
-Special Prosecutor no in camera material is revealed to anyone. This burden
-applies with even greater force to excised material; once the decision is made
-to excise, the material is restored to its privileged status and should be
-returned under seal to its lawful custodian.
-
-58
-
-Since this matter came before the Court during the pendency of a criminal
-prosecution, and on representations that time is of the essence, the mandate
-shall issue forthwith.
-
-59
-
-Affirmed.
-
-60
-
-Mr. Justice REHNQUIST took no part in the consideration or decision of these
-cases.
-
-1
-
-See 28 U.S.C. §§ 1254(1) and 2101(e) and our Rule 20. See, e.g. Youngstown
-Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 72 S.Ct. 863, 96 L.Ed. 1153 (1952);
-United States v. United Mine Workers, 330 U.S. 258, 67 S.Ct. 677, 91 L.Ed. 884
-(1947); Carter v. Carter Coal Co., 298 U.S. 238, 56 S.Ct. 855, 80 L.Ed. 1160
-(1936); Rickert Rice Mills v. Fontenot, 297 U.S. 110, 56 S.Ct. 374, 80 L.Ed.
-513 (1936); Railroad Retirement Board v. Alton R. Co., 295 U.S. 330, 55 S.Ct.
-758, 79 L.Ed. 1468 (1935); Norman v. Baltimore & Ohio R. Co., 294 U.S. 240, 55
-S.Ct. 407, 79 L.Ed. 885 (1935).
-
-2
-
-The cross-petition in No. 73--1834 raised the issue whether the grand jury
-acted within its authority in naming the President as a coconspirator. Since
-we find resolution of this issue unnecessary to resolution of the question
-whether the claim of privilege is to prevail, the cross-petition for
-certiorari is dismissed as improvidently granted and the remainder of this
-opinion is concerned with the issues raised in No. 73--1766\. On June 19,
-1974, the President's counsel moved for disclosure and transmittal to this
-Court of all evidence presented to the grand jury relating to its action in
-naming the President as an unindicted coconspirator. Action on this motion was
-deferred pending oral argument of the case and is now denied.
-
-3
-
-The seven defendants were John N. Mitchell, H. R. Haldeman, John D.
-Ehrlichman, Charles W. Colson, Robert C. Mardian, Kenneth W. Parkinson, and
-Gordon Strachan. Each had occupied either a position of responsibility on the
-White House staff or the Committee for the Re-election of the President.
-Colson entered a guilty plea on another charge and is no longer a defendant.
-
-4
-
-The President entered a special appearance in the District Court on June 6 and
-requested that court to lift its protective order regarding the naming of
-certain individuals as coconspirators and to any additional extent deemed
-appropriate by the Court. This motion of the President was based on the ground
-that the disclosures to the news media made the reasons for continuance of the
-protective order no longer meaningful. On June 7, the District Court removed
-its protective order and, on June 10, counsel for both parties jointly moved
-this Court to unseal those parts of the record which related to the action of
-the grand jury regarding the President. After receiving a statement in
-opposition from the defendants, this Court denied that motion on June 15, 1974
-except for the grand jury's immediate finding relating to the status of the
-President as an unindicted coconspirator. 417 U.S. 960, 94 S.Ct. 3162, 41
-L.Ed.2d 1134.
-
-5
-
-The specific meetings and conversations are enumerated in a schedule attached
-to the subpoena. App. 42a--46a.
-
-6
-
-At the joint suggestion of the Special Prosecutor and counsel for the
-President, and with the approval of counsel for the defendants, further
-proceedings in the District Court were held in camera.
-
-7
-
-The parties have suggested that this Court has jurisdiction on other grounds.
-In view of our conclusion that there is jurisdiction under 28 U.S.C. § 1254(1)
-because the District Court's order was appealable, we need not decide whether
-other jurisdictional vehicles are available.
-
-8
-
-The regulation issued by the Attorney General pursuant to his statutory
-authority, vests in the Special Prosecutor plenary authority to control the
-course of investigations and litigation related to 'all offenses arising out
-of the 1972 Presidential Election for which the Special Prosecutor deems it
-necessary and appropriate to assume responsibility, allegations involving the
-President, members of the White House staff, or Presidential appointees, and
-any other matters which he consents to have assigned to him by the Attorney
-General.' 38 Fed.Reg. 30739, as amended by 38 Fed.Reg. 32805. In particular,
-the Special Prosecutor was given full authority, inter alia, 'to contest the
-assertion of 'Executive Privilege' . . . and handl(e) all aspects of any cases
-within his jurisdiction.' Id., at 30739. The regulations then go on the
-provide:
-
-'In exercising this authority, the Special Prosecutor will have the greatest
-degree of independence that is consistent with the Attorney General's
-statutory accountability for all matters falling within the jurisdiction of
-the Department of Justice. The Attorney General will not countermand or
-interfere with the Special Prosecutor's decisions or actions. The Special
-Prosecutor will determine whether and to what extent he will inform or consult
-with the Attorney General about the conduct of his duties and
-responsibilities. In accordance with assurances given by the President to the
-Attorney General that the President will not exercise his Constitutional
-powers to effect the discharge of the Special Prosecutor or to limit the
-independence that he is hereby given, the Special Prosecutor will not be
-removed from his duties except for extraordinary improprieties on his part and
-without the President's first consulting the Majority and the Minority Leaders
-and Chairmen and ranking Minority Members of the Judiciary Committees of the
-Senate and House of Representatives and ascertaining that their consensus is
-in accord with his proposed action.'
-
-9
-
-That this was the understanding of Acting Attorney General Robert Bork, the
-author of the regulation establishing the independence of the Special
-Prosecutor, is shown by his testimony before the Senate Judiciary Committee:
-
-'Although it is anticipated that Mr. Jaworski will receive cooperation from
-the White House in getting any evidence he feels he needs to conduct
-investigations and prosecutions, it is clear and understood on all sides that
-he has the power to use judicial processes to pursue evidence if disagreement
-should develop.'
-
-Hearings on the Special Prosecutor before the Senate Committee on the
-Judiciary 93d Cong., 1st Sess., pt. 2, p. 450 (1973). Acting Attorney General
-Bork gave similar assurances to the House Subcommittee on Criminal Justice.
-Hearings on H.J.Res. 784 and H.R. 10937 before the Subcommittee on Criminal
-Justice of the House Committee on the Judiciary, 93d Cong., 1st Sess., 266
-(1973). At his confirmation hearings, Attorney General William Saxbe testified
-that he shared Acting Attorney General Bork's views concerning the Special
-Prosecutor's authority to test any claim of executive privilege in the courts.
-Hearings on the Nomination of William B. Saxbe to be Attorney General before
-the Senate Committee on the Judiciary, 93d Cong., 1st Sess., 9 (1973).
-
-10
-
-At his confirmation hearings, Attorney General William Saxbe testified that he
-agreed with the regulation adopted by Acting Attorney General Bork and would
-not remove the Special Prosecutor except for 'gross impropriety.' Id., at 5--
-6, 8--10\. There is no contention here that the Special Prosecutor is guilty
-of any such impropriety.
-
-11
-
-The Court quoted a statement of a member of the advisory committee that the
-purpose of the Rule was to bring documents into court 'in advance of the time
-that they are offered in evidence, so that they may then be inspected in
-advance, for the purpose . . . of enabling the party to see whether he can use
-(them) or whether he wants to use (them).' 341 U.S., at 220 n. 5, 71 S.Ct., at
-678. The Manual for Complex and Multidistrict Litigation published by the
-Federal Judicial Center recommends that use of Rule 17(c) be encouraged in
-complex criminal cases in order that each party may be compelled to produce
-its documentary evidence well in advance of trial and in advance of the time
-it is to be offered. P. 150.
-
-12
-
-The District Court found here that it was faced with 'the more unusual
-situation . . . where the subpoena, rather than being directed to the
-government by defendants, issues to what, as a practical matter, is a third
-party.' United States v. Mitchell, 377 F.Supp. 1326, 1330 (D.C.1974). The
-Special Prosecutor suggests that the evidentiary requirement of Bowman Dairy
-Co. and Iozia does not apply in its full vigor when the subpoena duces tecum
-is issued to third parties rather than to government prosecutors. Brief for
-United States 128--129\. We need not decide whether a lower standard exists
-because we are satisfied that the relevance and evidentiary nature of the
-subpoenaed tapes were sufficiently shown as a preliminary matter to warrant
-the District Court's refusal to quash the subpoena.
-
-13
-
-Such statements are declarations by a party defendant that 'would surmount all
-objections based on the hearsay rule . . .' and, at least as to the declarant
-himself, 'would be admissible for whatever inferences' might be reasonably
-drawn. United States v. Matlock, 415 U.S. 164, 172, 94 S.Ct. 988, 994, 39
-L.Ed.2d 242 (1974). On Lee v. United States, 343 U.S. 747, 757, 72 S.Ct. 967,
-973, 96 L.Ed. 1270 (1952). See also McCormick, Evidence § 270, pp. 651--652
-(2d ed. 1972).
-
-14
-
-As a preliminary matter, there must be substantial, independent evidence of
-the conspiracy, at least enough to take the question to the jury. United
-States v. Vaught, 485 F.2d 320, 323 (CA4 1973); United States v. Hoffa, 349
-F.2d 20, 41--42 (CA6 1965), aff'd on other grounds, 385 U.S. 293, 87 S.Ct.
-408, 17 L.Ed.2d 374 (1966); United States v. Santos, 385 F.2d 43, 45 (CA7
-1967), cert. denied, 390 U.S. 954, 88 S.Ct. 1048, 19 L.Ed.2d 1148 (1968);
-United States v. Morton, 483 F.2d 573, 576 (CA8 1973); United States v.
-Spanos, 462 F.2d 1012, 1014 (CA9 1972); Carbo v. United States, 314 F.2d 718,
-737 (CA9 1963), cert. denied, 377 U.S. 953, 84 S.Ct. 1625, 1626, 1627, 12
-L.Ed.2d 498 (1964). Whether the standard has been satisfied is a question of
-admissibility of evidence to be decided by the trial judge.
-
-15
-
-There is nothing novel about governmental confidentiality. The meetings of the
-Constitutional Convention in 1787 were conducted in complete privacy. 1 M.
-Farrand, The Records of the Federal Convention of 1787, pp. xi--xxv (1911).
-Moreover, all records of those meetings were sealed for more than 30 years
-after the Convention. See 3 Stat. 475, 15th Cong., 1st Sess., Res. 8 (1818).
-Most of the Framers acknowledge that without secrecy no constitution of the
-kind that was developed could have been written. C. Warren, The Making of the
-Constitution 134--139 (1937).
-
-16
-
-The Special Prosecutor argues that there is no provision in the Constitution
-for a Presidential privilege as to the President's communications
-corresponding to the privilege of Members of Congress under the Speech or
-Debate Clause. But the silence of the Constitution on this score is not
-dispositive. 'The rule of constitutional interpretation announced in McCulloch
-v. Maryland, 4 Wheat. 316, 4 L.Ed. 579, that that which was reasonably
-appropriate and relevant to the exercise of a granted power was to be
-considered as accompanying the grant, has been so universally applied that it
-suffices merely to state it.' Marshall v. Gordon, 243 U.S. 521, 537, 37 S.Ct.
-448, 451, 61 L.Ed. 881 (1917).
-
-17
-
-'Freedom of communication vital to fulfillment of the aims of wholesome
-relationships is obtained only by removing the specter of compelled
-disclosure. . . . (G)overnment . . . needs open but protected channels for the
-kind of plain talk that is essential to the quality of its functioning.' Carl
-Zeiss Stiftung v. V. E. B. Carl Zeiss, Jena, 40 F.R.D. 318, 325 (DC 1966). See
-Nixon v. Sirica, 159 U.S.App.D.C. 58, 71, 487 F.2d 700, 713 (1973); Kaiser
-Aluminum & Chem. Corp. v. United States, 141 Ct.Cl. 38, 157 F.Supp. 939 (1958)
-(Reed, J.); The Federalist, No. 64 (S. Mittell ed. 1938).
-
-18
-
-Because of the key role of the testimony of witnesses in the judicial process,
-courts have historically been cautious about privileges. Mr. Justice
-Frankfurter, dissenting in Elkins v. United States, 364 U.S. 206, 234, 80
-S.Ct. 1437, 1454, 4 L.Ed.2d 1669 (1960), said of this: 'Limitations are
-properly placed upon the operation of this general principle only to the very
-limited extent that permitting a refusal to testify or excluding relevant
-evidence has a public good transcending the normally predominant principle of
-utilizing all rational means for ascertaining truth.'
-
-19
-
-We are not here concerned with the balance between the President's generalized
-interest in confidentiality and the need for relevant evidence in civil
-litigation, nor with that between the confidentiality interest and
-congressional demands for information, nor with the President's interest in
-preserving state secrets. We address only the conflict between the President's
-assertion of a generalized privilege of confidentiality and the constitutional
-need for relevant evidence in criminal trials.
-
-20
-
-Mr. Justice Cardozo made this point in an analogous context, speaking for a
-unanimous Court in Clark v. United States, 289 U.S. 1, 53 S.Ct. 465, 77 L.Ed.
-993 (1933), he emphasized the importance of maintaining the secrecy of the
-deliberations of a petit jury in a criminal case. 'Freedom of debate might be
-stifled and independence of thought checked if jurors were made to feel that
-their arguments and ballots were to be freely published to the world.' Id., at
-13, 53 S.Ct., at 469. Nonetheless, the Court also recognized that isolated
-inroads on confidentiality designed to serve the paramount need of the
-criminal law would not vitiate the interests served by secrecy:
-
-'A juror of integrity and reasonable firmness will not fear to speak his mind
-if the confidences of debate are barred to the ears of mere impertinence of
-malice. He will not expect to be shielded against the disclosure of his
-conduct in the event that there is evidence reflecting upon his honor. The
-chance that now and then there may be found some timid soul who will take
-counsel of his fears and give way to their repressive power is too remote and
-shadowy to shape the course of justice.' Id., at 16, 53 S.Ct., at 470.
-
-21
-
-When the subpoenaed material is delivered to the District Judge in camera,
-questions may arise as to the excising of parts, and it lies within the
-discretion of that court to seek the aid of the Special Prosecutor and the
-President's counsel for in camera consideration of the validity of particular
-excisions, whether the basis of excision is relevancy or admissibility or
-under such cases as United States v. Reynolds, 345 U.S. 1, 73 S.Ct. 528, 97
-L.Ed. 727 (1953), or C. & S. Air Lines v. Waterman S.S. Corp., 333 U.S. 103,
-68 S.Ct. 431, 92 L.Ed. 568 (1948).
 
