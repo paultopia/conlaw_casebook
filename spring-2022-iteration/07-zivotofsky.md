@@ -4,7 +4,9 @@
 
     
     
-       JUSTICE KENNEDY delivered the opinion of the Court.
+**JUSTICE KENNEDY delivered the opinion of the Court.**
+
+
        A delicate subject lies in the background of this case.
     That subject is Jerusalem. Questions touching upon the
     history of the ancient city and its present legal and inter-
@@ -509,6 +511,5 @@ A decade later, President Jackson faced a recognition
     Congress to exercise that exclusive power itself. As a
     result, the statute is unconstitutional.
  
- 
-     
+ \newpage
 
