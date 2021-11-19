@@ -121,7 +121,7 @@ congress of the United States, with a request that it might 'be submitted to a
 convention of delegates, chosen in each state by the people thereof, under the
 recommendation of its legislature, for their assent and ratification.' This
 mode of proceeding was adopted; and by the convention, by congress, and by the
-state legislatures, the instrument was submitted to the _people_. They acted
+state legislatures, the instrument was submitted to the people. They acted
 upon it in the only manner in which they can act safely, effectively and
 wisely, on such a subject, by assembling in convention. It is true, they
 assembled in their several states--and where else should they have assembled?
@@ -131,7 +131,6 @@ common mass. Of consequence, when they act, they act in their states. But the
 measures they adopt do not, on that account, cease to be the measures of the
 people themselves, or become the measures of the state governments.
 
-58
 
 From these conventions, the constitution derives its whole authority. The
 government proceeds directly from the people; is 'ordained and established,'
@@ -144,8 +143,6 @@ were at perfect liberty to accept or reject it; and their act was final. It
 required not the affirmance, and could not be negatived, by the state
 governments. The constitution, when thus adopted, was of complete obligation,
 and bound the state sovereignties.
-
-59
 
 It has been said, that the people had already surrendered all their powers to
 the state sovereignties, and had nothing more to give. But, surely, the
@@ -165,8 +162,6 @@ the case), is, emphatically and truly, a government of the people. In form,
 and in substance, it emanates from them. Its powers are granted by them, and
 are to be exercised directly on them, and for their benefit.
 
-60
-
 This government is acknowledged by all, to be one of enumerated powers. The
 principle, that it can exercise only the powers granted to it, would seem too
 apparent, to have required to be enforced by all those arguments, which its
@@ -177,8 +172,6 @@ arising, and will probably continue to arise, so long as our system shall
 exist. In discussing these questions, the conflicting powers of the general
 and state governments must be brought into view, and the supremacy of their
 respective laws, when they are in opposition, must be settled.
-
-61
 
 If any one proposition could command the universal assent of mankind, we might
 expect it would be this--that the government of the Union, though limited in
@@ -197,8 +190,6 @@ The government of the United States, then, though limited in its powers, is
 supreme; and its laws, when made in pursuance of the constitution, form the
 supreme law of the land, 'anything in the constitution or laws of any state to
 the contrary notwithstanding.'
-
-62
 
 Among the enumerated powers, we do not find that of establishing a bank or
 creating a corporation. But there is no phrase in the instrument which, like
@@ -227,10 +218,8 @@ instrument, but from the language. Why else were some of the limitations,
 found in the 9th section of the 1st article, introduced? It is also, in some
 degree, warranted, by their having omitted to use any restrictive term which
 might prevent its receiving a fair and just interpretation. In considering
-this question, then, we must never forget that it is a _constitution_ we are
+this question, then, we must never forget that it is a constitution we are
 expounding.
-
-63
 
 Although, among the enumerated powers of government, we do not find the word
 'bank' or 'incorporation,' we find the great powers, to lay and collect taxes;
@@ -263,8 +252,6 @@ does it prohibit the creation of a corporation, if the existence of such a
 being be essential, to the beneficial exercise of those powers. It is, then,
 the subject of fair inquiry, how far such means may be employed.
 
-64
-
 It is not denied, that the powers given to the government imply the ordinary
 means of execution. That, for example, of raising revenue, and applying it to
 national purposes, is admitted to imply the power of conveying money from
@@ -287,7 +274,6 @@ select the means; and those who contend that it may not select any appropriate
 means, that one particular mode of effecting the object is excepted, take upon
 themselves the burden of establishing that exception.
 
-65
 
 The creation of a corporation, it is said, appertains to sovereignty. This is
 admitted. But to what portion of sovereignty does it appertain? Does it belong
@@ -326,7 +312,6 @@ but for the purpose of effecting something else. No sufficient reason is,
 therefore, perceived, why it may not pass as incidental to those powers which
 are expressly given, if it be a direct mode of executing them.
 
-66
 
 But the constitution of the United States has not left the right of congress
 to employ the necessary means, for the execution of the powers conferred on
@@ -343,7 +328,6 @@ was inserted for the purpose of conferring on congress the power of making
 laws. That, without it, doubts might be entertained, whether congress could
 exercise its powers in the form of legislation.
 
-67
 
 But could this be the object for which it was inserted? A government is
 created by the people, having legislative, executive and judicial powers. Its
@@ -362,19 +346,15 @@ enable the legislature to make them? That a legislature, endowed with
 legislative powers, can legislate, is a proposition too self-evident to have
 been questioned.
 
-68
-
 But the argument on which most reliance is placed, is drawn from that peculiar
 language of this clause. Congress is not empowered by it to make all laws,
 which may have relation to the powers confered on the government, but such
-only as may be ' _necessary and proper_ ' for carrying them into execution.
-The word ' _necessary_ ' is considered as controlling the whole sentence, and
+only as may be 'necessary and proper' for carrying them into execution.
+The word 'necessary' is considered as controlling the whole sentence, and
 as limiting the right to pass laws for the execution of the granted powers, to
 such as are indispensable, and without which the power would be nugatory. That
 it excludes the choice of means, and leaves to congress, in each case, that
 only which is most direct and simple.
-
-69
 
 Is it true, that this is the sense in which the word 'necessary' is always
 used? Does it always import an absolute physical necessity, so strong, that
@@ -401,7 +381,7 @@ these several phrases. The comment on the word is well illustrated by the
 passage cited at the bar, from the 10th section of the 1st article of the
 constitution. It is, we think, impossible to compare the sentence which
 prohibits a state from laying 'imposts, or duties on imports or exports,
-except what may be _absolutely_ necessary for executing its inspection laws,'
+except what may be absolutely necessary for executing its inspection laws,'
 with that which authorizes congress 'to make all laws which shall be necessary
 and proper for carrying into execution' the powers of the general government,
 without feeling a conviction, that the convention understood itself to change
@@ -410,8 +390,6 @@ materially the meaning of the word 'necessary,' by prefixing the word
 its construction, the subject, the context, the intention of the person using
 them, are all to be taken into view.
 
-70
-
 Let this be done in the case under consideration. The subject is the execution
 of those great powers on which the welfare of a nation essentially depends. It
 must have been the intention of those who gave these powers, to insure, so far
@@ -419,8 +397,7 @@ as human prudence could insure, their beneficial execution. This could not be
 done, by confiding the choice of means to such narrow limits as not to leave
 it in the power of congress to adopt any which might be appropriate, and which
 were conducive to the end. This provision is made in a constitution, intended
-to endure for ages to come, and consequently, to be adapted to the various
-_crises_ of human affairs. To have prescribed the means by which government
+to endure for ages to come, and consequently, to be adapted to the various crises of human affairs. To have prescribed the means by which government
 should, in all future time, execute its powers, would have been to change,
 entirely, the character of the instrument, and give it the properties of a
 legal code. It would have been an unwise attempt to provide, by immutable
@@ -430,8 +407,6 @@ best means shall not be used, but those alone, without which the power given
 would be nugatory, would have been to deprive the legislature of the capacity
 to avail itself of experience, to exercise its reason, and to accommodate its
 legislation to circumstances.
-
-71
 
 If we apply this principle of construction to any of the powers of the
 government, we shall find it so pernicious in its operation that we shall be
@@ -448,8 +423,6 @@ and no other can be required. Yet, he would be charged with insanity, who
 should contend, that the legislature might not superadd, to the oath directed
 by the constitution, such other oath of office as its wisdom might suggest.
 
-72
-
 So, with respect to the whole penal code of the United States: whence arises
 the power to punish, in cases not prescribed by the constitution? All admit,
 that the government may, legitimately, punish any violation of its laws; and
@@ -457,7 +430,6 @@ yet, this is not among the enumerated powers of congress. The right to enforce
 the observance of law, by punishing its infraction, might be denied, with the
 more plausibility, because it is expressly given in some cases.
 
-73
 
 Congress is empowered 'to provide for the punishment of counterfeiting the
 securities and current coin of the United States,' and 'to define and punish
@@ -466,8 +438,6 @@ of nations.' The several powers of congress may exist, in a very imperfect
 state, to be sure, but they may exist and be carried into execution, although
 no punishment should be inflicted, in cases where the right to punish is not
 expressly given.
-
-74
 
 Take, for example, the power 'to establish post-offices and post-roads.' This
 power is executed, by the single act of making the establishment. But, from
@@ -484,8 +454,6 @@ or of perjury in such court. To punish these offences, is certainly conducive
 to the due administration of justice. But courts may exist, and may decide the
 causes brought before them, though such crimes escape punishment.
 
-75
-
 The baneful influence of this narrow construction on all the operations of the
 government, and the absolute impracticability of maintaining it, without
 rendering the government incompetent to its great objects, might be
@@ -497,8 +465,6 @@ powers. It is a means for carrying into execution all sovereign powers, and
 may be used, although not indispensably necessary. It is a right incidental to
 the power, and conducive to its beneficial exercise.
 
-76
-
 If this limited construction of the word 'necessary' must be abandoned, in
 order to punish, whence is derived the rule which would reinstate it, when the
 government would carry its powers into execution, by means not vindictive in
@@ -507,8 +473,6 @@ their nature? If the word 'necessary' means 'needful,' 'requisite,'
 the infraction of law; why is it not equally comprehensive, when required to
 authorize the use of means which facilitate the execution of the powers of
 government, without the infliction of punishment?
-
-77
 
 In ascertaining the sense in which the word 'necessary' is used in this clause
 of the constitution, we may derive some aid from that with which it it is
@@ -521,8 +485,6 @@ composition, to add a word, the only possible offect of which is, to qualify
 that strict and rigorous meaning; to present to the mind the idea of some
 choice of means of legislation, not strained and compressed within the narrow
 limits for which gentlemen contend.
-
-78
 
 But the argument which most conclusively demonstrates the error of the
 construction contended for by the counsel for the state of Maryland, is
@@ -539,8 +501,6 @@ Maryland, would abridge, and almost annihilate, this useful and necessary
 right of the legislature to select its means. That this could not be intended,
 is, we should think, had it not been already controverted, too apparent for
 controversy.
-
-79
 
 We think so for the following reasons: 1st. The clause is placed among the
 powers of congress, not among the limitations on those powers. 2d. Its terms
@@ -561,8 +521,6 @@ these. 'In carrying into execution the foregoing powers, and all others,' &c.,
 intention been to make this clause restrictive, it would unquestionably have
 been so in form as well as in effect.
 
-80
-
 The result of the most careful and attentive consideration bestowed upon this
 clause is, that if it does not enlarge, it cannot be construed to restrain the
 powers of congress, or to impair the right of the legislature to exercise its
@@ -573,7 +531,6 @@ respecting the right to legislate on that vast mass of incidental powers which
 must be involved in the constitution, if that instrument be not a splendid
 bauble.
 
-81
 
 We admit, as all must admit, that the powers of the government are limited,
 and that its limits are not to be transcended. But we think the sound
@@ -584,9 +541,7 @@ assigned to it, in the manner most beneficial to the people. Let the end be
 legitimate, let it be within the scope of the constitution, and all means
 which are appropriate, which are plainly adapted to that end, which are not
 prohibited, but consist with the letter and spirit of the constitution, are
-constitutional.7
-
-82
+constitutional.
 
 That a corporation must be considered as a means not less usual, not of higher
 dignity, not more requiring a particular specification than other means, has
@@ -602,8 +557,6 @@ among the enumerated powers of the government. But being considered merely as
 a means, to be employed only for the purpose of carrying into execution the
 given powers, there could be no motive for particularly mentioning it.
 
-83
-
 The propriety of this remark would seem to be generally acknowledged, by the
 universal acquiescence in the construction which has been uniformly put on the
 3d section of the 4th article of the constitution. The power to 'make all
@@ -612,8 +565,6 @@ belonging to the United States,' is not more comprehensive, than the power 'to
 make all laws which shall be necessary and proper for carrying into execution'
 the powers of the government. Yet all admit the constitutionality of a
 territorial government, which is a corporate body.
-
-84
 
 If a corporation may be employed, indiscriminately with other means, to carry
 into execution the powers of the government, no particular reason can be
@@ -634,8 +585,6 @@ The time has passed away, when it can be necessary to enter into any
 discussion, in order to prove the importance of this instrument, as a means to
 effect the legitimate objects of the government.
 
-85
-
 But were its necessity less apparent, none can deny its being an appropriate
 measure; and if it is, the decree of its necessity, as has been very justly
 observed, is to be discsused in another place. Should congress, in the
@@ -649,8 +598,6 @@ effect any of the objects intrusted to the government, to undertake here to
 inquire into the decree of its necessity, would be to pass the line which
 circumscribes the judicial department, and to tread on legislative ground.
 This court disclaims all pretensions to such a power.
-
-86
 
 After this declaration, it can scarcely be necessary to say, that the
 existence of state banks can have no possible influence on the question. No
@@ -666,14 +613,10 @@ designs, and is incompatible with the language of the constitution. But were
 it otherwise, the choice of means implies a right to choose a national bank in
 preference to state banks, and congress alone can make the election.
 
-87
-
 After the most deliberate consideration, it is the unanimous and decided
 opinion of this court, that the act to incorporate the Bank of the United
 States is a law made in pursuance of the constitution, and is a part of the
 supreme law of the land.
-
-88
 
 The branches, proceeding from the same stock, and being conducive to the
 complete accomplishment of the object, are equally constitutional. It would
@@ -685,14 +628,10 @@ the selection of places where those branches shall be fixed; reserving always
 to the government the right to require that a branch shall be located where it
 may be deemed necessary.
 
-89
-
 It being the opinion of the court, that the act incorporating the bank is
 constitutional; and that the power of establishing a branch in the state of
 Maryland might be properly exercised by the bank itself, we proceed to
 inquire----
-
-90
 
 2\. Whether the state of Maryland may, without violating the constitution, tax
 that branch? That the power of taxation is one of vital importance; that it is
@@ -711,8 +650,6 @@ repugnant to, the constitutional laws of the Union. A law, absolutely
 repugnant to another, as entirely repeals that other as if express terms of
 repeal were used.
 
-91
-
 On this ground, the counsel for the bank place its claim to be exempted from
 the power of a state to tax its operations. There is no express provision for
 the case, but the claim has been sustained on a principle which so entirely
@@ -730,14 +667,10 @@ hand, is hostile to, and incompatible with these powers to create and to
 preserve: 3d. That where this repugnancy exists, that authority which is
 supreme must control, not yield to that over which it is supreme.
 
-92
-
 These propositions, as abstract truths, would, perhaps, never be controverted.
 Their application to this case, however, has been denied; and both in
 maintaining the affirmative and the negative, a splendor of eloquence, and
 strength of argument, seldom, if ever, surpassed, have been displayed.
-
-93
 
 The power of congress to create, and of course, to continue, the bank, was the
 subject of the preceding part of this opinion; and is no longer to be
@@ -759,8 +692,6 @@ It is so involved in the declaration of supremacy, so necessarily implied in
 it, that the expression of it could not make it more certain. We must,
 therefore, keep it in view, while construing the constitution.
 
-94
-
 The argument on the part of the state of Maryland, is, not that the states may
 directly resist a law of congress, but that they may exercise their
 acknowledged powers upon it, and that the constitution leaves them this right,
@@ -776,8 +707,6 @@ abuse of this power, is found in the structure of the government itself. In
 imposing a tax, the legislature acts upon its constituents. This is, in
 general, a sufficient security against erroneous and oppressive taxation.
 
-95
-
 The people of a state, therefore, give to their government a right of taxing
 themselves and their property, and as the exigencies of government cannot be
 limited, they prescribe no limits to the exercise of this right, resting
@@ -790,8 +719,6 @@ constituents of the legislature, which claim the right to tax them, but by the
 people of all the states. They are given by all, for the benefit of all--and
 upon theory, should be subjected to that government only which belongs to all.
 
-96
-
 It may be objected to this definition, that the power of taxation is not
 confined to the people and property of a state. It may be exercised upon every
 object brought within its jurisdiction. This is true. But to what source do wo
@@ -800,8 +727,6 @@ co-extensive with that to which it is an incident. All subjects over which the
 sovereign power of a state extends, are objects of taxation; but those over
 which it does not extend, are, upon the soundest principles, exempt from
 taxation. This proposition may almost be pronounced self-evident.
-
-97
 
 The sovereignty of a state extends to everything which exists by its own
 authority, or is introduced by its permission; but does it extend to those
@@ -812,8 +737,6 @@ They are given by the people of the United States, to a government whose laws,
 made in pursuance of the constitution, are declared to be supreme.
 Consequently, the people of a single state cannot confer a sovereignty which
 will extend over them.
-
-98
 
 If we measure the power of taxation residing in a state, by the extent of
 sovereignty which the people of a single state possess, and can confer on its
@@ -839,8 +762,6 @@ employed by the government of the Union, for the execution of its powers. The
 right never existed, and the question whether it has been surrendered, cannot
 arise.
 
-99
-
 But, waiving this theory for the present, let us resume the inquiry, whether
 this power can be exercised by the respective states, consistently with a fair
 construction of the constitution? That the power to tax involves the power to
@@ -849,7 +770,7 @@ create; that there is a plain repugnance in conferring on one government a
 power to control the constitutional measures of another, which other, with
 respect to those very measures, is declared to be supreme over that which
 exerts the control, are propositions not to be denied. But all inconsistencies
-are to be reconciled by the magic of the word _confidence_. Taxation, it is
+are to be reconciled by the magic of the word confidence. Taxation, it is
 said, does not necessarily and unavoidably destroy. To carry it to the excess
 of destruction, would be an abuse, to presume which, would banish that
 confidence which is essential to all government. But is this a case of
@@ -863,8 +784,6 @@ are all represented. The legislature of the Union alone, therefore, can be
 trusted by the people with the power of controlling measures which concern
 all, in the confidence that it will not be abused. This, then, is not a case
 of confidence, and we must consider it is as it really is.
-
-100
 
 If we apply the principle for which the state of Maryland contends, to the
 constitution, generally, we shall find it capable of changing totally the
@@ -880,8 +799,6 @@ tax judicial process; they may tax all the means employed by the government,
 to an excess which would defeat all the ends of government. This was not
 intended by the American people. They did not design to make their government
 dependent on the states.
-
-101
 
 Gentlemen say, they do not claim the right to extend state taxation to these
 objects. They limit their pretensions to property. But on what principle, is
@@ -900,8 +817,6 @@ question is, in truth, a question of supremacy; and if the right of the states
 to tax the means employed by the general government be conceded, the
 declaration that the constitution, and the laws made in pursuance thereof,
 shall be the supreme law of the land, is empty and unmeaning declamation.
-
-102
 
 In the course of the argument, the Federalist has been quoted; and the
 opinions expressed by the authors of that work have been justly supposed to be
@@ -927,8 +842,6 @@ the national revenues; and thus, all the resources of taxation might, by
 degrees, become the subjects of federal monopoly, to the entire exclusion and
 destruction of the state governments.'
 
-103
-
 The objections to the constitution which are noticed in these numbers, were to
 the undefined power of the government to tax, not to the incidental privilege
 of exempting its own measures from state taxation. The consequences
@@ -944,8 +857,6 @@ they contended for that construction of the constitution, which would place
 within the reach of the states those measures which the government might adopt
 for the execution of its powers; no man, who has read their instructive pages,
 will hesitate to admit, that their answer must have been in the negative.
-
-104
 
 It has also been insisted, that, as the power of taxation in the general and
 state governments is acknowledged to be concurrent, every argument which would
@@ -967,13 +878,9 @@ of a part on the whole--between the laws of a government declared to be
 supreme, and those of a government which, when in opposition to those laws, is
 not supreme.
 
-105
-
 But if the full application of this argument could be admitted, it might bring
 into question the right of congress to tax the state banks, and could not
 prove the rights of the states to tax the Bank of the United States.
-
-106
 
 The court has bestowed on this subject its most deliberate consideration. The
 result is a conviction that the states have no power, by taxation or
@@ -983,8 +890,6 @@ powers vested in the general government. This is, we think, the unavoidable
 consequence of that supremacy which the constitution has declared. We are
 unanimously of opinion, that the law passed by the legislature of Maryland,
 imposing a tax on the Bank of the United States, is unconstitutional and void.
-
-107
 
 This opinion does not deprive the states of any resources which they
 originally possessed. It does not extend to a tax paid by the real property of
@@ -996,63 +901,4 @@ consequently, a tax on the operation of an instrument employed by the
 government of the Union to carry its powers into execution. Such a tax must be
 unconstitutional.
 
-108
-
-JUDGMENT.--This cause came on to be heard, on the transcript of the record of
-the court of appeals of the state of Maryland, and was argued by counsel: on
-consideration whereof, it is the opinion of this court, that the act of the
-legislature of Maryland is contrary to the constitution of the United States,
-and void; and therefore, that the said court of appeals of the state of
-Maryland erred, in affirming the judgment of the Baltimore county court, in
-which judgment was rendered against James W. McCulloch; but that the said
-court of appeals of Maryland ought to have reversed the said judgment of the
-said Baltimore county court, and ought to have given judgment for the said
-appellant, McCulloch: It is, therefore, adjudged and ordered, that the said
-judgment of the said court of appeals of the state of Maryland in this case,
-be, and the same hereby is, reversed and annulled. And this court, proceeding
-to render such judgment as the said court of appeals should have rendered; it
-is further adjudged and ordered, that the judgment of the said Baltimore
-county court be reversed and annulled, and that judgment be entered in the
-said Baltimore county court for the said James W. McCulloch.
-
-1
-
-See Hepburn _v._ Griswold, 8 Wall. 603; Knox _v._ Lee, 12 Id. 533.
-
-2
-
-But it is competent for congress to confer on the state governments the power
-to tax the shares of the national banks, within certain limitations; the power
-of taxation under the constitution, is a concurrent one. Van Allen _v._ The
-Assessors, 3 Wall. 585, NELSON, J. But, says the learned judge, congress may,
-by reason of its paramount authority, exclude the states from the exercise of
-such power. Ibid. It is difficult, however, to perceive in what part of the
-constitution, the power is conferred on congress to erect a multitude of
-moneyed corporations, in the several states, absorbing $400,000,000 of the
-capital of the country, and to exempt it from state taxation.
-
-3
-
-This case involving a constitutional question of great public importance, and
-the sovereign rights of the United States and the state of Maryland; and the
-government of the United States having directed their attorney general to
-appear for the plaintiff in error, the court dispensed with its general rule,
-permitting only two counsel to argue for each party.
-
-4
-
-See Roach _v._ Philadelphia County, 2 Am. L.J. 444; United _v._ Weise, 3 Wall.
-Jr. C. C. 72, 79.
-
-5
-
-Letters of Publius, or The Federalist, Nos. 31-36.
-
-6
-
-See Sturges _v._ Crowninshield, _ante_ , p. 122.
-
-7
-
-See Montague _v._ Richardson, 24 Conn. 348.
-
+\newpage
