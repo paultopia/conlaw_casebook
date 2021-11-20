@@ -1,375 +1,8 @@
+[TODO: strip leading whitespace]
 
-    (Slip Opinion)              OCTOBER TERM, 2011                                       1
-    
-                                           Syllabus
-    
-             NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
-           being done in connection with this case, at the time the opinion is issued.
-           The syllabus constitutes no part of the opinion of the Court but has been
-           prepared by the Reporter of Decisions for the convenience of the reader.
-           See United States v. Detroit Timber & Lumber Co., 
 
-[200 U.S. 321](/opinion/96405/united-states-v-detroit-timber-lumber-co/)
+# National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)
 
-    
-    
-    , 337.
-    
-    
-    SUPREME COURT OF THE UNITED STATES
-    
-                                           Syllabus
-    
-          NATIONAL FEDERATION OF INDEPENDENT 
-    
-         BUSINESS ET AL. v. SEBELIUS, SECRETARY OF 
-    
-            HEALTH AND HUMAN SERVICES, ET AL. 
-    
-    
-    CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
-                    THE ELEVENTH CIRCUIT
-    
-    No. 11–393.      Argued March 26, 27, 28, 2012—Decided June 28, 2012*
-    In 2010, Congress enacted the Patient Protection and Affordable Care
-      Act in order to increase the number of Americans covered by health
-      insurance and decrease the cost of health care. One key provision is
-      the individual mandate, which requires most Americans to maintain
-      “minimum essential” health insurance coverage. 
-
-26 U.S. C
-
-    
-    
-    . §5000A.
-      For individuals who are not exempt, and who do not receive health
-      insurance through an employer or government program, the means of
-      satisfying the requirement is to purchase insurance from a private
-      company. Beginning in 2014, those who do not comply with the
-      mandate must make a “[s]hared responsibility payment” to the Fed-
-      eral Government. §5000A(b)(1). The Act provides that this “penalty”
-      will be paid to the Internal Revenue Service with an individual’s tax-
-      es, and “shall be assessed and collected in the same manner” as tax
-      penalties. §§5000A(c), (g)(1).
-        Another key provision of the Act is the Medicaid expansion. The
-      current Medicaid program offers federal funding to States to assist
-      pregnant women, children, needy families, the blind, the elderly, and
-      the disabled in obtaining medical care. 
-
-42 U.S. C
-
-    
-    
-    . §1396d(a). The
-      Affordable Care Act expands the scope of the Medicaid program and
-      increases the number of individuals the States must cover. For ex-
-    
-    ——————
-      * Together with No. 11–398, Department of Health and Human Ser-
-    vices et al. v. Florida et al., and No. 11–400, Florida et al. v. Department
-    of Health and Human Services et al., also on certiorari to the same
-    court.
-    2            NATIONAL FEDERATION OF INDEPENDENT 
-    
-                         BUSINESS v. SEBELIUS
-    
-                               Syllabus
-    
-    
-        ample, the Act requires state programs to provide Medicaid coverage
-        by 2014 to adults with incomes up to 133 percent of the federal pov-
-        erty level, whereas many States now cover adults with children only
-        if their income is considerably lower, and do not cover childless adults
-        at all. §1396a(a)(10)(A)(i)(VIII). The Act increases federal funding to
-        cover the States’ costs in expanding Medicaid coverage. §1396d(y)(1).
-        But if a State does not comply with the Act’s new coverage require-
-        ments, it may lose not only the federal funding for those require-
-        ments, but all of its federal Medicaid funds. §1396c.
-           Twenty-six States, several individuals, and the National Federa-
-        tion of Independent Business brought suit in Federal District Court,
-        challenging the constitutionality of the individual mandate and the
-        Medicaid expansion. The Court of Appeals for the Eleventh Circuit
-        upheld the Medicaid expansion as a valid exercise of Congress’s
-        spending power, but concluded that Congress lacked authority to en-
-        act the individual mandate. Finding the mandate severable from the
-        Act’s other provisions, the Eleventh Circuit left the rest of the Act in-
-        tact.
-    Held: The judgment is affirmed in part and reversed in part.
-    
-
-[648 F.3d 1235](/opinion/223249/florida-ex-rel-attorney-general-v-us-dept-of-
-health-and-human-services/)
-
-    
-    
-    , affirmed in part and reversed in part.
-        1. CHIEF JUSTICE ROBERTS delivered the opinion of the Court with
-      respect to Part II, concluding that the Anti-Injunction Act does not
-      bar this suit.
-        The Anti-Injunction Act provides that “no suit for the purpose of
-      restraining the assessment or collection of any tax shall be main-
-      tained in any court by any person,” 
-
-26 U.S. C
-
-    
-    
-    . §7421(a), so that those
-      subject to a tax must first pay it and then sue for a refund. The pre-
-      sent challenge seeks to restrain the collection of the shared responsi-
-      bility payment from those who do not comply with the individual
-      mandate. But Congress did not intend the payment to be treated as
-      a “tax” for purposes of the Anti-Injunction Act. The Affordable Care
-      Act describes the payment as a “penalty,” not a “tax.” That label
-      cannot control whether the payment is a tax for purposes of the Con-
-      stitution, but it does determine the application of the Anti-Injunction
-      Act. The Anti-Injunction Act therefore does not bar this suit. Pp. 11–
-      15.
-        2. CHIEF JUSTICE ROBERTS concluded in Part III–A that the indi-
-      vidual mandate is not a valid exercise of Congress’s power under the
-      Commerce Clause and the Necessary and Proper Clause. Pp. 16–30.
-           (a) The Constitution grants Congress the power to “regulate
-      Commerce.” Art. I, §8, cl. 3 (emphasis added). The power to regulate
-      commerce presupposes the existence of commercial activity to be reg-
-      ulated. This Court’s precedent reflects this understanding: As ex-
-      pansive as this Court’s cases construing the scope of the commerce
-                       Cite as: 567 U. S. ____ (2012)                      3
-    
-                                  Syllabus
-    
-    power have been, they uniformly describe the power as reaching “ac-
-    tivity.” E.g., United States v. Lopez, 
-
-[514 U.S. 549](/opinion/117927/united-states-v-lopez/)
-
-    
-    
-    , 560. The individ-
-    ual mandate, however, does not regulate existing commercial activi-
-    ty. It instead compels individuals to become active in commerce by
-    purchasing a product, on the ground that their failure to do so affects
-    interstate commerce.
-       Construing the Commerce Clause to permit Congress to regulate
-    individuals precisely because they are doing nothing would open a
-    new and potentially vast domain to congressional authority. Con-
-    gress already possesses expansive power to regulate what people do.
-    Upholding the Affordable Care Act under the Commerce Clause
-    would give Congress the same license to regulate what people do not
-    do. The Framers knew the difference between doing something and
-    doing nothing. They gave Congress the power to regulate commerce,
-    not to compel it. Ignoring that distinction would undermine the prin-
-    ciple that the Federal Government is a government of limited and
-    enumerated powers. The individual mandate thus cannot be sus-
-    tained under Congress’s power to “regulate Commerce.” Pp. 16–27.
-          (b) Nor can the individual mandate be sustained under the Nec-
-    essary and Proper Clause as an integral part of the Affordable Care
-    Act’s other reforms. Each of this Court’s prior cases upholding laws
-    under that Clause involved exercises of authority derivative of, and
-    in service to, a granted power. E.g., United States v. Comstock, 560
-    U. S. ___. The individual mandate, by contrast, vests Congress with
-    the extraordinary ability to create the necessary predicate to the ex-
-    ercise of an enumerated power and draw within its regulatory scope
-    those who would otherwise be outside of it. Even if the individual
-    mandate is “necessary” to the Affordable Care Act’s other reforms,
-    such an expansion of federal power is not a “proper” means for mak-
-    ing those reforms effective. Pp. 27–30.
-       3. CHIEF JUSTICE ROBERTS concluded in Part III–B that the individ-
-    ual mandate must be construed as imposing a tax on those who do
-    not have health insurance, if such a construction is reasonable.
-       The most straightforward reading of the individual mandate is that
-    it commands individuals to purchase insurance. But, for the reasons
-    explained, the Commerce Clause does not give Congress that power.
-    It is therefore necessary to turn to the Government’s alternative ar-
-    gument: that the mandate may be upheld as within Congress’s power
-    to “lay and collect Taxes.” Art. I, §8, cl. 1. In pressing its taxing
-    power argument, the Government asks the Court to view the man-
-    date as imposing a tax on those who do not buy that product. Be-
-    cause “every reasonable construction must be resorted to, in order to
-    save a statute from unconstitutionality,” Hooper v. California, 
-
-[155 U.S. 648](/opinion/94074/hooper-v-california/)
-
-    
-    
-    , 657, the question is whether it is “fairly possible” to inter-
-    4            NATIONAL FEDERATION OF INDEPENDENT 
-    
-                         BUSINESS v. SEBELIUS
-    
-                               Syllabus
-    
-    
-        pret the mandate as imposing such a tax, Crowell v. Benson, 
-
-[285 U.S. 22](/opinion/101864/crowell-v-benson/)
-
-    
-    
-    , 62. Pp. 31–32.
-           4. CHIEF JUSTICE ROBERTS delivered the opinion of the Court with
-        respect to Part III–C, concluding that the individual mandate may be
-        upheld as within Congress’s power under the Taxing Clause. Pp. 33–
-        44.
-              (a) The Affordable Care Act describes the “[s]hared responsibility
-        payment” as a “penalty,” not a “tax.” That label is fatal to the appli-
-        cation of the Anti-Injunction Act. It does not, however, control
-        whether an exaction is within Congress’s power to tax. In answering
-        that constitutional question, this Court follows a functional approach,
-        “[d]isregarding the designation of the exaction, and viewing its sub-
-        stance and application.” United States v. Constantine, 
-
-[296 U.S. 287](/opinion/102515/united-states-v-constantine/)
-
-    
-    
-    ,
-        294. Pp. 33–35.
-              (b) Such an analysis suggests that the shared responsibility
-        payment may for constitutional purposes be considered a tax. The
-        payment is not so high that there is really no choice but to buy health
-        insurance; the payment is not limited to willful violations, as penal-
-        ties for unlawful acts often are; and the payment is collected solely by
-        the IRS through the normal means of taxation. Cf. Bailey v. Drexel
-        Furniture Co., 
-
-[259 U.S. 20](/opinion/99987/child-labor-tax-case/)
-
-    
-    
-    , 36–37. None of this is to say that pay-
-        ment is not intended to induce the purchase of health insurance. But
-        the mandate need not be read to declare that failing to do so is un-
-        lawful. Neither the Affordable Care Act nor any other law attaches
-        negative legal consequences to not buying health insurance, beyond
-        requiring a payment to the IRS. And Congress’s choice of language—
-        stating that individuals “shall” obtain insurance or pay a “penalty”—
-        does not require reading §5000A as punishing unlawful conduct. It
-        may also be read as imposing a tax on those who go without insur-
-        ance. See New York v. United States, 
-
-[505 U.S. 144](/opinion/112768/new-york-v-united-states/)
-
-    
-    
-    , 169–174.
-        Pp. 35–40.
-              (c) Even if the mandate may reasonably be characterized as a
-        tax, it must still comply with the Direct Tax Clause, which provides:
-        “No Capitation, or other direct, Tax shall be laid, unless in Proportion
-        to the Census or Enumeration herein before directed to be taken.”
-        Art. I, §9, cl. 4. A tax on going without health insurance is not like a
-        capitation or other direct tax under this Court’s precedents. It there-
-        fore need not be apportioned so that each State pays in proportion to
-        its population. Pp. 40–41.
-           5. CHIEF JUSTICE ROBERTS, joined by JUSTICE BREYER and JUSTICE
-        KAGAN, concluded in Part IV that the Medicaid expansion violates
-        the Constitution by threatening States with the loss of their existing
-        Medicaid funding if they decline to comply with the expansion.
-        Pp. 45–58.
-                       Cite as: 567 U. S. ____ (2012)                     5
-    
-                                  Syllabus
-    
-          (a) The Spending Clause grants Congress the power “to pay the
-    Debts and provide for the . . . general Welfare of the United States.”
-    Art. I, §8, cl. 1. Congress may use this power to establish cooperative
-    state-federal Spending Clause programs. The legitimacy of Spending
-    Clause legislation, however, depends on whether a State voluntarily
-    and knowingly accepts the terms of such programs. Pennhurst State
-    School and Hospital v. Halderman, 
-
-[451 U.S. 1](/opinion/110458/pennhurst-state-school-and-hospital-v-halderman/)
-
-    
-    
-    , 17. “[T]he Constitu-
-    tion simply does not give Congress the authority to require the States
-    to regulate.” New York v. United States, 
-
-[505 U.S. 144](/opinion/112768/new-york-v-united-states/)
-
-    
-    
-    , 178. When
-    Congress threatens to terminate other grants as a means of pressur-
-    ing the States to accept a Spending Clause program, the legislation
-    runs counter to this Nation’s system of federalism. Cf. South Dakota
-    v. Dole, 
-
-[483 U.S. 203](/opinion/111939/south-dakota-v-dole/)
-
-    
-    
-    , 211. Pp. 45–51.
-          (b) Section 1396c gives the Secretary of Health and Human Ser-
-    vices the authority to penalize States that choose not to participate in
-    the Medicaid expansion by taking away their existing Medicaid fund-
-    ing. 
-
-42 U.S. C
-
-    
-    
-    . §1396c. The threatened loss of over 10 percent of a
-    State’s overall budget is economic dragooning that leaves the States
-    with no real option but to acquiesce in the Medicaid expansion. The
-    Government claims that the expansion is properly viewed as only a
-    modification of the existing program, and that this modification is
-    permissible because Congress reserved the “right to alter, amend, or
-    repeal any provision” of Medicaid. §1304. But the expansion accom-
-    plishes a shift in kind, not merely degree. The original program was
-    designed to cover medical services for particular categories of vulner-
-    able individuals. Under the Affordable Care Act, Medicaid is trans-
-    formed into a program to meet the health care needs of the entire
-    nonelderly population with income below 133 percent of the poverty
-    level. A State could hardly anticipate that Congress’s reservation of
-    the right to “alter” or “amend” the Medicaid program included the
-    power to transform it so dramatically. The Medicaid expansion thus
-    violates the Constitution by threatening States with the loss of their
-    existing Medicaid funding if they decline to comply with the expan-
-    sion. Pp. 51–55.
-          (c) The constitutional violation is fully remedied by precluding
-    the Secretary from applying §1396c to withdraw existing Medicaid
-    funds for failure to comply with the requirements set out in the ex-
-    pansion. See §1303. The other provisions of the Affordable Care Act
-    are not affected. Congress would have wanted the rest of the Act to
-    stand, had it known that States would have a genuine choice whether
-    to participate in the Medicaid expansion. Pp. 55–58.
-       6. JUSTICE GINSBURG, joined by JUSTICE SOTOMAYOR, is of the view
-    that the Spending Clause does not preclude the Secretary from with-
-    holding Medicaid funds based on a State’s refusal to comply with the
-    6            NATIONAL FEDERATION OF INDEPENDENT 
-    
-                         BUSINESS v. SEBELIUS
-    
-                               Syllabus
-    
-    
-        expanded Medicaid program. But given the majority view, she
-        agrees with THE CHIEF JUSTICE’s conclusion in Part IV–B that the
-        Medicaid Act’s severability clause, 
-
-42 U.S. C
-
-    
-    
-    . §1303, determines the
-        appropriate remedy. Because THE CHIEF JUSTICE finds the withhold-
-        ing—not the granting—of federal funds incompatible with the Spend-
-        ing Clause, Congress’ extension of Medicaid remains available to any
-        State that affirms its willingness to participate. Even absent §1303’s
-        command, the Court would have no warrant to invalidate the funding
-        offered by the Medicaid expansion, and surely no basis to tear down
-        the ACA in its entirety. When a court confronts an unconstitutional
-        statute, its endeavor must be to conserve, not destroy, the legislation.
-        See, e.g., Ayotte v. Planned Parenthood of Northern New Eng., 
-
-[546 U.S. 320](/opinion/145691/ayotte-v-planned-parenthood-of-northern-new-
-eng/)
-
-    
-    
-    , 328–330. Pp. 60–61.
     
        ROBERTS, C. J., announced the judgment of the Court and delivered
     the opinion of the Court with respect to Parts I, II, and III–C, in which
@@ -381,55 +14,19 @@ eng/)
     BREYER and KAGAN, JJ., joined as to Parts I, II, III, and IV. SCALIA,
     KENNEDY, THOMAS, and ALITO, JJ., filed a dissenting opinion. THOMAS,
     J., filed a dissenting opinion.
-                           Cite as: 567 U. S. ____ (2012)                              1
+    
     
-                             Opinion of ROBERTS, C. J.
-    
-        NOTICE: This opinion is subject to formal revision before publication in the
-        preliminary print of the United States Reports. Readers are requested to
-        notify the Reporter of Decisions, Supreme Court of the United States, Wash-
-        ington, D. C. 20543, of any typographical or other formal errors, in order
-        that corrections may be made before the preliminary print goes to press.
-    
-    
-    SUPREME COURT OF THE UNITED STATES
-                                      _________________
-    
-                         Nos. 11–393, 11–398 and 11–400
-                                      _________________
-    
-    
-        NATIONAL FEDERATION OF INDEPENDENT
-             BUSINESS, ET AL., PETITIONERS
-    11–393                 v.
-      KATHLEEN SEBELIUS, SECRETARY OF HEALTH
-              AND HUMAN SERVICES, ET AL.
-    
-          DEPARTMENT OF HEALTH AND HUMAN
-             SERVICES, ET AL., PETITIONERS
-    11–398                 v.
-                   FLORIDA ET AL.
-    
-                  FLORIDA, ET AL., PETITIONERS
-    11–400                     v.
-                  DEPARTMENT OF HEALTH AND
-                     HUMAN SERVICES ET AL.
-    ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
-              APPEALS FOR THE ELEVENTH CIRCUIT
-                                    [June 28, 2012]
-    
-      CHIEF JUSTICE ROBERTS announced the judgment of the
+**CHIEF JUSTICE ROBERTS announced the judgment of the
     Court and delivered the opinion of the Court with respect
     to Parts I, II, and III–C, an opinion with respect to Part
     IV, in which JUSTICE BREYER and JUSTICE KAGAN join,
     and an opinion with respect to Parts III–A, III–B, and
-    III–D.
+    III–D.**
+    
+    
+    
       Today we resolve constitutional challenges to two provi-
     sions of the Patient Protection and Affordable Care Act of
-    2        NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
     2010: the individual mandate, which requires individuals
     to purchase a health insurance policy providing a mini-
     mum level of coverage; and the Medicaid expansion, which
@@ -440,261 +37,57 @@ eng/)
     to the Nation’s elected leaders. We ask only whether
     Congress has the power under the Constitution to enact
     the challenged provisions.
-      In our federal system, the National Government pos-
-    sesses only limited powers; the States and the people
-    retain the remainder. Nearly two centuries ago, Chief
-    Justice Marshall observed that “the question respecting
-    the extent of the powers actually granted” to the Federal
-    Government “is perpetually arising, and will probably
-    continue to arise, as long as our system shall exist.”
-    McCulloch v. Maryland, 
+    
 
-[4 Wheat. 316](/opinion/85272/mculloch-v-state-of-maryland/)
-
-    
-    
-    , 405 (1819). In this
-    case we must again determine whether the Constitution
-    grants Congress powers it now asserts, but which many
-    States and individuals believe it does not possess. Resolv-
-    ing this controversy requires us to examine both the limits
-    of the Government’s power, and our own limited role in
-    policing those boundaries.
-      The Federal Government “is acknowledged by all to
-    be one of enumerated powers.” Ibid. That is, rather
-    than granting general authority to perform all the conceiv-
-    able functions of government, the Constitution lists, or
-    enumerates, the Federal Government’s powers. Congress
-    may, for example, “coin Money,” “establish Post Offices,”
-    and “raise and support Armies.” Art. I, §8, cls. 5, 7, 12.
-    The enumeration of powers is also a limitation of pow-
-    ers, because “[t]he enumeration presupposes something not
-    enumerated.” Gibbons v. Ogden, 
-
-[9 Wheat. 1](/opinion/85412/gibbons-v-ogden/)
-
-    
-    
-    , 195 (1824).
-    The Constitution’s express conferral of some powers
-    makes clear that it does not grant others. And the Federal
-                     Cite as: 567 U. S. ____ (2012)            3
-    
-                       Opinion of ROBERTS, C. J.
-    
-    Government “can exercise only the powers granted to it.”
-    McCulloch, supra, at 405.
-       Today, the restrictions on government power foremost in
-    many Americans’ minds are likely to be affirmative pro-
-    hibitions, such as contained in the Bill of Rights. These
-    affirmative prohibitions come into play, however, only where
-    the Government possesses authority to act in the first
-    place. If no enumerated power authorizes Congress to
-    pass a certain law, that law may not be enacted, even if it
-    would not violate any of the express prohibitions in the
-    Bill of Rights or elsewhere in the Constitution.
-       Indeed, the Constitution did not initially include a Bill
-    of Rights at least partly because the Framers felt the enu-
-    meration of powers sufficed to restrain the Government.
-    As Alexander Hamilton put it, “the Constitution is itself,
-    in every rational sense, and to every useful purpose,
-    A BILL OF RIGHTS.” The Federalist No. 84, p. 515 (C. Ros-
-    siter ed. 1961). And when the Bill of Rights was ratified,
-    it made express what the enumeration of powers neces-
-    sarily implied: “The powers not delegated to the United
-    States by the Constitution . . . are reserved to the States
-    respectively, or to the people.” U. S. Const., Amdt. 10.
-    The Federal Government has expanded dramatically over
-    the past two centuries, but it still must show that a consti-
-    tutional grant of power authorizes each of its actions. See,
-    e.g., United States v. Comstock, 560 U. S. ___ (2010).
-       The same does not apply to the States, because the Con-
-    stitution is not the source of their power. The Consti-
-    tution may restrict state governments—as it does, for
-    example, by forbidding them to deny any person the equal
-    protection of the laws. But where such prohibitions do
-    not apply, state governments do not need constitutional au-
-    thorization to act. The States thus can and do perform
-    many of the vital functions of modern government—
-    punishing street crime, running public schools, and zoning
-    property for development, to name but a few—even though
-    4        NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    the Constitution’s text does not authorize any government
-    to do so. Our cases refer to this general power of govern-
-    ing, possessed by the States but not by the Federal Gov-
-    ernment, as the “police power.” See, e.g., United States v.
-    Morrison, 
-
-[529 U.S. 598](/opinion/118363/united-states-v-morrison/)
-
-    
-    
-    , 618–619 (2000).
-       “State sovereignty is not just an end in itself: Rather,
-    federalism secures to citizens the liberties that derive from
-    the diffusion of sovereign power.” New York v. United
-    States, 
-
-[505 U.S. 144](/opinion/112768/new-york-v-united-states/)
-
-    
-    
-    , 181 (1992) (internal quotation
-    marks omitted). Because the police power is controlled by
-    50 different States instead of one national sovereign, the
-    facets of governing that touch on citizens’ daily lives are
-    normally administered by smaller governments closer to
-    the governed. The Framers thus ensured that powers
-    which “in the ordinary course of affairs, concern the lives,
-    liberties, and properties of the people” were held by gov-
-    ernments more local and more accountable than a dis-
-    tant federal bureaucracy. The Federalist No. 45, at 293
-    (J. Madison). The independent power of the States also
-    serves as a check on the power of the Federal Government:
-    “By denying any one government complete jurisdiction
-    over all the concerns of public life, federalism protects the
-    liberty of the individual from arbitrary power.” Bond v.
-    United States, 
-
-[564 U.S. ](/opinion/218927/bond-v-united-states/)
-
-    
-    
-    ___, ___ (2011) (slip op., at 9–10).
-       This case concerns two powers that the Constitution
+     This case concerns two powers that the Constitution
     does grant the Federal Government, but which must be
     read carefully to avoid creating a general federal authority
     akin to the police power. The Constitution authorizes
     Congress to “regulate Commerce with foreign Nations, and
-    among the several States, and with the Indian Tribes.”
-    Art. I, §8, cl. 3. Our precedents read that to mean that
+    among the several States, and with the Indian Tribes.” Our precedents read that to mean that
     Congress may regulate “the channels of interstate com-
     merce,” “persons or things in interstate commerce,” and
     “those activities that substantially affect interstate com-
     merce.” Morrison, supra, at 609 (internal quotation marks
     omitted). The power over activities that substantially
-                      Cite as: 567 U. S. ____ (2012)            5
-    
-                        Opinion of ROBERTS, C. J.
-    
     affect interstate commerce can be expansive. That power
     has been held to authorize federal regulation of such seem-
     ingly local matters as a farmer’s decision to grow wheat
     for himself and his livestock, and a loan shark’s extor-
     tionate collections from a neighborhood butcher shop.
-    See Wickard v. Filburn, 
 
-[317 U.S. 111](/opinion/103716/wickard-v-filburn/)
-
-    
-    
-     (1942); Perez v.
-    United States, 
-
-[402 U.S. 146](/opinion/108326/perez-v-united-states/)
-
-    
-    
-     (1971).
        Congress may also “lay and collect Taxes, Duties, Im-
     posts and Excises, to pay the Debts and provide for the
     common Defence and general Welfare of the United
-    States.” U. S. Const., Art. I, §8, cl. 1. Put simply, Con-
+    States.”  Put simply, Con-
     gress may tax and spend. This grant gives the Federal
     Government considerable influence even in areas where
     it cannot directly regulate. The Federal Government may
     enact a tax on an activity that it cannot authorize, forbid,
-    or otherwise control. See, e.g., License Tax Cases, 
-
-[5 Wall. 462](/opinion/87845/license-tax-cases/)
-
-    
-    
-    , 471 (1867). And in exercising its spending power,
+    or otherwise control. And in exercising its spending power,
     Congress may offer funds to the States, and may condition
-    those offers on compliance with specified conditions. See,
-    e.g., College Savings Bank v. Florida Prepaid Postsecond-
-    ary Ed. Expense Bd., 
-
-[527 U.S. 666](/opinion/118317/college-savings-bank-v-florida-prepaid-
-postsecondary-ed-expense-bd/)
-
-    
-    
-    , 686 (1999). These
+    those offers on compliance with specified conditions.  These
     offers may well induce the States to adopt policies that
-    the Federal Government itself could not impose. See, e.g.,
-    South Dakota v. Dole, 
+    the Federal Government itself could not impose. 
 
-[483 U.S. 203](/opinion/111939/south-dakota-v-dole/)
-
-    
-    
-    , 205–206 (1987) (con-
-    ditioning federal highway funds on States raising their
-    drinking age to 21).
        The reach of the Federal Government’s enumerated
     powers is broader still because the Constitution authorizes
     Congress to “make all Laws which shall be necessary and
-    proper for carrying into Execution the foregoing Powers.”
-    Art. I, §8, cl. 18. We have long read this provision to give
+    proper for carrying into Execution the foregoing Powers.” We have long read this provision to give
     Congress great latitude in exercising its powers: “Let the
     end be legitimate, let it be within the scope of the constitu-
     tion, and all means which are appropriate, which are
     plainly adapted to that end, which are not prohibited, but
-    consist with the letter and spirit of the constitution, are
-    6        NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
+    consist with the letter and spirit of the constitution, are constitutional.” McCulloch.
     
-    constitutional.” McCulloch, 4 Wheat., at 421.
        Our permissive reading of these powers is explained in
     part by a general reticence to invalidate the acts of the
     Nation’s elected leaders. “Proper respect for a co-ordinate
     branch of the government” requires that we strike down
     an Act of Congress only if “the lack of constitutional
     authority to pass [the] act in question is clearly demon-
-    strated.” United States v. Harris, 
+    strated.” 
 
-[106 U.S. 629](/opinion/90728/united-states-v-harris/)
-
-    
-    
-    , 635 (1883).
-    Members of this Court are vested with the authority to
-    interpret the law; we possess neither the expertise nor
-    the prerogative to make policy judgments. Those decisions
-    are entrusted to our Nation’s elected leaders, who can be
-    thrown out of office if the people disagree with them. It is
-    not our job to protect the people from the consequences of
-    their political choices.
-       Our deference in matters of policy cannot, however,
-    become abdication in matters of law. “The powers of the
-    legislature are defined and limited; and that those lim-
-    its may not be mistaken, or forgotten, the constitution is
-    written.” Marbury v. Madison, 1 Cranch 137, 176 (1803).
-    Our respect for Congress’s policy judgments thus can
-    never extend so far as to disavow restraints on federal
-    power that the Constitution carefully constructed. “The
-    peculiar circumstances of the moment may render a
-    measure more or less wise, but cannot render it more or
-    less constitutional.” Chief Justice John Marshall, A
-    Friend of the Constitution No. V, Alexandria Gazette, July
-    5, 1819, in John Marshall’s Defense of McCulloch v. Mary-
-    land 190–191 (G. Gunther ed. 1969). And there can be no
-    question that it is the responsibility of this Court to en-
-    force the limits on federal power by striking down acts of
-    Congress that transgress those limits. Marbury v. Madi-
-    son, supra, at 175–176.
-       The questions before us must be considered against the
-    background of these basic principles.
-                     Cite as: 567 U. S. ____ (2012)           7
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court
     
                                  I
        In 2010, Congress enacted the Patient Protection and
@@ -705,67 +98,36 @@ postsecondary-ed-expense-bd/)
     provisions. This case concerns constitutional challenges to
     two key provisions, commonly referred to as the individual
     mandate and the Medicaid expansion.
+    
        The individual mandate requires most Americans to
-    maintain “minimum essential” health insurance coverage.
-    
-
-26 U.S. C
-
-    
-    
-    . §5000A. The mandate does not apply to some
-    individuals, such as prisoners and undocumented aliens.
-    §5000A(d). Many individuals will receive the required cov-
-    erage through their employer, or from a government pro-
-    gram such as Medicaid or Medicare. See §5000A(f). But
+    maintain “minimum essential” health insurance coverage. Many individuals will receive the required coverage through their employer, or from a government pro-
+    gram such as Medicaid or Medicare. But
     for individuals who are not exempt and do not receive
     health insurance through a third party, the means of
     satisfying the requirement is to purchase insurance from a
     private company.
+    
        Beginning in 2014, those who do not comply with the
     mandate must make a “[s]hared responsibility payment”
-    to the Federal Government. §5000A(b)(1). That payment,
+    to the Federal Government. That payment,
     which the Act describes as a “penalty,” is calculated as a
     percentage of household income, subject to a floor based on
     a specified dollar amount and a ceiling based on the aver-
     age annual premium the individual would have to pay for
-    qualifying private health insurance. §5000A(c). In 2016,
+    qualifying private health insurance.  In 2016,
     for example, the penalty will be 2.5 percent of an individ-
     ual’s household income, but no less than $695 and no more
     than the average yearly premium for insurance that co-
     vers 60 percent of the cost of 10 specified services (e.g.,
-    prescription drugs and hospitalization). Ibid.; 
-
-42 U.S. C
-
-    
-    
-    .
-    §18022. The Act provides that the penalty will be paid to
-    the Internal Revenue Service with an individual’s taxes,
-    and “shall be assessed and collected in the same manner”
-    8        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
-    as tax penalties, such as the penalty for claiming too
-    large an income tax refund. 
-
-26 U.S. C
-
-    
-    
-    . §5000A(g)(1). The
+    prescription drugs and hospitalization). The Act provides that the penalty will be paid to the Internal Revenue Service with an individual’s taxes,
+    and “shall be assessed and collected in the same manner”as tax penalties, such as the penalty for claiming too large an income tax refund.  The
     Act, however, bars the IRS from using several of its nor-
     mal enforcement tools, such as criminal prosecutions and
-    levies. §5000A(g)(2). And some individuals who are sub-
+    levies. And some individuals who are sub-
     ject to the mandate are nonetheless exempt from the
     penalty—for example, those with income below a certain
-    threshold and members of Indian tribes. §5000A(e).
+    threshold and members of Indian tribes. 
+
        On the day the President signed the Act into law, Flor-
     ida and 12 other States filed a complaint in the Federal
     District Court for the Northern District of Florida. Those
@@ -775,131 +137,13 @@ postsecondary-ed-expense-bd/)
     eration of Independent Business. The plaintiffs alleged,
     among other things, that the individual mandate provi-
     sions of the Act exceeded Congress’s powers under Article
-    I of the Constitution. The District Court agreed, holding
-    that Congress lacked constitutional power to enact the
-    individual mandate. 
-
-[780 F. Supp. 2d 1256](/opinion/2117580/florida-ex-rel-bondi-v-us-dept-of-
-health-and-human-services/)
-
-    
-    
-     (ND Fla. 2011).
-    The District Court determined that the individual man-
-    date could not be severed from the remainder of the Act,
-    and therefore struck down the Act in its entirety. Id., at
-    1305–1306.
-       The Court of Appeals for the Eleventh Circuit affirmed
-    in part and reversed in part. The court affirmed the Dis-
-    trict Court’s holding that the individual mandate exceeds
-    Congress’s power. 
-
-[648 F.3d 1235](/opinion/223249/florida-ex-rel-attorney-general-v-us-dept-of-
-health-and-human-services/)
-
-    
-    
-     (2011). The panel
-    unanimously agreed that the individual mandate did not
-    impose a tax, and thus could not be authorized by Con-
-    gress’s power to “lay and collect Taxes.” U. S. Const.,
-    Art. I, §8, cl. 1. A majority also held that the individual
-    mandate was not supported by Congress’s power to “regu-
-    late Commerce . . . among the several States.” Id., cl. 3.
-    According to the majority, the Commerce Clause does not
-    empower the Federal Government to order individuals to
-                         Cite as: 567 U. S. ____ (2012)                    9
-    
-                           Opinion of ofOBERTS, C. J.
-                             Opinion R the Court
-    
-    engage in commerce, and the Government’s efforts to cast
-    the individual mandate in a different light were unpersua-
-    sive. Judge Marcus dissented, reasoning that the individ-
-    ual mandate regulates economic activity that has a clear
-    effect on interstate commerce.
-       Having held the individual mandate to be unconstitu-
-    tional, the majority examined whether that provision
-    could be severed from the remainder of the Act. The ma-
-    jority determined that, contrary to the District Court’s
-    view, it could. The court thus struck down only the indi-
-    vidual mandate, leaving the Act’s other provisions intact.
-    
-
-648 F. 3d
-
-    
-    
-    , at 1328.
-       Other Courts of Appeals have also heard challenges to
-    the individual mandate. The Sixth Circuit and the D. C.
-    Circuit upheld the mandate as a valid exercise of Con-
-    gress’s commerce power. See Thomas More Law Center v.
-    Obama, 
-
-[651 F.3d 529](/opinion/2427342/thomas-more-law-center-v-obama/)
-
-    
-    
-     (CA6 2011); Seven-Sky v. Holder,
-    
-
-[661 F.3d 1](/opinion/616874/seven-sky-v-holder/)
-
-    
-    
-     (CADC 2011). The Fourth Circuit determined
-    that the Anti-Injunction Act prevents courts from consid-
-    ering the merits of that question. See Liberty Univ., Inc.
-    v. Geithner, 
-
-671 F.3d 391
-
-    
-    
-     (2011). That statute bars suits
-    “for the purpose of restraining the assessment or collection
-    of any tax.” 
-
-26 U.S. C
-
-    
-    
-    . §7421(a). A majority of the Fourth
-    Circuit panel reasoned that the individual mandate’s
-    penalty is a tax within the meaning of the Anti-Injunction
-    Act, because it is a financial assessment collected by the
-    IRS through the normal means of taxation. The majority
-    therefore determined that the plaintiffs could not chal-
-    lenge the individual mandate until after they paid the
-    penalty.1
-    ——————
-      1 The Eleventh Circuit did not consider whether the Anti-Injunction
-    
-    Act bars challenges to the individual mandate. The District Court had
-    determined that it did not, and neither side challenged that holding on
-    appeal. The same was true in the Fourth Circuit, but that court
-    examined the question sua sponte because it viewed the Anti-Injunction
-    Act as a limit on its subject matter jurisdiction. See Liberty Univ., 671
-    10         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court 
-    
-    
+    I of the Constitution. 
+        
        The second provision of the Affordable Care Act directly
     challenged here is the Medicaid expansion. Enacted in
     1965, Medicaid offers federal funding to States to assist
     pregnant women, children, needy families, the blind, the
-    elderly, and the disabled in obtaining medical care. See 
-
-42 U.S. C
-
-    
-    
-    . §1396a(a)(10). In order to receive that funding,
+    elderly, and the disabled in obtaining medical care.  In order to receive that funding,
     States must comply with federal criteria governing mat-
     ters such as who receives care and what services are pro-
     vided at what cost. By 1982 every State had chosen to
@@ -907,6 +151,7 @@ health-and-human-services/)
     the Medicaid program have become a substantial part of
     state budgets, now constituting over 10 percent of most
     States’ total revenue.
+    
        The Affordable Care Act expands the scope of the Medi-
     caid program and increases the number of individuals the
     States must cover. For example, the Act requires state
@@ -914,57 +159,21 @@ health-and-human-services/)
     incomes up to 133 percent of the federal poverty level,
     whereas many States now cover adults with children only
     if their income is considerably lower, and do not cover
-    childless adults at all. See §1396a(a)(10)(A)(i)(VIII). The
+    childless adults at all. The
     Act increases federal funding to cover the States’ costs in
     expanding Medicaid coverage, although States will bear a
-    portion of the costs on their own. §1396d(y)(1). If a State
+    portion of the costs on their own. If a State
     does not comply with the Act’s new coverage require-
     ments, it may lose not only the federal funding for those
-    requirements, but all of its federal Medicaid funds. See
-    §1396c.
+    requirements, but all of its federal Medicaid funds. 
+
        Along with their challenge to the individual mandate,
     the state plaintiffs in the Eleventh Circuit argued that the
-    Medicaid expansion exceeds Congress’s constitutional
-    
-    ——————
-    F. 3d, at 400–401. The Sixth Circuit and the D. C. Circuit considered
-    the question but determined that the Anti-Injunction Act did not apply.
-    See Thomas More, 
+    Medicaid expansion exceeds Congress’s constitutional powers. 
 
-651 F. 3d
-
-    
-    
-    , at 539–540 (CA6); Seven-Sky, 
-
-661 F. 3d
-
-    
-    
-    ,
-    at 5–14 (CADC).
-                         Cite as: 567 U. S. ____ (2012)                  11
-    
-                           Opinion of ofOBERTS, C. J.
-                             Opinion R the Court
-    
-    powers. The Court of Appeals unanimously held that the
-    Medicaid expansion is a valid exercise of Congress’s power
-    under the Spending Clause. U. S. Const., Art. I, §8, cl. 1.
-    And the court rejected the States’ claim that the threat-
-    ened loss of all federal Medicaid funding violates the
-    Tenth Amendment by coercing them into complying with
-    the Medicaid expansion. 
-
-648 F. 3d
-
-    
-    
-    , at 1264, 1268.
       We granted certiorari to review the judgment of the
     Court of Appeals for the Eleventh Circuit with respect to
-    both the individual mandate and the Medicaid expansion.
-    565 U. S. ___ (2011). Because no party supports the Elev-
+    both the individual mandate and the Medicaid expansion. Because no party supports the Elev-
     enth Circuit’s holding that the individual mandate can
     be completely severed from the remainder of the Affordable
     Care Act, we appointed an amicus curiae to defend that
@@ -972,48 +181,18 @@ health-and-human-services/)
     reasonable argument that the Anti-Injunction Act de-
     prives us of jurisdiction to hear challenges to the individ-
     ual mandate, but no party supports that proposition, we
-    appointed an amicus curiae to advance it.2
-                                  II
+    appointed an amicus curiae to advance it.
+    
        Before turning to the merits, we need to be sure we have
     the authority to do so. The Anti-Injunction Act provides
     that “no suit for the purpose of restraining the assessment
     or collection of any tax shall be maintained in any court
     by any person, whether or not such person is the per-
-    son against whom such tax was assessed.” 
-
-26 U.S. C
-
-    
-    
-    .
-    §7421(a). This statute protects the Government’s ability
+    son against whom such tax was assessed.”This statute protects the Government’s ability
     to collect a consistent stream of revenue, by barring litiga-
     tion to enjoin or otherwise obstruct the collection of taxes.
-    Because of the Anti-Injunction Act, taxes can ordinarily be
-    ——————
-      2 We appointed H. Bartow Farr III to brief and argue in support of the
-    
-    Eleventh Circuit’s judgment with respect to severability, and Robert A.
-    Long to brief and argue the proposition that the Anti-Injunction Act
-    bars the current challenges to the individual mandate. 565 U. S. ___
-    (2011). Both amici have ably discharged their assigned responsibilities.
-    12       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
-    challenged only after they are paid, by suing for a refund.
-    See Enochs v. Williams Packing & Nav. Co., 
+    Because of the Anti-Injunction Act, taxes can ordinarily be challenged only after they are paid, by suing for a refund.
 
-[370 U.S. 1](/opinion/106413/enochs-v-williams-packing-nav-co/)
-
-    
-    
-    ,
-    7–8 (1962).
        The penalty for not complying with the Affordable Care
     Act’s individual mandate first becomes enforceable in
     2014. The present challenge to the mandate thus seeks to
@@ -1021,35 +200,25 @@ health-and-human-services/)
     that the Internal Revenue Code treats the penalty as a
     tax, and that the Anti-Injunction Act therefore bars this
     suit.
+
        The text of the pertinent statutes suggests otherwise.
     The Anti-Injunction Act applies to suits “for the purpose
     of restraining the assessment or collection of any tax.”
-    §7421(a) (emphasis added). Congress, however, chose to
+     Congress, however, chose to
     describe the “[s]hared responsibility payment” imposed on
     those who forgo health insurance not as a “tax,” but as a
-    “penalty.” §§5000A(b), (g)(2). There is no immediate
+    “penalty.”  There is no immediate
     reason to think that a statute applying to “any tax” would
     apply to a “penalty.”
+    
        Congress’s decision to label this exaction a “penalty”
     rather than a “tax” is significant because the Affordable
     Care Act describes many other exactions it creates as
-    “taxes.” See Thomas More, 
-
-651 F. 3d
-
-    
-    
-    , at 551. Where
+    “taxes.”  Where
     Congress uses certain language in one part of a statute
     and different language in another, it is generally pre-
-    sumed that Congress acts intentionally. See Russello v.
-    United States, 
-
-[464 U.S. 16](/opinion/111043/russello-v-united-states/)
-
-    
-    
-    , 23 (1983).
+    sumed that Congress acts intentionally. 
+.
        Amicus argues that even though Congress did not label
     the shared responsibility payment a tax, we should treat it
     as such under the Anti-Injunction Act because it functions
@@ -1058,51 +227,18 @@ health-and-human-services/)
     poses simply by describing it as one or the other. Congress
     may not, for example, expand its power under the Taxing
     Clause, or escape the Double Jeopardy Clause’s constraint
-    on criminal sanctions, by labeling a severe financial pun-
-                     Cite as: 567 U. S. ____ (2012)          13
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court
-    
-    ishment a “tax.” See Bailey v. Drexel Furniture Co., 
+    on criminal sanctions, by labeling a severe financial punishment a “tax.” See Bailey v. Drexel Furniture Co. (1922).
 
-[259 U.S. 20](/opinion/99987/child-labor-tax-case/)
-
-    
-    
-    , 36–37 (1922); Department of Revenue of Mont. v.
-    Kurth Ranch, 
-
-[511 U.S. 767](/opinion/1087946/department-of-revenue-of-mont-v-kurth-ranch/)
-
-    
-    
-    , 779 (1994).
        The Anti-Injunction Act and the Affordable Care Act,
     however, are creatures of Congress’s own creation. How
     they relate to each other is up to Congress, and the best
     evidence of Congress’s intent is the statutory text. We
     have thus applied the Anti-Injunction Act to statutorily
     described “taxes” even where that label was inaccurate.
-    See Bailey v. George, 
-
-[259 U.S. 16](/opinion/99986/bailey-collector-of-internal-revenue-v-george/)
-
     
-    
-     (1922) (Anti-Injunction
-    Act applies to “Child Labor Tax” struck down as exceeding
-    Congress’s taxing power in Drexel Furniture).
        Congress can, of course, describe something as a penalty
     but direct that it nonetheless be treated as a tax for pur-
-    poses of the Anti-Injunction Act. For example, 
-
-26 U.S. C
-
-    
-    
-    .
-    §6671(a) provides that “any reference in this title to ‘tax’
+    poses of the Anti-Injunction Act. For example,§6671(a) provides that “any reference in this title to ‘tax’
     imposed by this title shall be deemed also to refer to the
     penalties and liabilities provided by” subchapter 68B of
     the Internal Revenue Code. Penalties in subchapter 68B
@@ -1111,6 +247,7 @@ health-and-human-services/)
     ever, is not in subchapter 68B of the Code. Nor does any
     other provision state that references to taxes in Title 26
     shall also be “deemed” to apply to the individual mandate.
+    
        Amicus attempts to show that Congress did render the
     Anti-Injunction Act applicable to the individual mandate,
     albeit by a more circuitous route. Section 5000A(g)(1) spec-
@@ -1123,79 +260,36 @@ health-and-human-services/)
     the penalty be “assessed and collected in the same man-
     ner as taxes,” §5000A(g)(1) made the Anti-Injunction Act
     applicable to this penalty.
-    14       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
-       The Government disagrees. It argues that §5000A(g)(1)
+           The Government disagrees. It argues that §5000A(g)(1)
     does not direct courts to apply the Anti-Injunction Act,
     because §5000A(g) is a directive only to the Secretary of
     the Treasury to use the same “ ‘methodology and proce-
     dures’ ” to collect the penalty that he uses to collect taxes.
-    Brief for United States 32–33 (quoting Seven-Sky, 
 
-661 F. 3d
-
-    
-    
-    , at 11).
        We think the Government has the better reading. As
     it observes, “Assessment” and “Collection” are chapters of
     the Internal Revenue Code providing the Secretary author-
     ity to assess and collect taxes, and generally specifying
-    the means by which he shall do so. See §6201 (assess-
-    ment authority); §6301 (collection authority). Section
+    the means by which he shall do so. Section
     5000A(g)(1)’s command that the penalty be “assessed and
     collected in the same manner” as taxes is best read as
     referring to those chapters and giving the Secretary the
     same authority and guidance with respect to the penalty.
     That interpretation is consistent with the remainder of
     §5000A(g), which instructs the Secretary on the tools he
-    may use to collect the penalty. See §5000A(g)(2)(A) (bar-
-    ring criminal prosecutions); §5000A(g)(2)(B) (prohibiting
-    the Secretary from using notices of lien and levies). The
+    may use to collect the penalty. The
     Anti-Injunction Act, by contrast, says nothing about the
     procedures to be used in assessing and collecting taxes.
-       Amicus argues in the alternative that a different section
-    of the Internal Revenue Code requires courts to treat the
-    penalty as a tax under the Anti-Injunction Act. Section
-    6201(a) authorizes the Secretary to make “assessments of
-    all taxes (including interest, additional amounts, additions
-    to the tax, and assessable penalties).” (Emphasis added.)
-    Amicus contends that the penalty must be a tax, because
-    it is an assessable penalty and §6201(a) says that taxes
-    include assessable penalties.
-       That argument has force only if §6201(a) is read in
-    isolation. The Code contains many provisions treating
-    taxes and assessable penalties as distinct terms. See, e.g.,
-                     Cite as: 567 U. S. ____ (2012)          15
     
-                       Opinion of ROBERTS, C. J.
     
-    §§860(h)(1), 6324A(a), 6601(e)(1)–(2), 6602, 7122(b). There
-    would, for example, be no need for §6671(a) to deem “tax”
-    to refer to certain assessable penalties if the Code al-
-    ready included all such penalties in the term “tax.” In-
-    deed, amicus’s earlier observation that the Code requires
-    assessable penalties to be assessed and collected “in the
-    same manner as taxes” makes little sense if assessable
-    penalties are themselves taxes. In light of the Code’s
-    consistent distinction between the terms “tax” and “as-
-    sessable penalty,” we must accept the Government’s in-
-    terpretation: §6201(a) instructs the Secretary that his
-    authority to assess taxes includes the authority to assess
-    penalties, but it does not equate assessable penalties to
-    taxes for other purposes.
       The Affordable Care Act does not require that the pen-
     alty for failing to comply with the individual mandate be
     treated as a tax for purposes of the Anti-Injunction Act.
     The Anti-Injunction Act therefore does not apply to this
     suit, and we may proceed to the merits.
+    
                                   III
+    
        The Government advances two theories for the proposi-
     tion that Congress had constitutional authority to enact
     the individual mandate. First, the Government argues
@@ -1211,11 +305,8 @@ health-and-human-services/)
     individuals to buy insurance, the only effect of the indi-
     vidual mandate is to raise taxes on those who do not do so,
     and thus the law may be upheld as a tax.
-    16       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-                                  A
+                                      III.A
+                                      
       The Government’s first argument is that the individual
     mandate is a valid exercise of Congress’s power under the
     Commerce Clause and the Necessary and Proper Clause.
@@ -1226,14 +317,7 @@ health-and-human-services/)
     ance, they often will not be able to pay for it. Because
     state and federal laws nonetheless require hospitals to
     provide a certain degree of care to individuals without
-    regard to their ability to pay, see, e.g., 
-
-42 U.S. C
-
-    
-    
-    . §1395dd;
-    Fla. Stat. Ann. §395.1041, hospitals end up receiving
+    regard to their ability to pay, hospitals end up receiving
     compensation for only a portion of the services they pro-
     vide. To recoup the losses, hospitals pass on the cost to
     insurers through higher rates, and insurers, in turn, pass
@@ -1242,11 +326,6 @@ health-and-human-services/)
     sated care raises family health insurance premiums, on
     average, by over $1,000 per year. 
 
-42 U.S. C
-
-    
-    
-    . §18091(2)(F).
       In the Affordable Care Act, Congress addressed the
     problem of those who cannot obtain insurance coverage
     because of preexisting conditions or other health issues. It
@@ -1254,8 +333,8 @@ health-and-human-services/)
     rating” provisions. These provisions together prohibit in-
     surance companies from denying coverage to those with
     such conditions or charging unhealthy individuals higher
-    premiums than healthy individuals. See §§300gg, 300gg–1,
-    300gg–3, 300gg–4.
+    premiums than healthy individuals. 
+
       The guaranteed-issue and community-rating reforms do
     not, however, address the issue of healthy individuals who
     choose not to purchase insurance to cover potential health
@@ -1263,17 +342,13 @@ health-and-human-services/)
     problem, by providing an incentive for individuals to delay
     purchasing health insurance until they become sick, rely-
     ing on the promise of guaranteed and affordable coverage.
-                      Cite as: 567 U. S. ____ (2012)             17
-    
-                        Opinion of ROBERTS, C. J.
-    
+
     The reforms also threaten to impose massive new costs on
     insurers, who are required to accept unhealthy individuals
     but prohibited from charging them rates necessary to pay
     for their coverage. This will lead insurers to significantly
-    increase premiums on everyone. See Brief for America’s
-    Health Insurance Plans et al. as Amici Curiae in No. 11–
-    393 etc. 8–9.
+    increase premiums on everyone. 
+
       The individual mandate was Congress’s solution to
     these problems. By requiring that individuals purchase
     health insurance, the mandate prevents cost-shifting by
@@ -1285,211 +360,69 @@ health-and-human-services/)
     the reforms require them to accept. The Government
     claims that Congress has power under the Commerce and
     Necessary and Proper Clauses to enact this solution.
-                                   1
+    
+                                   
        The Government contends that the individual mandate
     is within Congress’s power because the failure to pur-
     chase insurance “has a substantial and deleterious effect
-    on interstate commerce” by creating the cost-shifting prob-
-    lem. Brief for United States 34. The path of our Com-
-    merce Clause decisions has not always run smooth, see
-    United States v. Lopez, 
-
-[514 U.S. 549](/opinion/117927/united-states-v-lopez/)
-
-    
-    
-    , 552–559 (1995), but
-    it is now well established that Congress has broad author-
-    ity under the Clause. We have recognized, for example,
+    on interstate commerce” by creating the cost-shifting problem. The path of our Commerce Clause decisions has not always run smooth, but
+    it is now well established that Congress has broad authority under the Clause. We have recognized, for example,
     that “[t]he power of Congress over interstate commerce is
     not confined to the regulation of commerce among the
     states,” but extends to activities that “have a substantial
-    effect on interstate commerce.” United States v. Darby,
-    
-
-[312 U.S. 100](/opinion/103442/united-states-v-darby/)
-
-    
-    
-    , 118–119 (1941). Congress’s power, more-
-    over, is not limited to regulation of an activity that by itself
+    effect on interstate commerce.”  Congress’s power, moreover, is not limited to regulation of an activity that by itself
     substantially affects interstate commerce, but also extends
-    18          NATIONAL FEDERATION OF INDEPENDENT
-                        BUSINESS v. SEBELIUS
-                        Opinion of ROBERTS, C. J.
-    
     to activities that do so only when aggregated with similar
-    activities of others. See Wickard, 317 U. S., at 127–128.
-       Given its expansive scope, it is no surprise that Con-
-    gress has employed the commerce power in a wide variety
+    activities of others. See Wickard.
+    
+       Given its expansive scope, it is no surprise that Congress has employed the commerce power in a wide variety
     of ways to address the pressing needs of the time. But
     Congress has never attempted to rely on that power to
     compel individuals not engaged in commerce to purchase
-    an unwanted product.3 Legislative novelty is not nec-
-    essarily fatal; there is a first time for everything. But
-    sometimes “the most telling indication of [a] severe con-
-    stitutional problem . . . is the lack of historical precedent”
-    for Congress’s action. Free Enterprise Fund v. Public Com-
-    pany Accounting Oversight Bd., 
-
-[561 U.S. ](/opinion/149586/free-enterprise-fund-v-public-company-accounting-
-oversight-bd/)
-
-    
-    
-    ___, ___ (2010)
-    (slip op., at 25) (internal quotation marks omitted). At the
+    an unwanted product. Legislative novelty is not necessarily fatal; there is a first time for everything. But
+    sometimes “the most telling indication of [a] severe constitutional problem . . . is the lack of historical precedent”
+    for Congress’s action.  At the
     very least, we should “pause to consider the implications of
     the Government’s arguments” when confronted with such
-    new conceptions of federal power. Lopez, supra, at 564.
+    new conceptions of federal power. 
+
        The Constitution grants Congress the power to “regulate
-    Commerce.” Art. I, §8, cl. 3 (emphasis added). The power
-    to regulate commerce presupposes the existence of com-
-    mercial activity to be regulated. If the power to “regulate”
+    Commerce.” The power
+    to regulate commerce presupposes the existence of commercial activity to be regulated. If the power to “regulate”
     something included the power to create it, many of the
     provisions in the Constitution would be superfluous. For
     example, the Constitution gives Congress the power to
     “coin Money,” in addition to the power to “regulate the
-    Value thereof.” Id., cl. 5. And it gives Congress the power
-    ——————
-      3 The    examples of other congressional mandates cited by JUSTICE
-    GINSBURG, post, at 35, n. 10 (opinion concurring in part, concurring in
-    judgment in part, and dissenting in part), are not to the contrary. Each
-    of those mandates—to report for jury duty, to register for the draft, to
-    purchase firearms in anticipation of militia service, to exchange gold
-    currency for paper currency, and to file a tax return—are based on
-    constitutional provisions other than the Commerce Clause. See Art. I,
-    §8, cl. 9 (to “constitute Tribunals inferior to the supreme Court”); id.,
-    cl. 12 (to “raise and support Armies”); id., cl. 16 (to “provide for organiz-
-    ing, arming, and disciplining, the Militia”); id., cl. 5 (to “coin Money”);
-    id., cl. 1 (to “lay and collect Taxes”).
-                         Cite as: 567 U. S. ____ (2012)                    19
-    
-                           Opinion of ROBERTS, C. J.
-    
-    to “raise and support Armies” and to “provide and main-
+    Value thereof.” And it gives Congress the power to “raise and support Armies” and to “provide and main-
     tain a Navy,” in addition to the power to “make Rules
     for the Government and Regulation of the land and naval
-    Forces.” Id., cls. 12–14. If the power to regulate the
+    Forces.” If the power to regulate the
     armed forces or the value of money included the power to
     bring the subject of the regulation into existence, the
     specific grant of such powers would have been unneces-
     sary. The language of the Constitution reflects the natu-
     ral understanding that the power to regulate assumes
-    there is already something to be regulated. See Gibbons, 9
-    Wheat., at 188 (“[T]he enlightened patriots who framed
-    our constitution, and the people who adopted it, must be
-    understood to have employed words in their natural sense,
-    and to have intended what they have said”).4
-      Our precedent also reflects this understanding. As
-    expansive as our cases construing the scope of the com-
-    merce power have been, they all have one thing in com-
-    mon: They uniformly describe the power as reaching
-    “activity.” It is nearly impossible to avoid the word when
-    quoting them. See, e.g., Lopez, supra, at 560 (“Where
-    economic activity substantially affects interstate com-
-    merce, legislation regulating that activity will be sus-
-    
-    ——————
-      4 JUSTICE  GINSBURG suggests that “at the time the Constitution was
-    framed, to ‘regulate’ meant, among other things, to require action.”
-    Post, at 23 (citing Seven-Sky v. Holder, 
+    there is already something to be regulated. 
 
-[661 F.3d 1](/opinion/616874/seven-sky-v-holder/)
-
-    
-    
-    , 16 (CADC 2011);
-    brackets and some internal quotation marks omitted). But to reach
-    this conclusion, the case cited by JUSTICE GINSBURG relied on a diction-
-    ary in which “[t]o order; to command” was the fifth-alternative defini-
-    tion of “to direct,” which was itself the second-alternative definition of
-    “to regulate.” See Seven-Sky, supra, at 16 (citing S. Johnson, Diction-
-    ary of the English Language (4th ed. 1773) (reprinted 1978)). It is
-    unlikely that the Framers had such an obscure meaning in mind when
-    they used the word “regulate.” Far more commonly, “[t]o regulate”
-    meant “[t]o adjust by rule or method,” which presupposes something to
-    adjust. 2 Johnson, supra, at 1619; see also Gibbons, 9 Wheat., at 196
-    (defining the commerce power as the power “to prescribe the rule by
-    which commerce is to be governed”).
-    20         NATIONAL FEDERATION OF INDEPENDENT
-                       BUSINESS v. SEBELIUS
-                       Opinion of ROBERTS, C. J.
-    
-    tained”); Perez, 402 U. S., at 154 (“Where the class of
-    activities is regulated and that class is within the reach of
-    federal power, the courts have no power to excise, as triv-
-    ial, individual instances of the class” (emphasis in original;
-    internal quotation marks omitted)); Wickard, supra, at
-    125 (“[E]ven if appellee’s activity be local and though it
-    may not be regarded as commerce, it may still, whatever
-    its nature, be reached by Congress if it exerts a substan-
-    tial economic effect on interstate commerce”); NLRB v.
-    Jones & Laughlin Steel Corp., 
-
-[301 U.S. 1](/opinion/102804/nlrb-v-jones-laughlin-steel-corp/)
-
-    
-    
-    , 37 (1937) (“Al-
-    though activities may be intrastate in character when
-    separately considered, if they have such a close and sub-
-    stantial relation to interstate commerce that their control
-    is essential or appropriate to protect that commerce from
-    burdens and obstructions, Congress cannot be denied the
-    power to exercise that control”); see also post, at 15, 25–26,
-    28, 32 (GINSBURG, J., concurring in part, concurring in
-    judgment in part, and dissenting in part).5
        The individual mandate, however, does not regulate
-    existing commercial activity. It instead compels individ-
-    uals to become active in commerce by purchasing a product,
+    existing commercial activity. It instead compels individuals to become active in commerce by purchasing a product,
     on the ground that their failure to do so affects interstate
-    commerce. Construing the Commerce Clause to permit Con-
-    gress to regulate individuals precisely because they are
-    doing nothing would open a new and potentially vast do-
-    main to congressional authority. Every day individuals do
-    not do an infinite number of things. In some cases they
-    ——————
-      5 JUSTICE GINSBURG cites two eminent domain cases from the 1890s to
-    
-    support the proposition that our case law does not “toe the activity
-    versus inactivity line.” Post, at 24–25 (citing Monongahela Nav. Co. v.
-    United States, 
-
-[148 U.S. 312](/opinion/93562/monongahela-nav-co-v-united-states/)
-
-    
-    
-    , 335–337 (1893), and Cherokee Nation v.
-    Southern Kansas R. Co., 
-
-[135 U.S. 641](/opinion/92808/cherokee-nation-v-southern-kansas-r-co/)
-
-    
-    
-    , 657–659 (1890)). The fact that
-    the Fifth Amendment requires the payment of just compensation
-    when the Government exercises its power of eminent domain does not
-    turn the taking into a commercial transaction between the landowner
-    and the Government, let alone a government-compelled transaction
-    between the landowner and a third party.
-                     Cite as: 567 U. S. ____ (2012)          21
-    
-                       Opinion of ROBERTS, C. J.
-    
-    decide not to do something; in others they simply fail to
+    commerce. Construing the Commerce Clause to permit Congress to regulate individuals precisely because they are
+    doing nothing would open a new and potentially vast domain to congressional authority. Every day individuals do
+    not do an infinite number of things. In some cases they decide not to do something; in others they simply fail to
     do it. Allowing Congress to justify federal regulation by
     pointing to the effect of inaction on commerce would bring
     countless decisions an individual could potentially make
     within the scope of federal regulation, and—under the
     Government’s theory—empower Congress to make those
     decisions for him.
+    
        Applying the Government’s logic to the familiar case of
     Wickard v. Filburn shows how far that logic would carry
     us from the notion of a government of limited powers. In
     Wickard, the Court famously upheld a federal penalty im-
     posed on a farmer for growing wheat for consumption
-    on his own farm. 317 U. S., at 114–115, 128–129. That
+    on his own farm. That
     amount of wheat caused the farmer to exceed his quota
     under a program designed to support the price of wheat by
     limiting supply. The Court rejected the farmer’s argument
@@ -1499,10 +432,11 @@ oversight-bd/)
     lowed him to avoid purchasing wheat in the market. That
     decision, when considered in the aggregate along with sim-
     ilar decisions of others, would have had a substantial ef-
-    fect on the interstate market for wheat. Id., at 127–129.
+    fect on the interstate market for wheat. 
+
        Wickard has long been regarded as “perhaps the most
     far reaching example of Commerce Clause authority over
-    intrastate activity,” Lopez, 514 U. S., at 560, but the Gov-
+    intrastate activity,” but the Gov-
     ernment’s theory in this case would go much further.
     Under Wickard it is within Congress’s power to regulate
     the market for wheat by supporting its price. But price
@@ -1512,12 +446,7 @@ oversight-bd/)
     on the price of wheat, just as decisions not to purchase
     health insurance have on the price of insurance. Congress
     can therefore command that those not buying wheat do so,
-    just as it argues here that it may command that those not
-    22       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    buying health insurance do so. The farmer in Wickard
+    just as it argues here that it may command that those not buying health insurance do so. The farmer in Wickard
     was at least actively engaged in the production of wheat,
     and the Government could regulate that activity because
     of its effect on commerce. The Government’s theory here
@@ -1525,54 +454,23 @@ oversight-bd/)
     that individuals may be regulated under the Commerce
     Clause whenever enough of them are not doing something
     the Government would have them do.
+    
        Indeed, the Government’s logic would justify a manda-
-    tory purchase to solve almost any problem. See Seven-Sky,
-    
-
-661 F. 3d
-
-    
-    
-    , at 14–15 (noting the Government’s inability
-    to “identify any mandate to purchase a product or ser-
-    vice in interstate commerce that would be unconstitu-
-    tional” under its theory of the commerce power). To
+    tory purchase to solve almost any problem.  To
     consider a different example in the health care market, many
     Americans do not eat a balanced diet. That group makes
     up a larger percentage of the total population than those
-    without health insurance. See, e.g., Dept. of Agriculture
-    and Dept. of Health and Human Services, Dietary Guide-
-    lines for Americans 1 (2010). The failure of that group
+    without health insurance. The failure of that group
     to have a healthy diet increases health care costs, to a
-    greater extent than the failure of the uninsured to pur-
-    chase insurance. See, e.g., Finkelstein, Trogdon, Cohen, &
+    greater extent than the failure of the uninsured to purchase insurance. See, e.g., Finkelstein, Trogdon, Cohen, &
     Dietz, Annual Medical Spending Attributable to Obesity:
-    Payer- and Service-Specific Estimates, 28 Health Affairs
-    w822 (2009) (detailing the “undeniable link between ris-
-    ing rates of obesity and rising medical spending,” and esti-
-    mating that “the annual medical burden of obesity has
-    risen to almost 10 percent of all medical spending and
-    could amount to $147 billion per year in 2008”). Those in-
-    creased costs are borne in part by other Americans who
+    Payer- and Service-Specific Estimates. Those increased costs are borne in part by other Americans who
     must pay more, just as the uninsured shift costs to the
-    insured. See Center for Applied Ethics, Voluntary Health
-    Risks: Who Should Pay?, 6 Issues in Ethics 6 (1993) (not-
-    ing “overwhelming evidence that individuals with un-
-    healthy habits pay only a fraction of the costs associated
-                     Cite as: 567 U. S. ____ (2012)          23
-    
-                       Opinion of ROBERTS, C. J.
-    
-    with their behaviors; most of the expense is borne by the
-    rest of society in the form of higher insurance premiums,
-    government expenditures for health care, and disability
-    benefits”). Congress addressed the insurance problem by
+    insured.  Congress addressed the insurance problem by
     ordering everyone to buy insurance. Under the Gov-
     ernment’s theory, Congress could address the diet problem
-    by ordering everyone to buy vegetables. See Dietary
-    Guidelines, supra, at 19 (“Improved nutrition, appropriate
-    eating behaviors, and increased physical activity have tre-
-    mendous potential to . . . reduce health care costs”).
+    by ordering everyone to buy vegetables. 
+
        People, for reasons of their own, often fail to do things
     that would be good for them or good for society. Those
     failures—joined with the similar failures of others—can
@@ -1580,96 +478,50 @@ oversight-bd/)
     Under the Government’s logic, that authorizes Congress to
     use its commerce power to compel citizens to act as the
     Government would have them act.
+
        That is not the country the Framers of our Constitution
     envisioned. James Madison explained that the Commerce
     Clause was “an addition which few oppose and from which
-    no apprehensions are entertained.” The Federalist No. 45,
-    at 293. While Congress’s authority under the Commerce
+    no apprehensions are entertained.” The Federalist No. 45. While Congress’s authority under the Commerce
     Clause has of course expanded with the growth of the
     national economy, our cases have “always recognized that
     the power to regulate commerce, though broad indeed, has
-    limits.” Maryland v. Wirtz, 
-
-[392 U.S. 183](/opinion/107734/maryland-v-wirtz/)
-
-    
-    
-    , 196 (1968). The
+    limits.” The
     Government’s theory would erode those limits, permitting
     Congress to reach beyond the natural extent of its author-
     ity, “everywhere extending the sphere of its activity and
     drawing all power into its impetuous vortex.” The Feder-
-    alist No. 48, at 309 (J. Madison). Congress already enjoys
+    alist No. 48. Congress already enjoys
     vast power to regulate much of what we do. Accepting
     the Government’s theory would give Congress the same
     license to regulate what we do not do, fundamentally
-    changing the relation between the citizen and the Federal
-    24         NATIONAL FEDERATION OF INDEPENDENT
-                       BUSINESS v. SEBELIUS
-                       Opinion of ROBERTS, C. J.
+    changing the relation between the citizen and the Federal Government.
     
-    Government.6
        To an economist, perhaps, there is no difference between
     activity and inactivity; both have measurable economic
     effects on commerce. But the distinction between doing
     something and doing nothing would not have been lost on
     the Framers, who were “practical statesmen,” not meta-
-    physical philosophers. Industrial Union Dept., AFL–CIO
-    v. American Petroleum Institute, 
-
-[448 U.S. 607](/opinion/110340/industrial-union-dept-afl-cio-v-american-
-petroleum-institute/)
-
-    
-    
-    , 673 (1980)
-    (Rehnquist, J., concurring in judgment). As we have ex-
+    physical philosophers.  As we have ex-
     plained, “the framers of the Constitution were not mere
     visionaries, toying with speculations or theories, but
     practical men, dealing with the facts of political life as
     they understood them, putting into form the government
     they were creating, and prescribing in language clear
     and intelligible the powers that government was to take.”
-    South Carolina v. United States, 
 
-[199 U.S. 437](/opinion/96357/south-carolina-v-united-states/)
-
-    
-    
-    , 449 (1905).
     The Framers gave Congress the power to regulate com-
     merce, not to compel it, and for over 200 years both our
     decisions and Congress’s actions have reflected this un-
     derstanding. There is no reason to depart from that un-
     derstanding now.
        The Government sees things differently. It argues that
-    because sickness and injury are unpredictable but una-
-    voidable, “the uninsured as a class are active in the mar-
-    ket for health care, which they regularly seek and obtain.”
-    Brief for United States 50. The individual mandate
-    “merely regulates how individuals finance and pay for that
-    
-    ——————
-      6 In an attempt to recast the individual mandate as a regulation of
-    
-    commercial activity, JUSTICE GINSBURG suggests that “[a]n individual
-    who opts not to purchase insurance from a private insurer can be seen
-    as actively selecting another form of insurance: self-insurance.” Post, at
-    26. But “self-insurance” is, in this context, nothing more than a de-
-    scription of the failure to purchase insurance. Individuals are no more
-    “activ[e] in the self-insurance market” when they fail to purchase
-    insurance, ibid., than they are active in the “rest” market when doing
-    nothing.
-                      Cite as: 567 U. S. ____ (2012)           25
-    
-                        Opinion of ROBERTS, C. J.
-    
+    because sickness and injury are unpredictable but unavoidable, “the uninsured as a class are active in the market for health care, which they regularly seek and obtain.” The individual mandate “merely regulates how individuals finance and pay for that
     active participation—requiring that they do so through
     insurance, rather than through attempted self-insurance
-    with the back-stop of shifting costs to others.” Ibid.
-       The Government repeats the phrase “active in the mar-
-    ket for health care” throughout its brief, see id., at 7, 18,
-    34, 50, but that concept has no constitutional significance.
+    with the back-stop of shifting costs to others.”^[In an attempt to recast the individual mandate as a regulation of commercial activity, JUSTICE GINSBURG suggests that "[a]n individual who opts not to purchase insurance from a private insurer can be seen as actively selecting another form of insurance: self-insurance." But "self-insurance" is, in this context, nothing more than a description of the failure to purchase insurance. Individuals are no more "activ[e] in the self-insurance market" when they fail to purchase insurance, ibid., than they are active in the "rest" market when doing nothing.]
+
+       The Government repeats the phrase “active in the market for health care” throughout its brief, but that concept has no constitutional significance.
     An individual who bought a car two years ago and may
     buy another in the future is not “active in the car market”
     in any pertinent sense. The phrase “active in the market”
@@ -1677,44 +529,23 @@ petroleum-institute/)
     the individual mandate are not currently engaged in any
     commercial activity involving health care, and that fact is
     fatal to the Government’s effort to “regulate the uninsured
-    as a class.” Id., at 42. Our precedents recognize Con-
-    gress’s power to regulate “class[es] of activities,” Gonzales
-    v. Raich, 
-
-[545 U.S. 1](/opinion/799995/gonzales-v-raich/)
-
-    
-    
-    , 17 (2005) (emphasis added), not
+    as a class.”  Our precedents recognize Con-
+    gress’s power to regulate “class[es] of activities,”  not
     classes of individuals, apart from any activity in which
-    they are engaged, see, e.g., Perez, 402 U. S., at 153 (“Peti-
-    tioner is clearly a member of the class which engages in
-    ‘extortionate credit transactions’ . . .” (emphasis deleted)).
+    they are engaged.
+    
        The individual mandate’s regulation of the uninsured as
     a class is, in fact, particularly divorced from any link to
     existing commercial activity. The mandate primarily
     affects healthy, often young adults who are less likely to
     need significant health care and have other priorities for
-    spending their money. It is precisely because these indi-
-    viduals, as an actuarial class, incur relatively low health
+    spending their money. It is precisely because these individuals, as an actuarial class, incur relatively low health
     care costs that the mandate helps counter the effect of
     forcing insurance companies to cover others who impose
-    greater costs than their premiums are allowed to reflect.
-    See 
-
-42 U.S. C
-
-    
-    
-    . §18091(2)(I) (recognizing that the mandate
-    would “broaden the health insurance risk pool to include
-    healthy individuals, which will lower health insurance
-    premiums”). If the individual mandate is targeted at a
+    greater costs than their premiums are allowed to reflect. If the individual mandate is targeted at a
     class, it is a class whose commercial inactivity rather than
     activity is its defining feature.
-    26       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
+    
     
        The Government, however, claims that this does not
     matter. The Government regards it as sufficient to trigger
@@ -1724,42 +555,18 @@ petroleum-institute/)
     temporal limitation in the Commerce Clause,” the Gov-
     ernment argues that because “[e]veryone subject to this
     regulation is in or will be in the health care market,” they
-    can be “regulated in advance.” Tr. of Oral Arg. 109 (Mar.
-    27, 2012).
+    can be “regulated in advance.” 
+
        The proposition that Congress may dictate the conduct
     of an individual today because of prophesied future ac-
     tivity finds no support in our precedent. We have said that
     Congress can anticipate the effects on commerce of an eco-
-    nomic activity. See, e.g., Consolidated Edison Co. v. NLRB,
-    
-
-[305 U.S. 197](/opinion/103099/consolidated-edison-co-v-nlrb/)
-
-    
-    
-     (1938) (regulating the labor practices of
-    utility companies); Heart of Atlanta Motel, Inc. v. United
-    States, 
-
-379 U.S. 241
-
-    
-    
-     (1964) (prohibiting discrimination by
-    hotel operators); Katzenbach v. McClung, 
-
-[379 U.S. 294](/opinion/106951/katzenbach-v-mcclung/)
-
-    
-    
-    (1964) (prohibiting discrimination by restaurant owners).
-    But we have never permitted Congress to anticipate that
+    nomic activity. But we have never permitted Congress to anticipate that
     activity itself in order to regulate individuals not currently
     engaged in commerce. Each one of our cases, including
-    those cited by JUSTICE GINSBURG, post, at 20–21, involved
-    preexisting economic activity. See, e.g., Wickard, 317
-    U. S., at 127–129 (producing wheat); Raich, supra, at 25
-    (growing marijuana).
+    those cited by JUSTICE GINSBURG, involved
+    preexisting economic activity. 
+
        Everyone will likely participate in the markets for food,
     clothing, transportation, shelter, or energy; that does not
     authorize Congress to direct them to purchase particular
@@ -1769,25 +576,19 @@ petroleum-institute/)
     engage in particular transactions. Any police power to
     regulate individuals as such, as opposed to their activities,
     remains vested in the States.
-                     Cite as: 567 U. S. ____ (2012)           27
-    
-                       Opinion of ROBERTS, C. J.
     
        The Government argues that the individual mandate
     can be sustained as a sort of exception to this rule, because
     health insurance is a unique product. According to the
     Government, upholding the individual mandate would
     not justify mandatory purchases of items such as cars or
-    broccoli because, as the Government puts it, “[h]ealth in-
-    surance is not purchased for its own sake like a car or
-    broccoli; it is a means of financing health-care consump-
-    tion and covering universal risks.” Reply Brief for United
-    States 19. But cars and broccoli are no more purchased
+    broccoli because, as the Government puts it, “[h]ealth insurance is not purchased for its own sake like a car or
+    broccoli; it is a means of financing health-care consumption and covering universal risks.” But cars and broccoli are no more purchased
     for their “own sake” than health insurance. They are
     purchased to cover the need for transportation and food.
+    
        The Government says that health insurance and health
-    care financing are “inherently integrated.” Brief for United
-    States 41. But that does not mean the compelled purchase
+    care financing are “inherently integrated.” But that does not mean the compelled purchase
     of the first is properly regarded as a regulation of the
     second. No matter how “inherently integrated” health
     insurance and health care consumption may be, they are
@@ -1796,135 +597,71 @@ petroleum-institute/)
     And for most of those targeted by the mandate, significant
     health care needs will be years, or even decades, away.
     The proximity and degree of connection between the
-    mandate and the subsequent commercial activity is too lack-
-    ing to justify an exception of the sort urged by the Gov-
-    ernment.      The individual mandate forces individuals
+    mandate and the subsequent commercial activity is too lacking to justify an exception of the sort urged by the Government. The individual mandate forces individuals
     into commerce precisely because they elected to refrain
-    from commercial activity. Such a law cannot be sus-
-    tained under a clause authorizing Congress to “regulate
+    from commercial activity. Such a law cannot be sustained under a clause authorizing Congress to “regulate
     Commerce.”
-                               2
+
       The Government next contends that Congress has the
     power under the Necessary and Proper Clause to enact the
     individual mandate because the mandate is an “integral
-    part of a comprehensive scheme of economic regulation”—
-    28       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    the guaranteed-issue and community-rating insurance
-    reforms. Brief for United States 24. Under this argu-
-    ment, it is not necessary to consider the effect that an
+    part of a comprehensive scheme of economic regulation”---the guaranteed-issue and community-rating insurance
+    reforms. Under this argument, it is not necessary to consider the effect that an
     individual’s inactivity may have on interstate commerce; it
     is enough that Congress regulate commercial activity in a
     way that requires regulation of inactivity to be effective.
+    
        The power to “make all Laws which shall be necessary
     and proper for carrying into Execution” the powers enu-
-    merated in the Constitution, Art. I, §8, cl. 18, vests Con-
-    gress with authority to enact provisions “incidental to the
+    merated in the Constitution vests Congress with authority to enact provisions “incidental to the
     [enumerated] power, and conducive to its beneficial exer-
-    cise,” McCulloch, 4 Wheat., at 418. Although the Clause
+    cise,” McCulloch. Although the Clause
     gives Congress authority to “legislate on that vast mass
     of incidental powers which must be involved in the con-
     stitution,” it does not license the exercise of any “great
     substantive and independent power[s]” beyond those specifi-
-    cally enumerated. Id., at 411, 421. Instead, the Clause is
-    “ ‘merely a declaration, for the removal of all uncertainty,
+    cally enumerated. Instead, the Clause is
+    “merely a declaration, for the removal of all uncertainty,
     that the means of carrying into execution those [powers]
-    otherwise granted are included in the grant.’ ” Kinsella v.
-    United States ex rel. Singleton, 
+    otherwise granted are included in the grant.”
 
-[361 U.S. 234](/opinion/105981/kinsella-v-united-states-ex-rel-singleton/)
-
-    
-    
-    , 247 (1960)
-    (quoting VI Writings of James Madison 383 (G. Hunt ed.
-    1906)).
        As our jurisprudence under the Necessary and Proper
     Clause has developed, we have been very deferential to
     Congress’s determination that a regulation is “necessary.”
     We have thus upheld laws that are “ ‘convenient, or use-
-    ful’ or ‘conducive’ to the authority’s ‘beneficial exercise.’ ”
-    Comstock, 560 U. S., at ___ (slip op., at 5) (quoting McCul-
-    loch, supra, at 413, 418). But we have also carried out our
+    ful’ or ‘conducive’ to the authority’s ‘beneficial exercise.’ ” But we have also carried out our
     responsibility to declare unconstitutional those laws that
     undermine the structure of government established by the
     Constitution. Such laws, which are not “consist[ent] with
-    the letter and spirit of the constitution,” McCulloch, supra,
-    at 421, are not “proper [means] for carrying into Execu-
-    tion” Congress’s enumerated powers. Rather, they are, “in
-                     Cite as: 567 U. S. ____ (2012)           29
-    
-                       Opinion of ROBERTS, C. J.
-    
-    the words of The Federalist, ‘merely acts of usurpation’
-    which ‘deserve to be treated as such.’ ” Printz v. United
-    States, 
+    the letter and spirit of the constitution,” McCulloch, are not “proper [means] for carrying into Execution” Congress’s enumerated powers. Rather, they are, “in the words of The Federalist, ‘merely acts of usurpation’
+    which ‘deserve to be treated as such.’ ” Printz.
 
-[521 U.S. 898](/opinion/118148/printz-v-united-states/)
-
-    
-    
-    , 924 (1997) (alterations omitted)
-    (quoting The Federalist No. 33, at 204 (A. Hamilton)); see
-    also New York, 505 U. S., at 177; Comstock, supra, at ___
-    (slip op., at 5) (KENNEDY, J., concurring in judgment) (“It
-    is of fundamental importance to consider whether essen-
-    tial attributes of state sovereignty are compromised by the
-    assertion of federal power under the Necessary and Proper
-    Clause . . .”).
-       Applying these principles, the individual mandate can-
-    not be sustained under the Necessary and Proper Clause
+       Applying these principles, the individual mandate cannot be sustained under the Necessary and Proper Clause
     as an essential component of the insurance reforms. Each
-    of our prior cases upholding laws under that Clause in-
-    volved exercises of authority derivative of, and in service
-    to, a granted power. For example, we have upheld provi-
-    sions permitting continued confinement of those already
-    in federal custody when they could not be safely released,
-    Comstock, supra, at ___ (slip op., at 1–2); criminaliz-
-    ing bribes involving organizations receiving federal funds,
-    Sabri v. United States, 
-
-[541 U.S. 600](/opinion/134745/sabri-v-united-states/)
-
-    
-    
-    , 602, 605 (2004); and
-    tolling state statutes of limitations while cases are pend-
-    ing in federal court, Jinks v. Richland County, 
-
-[538 U.S. 456](/opinion/127912/jinks-v-richland-county/)
-
-    
-    
-    , 459, 462 (2003). The individual mandate, by con-
-    trast, vests Congress with the extraordinary ability to
-    create the necessary predicate to the exercise of an enu-
-    merated power.
-       This is in no way an authority that is “narrow in scope,”
-    Comstock, supra, at ___ (slip op., at 20), or “incidental” to
-    the exercise of the commerce power, McCulloch, supra, at
-    418. Rather, such a conception of the Necessary and
+    of our prior cases upholding laws under that Clause involved exercises of authority derivative of, and in service
+    to, a granted power. For example, we have upheld provisions permitting continued confinement of those already
+    in federal custody when they could not be safely released; criminaliz-
+    ing bribes involving organizations receiving federal funds; and
+    tolling state statutes of limitations while cases are pending in federal court. The individual mandate, by contrast, vests Congress with the extraordinary ability to
+    create the necessary predicate to the exercise of an enumerated power.
+       
+       This is in no way an authority that is “narrow in scope,” or “incidental” to
+    the exercise of the commerce power. Rather, such a conception of the Necessary and
     Proper Clause would work a substantial expansion of
     federal authority. No longer would Congress be limited to
     regulating under the Commerce Clause those who by some
     preexisting activity bring themselves within the sphere of
-    federal regulation. Instead, Congress could reach beyond
-    30       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    the natural limit of its authority and draw within its
+    federal regulation. Instead, Congress could reach beyond the natural limit of its authority and draw within its
     regulatory scope those who otherwise would be outside of
     it. Even if the individual mandate is “necessary” to the
     Act’s insurance reforms, such an expansion of federal
     power is not a “proper” means for making those reforms
     effective.
+    
        The Government relies primarily on our decision in
     Gonzales v. Raich. In Raich, we considered “comprehen-
     sive legislation to regulate the interstate market” in mari-
-    juana. 545 U. S., at 22. Certain individuals sought an
+    juana. Certain individuals sought an
     exemption from that regulation on the ground that they
     engaged in only intrastate possession and consumption.
     We denied any exemption, on the ground that marijuana
@@ -1932,17 +669,16 @@ petroleum-institute/)
     be readily diverted into the interstate market. Congress’s
     attempt to regulate the interstate market for marijuana
     would therefore have been substantially undercut if it
-    could not also regulate intrastate possession and con-
-    sumption. Id., at 19. Accordingly, we recognized that
+    could not also regulate intrastate possession and consumption. Accordingly, we recognized that
     “Congress was acting well within its authority” under the
     Necessary and Proper Clause even though its “regulation
-    ensnare[d] some purely intrastate activity.” Id., at 22; see
-    also Perez, 402 U. S., at 154. Raich thus did not involve
+    ensnare[d] some purely intrastate activity.”  Raich thus did not involve
     the exercise of any “great substantive and independent
-    power,” McCulloch, supra, at 411, of the sort at issue here.
+    power” of the sort at issue here.
     Instead, it concerned only the constitutionality of “indi-
     vidual applications of a concededly valid statutory
-    scheme.” Raich, supra, at 23 (emphasis added).
+    scheme.” 
+    
        Just as the individual mandate cannot be sustained as
     a law regulating the substantial effects of the failure to
     purchase health insurance, neither can it be upheld as
@@ -1950,27 +686,23 @@ petroleum-institute/)
     forms. The commerce power thus does not authorize the
     mandate. Accord, post, at 4–16 (joint opinion of SCALIA,
     KENNEDY, THOMAS, and ALITO, JJ., dissenting).
-                     Cite as: 567 U. S. ____ (2012)          31
-    
-                       Opinion of ROBERTS, C. J.
-    
-                                  B
+                                      III.B
+                                      
        That is not the end of the matter. Because the Com-
     merce Clause does not support the individual mandate, it
     is necessary to turn to the Government’s second argument:
     that the mandate may be upheld as within Congress’s
-    enumerated power to “lay and collect Taxes.” Art. I, §8,
-    cl. 1.
+    enumerated power to “lay and collect Taxes.” 
+
        The Government’s tax power argument asks us to view
-    the statute differently than we did in considering its com-
-    merce power theory. In making its Commerce Clause
+    the statute differently than we did in considering its commerce power theory. In making its Commerce Clause
     argument, the Government defended the mandate as a
-    regulation requiring individuals to purchase health in-
-    surance. The Government does not claim that the taxing
+    regulation requiring individuals to purchase health insurance. The Government does not claim that the taxing
     power allows Congress to issue such a command. Instead,
     the Government asks us to read the mandate not as order-
     ing individuals to buy insurance, but rather as imposing a
     tax on those who do not buy that product.
+       
        The text of a statute can sometimes have more than one
     possible meaning. To take a familiar example, a law that
     reads “no vehicles in the park” might, or might not, ban
@@ -1978,42 +710,17 @@ petroleum-institute/)
     a statute has two possible meanings, one of which violates
     the Constitution, courts should adopt the meaning that
     does not do so. Justice Story said that 180 years ago: “No
-    court ought, unless the terms of an act rendered it una-
-    voidable, to give a construction to it which should involve
-    a violation, however unintentional, of the constitution.”
-    Parsons v. Bedford, 
-
-[3 Pet. 433](/opinion/85684/parsons-v-bedford/)
-
-    
-    
-    , 448–449 (1830). Justice
+    court ought, unless the terms of an act rendered it unavoidable, to give a construction to it which should involve
+    a violation, however unintentional, of the constitution.” Justice
     Holmes made the same point a century later: “[T]he rule is
     settled that as between two possible interpretations of a
     statute, by one of which it would be unconstitutional and
     by the other valid, our plain duty is to adopt that which
-    will save the Act.” Blodgett v. Holden, 
+    will save the Act.” 
 
-[275 U.S. 142](/opinion/101155/blodgett-v-holden/)
-
-    
-    
-    , 148
-    (1927) (concurring opinion).
        The most straightforward reading of the mandate is
-    that it commands individuals to purchase insurance.
-    32       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    After all, it states that individuals “shall” maintain health
-    insurance. 
-
-26 U.S. C
-
-    
-    
-    . §5000A(a). Congress thought it
+    that it commands individuals to purchase insurance. After all, it states that individuals “shall” maintain health
+    insurance.  Congress thought it
     could enact such a command under the Commerce Clause,
     and the Government primarily defended the law on that
     basis. But, for the reasons explained above, the Com-
@@ -2022,10 +729,11 @@ petroleum-institute/)
     Government’s alternative reading of the statute—that it
     only imposes a tax on those without insurance—is a rea-
     sonable one.
+    
        Under the mandate, if an individual does not maintain
     health insurance, the only consequence is that he must
     make an additional payment to the IRS when he pays his
-    taxes. See §5000A(b). That, according to the Government,
+    taxes. That, according to the Government,
     means the mandate can be regarded as establishing a
     condition—not owning health insurance—that triggers a
     tax—the required payment to the IRS. Under that theory,
@@ -2035,221 +743,82 @@ petroleum-institute/)
     ing income. And if the mandate is in effect just a tax hike
     on certain taxpayers who do not have health insurance, it
     may be within Congress’s constitutional power to tax.
+       
        The question is not whether that is the most natural
     interpretation of the mandate, but only whether it is a
-    “fairly possible” one. Crowell v. Benson, 
-
-[285 U.S. 22](/opinion/101864/crowell-v-benson/)
-
-    
-    
-    , 62
-    (1932). As we have explained, “every reasonable construc-
+    “fairly possible” one.  As we have explained, “every reasonable construc-
     tion must be resorted to, in order to save a statute from
-    unconstitutionality.” Hooper v. California, 
-
-[155 U.S. 648](/opinion/94074/hooper-v-california/)
-
-    
-    
-    ,
-    657 (1895). The Government asks us to interpret the
+    unconstitutionality.”  The Government asks us to interpret the
     mandate as imposing a tax, if it would otherwise violate
     the Constitution. Granting the Act the full measure of
     deference owed to federal statutes, it can be so read, for
     the reasons set forth below.
-                      Cite as: 567 U. S. ____ (2012)           33
-    
-                        Opinion of ofOBERTS, C. J.
-                          Opinion R the Court
-    
-                                    C
+  
+                                    III.C
+                                    
        The exaction the Affordable Care Act imposes on those
-    without health insurance looks like a tax in many re-
-    spects. The “[s]hared responsibility payment,” as the
-    statute entitles it, is paid into the Treasury by “tax-
-    payer[s]” when they file their tax returns. 
-
-26 U.S. C
-
-    
-    
-    .
-    §5000A(b). It does not apply to individuals who do not
-    pay federal income taxes because their household income
+    without health insurance looks like a tax in many respects. The “[s]hared responsibility payment,” as the
+    statute entitles it, is paid into the Treasury by “taxpayer[s]” when they file their tax returns. It does not apply to individuals who do not pay federal income taxes because their household income
     is less than the filing threshold in the Internal Revenue
-    Code. §5000A(e)(2). For taxpayers who do owe the pay-
-    ment, its amount is determined by such familiar factors as
+    Code. For taxpayers who do owe the payment, its amount is determined by such familiar factors as
     taxable income, number of dependents, and joint filing
-    status. §§5000A(b)(3), (c)(2), (c)(4). The requirement to
+    status. The requirement to
     pay is found in the Internal Revenue Code and enforced by
     the IRS, which—as we previously explained—must assess
-    and collect it “in the same manner as taxes.” Supra, at
-    13–14. This process yields the essential feature of any tax:
-    it produces at least some revenue for the Government.
-    United States v. Kahriger, 
-
-[345 U.S. 22](/opinion/105090/united-states-v-kahriger/)
-
-    
-    
-    , 28, n. 4 (1953).
-    Indeed, the payment is expected to raise about $4 billion
+    and collect it “in the same manner as taxes.”  This process yields the essential feature of any tax:
+    it produces at least some revenue for the Government. Indeed, the payment is expected to raise about $4 billion
     per year by 2017. Congressional Budget Office, Payments
-    of Penalties for Being Uninsured Under the Patient Pro-
-    tection and Affordable Care Act (Apr. 30, 2010), in Selected
-    CBO Publications Related to Health Care Legislation,
-    2009–2010, p. 71 (rev. 2010).
+    of Penalties for Being Uninsured Under the Patient Protection and Affordable Care Act.
+       
        It is of course true that the Act describes the payment as
     a “penalty,” not a “tax.” But while that label is fatal to the
-    application of the Anti-Injunction Act, supra, at 12–13, it
+    application of the Anti-Injunction Act, it
     does not determine whether the payment may be viewed
-    as an exercise of Congress’s taxing power. It is up to Con-
-    gress whether to apply the Anti-Injunction Act to any
-    particular statute, so it makes sense to be guided by Con-
-    gress’s choice of label on that question. That choice does
-    not, however, control whether an exaction is within Con-
-    gress’s constitutional power to tax.
+    as an exercise of Congress’s taxing power. It is up to Congress whether to apply the Anti-Injunction Act to any
+    particular statute, so it makes sense to be guided by Congress’s choice of label on that question. That choice does
+    not, however, control whether an exaction is within Congress’s constitutional power to tax.
+       
        Our precedent reflects this: In 1922, we decided two
-    34       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
     challenges to the “Child Labor Tax” on the same day. In
     the first, we held that a suit to enjoin collection of the so-
-    called tax was barred by the Anti-Injunction Act. George,
-    259 U. S., at 20. Congress knew that suits to obstruct
+    called tax was barred by the Anti-Injunction Act. Congress knew that suits to obstruct
     taxes had to await payment under the Anti-Injunction
     Act; Congress called the child labor tax a tax; Congress
     therefore intended the Anti-Injunction Act to apply. In
     the second case, however, we held that the same exaction,
     although labeled a tax, was not in fact authorized by Con-
-    gress’s taxing power. Drexel Furniture, 259 U. S., at 38.
-    That constitutional question was not controlled by Con-
-    gress’s choice of label.
+    gress’s taxing power. That constitutional question was not controlled by Congress’s choice of label.
+    
        We have similarly held that exactions not labeled taxes
     nonetheless were authorized by Congress’s power to tax.
     In the License Tax Cases, for example, we held that federal
     licenses to sell liquor and lottery tickets—for which the
     licensee had to pay a fee—could be sustained as exercises
-    of the taxing power. 5 Wall., at 471. And in New York v.
+    of the taxing power. And in New York v.
     United States we upheld as a tax a “surcharge” on out-of-
     state nuclear waste shipments, a portion of which was
-    paid to the Federal Treasury. 505 U. S., at 171. We thus
+    paid to the Federal Treasury. We thus
     ask whether the shared responsibility payment falls
     within Congress’s taxing power, “[d]isregarding the designa-
     tion of the exaction, and viewing its substance and appli-
-    cation.” United States v. Constantine, 
+    cation.” 
 
-[296 U.S. 287](/opinion/102515/united-states-v-constantine/)
 
-    
-    
-    , 294
-    (1935); cf. Quill Corp. v. North Dakota, 
-
-[504 U.S. 298](/opinion/112739/quill-corp-v-north-dakota/)
-
-    
-    
-    , 310
-    (1992) (“[M]agic words or labels” should not “disable an
-    otherwise constitutional levy” (internal quotation marks
-    omitted)); Nelson v. Sears, Roebuck & Co., 
-
-[312 U.S. 359](/opinion/103465/nelson-v-sears-roebuck-co/)
-
-    
-    
-    ,
-    363 (1941) (“In passing on the constitutionality of a tax
-    law, we are concerned only with its practical operation,
-    not its definition or the precise form of descriptive words
-    which may be applied to it” (internal quotation marks
-    omitted)); United States v. Sotelo, 
-
-[436 U.S. 268](/opinion/109864/united-states-v-sotelo/)
-
-    
-    
-    , 275
-    (1978) (“That the funds due are referred to as a ‘penalty’
-                          Cite as: 567 U. S. ____ (2012)                     35
-    
-                            Opinion of ofOBERTS, C. J.
-                              Opinion R the Court
-    
-    . . . does not alter their essential character as taxes”).7
-        Our cases confirm this functional approach. For ex-
-    ample, in Drexel Furniture, we focused on three practical
-    characteristics of the so-called tax on employing child
-    laborers that convinced us the “tax” was actually a pen-
-    alty. First, the tax imposed an exceedingly heavy bur-
-    den—10 percent of a company’s net income—on those who
-    employed children, no matter how small their infraction.
-    Second, it imposed that exaction only on those who know-
-    ingly employed underage laborers. Such scienter require-
-    ments are typical of punitive statutes, because Congress
-    often wishes to punish only those who intentionally break
-    the law. Third, this “tax” was enforced in part by the
-    Department of Labor, an agency responsible for pun-
-    ishing violations of labor laws, not collecting revenue. 259
-    U. S., at 36–37; see also, e.g., Kurth Ranch, 511 U. S., at
-    780–782 (considering, inter alia, the amount of the exac-
-    tion, and the fact that it was imposed for violation of a
-    separate criminal law); Constantine, supra, at 295 (same).
         The same analysis here suggests that the shared re-
     sponsibility payment may for constitutional purposes be
     considered a tax, not a penalty: First, for most Americans
     the amount due will be far less than the price of insur-
-    ance, and, by statute, it can never be more.8 It may often
-    ——————
-       7 Sotelo, in particular, would seem to refute the joint dissent’s conten-
-    
-    tion that we have “never” treated an exaction as a tax if it was denomi-
-    nated a penalty. Post, at 20. We are not persuaded by the dissent’s
-    attempt to distinguish Sotelo as a statutory construction case from the
-    bankruptcy context. Post, at 17, n. 5. The dissent itself treats the
-    question here as one of statutory interpretation, and indeed also relies
-    on a statutory interpretation case from the bankruptcy context. Post,
-    at 23 (citing United States v. Reorganized CF&I; Fabricators of Utah,
-    Inc., 
-
-[518 U.S. 213](/opinion/118050/united-states-v-reorganized-cfi-fabricators-of-
-utah-inc/)
-
-    
-    
-    , 224 (1996)).
-       8 In 2016, for example, individuals making $35,000 a year are ex-
-    
-    pected to owe the IRS about $60 for any month in which they do not
-    have health insurance. Someone with an annual income of $100,000 a
-    year would likely owe about $200. The price of a qualifying insurance
-    36         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court 
-    
-    
-    be a reasonable financial decision to make the payment
+    ance, and, by statute, it can never be more. It may often be a reasonable financial decision to make the payment
     rather than purchase insurance, unlike the “prohibitory”
-    financial punishment in Drexel Furniture. 259 U. S., at
-    37. Second, the individual mandate contains no scienter
+    financial punishment in Drexel Furniture.  Second, the individual mandate contains no scienter
     requirement. Third, the payment is collected solely by the
     IRS through the normal means of taxation—except that
     the Service is not allowed to use those means most sugges-
-    tive of a punitive sanction, such as criminal prosecution.
-    See §5000A(g)(2). The reasons the Court in Drexel Furni-
+    tive of a punitive sanction, such as criminal prosecution. The reasons the Court in Drexel Furni-
     ture held that what was called a “tax” there was a penalty
     support the conclusion that what is called a “penalty” here
-    may be viewed as a tax.9
+    may be viewed as a tax.
+    
        None of this is to say that the payment is not intended
     to affect individual conduct. Although the payment will
     raise considerable revenue, it is plainly designed to ex-
@@ -2257,126 +826,50 @@ utah-inc/)
     influence conduct are nothing new. Some of our earliest
     federal taxes sought to deter the purchase of imported
     manufactured goods in order to foster the growth of do-
-    mestic industry. See W. Brownlee, Federal Taxation in
-    America 22 (2d ed. 2004); cf. 2 J. Story, Commentaries on
-    the Constitution of the United States §962, p. 434 (1833)
-    (“the taxing power is often, very often, applied for other
-    purposes, than revenue”). Today, federal and state taxes
-    can compose more than half the retail price of cigarettes,
-    ——————
-    policy is projected to be around $400 per month. See D. Newman, CRS
-    Report for Congress, Individual Mandate and Related Information Re-
-    quirements Under PPACA 7, and n. 25 (2011).
-       9 We do not suggest that any exaction lacking a scienter requirement
-    
-    and enforced by the IRS is within the taxing power. See post, at 23–24
-    (joint opinion of SCALIA, KENNEDY, THOMAS, and ALITO, JJ., dissenting).
-    Congress could not, for example, expand its authority to impose crimi-
-    nal fines by creating strict liability offenses enforced by the IRS rather
-    than the FBI. But the fact the exaction here is paid like a tax, to the
-    agency that collects taxes—rather than, for example, exacted by De-
-    partment of Labor inspectors after ferreting out willful malfeasance—
-    suggests that this exaction may be viewed as a tax.
-                     Cite as: 567 U. S. ____ (2012)           37
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court
-    
-    not just to raise more money, but to encourage people to
+    mestic industry.  Today, federal and state taxes
+    can compose more than half the retail price of cigarettes, not just to raise more money, but to encourage people to
     quit smoking. And we have upheld such obviously regula-
     tory measures as taxes on selling marijuana and sawed-off
-    shotguns. See United States v. Sanchez, 
-
-[340 U.S. 42](/opinion/104823/united-states-v-sanchez/)
-
-    
-    
-    , 44–
-    45 (1950); Sonzinsky v. United States, 
-
-[300 U.S. 506](/opinion/102794/sonzinsky-v-united-states/)
-
-    
-    
-    , 513
-    (1937). Indeed, “[e]very tax is in some measure regula-
+    shotguns. Indeed, “[e]very tax is in some measure regula-
     tory. To some extent it interposes an economic impediment
-    to the activity taxed as compared with others not taxed.”
-    Sonzinsky, supra, at 513. That §5000A seeks to shape
+    to the activity taxed as compared with others not taxed.” That §5000A seeks to shape
     decisions about whether to buy health insurance does not
     mean that it cannot be a valid exercise of the taxing
     power.
+    
        In distinguishing penalties from taxes, this Court has
     explained that “if the concept of penalty means anything,
-    it means punishment for an unlawful act or omission.”
-    United States v. Reorganized CF&I; Fabricators of Utah,
-    Inc., 
-
-[518 U.S. 213](/opinion/118050/united-states-v-reorganized-cfi-fabricators-of-
-utah-inc/)
-
-    
-    
-    , 224 (1996); see also United States v. La
-    Franca, 
-
-[282 U.S. 568](/opinion/101672/united-states-v-la-franca/)
-
-    
-    
-    , 572 (1931) (“[A] penalty, as the
-    word is here used, is an exaction imposed by statute as
-    punishment for an unlawful act”). While the individual
+    it means punishment for an unlawful act or omission.” While the individual
     mandate clearly aims to induce the purchase of health
     insurance, it need not be read to declare that failing to do
     so is unlawful. Neither the Act nor any other law attaches
-    negative legal consequences to not buying health insur-
-    ance, beyond requiring a payment to the IRS. The Gov-
-    ernment agrees with that reading, confirming that if
+    negative legal consequences to not buying health insurance, beyond requiring a payment to the IRS. The Government agrees with that reading, confirming that if
     someone chooses to pay rather than obtain health insur-
-    ance, they have fully complied with the law. Brief for
-    United States 60–61; Tr. of Oral Arg. 49–50 (Mar. 26,
-    2012).
+    ance, they have fully complied with the law. 
+
        Indeed, it is estimated that four million people each year
-    will choose to pay the IRS rather than buy insurance. See
-    Congressional Budget Office, supra, at 71. We would
+    will choose to pay the IRS rather than buy insurance.  We would
     expect Congress to be troubled by that prospect if such
     conduct were unlawful. That Congress apparently regards
-    such extensive failure to comply with the mandate as
-    38         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court 
-    
-    
-    tolerable suggests that Congress did not think it was
+    such extensive failure to comply with the mandate as tolerable suggests that Congress did not think it was
     creating four million outlaws. It suggests instead that the
-    shared responsibility payment merely imposes a tax citi-
-    zens may lawfully choose to pay in lieu of buying health
+    shared responsibility payment merely imposes a tax citizens may lawfully choose to pay in lieu of buying health
     insurance.
+    
        The plaintiffs contend that Congress’s choice of lan-
     guage—stating that individuals “shall” obtain insurance
     or pay a “penalty”—requires reading §5000A as punishing
     unlawful conduct, even if that interpretation would ren-
     der the law unconstitutional. We have rejected a similar
     argument before. In New York v. United States we exam-
-    ined a statute providing that “ ‘[e]ach State shall be re-
+    ined a statute providing that “[e]ach State shall be re-
     sponsible for providing . . . for the disposal of . . . low-level
-    radioactive waste.’ ” 505 U. S., at 169 (quoting 
-
-42 U.S. C
-
-    
-    
-    .
-    §2021c(a)(1)(A)). A State that shipped its waste to another
+    radioactive waste.” A State that shipped its waste to another
     State was exposed to surcharges by the receiving State,
     a portion of which would be paid over to the Federal
-    Government.       And a State that did not adhere to the
+    Government. And a State that did not adhere to the
     statutory scheme faced “[p]enalties for failure to comply,”
-    including increases in the surcharge. §2021e(e)(2); New
+    including increases in the surcharge. New
     York, 505 U. S., at 152–153. New York urged us to read
     the statute as a federal command that the state legisla-
     ture enact legislation to dispose of its waste, which would
@@ -2384,25 +877,14 @@ utah-inc/)
     interpreted the statute to impose only “a series of incen-
     tives” for the State to take responsibility for its waste. We
     then sustained the charge paid to the Federal Government
-    as an exercise of the taxing power. Id., at 169–174. We
+    as an exercise of the taxing power. We
     see no insurmountable obstacle to a similar approach
-    here.10
-    ——————
-      10 The joint dissent attempts to distinguish New York v. United States
+    here.
     
-    on the ground that the seemingly imperative language in that case was
-    in an “introductory provision” that had “no legal consequences.” Post,
-    at 19. We did not rely on that reasoning in New York. See 505 U. S., at
-    169–170. Nor could we have. While the Court quoted only the broad
-    statement that “[e]ach State shall be responsible” for its waste, that
-                        Cite as: 567 U. S. ____ (2012)                  39
-    
-                          Opinion of ofOBERTS, C. J.
-                            Opinion R the Court
-    
+        
        The joint dissenters argue that we cannot uphold
     §5000A as a tax because Congress did not “frame” it as
-    such. Post, at 17. In effect, they contend that even if
+    such. In effect, they contend that even if
     the Constitution permits Congress to do exactly what we
     interpret this statute to do, the law must be struck down
     because Congress used the wrong labels. An example may
@@ -2419,46 +901,18 @@ utah-inc/)
     to tax. That conclusion should not change simply because
     Congress used the word “penalty” to describe the pay-
     ment. Interpreting such a law to be a tax would hardly
-    “[i]mpos[e] a tax through judicial legislation.” Post, at 25.
+    “[i]mpos[e] a tax through judicial legislation.”
     Rather, it would give practical effect to the Legislature’s
     enactment.
+    
        Our precedent demonstrates that Congress had the
     power to impose the exaction in §5000A under the taxing
     power, and that §5000A need not be read to do more than
     impose a tax. That is sufficient to sustain it. The “ques-
     tion of the constitutionality of action taken by Congress
     does not depend on recitals of the power which it under-
-    takes to exercise.” Woods v. Cloyd W. Miller Co., 333 U. S.
-    —————— 
-    
-    language was implemented through operative provisions that also use 
-    
-    the words on which the dissent relies. See 
+    takes to exercise.” 
 
-42 U.S. C
-
-    
-    
-    . §2021e(e)(1)
-    
-    (entitled “Requirements for non-sited compact regions and non-member
-    
-    States” and directing that those entities “shall comply with the follow-
-    ing requirements”); §2021e(e)(2) (describing “Penalties for failure to
-    
-    comply”). The Court upheld those provisions not as lawful commands,
-    
-    but as “incentives.” See 505 U. S., at 152–153, 171–173. 
-    
-    40       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
-    138, 144 (1948).
        Even if the taxing power enables Congress to impose
     a tax on not obtaining health insurance, any tax must
     still comply with other requirements in the Constitution.
@@ -2472,72 +926,39 @@ utah-inc/)
     plaintiffs, if the individual mandate imposes a tax, it is a
     direct tax, and it is unconstitutional because Congress
     made no effort to apportion it among the States.
+ 
        Even when the Direct Tax Clause was written it was
     unclear what else, other than a capitation (also known as
-    a “head tax” or a “poll tax”), might be a direct tax. See
-    Springer v. United States, 
-
-[102 U.S. 586](/opinion/90272/springer-v-united-states/)
-
-    
-    
-    , 596–598 (1881).
-    Soon after the framing, Congress passed a tax on owner-
-    ship of carriages, over James Madison’s objection that it
-    was an unapportioned direct tax. Id., at 597. This Court
+    a “head tax” or a “poll tax”), might be a direct tax. 
+    Soon after the framing, Congress passed a tax on ownership of carriages, over James Madison’s objection that it
+    was an unapportioned direct tax. This Court
     upheld the tax, in part reasoning that apportioning such
-    a tax would make little sense, because it would have re-
-    quired taxing carriage owners at dramatically different
+    a tax would make little sense, because it would have required taxing carriage owners at dramatically different
     rates depending on how many carriages were in their
-    home State. See Hylton v. United States, 3 Dall. 171, 174
-    (1796) (opinion of Chase, J.). The Court was unanimous,
+    home State. The Court was unanimous,
     and those Justices who wrote opinions either directly
     asserted or strongly suggested that only two forms of
-    taxation were direct: capitations and land taxes. See id.,
-    at 175; id., at 177 (opinion of Paterson, J.); id., at 183
-    (opinion of Iredell, J.).
-       That narrow view of what a direct tax might be per-
-    sisted for a century. In 1880, for example, we explained that
-    “direct taxes, within the meaning of the Constitution, are
-    only capitation taxes, as expressed in that instrument,
-                     Cite as: 567 U. S. ____ (2012)          41
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court
-    
-    and taxes on real estate.” Springer, supra, at 602. In
+    taxation were direct: capitations and land taxes. 
+       That narrow view of what a direct tax might be persisted for a century.  In
     1895, we expanded our interpretation to include taxes on
     personal property and income from personal property, in
     the course of striking down aspects of the federal income
-    tax. Pollock v. Farmers’ Loan & Trust Co., 
-
-[158 U.S. 601](/opinion/94239/pollock-v-farmers-loan-trust-co/)
-
-    
-    
-    ,
-    618 (1895). That result was overturned by the Sixteenth
+    tax. That result was overturned by the Sixteenth
     Amendment, although we continued to consider taxes on
-    personal property to be direct taxes. See Eisner v. Macom-
-    ber, 
+    personal property to be direct taxes. 
 
-[252 U.S. 189](/opinion/1087772/eisner-v-macomber/)
-
-    
-    
-    , 218–219 (1920).
       A tax on going without health insurance does not fall
     within any recognized category of direct tax. It is not a
     capitation. Capitations are taxes paid by every person,
     “without regard to property, profession, or any other cir-
-    cumstance.” Hylton, supra, at 175 (opinion of Chase, J.)
-    (emphasis altered). The whole point of the shared respon-
+    cumstance.” The whole point of the shared respon-
     sibility payment is that it is triggered by specific cir-
-    cumstances—earning a certain amount of income but not
+    cumstances---earning a certain amount of income but not
     obtaining health insurance. The payment is also plainly
     not a tax on the ownership of land or personal property.
     The shared responsibility payment is thus not a direct tax
     that must be apportioned among the several States.
+    
       There may, however, be a more fundamental objection
     to a tax on those who lack health insurance. Even if only
     a tax, the payment under §5000A(b) remains a burden
@@ -2546,28 +967,19 @@ utah-inc/)
     as authorizing Congress to regulate those who abstain
     from commerce, perhaps it should be similarly troubling to
     permit Congress to impose a tax for not doing something.
+    
       Three considerations allay this concern. First, and most
     importantly, it is abundantly clear the Constitution does
     not guarantee that individuals may avoid taxation through
-    inactivity. A capitation, after all, is a tax that every-
-    one must pay simply for existing, and capitations are
+    inactivity. A capitation, after all, is a tax that everyone must pay simply for existing, and capitations are
     expressly contemplated by the Constitution. The Court
-    today holds that our Constitution protects us from federal
-    42       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                     Opinion of ofOBERTS, C. J.
-                       Opinion R the Court 
-    
-    
-    regulation under the Commerce Clause so long as we ab-
-    stain from the regulated activity. But from its creation,
+    today holds that our Constitution protects us from federal regulation under the Commerce Clause so long as we abstain from the regulated activity. But from its creation,
     the Constitution has made no such promise with respect to
     taxes. See Letter from Benjamin Franklin to M. Le Roy
     (Nov. 13, 1789) (“Our new Constitution is now established
     . . . but in this world nothing can be said to be certain,
     except death and taxes”).
+    
         Whether the mandate can be upheld under the Com-
     merce Clause is a question about the scope of federal
     authority. Its answer depends on whether Congress can
@@ -2576,151 +988,61 @@ utah-inc/)
     use of the Taxing Clause to encourage buying something
     is, by contrast, not new. Tax incentives already promote,
     for example, purchasing homes and professional educa-
-    tions. See 
-
-26 U.S. C
-
-    
-    
-    . §§163(h), 25A. Sustaining the
+    tions. Sustaining the
     mandate as a tax depends only on whether Congress has
     properly exercised its taxing power to encourage purchas-
     ing health insurance, not whether it can. Upholding the
     individual mandate under the Taxing Clause thus does
     not recognize any new federal power. It determines that
     Congress has used an existing one.
+    
         Second, Congress’s ability to use its taxing power to
     influence conduct is not without limits. A few of our cases
     policed these limits aggressively, invalidating punitive
-    exactions obviously designed to regulate behavior other-
-    wise regarded at the time as beyond federal authority.
-    See, e.g., United States v. Butler, 
-
-[297 U.S. 1](/opinion/102580/united-states-v-butler/)
-
-    
-    
-     (1936); Drexel
-    Furniture, 
-
-[259 U.S. 20](/opinion/99987/child-labor-tax-case/)
-
-    
-    
-    . More often and more recently
+    exactions obviously designed to regulate behavior otherwise regarded at the time as beyond federal authority. More often and more recently
     we have declined to closely examine the regulatory motive
-    or effect of revenue-raising measures. See Kahriger, 345
-    U. S., at 27–31 (collecting cases). We have nonetheless
-    maintained that “ ‘there comes a time in the extension of
+    or effect of revenue-raising measures.  We have nonetheless
+    maintained that “there comes a time in the extension of
     the penalizing features of the so-called tax when it loses
     its character as such and becomes a mere penalty with the
-    characteristics of regulation and punishment.’ ” Kurth
-                     Cite as: 567 U. S. ____ (2012)           43
-    
-                       Opinion of ofOBERTS, C. J.
-                         Opinion R the Court
-    
-    Ranch, 511 U. S., at 779 (quoting Drexel Furniture, supra,
-    at 38).
-       We have already explained that the shared responsibil-
-    ity payment’s practical characteristics pass muster as a
+    characteristics of regulation and punishment.” 
+
+       We have already explained that the shared responsibility payment’s practical characteristics pass muster as a
     tax under our narrowest interpretations of the taxing
-    power. Supra, at 35–36. Because the tax at hand is
+    power. Because the tax at hand is
     within even those strict limits, we need not here decide the
     precise point at which an exaction becomes so punitive
     that the taxing power does not authorize it. It remains
-    true, however, that the “ ‘power to tax is not the power to
-    destroy while this Court sits.’ ” Oklahoma Tax Comm’n v.
-    Texas Co., 
-
-[336 U.S. 342](/opinion/104641/oklahoma-tax-commn-v-texas-co/)
-
+    true, however, that the “power to tax is not the power to
+    destroy while this Court sits.” 
     
-    
-    , 364 (1949) (quoting Panhandle
-    Oil Co. v. Mississippi ex rel. Knox, 
-
-[277 U.S. 218](/opinion/101300/panhandle-oil-co-v-mississippi-ex-rel-knox/)
-
-    
-    
-    , 223
-    (1928) (Holmes, J., dissenting)).
        Third, although the breadth of Congress’s power to tax
     is greater than its power to regulate commerce, the taxing
     power does not give Congress the same degree of control
-    over individual behavior. Once we recognize that Con-
-    gress may regulate a particular decision under the Com-
+    over individual behavior. Once we recognize that Congress may regulate a particular decision under the Com-
     merce Clause, the Federal Government can bring its full
-    weight to bear. Congress may simply command individ-
-    uals to do as it directs. An individual who disobeys may
+    weight to bear. Congress may simply command individuals to do as it directs. An individual who disobeys may
     be subjected to criminal sanctions. Those sanctions can
-    include not only fines and imprisonment, but all the at-
-    tendant consequences of being branded a criminal: depri-
-    vation of otherwise protected civil rights, such as the right
-    to bear arms or vote in elections; loss of employment op-
-    portunities; social stigma; and severe disabilities in other
+    include not only fines and imprisonment, but all the attendant consequences of being branded a criminal: deprivation of otherwise protected civil rights, such as the right
+    to bear arms or vote in elections; loss of employment opportunities; social stigma; and severe disabilities in other
     controversies, such as custody or immigration disputes.
+    
        By contrast, Congress’s authority under the taxing
     power is limited to requiring an individual to pay money
     into the Federal Treasury, no more. If a tax is properly
     paid, the Government has no power to compel or punish
-    individuals subject to it. We do not make light of the se-
-    vere burden that taxation—especially taxation motivated
-    by a regulatory purpose—can impose. But imposition
-    44         NATIONAL FEDERATION OF INDEPENDENT
-                       BUSINESS v. SEBELIUS
-                       Opinion of ROBERTS, C. J.
-    
-    of a tax nonetheless leaves an individual with a lawful
+    individuals subject to it. We do not make light of the severe burden that taxation---especially taxation motivated
+    by a regulatory purpose---can impose. But imposition of a tax nonetheless leaves an individual with a lawful
     choice to do or not do a certain act, so long as he is willing
-    to pay a tax levied on that choice.11
+    to pay a tax levied on that choice.^[Of course, individuals do not have a lawful choice not to pay a tax due, and may sometimes face prosecution for failing to do so (although not for declining to make the shared responsibility payment, see 26 U.S.C. §5000A(g)(2)). But that does not show that the tax restricts the lawful choice whether to undertake or forgo the activity on which the tax is predicated. Those subject to the individual mandate may lawfully forgo health insurance and pay higher taxes, or buy health insurance and pay lower taxes. The only thing they may not lawfully do is not buy health insurance and not pay the resulting tax.]
+    
       The Affordable Care Act’s requirement that certain in-
     dividuals pay a financial penalty for not obtaining health
     insurance may reasonably be characterized as a tax. Be-
     cause the Constitution permits such a tax, it is not our role
     to forbid it, or to pass upon its wisdom or fairness.
-                                   D
-      JUSTICE GINSBURG questions the necessity of rejecting
-    the Government’s commerce power argument, given that
-    §5000A can be upheld under the taxing power. Post, at 37.
-    But the statute reads more naturally as a command to buy
-    insurance than as a tax, and I would uphold it as a com-
-    mand if the Constitution allowed it. It is only because the
-    Commerce Clause does not authorize such a command
-    that it is necessary to reach the taxing power question.
-    And it is only because we have a duty to construe a stat-
-    ute to save it, if fairly possible, that §5000A can be inter-
-    preted as a tax. Without deciding the Commerce Clause
-    question, I would find no basis to adopt such a saving
-    construction.
-      The Federal Government does not have the power to
-    order people to buy health insurance. Section 5000A
-    would therefore be unconstitutional if read as a command.
-    The Federal Government does have the power to impose a
-    tax on those without health insurance. Section 5000A is
-    ——————
-       11 Of course, individuals do not have a lawful choice not to pay a tax
     
-    due, and may sometimes face prosecution for failing to do so (although
-    not for declining to make the shared responsibility payment, see 
-
-26 U.S. C
-
-    
-    
-    . §5000A(g)(2)). But that does not show that the tax restricts the
-    lawful choice whether to undertake or forgo the activity on which the tax
-    is predicated. Those subject to the individual mandate may lawfully
-    forgo health insurance and pay higher taxes, or buy health insurance
-    and pay lower taxes. The only thing they may not lawfully do is not
-    buy health insurance and not pay the resulting tax.
-                     Cite as: 567 U. S. ____ (2012)          45
-    
-                       Opinion of ROBERTS, C. J.
-    
-    therefore constitutional, because it can reasonably be read
-    as a tax.
+                    
                                  IV 
     
                                   A
