@@ -1055,156 +1055,82 @@
     expanded funding and complies with the conditions that
     come with it. This, they argue, violates the basic principle
     that the “Federal Government may not compel the States
-    to enact or administer a federal regulatory program.” New
-    York, 505 U. S., at 188.
+    to enact or administer a federal regulatory program.” 
+
       There is no doubt that the Act dramatically increases
     state obligations under Medicaid. The current Medicaid
     program requires States to cover only certain discrete
-    categories of needy individuals—pregnant women, chil-
-    dren, needy families, the blind, the elderly, and the dis-
-    abled. 
-
-42 U.S. C
-
-    
-    
-    . §1396a(a)(10). There is no mandatory
+    categories of needy individuals—pregnant women, children, needy families, the blind, the elderly, and the disabled. There is no mandatory
     coverage for most childless adults, and the States typically
     do not offer any such coverage. The States also enjoy
     considerable flexibility with respect to the coverage levels
-    for parents of needy families. §1396a(a)(10)(A)(ii). On
+    for parents of needy families. On
     average States cover only those unemployed parents who
     make less than 37 percent of the federal poverty level, and
     only those employed parents who make less than 63 per-
-    cent of the poverty line. Kaiser Comm’n on Medicaid and
-    the Uninsured, Performing Under Pressure 11, and fig. 11
-    (2012).
+    cent of the poverty line. 
+
       The Medicaid provisions of the Affordable Care Act, in
-    contrast, require States to expand their Medicaid pro-
-    grams by 2014 to cover all individuals under the age of 65
-    with incomes below 133 percent of the federal poverty line.
-    §1396a(a)(10)(A)(i)(VIII). The Act also establishes a new
-    46       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    “[e]ssential health benefits” package, which States must
+    contrast, require States to expand their Medicaid programs by 2014 to cover all individuals under the age of 65
+    with incomes below 133 percent of the federal poverty line. The Act also establishes a new “[e]ssential health benefits” package, which States must
     provide to all new Medicaid recipients—a level sufficient
-    to satisfy a recipient’s obligations under the individual man-
-    date. §§1396a(k)(1), 1396u–7(b)(5), 18022(b). The Af-
-    fordable Care Act provides that the Federal Government
+    to satisfy a recipient’s obligations under the individual mandate.  The Affordable Care Act provides that the Federal Government
     will pay 100 percent of the costs of covering these newly
-    eligible individuals through 2016. §1396d(y)(1). In the
-    following years, the federal payment level gradually de-
-    creases, to a minimum of 90 percent. Ibid. In light of
+    eligible individuals through In the
+    following years, the federal payment level gradually decreases, to a minimum of 90 percent. In light of
     the expansion in coverage mandated by the Act, the Federal
-    Government estimates that its Medicaid spending will in-
-    crease by approximately $100 billion per year, nearly 40
-    percent above current levels. Statement of Douglas W.
-    Elmendorf, CBO’s Analysis of the Major Health Care
-    Legislation Enacted in March 2010, p. 14, Table 2 (Mar.
-    30, 2011).
+    Government estimates that its Medicaid spending will increase by approximately $100 billion per year, nearly 40 percent above current levels. 
+
        The Spending Clause grants Congress the power “to pay
     the Debts and provide for the . . . general Welfare of the
-    United States.” U. S. Const., Art. I, §8, cl. 1. We have
+    United States.”  We have
     long recognized that Congress may use this power to grant
     federal funds to the States, and may condition such a
-    grant upon the States’ “taking certain actions that Con-
-    gress could not require them to take.” College Savings Bank,
-    527 U. S., at 686. Such measures “encourage a State
+    grant upon the States’ “taking certain actions that Congress could not require them to take.”  Such measures “encourage a State
     to regulate in a particular way, [and] influenc[e] a State’s
-    policy choices.” New York, supra, at 166. The con-
-    ditions imposed by Congress ensure that the funds are
+    policy choices.” New York, supra, at 166. The conditions imposed by Congress ensure that the funds are
     used by the States to “provide for the . . . general Welfare”
     in the manner Congress intended.
+    
        At the same time, our cases have recognized limits on
     Congress’s power under the Spending Clause to secure
-    state compliance with federal objectives. “We have re-
-    peatedly characterized . . . Spending Clause legislation as
-    ‘much in the nature of a contract.’ ” Barnes v. Gorman,
-    
-
-[536 U.S. 181](/opinion/121152/barnes-v-gorman/)
-
-    
-    
-    , 186 (2002) (quoting Pennhurst State School
-    and Hospital v. Halderman, 
-
-[451 U.S. 1](/opinion/110458/pennhurst-state-school-and-hospital-v-halderman/)
-
-    
-    
-    , 17 (1981)). The
-                     Cite as: 567 U. S. ____ (2012)          47
-    
-                       Opinion of ROBERTS, C. J.
-    
-    legitimacy of Congress’s exercise of the spending power
-    “thus rests on whether the State voluntarily and knowingly
-    accepts the terms of the ‘contract.’ ” Pennhurst, supra,
-    at 17. Respecting this limitation is critical to ensuring
+    state compliance with federal objectives. “We have repeatedly characterized . . . Spending Clause legislation as
+    ‘much in the nature of a contract.'” The legitimacy of Congress’s exercise of the spending power “thus rests on whether the State voluntarily and knowingly
+    accepts the terms of the ‘contract.’ ”  Respecting this limitation is critical to ensuring
     that Spending Clause legislation does not undermine the
     status of the States as independent sovereigns in our fed-
     eral system. That system “rests on what might at first
     seem a counterintuitive insight, that ‘freedom is enhanced
-    by the creation of two governments, not one.’ ” Bond, 564
-    U. S., at ___ (slip op., at 8) (quoting Alden v. Maine, 
-
-[527 U.S. 706](/opinion/118318/alden-v-maine/)
-
-    
-    
-    , 758 (1999)). For this reason, “the Constitution
+    by the creation of two governments, not one.’” For this reason, “the Constitution
     has never been understood to confer upon Congress the
     ability to require the States to govern according to Con-
-    gress’ instructions.” New York, supra, at 162. Otherwise
+    gress’ instructions.” Otherwise
     the two-government system established by the Framers
     would give way to a system that vests power in one central
     government, and individual liberty would suffer.
-       That insight has led this Court to strike down fed-
-    eral legislation that commandeers a State’s legislative or
-    administrative apparatus for federal purposes. See, e.g.,
-    Printz, 521 U. S., at 933 (striking down federal legisla-
-    tion compelling state law enforcement officers to perform
-    federally mandated background checks on handgun pur-
-    chasers); New York, supra, at 174–175 (invalidating provi-
-    sions of an Act that would compel a State to either take
-    title to nuclear waste or enact particular state waste
-    regulations). It has also led us to scrutinize Spending
+    
+       That insight has led this Court to strike down federal legislation that commandeers a State’s legislative or
+    administrative apparatus for federal purposes.  It has also led us to scrutinize Spending
     Clause legislation to ensure that Congress is not using
     financial inducements to exert a “power akin to undue
-    influence.” Steward Machine Co. v. Davis, 
-
-[301 U.S. 548](/opinion/102843/steward-machine-co-v-davis/)
-
-    
-    
-    ,
-    590 (1937). Congress may use its spending power to cre-
+    influence.” Congress may use its spending power to cre-
     ate incentives for States to act in accordance with federal
-    policies. But when “pressure turns into compulsion,” ibid.,
+    policies. But when “pressure turns into compulsion”
     the legislation runs contrary to our system of federalism.
     “[T]he Constitution simply does not give Congress the
-    authority to require the States to regulate.” New York,
-    48       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    505 U. S., at 178. That is true whether Congress directly
+    authority to require the States to regulate.”  That is true whether Congress directly
     commands a State to regulate or indirectly coerces a State
     to adopt a federal regulatory system as its own.
+    
        Permitting the Federal Government to force the States
     to implement a federal program would threaten the politi-
     cal accountability key to our federal system. “[W]here the
     Federal Government directs the States to regulate, it may
-    be state officials who will bear the brunt of public disap-
-    proval, while the federal officials who devised the regu-
+    be state officials who will bear the brunt of public disapproval, while the federal officials who devised the regu-
     latory program may remain insulated from the electoral
-    ramifications of their decision.” Id., at 169. Spending
+    ramifications of their decision.” Spending
     Clause programs do not pose this danger when a State has
-    a legitimate choice whether to accept the federal condi-
-    tions in exchange for federal funds. In such a situation,
+    a legitimate choice whether to accept the federal conditions in exchange for federal funds. In such a situation,
     state officials can fairly be held politically accountable for
     choosing to accept or refuse the federal offer. But when
     the State has no choice, the Federal Government can
@@ -1213,6 +1139,7 @@
     when Congress acts under the Spending Clause, because
     Congress can use that power to implement federal policy it
     could not impose directly under its enumerated powers.
+    
        We addressed such concerns in Steward Machine. That
     case involved a federal tax on employers that was abated
     if the businesses paid into a state unemployment plan that
@@ -1220,66 +1147,44 @@
     sued, alleging that the tax was impermissibly “driv[ing]
     the state legislatures under the whip of economic pressure
     into the enactment of unemployment compensation laws
-    at the bidding of the central government.” 301 U. S., at
-    587. We acknowledged the danger that the Federal Gov-
+    at the bidding of the central government.”  We acknowledged the danger that the Federal Gov-
     ernment might employ its taxing power to exert a “power
-    akin to undue influence” upon the States. Id., at 590. But
+    akin to undue influence” upon the States.  But
     we observed that Congress adopted the challenged tax and
     abatement program to channel money to the States that
-    would otherwise have gone into the Federal Treasury for
-                     Cite as: 567 U. S. ____ (2012)          49
-    
-                       Opinion of ROBERTS, C. J.
-    
-    use in providing national unemployment services. Con-
-    gress was willing to direct businesses to instead pay the
+    would otherwise have gone into the Federal Treasury for use in providing national unemployment services. Congress was willing to direct businesses to instead pay the
     money into state programs only on the condition that the
     money be used for the same purposes. Predicating tax
     abatement on a State’s adoption of a particular type of un-
-    employment legislation was therefore a means to “safe-
-    guard [the Federal Government’s] own treasury.” Id., at
-    591. We held that “[i]n such circumstances, if in no oth-
-    ers, inducement or persuasion does not go beyond the
-    bounds of power.” Ibid.
+    employment legislation was therefore a means to “safeguard [the Federal Government’s] own treasury.”  We held that “[i]n such circumstances, if in no others, inducement or persuasion does not go beyond the
+    bounds of power.”
+    
        In rejecting the argument that the federal law was a
-    “weapon[ ] of coercion, destroying or impairing the auton-
+    “weapon of coercion, destroying or impairing the auton-
     omy of the states,” the Court noted that there was no
     reason to suppose that the State in that case acted other
-    than through “her unfettered will.” Id., at 586, 590.
-    Indeed, the State itself did “not offer a suggestion that in
+    than through “her unfettered will.” Indeed, the State itself did “not offer a suggestion that in
     passing the unemployment law she was affected by du-
-    ress.” Id., at 589.
+    ress.” 
+    
        As our decision in Steward Machine confirms, Congress
     may attach appropriate conditions to federal taxing and
     spending programs to preserve its control over the use of
     federal funds. In the typical case we look to the States to
-    defend their prerogatives by adopting “the simple expedi-
-    ent of not yielding” to federal blandishments when they
-    do not want to embrace the federal policies as their own.
-    Massachusetts v. Mellon, 
-
-[262 U.S. 447](/opinion/100240/massachusetts-v-mellon/)
-
+    defend their prerogatives by adopting “the simple expedient of not yielding” to federal blandishments when they
+    do not want to embrace the federal policies as their own. The
+    States are separate and independent sovereigns. Sometimes they have to act like it.
     
-    
-    , 482 (1923). The
-    States are separate and independent sovereigns. Some-
-    times they have to act like it.
        The States, however, argue that the Medicaid expansion
     is far from the typical case. They object that Congress has
     “crossed the line distinguishing encouragement from
-    coercion,” New York, supra, at 175, in the way it has struc-
+    coercion” in the way it has struc-
     tured the funding: Instead of simply refusing to grant the
-    new funds to States that will not accept the new condi-
-    tions, Congress has also threatened to withhold those
-    States’ existing Medicaid funds. The States claim that
-    50       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    this threat serves no purpose other than to force unwilling
+    new funds to States that will not accept the new conditions, Congress has also threatened to withhold those
+    States’ existing Medicaid funds. The States claim that this threat serves no purpose other than to force unwilling
     States to sign up for the dramatic expansion in health care
     coverage effected by the Act.
+    
        Given the nature of the threat and the programs at
     issue here, we must agree. We have upheld Congress’s
     authority to condition the receipt of funds on the States’
@@ -1292,283 +1197,147 @@
     threats to terminate other significant independent grants,
     the conditions are properly viewed as a means of pressur-
     ing the States to accept policy changes.
+    
        In South Dakota v. Dole, we considered a challenge to a
     federal law that threatened to withhold five percent of a
     State’s federal highway funds if the State did not raise its
     drinking age to 21. The Court found that the condition
     was “directly related to one of the main purposes for which
-    highway funds are expended—safe interstate travel.” 483
-    U. S., at 208. At the same time, the condition was not a
-    restriction on how the highway funds—set aside for spec-
-    ific highway improvement and maintenance efforts—were
-    to be used.
+    highway funds are expended—safe interstate travel.”  At the same time, the condition was not a
+    restriction on how the highway funds---set aside for specific highway improvement and maintenance efforts---were to be used.
+    
        We accordingly asked whether “the financial induce-
     ment offered by Congress” was “so coercive as to pass the
-    point at which ‘pressure turns into compulsion.’ ” Id., at
-    211 (quoting Steward Machine, supra, at 590). By “finan-
-    cial inducement” the Court meant the threat of losing five
+    point at which ‘pressure turns into compulsion.’ ”  By “financial inducement” the Court meant the threat of losing five
     percent of highway funds; no new money was offered to
     the States to raise their drinking ages. We found that the
     inducement was not impermissibly coercive, because
     Congress was offering only “relatively mild encouragement
-    to the States.” Dole, 483 U. S., at 211. We observed that
-    “all South Dakota would lose if she adheres to her chosen
-                     Cite as: 567 U. S. ____ (2012)          51
-    
-                       Opinion of ROBERTS, C. J.
-    
-    course as to a suitable minimum drinking age is 5%” of
-    her highway funds. Ibid. In fact, the federal funds at
+    to the States.”  We observed that
+    “all South Dakota would lose if she adheres to her chosen course as to a suitable minimum drinking age is 5%” of
+    her highway funds. In fact, the federal funds at
     stake constituted less than half of one percent of South
-    Dakota’s budget at the time. See Nat. Assn. of State
-    Budget Officers, The State Expenditure Report 59 (1987);
-    South Dakota v. Dole, 
-
-791 F.2d 628
-
-    
-    
-    , 630 (CA8 1986). In
+    Dakota’s budget at the time.  In
     consequence, “we conclude[d] that [the] encouragement
-    to state action [was] a valid use of the spending power.”
-    Dole, 483 U. S., at 212. Whether to accept the drinking
+    to state action [was] a valid use of the spending power.” Whether to accept the drinking
     age change “remain[ed] the prerogative of the States not
-    merely in theory but in fact.” Id., at 211–212.
+    merely in theory but in fact.” 
+    
        In this case, the financial “inducement” Congress has
-    chosen is much more than “relatively mild encourage-
-    ment”—it is a gun to the head. Section 1396c of the Medi-
+    chosen is much more than “relatively mild encouragement”---it is a gun to the head. Section 1396c of the Medi-
     caid Act provides that if a State’s Medicaid plan does
     not comply with the Act’s requirements, the Secretary of
     Health and Human Services may declare that “further
-    payments will not be made to the State.” 
-
-42 U.S. C
-
-    
-    
-    .
-    §1396c. A State that opts out of the Affordable Care Act’s
-    expansion in health care coverage thus stands to lose not
-    merely “a relatively small percentage” of its existing Medi-
-    caid funding, but all of it. Dole, supra, at 211. Medicaid
-    spending accounts for over 20 percent of the average
+    payments will not be made to the State.” A State that opts out of the Affordable Care Act’s expansion in health care coverage thus stands to lose not
+    merely “a relatively small percentage” of its existing Medicaid funding, but all of it. Medicaid spending accounts for over 20 percent of the average
     State’s total budget, with federal funds covering 50 to 83
-    percent of those costs. See Nat. Assn. of State Budget
-    Officers, Fiscal Year 2010 State Expenditure Report, p. 11,
-    Table 5 (2011); 
-
-42 U.S. C
-
-    
-    
-    . §1396d(b). The Federal Gov-
+    percent of those costs. The Federal Gov-
     ernment estimates that it will pay out approximately $3.3
     trillion between 2010 and 2019 in order to cover the costs
-    of pre-expansion Medicaid. Brief for United States 10,
-    n. 6. In addition, the States have developed intricate
+    of pre-expansion Medicaid. In addition, the States have developed intricate
     statutory and administrative regimes over the course of
     many decades to implement their objectives under existing
-    Medicaid. It is easy to see how the Dole Court could con-
-    clude that the threatened loss of less than half of one
-    percent of South Dakota’s budget left that State with a
-    52         NATIONAL FEDERATION OF INDEPENDENT
-                       BUSINESS v. SEBELIUS
-                       Opinion of ROBERTS, C. J.
-    
-    “prerogative” to reject Congress’s desired policy, “not
-    merely in theory but in fact.” 483 U. S., at 211–212. The
+    Medicaid. It is easy to see how the Dole Court could conclude that the threatened loss of less than half of one
+    percent of South Dakota’s budget left that State with a “prerogative” to reject Congress’s desired policy, “not
+    merely in theory but in fact.” The
     threatened loss of over 10 percent of a State’s overall
     budget, in contrast, is economic dragooning that leaves the
     States with no real option but to acquiesce in the Medicaid
-    expansion.12
+    expansion.
+    
       JUSTICE GINSBURG claims that Dole is distinguishable
     because here “Congress has not threatened to withhold
-    funds earmarked for any other program.” Post, at 47. But
-    that begs the question: The States contend that the ex-
-    pansion is in reality a new program and that Congress is
+    funds earmarked for any other program.”  But
+    that begs the question: The States contend that the expansion is in reality a new program and that Congress is
     forcing them to accept it by threatening the funds for the
     existing Medicaid program. We cannot agree that existing
     Medicaid and the expansion dictated by the Affordable
     Care Act are all one program simply because “Congress
-    styled” them as such. Post, at 49. If the expansion is not
+    styled” them as such. If the expansion is not
     properly viewed as a modification of the existing Medicaid
-    program, Congress’s decision to so title it is irrelevant.13
-    ——————
-      12 JUSTICE  GINSBURG observes that state Medicaid spending will in-
-    crease by only 0.8 percent after the expansion. Post, at 43. That not
-    only ignores increased state administrative expenses, but also assumes
-    that the Federal Government will continue to fund the expansion at the
-    current statutorily specified levels. It is not unheard of, however, for
-    the Federal Government to increase requirements in such a manner as
-    to impose unfunded mandates on the States. More importantly, the
-    size of the new financial burden imposed on a State is irrelevant in
-    analyzing whether the State has been coerced into accepting that
-    burden. “Your money or your life” is a coercive proposition, whether
-    you have a single dollar in your pocket or $500.
-      13 Nor, of course, can the number of pages the amendment occu-
-    
-    pies, or the extent to which the change preserves and works within
-    the existing program, be dispositive. Cf. post, at 49–50 (opinion of
-    GINSBURG, J.). Take, for example, the following hypothetical amend-
-    ment: “All of a State’s citizens are now eligible for Medicaid.” That
-    change would take up a single line and would not alter any “operational
-    aspect[ ] of the program” beyond the eligibility requirements. Post, at
-    49. Yet it could hardly be argued that such an amendment was a
-    permissible modification of Medicaid, rather than an attempt to foist an
-    entirely new health care system upon the States.
-                     Cite as: 567 U. S. ____ (2012)          53
-    
-                       Opinion of ROBERTS, C. J.
-    
-       Here, the Government claims that the Medicaid expan-
-    sion is properly viewed merely as a modification of the ex-
-    isting program because the States agreed that Congress
+    program, Congress’s decision to so title it is irrelevant.
+
+       Here, the Government claims that the Medicaid expansion is properly viewed merely as a modification of the existing program because the States agreed that Congress
     could change the terms of Medicaid when they signed on
     in the first place. The Government observes that the
     Social Security Act, which includes the original Medicaid
     provisions, contains a clause expressly reserving “[t]he
     right to alter, amend, or repeal any provision” of that
-    statute. 
-
-42 U.S. C
-
-    
-    
-    . §1304. So it does. But “if Congress
-    intends to impose a condition on the grant of federal mon-
-    eys, it must do so unambiguously.” Pennhurst, 451 U. S.,
-    at 17. A State confronted with statutory language reserv-
-    ing the right to “alter” or “amend” the pertinent provisions
+    statute.So it does. But “if Congress
+    intends to impose a condition on the grant of federal moneys, it must do so unambiguously.” A State confronted with statutory language reserving the right to “alter” or “amend” the pertinent provisions
     of the Social Security Act might reasonably assume that
-    Congress was entitled to make adjustments to the Medi-
-    caid program as it developed. Congress has in fact done
+    Congress was entitled to make adjustments to the Medicaid program as it developed. Congress has in fact done
     so, sometimes conditioning only the new funding, other
     times both old and new. See, e.g., Social Security Amend-
-    ments of 1972, 86 Stat. 1381–1382, 1465 (extending Med-
-    icaid eligibility, but partly conditioning only the new
-    funding); Omnibus Budget Reconciliation Act of 1990,
-    §4601, 104 Stat. 1388–166 (extending eligibility, and
+    ments of 1972 (extending Medicaid eligibility, but partly conditioning only the new
+    funding); Omnibus Budget Reconciliation Act of 1990, (extending eligibility, and
     conditioning old and new funds).
+    
        The Medicaid expansion, however, accomplishes a shift
     in kind, not merely degree. The original program was de-
     signed to cover medical services for four particular cat-
     egories of the needy: the disabled, the blind, the elderly,
-    and needy families with dependent children. See 
-
-42 U.S. C
-
-    
-    
-    . §1396a(a)(10). Previous amendments to Medicaid
+    and needy families with dependent children.  Previous amendments to Medicaid
     eligibility merely altered and expanded the boundaries of
     these categories. Under the Affordable Care Act, Medicaid
     is transformed into a program to meet the health care
     needs of the entire nonelderly population with income
     below 133 percent of the poverty level. It is no longer a
     program to care for the neediest among us, but rather an
-    element of a comprehensive national plan to provide uni-
-    54         NATIONAL FEDERATION OF INDEPENDENT
-                       BUSINESS v. SEBELIUS
-                       Opinion of ROBERTS, C. J.
-    
-    versal health insurance coverage.14
+    element of a comprehensive national plan to provide universal health insurance coverage.^[JUSTICE GINSBURG suggests that the States can have no objection to the Medicaid expansion, because "Congress could have repealed Medicaid [and,] [t]hereafter, . . . could have enacted Medicaid II, a new program combining the pre-2010 coverage with the expanded coverage required by the ACA." But it would certainly not be that easy. Practical constraints would plainly inhibit, if not preclude, the Federal Government from repealing the existing program and putting every feature of Medicaid on the table for political reconsideration. Such a massive undertaking would hardly be "ritualistic." The same is true of JUSTICE GINSBURG’s suggestion that Congress could establish Medicaid as an exclusively federal program.]
+
        Indeed, the manner in which the expansion is struc-
     tured indicates that while Congress may have styled the
-    expansion a mere alteration of existing Medicaid, it recog-
-    nized it was enlisting the States in a new health care
+    expansion a mere alteration of existing Medicaid, it recognized it was enlisting the States in a new health care
     program. Congress created a separate funding provision
     to cover the costs of providing services to any person
     made newly eligible by the expansion. While Congress pays
-    50 to 83 percent of the costs of covering individuals cur-
-    rently enrolled in Medicaid, §1396d(b), once the expansion is
+    50 to 83 percent of the costs of covering individuals currently enrolled in Medicaid, once the expansion is
     fully implemented Congress will pay 90 percent of the
-    costs for newly eligible persons, §1396d(y)(1). The condi-
-    tions on use of the different funds are also distinct. Con-
-    gress mandated that newly eligible persons receive a level
+    costs for newly eligible persons. The conditions on use of the different funds are also distinct. Congress mandated that newly eligible persons receive a level
     of coverage that is less comprehensive than the traditional
-    Medicaid benefit package. §1396a(k)(1); see Brief for
-    United States 9.
+    Medicaid benefit package. 
+
        As we have explained, “[t]hough Congress’ power to
     legislate under the spending power is broad, it does not
-    include surprising participating States with postac-
-    ceptance or ‘retroactive’ conditions.” Pennhurst, supra, at
-    25. A State could hardly anticipate that Congress’s reser-
-    vation of the right to “alter” or “amend” the Medicaid
-    program included the power to transform it so dramatically.
+    include surprising participating States with postacceptance or ‘retroactive’ conditions.” A State could hardly anticipate that Congress’s reservation of the right to “alter” or “amend” the Medicaid program included the power to transform it so dramatically.
+    
        JUSTICE GINSBURG claims that in fact this expansion is
-    ——————
-       14 JUSTICE GINSBURG suggests that the States can have no objection to
-    
-    the Medicaid expansion, because “Congress could have repealed Medi-
-    caid [and,] [t]hereafter, . . . could have enacted Medicaid II, a new
-    program combining the pre-2010 coverage with the expanded coverage
-    required by the ACA.” Post, at 51; see also post, at 38. But it would
-    certainly not be that easy. Practical constraints would plainly inhibit,
-    if not preclude, the Federal Government from repealing the existing
-    program and putting every feature of Medicaid on the table for political
-    reconsideration. Such a massive undertaking would hardly be “ritual-
-    istic.” Ibid. The same is true of JUSTICE GINSBURG’s suggestion that
-    Congress could establish Medicaid as an exclusively federal program.
-    Post, at 44.
-                     Cite as: 567 U. S. ____ (2012)           55
-    
-                       Opinion of ROBERTS, C. J.
-    
     no different from the previous changes to Medicaid, such
     that “a State would be hard put to complain that it lacked
-    fair notice.” Post, at 56. But the prior change she dis-
+    fair notice.” But the prior change she dis-
     cusses—presumably the most dramatic alteration she could
     find—does not come close to working the transformation
     the expansion accomplishes. She highlights an amend-
     ment requiring States to cover pregnant women and in-
-    creasing the number of eligible children. Ibid. But this
+    creasing the number of eligible children. But this
     modification can hardly be described as a major change in
     a program that—from its inception—provided health care
     for “families with dependent children.” Previous Medicaid
     amendments simply do not fall into the same category as
     the one at stake here.
+    
        The Court in Steward Machine did not attempt to “fix
-    the outermost line” where persuasion gives way to coer-
-    cion. 301 U. S., at 591. The Court found it “[e]nough for
+    the outermost line” where persuasion gives way to coercion. The Court found it “[e]nough for
     present purposes that wherever the line may be, this
-    statute is within it.” Ibid. We have no need to fix a line
+    statute is within it.”  We have no need to fix a line
     either. It is enough for today that wherever that line may
     be, this statute is surely beyond it. Congress may not
     simply “conscript state [agencies] into the national bu-
-    reaucratic army,” FERC v. Mississippi, 
-
-[456 U.S. 742](/opinion/110718/ferc-v-mississippi/)
-
-    
-    
-    , 775
-    (1982) (O’Connor, J., concurring in judgment in part and
-    dissenting in part), and that is what it is attempting to do
+    reaucratic army,” and that is what it is attempting to do
     with the Medicaid expansion.
-                                  B
+    
+                                  IV.B
+                                  
       Nothing in our opinion precludes Congress from offering
-    funds under the Affordable Care Act to expand the availa-
-    bility of health care, and requiring that States accepting
+    funds under the Affordable Care Act to expand the availability of health care, and requiring that States accepting
     such funds comply with the conditions on their use. What
     Congress is not free to do is to penalize States that choose
     not to participate in that new program by taking away
     their existing Medicaid funding. Section 1396c gives the
-    Secretary of Health and Human Services the authority to
-    56       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    do just that. It allows her to withhold all “further [Medi-
-    caid] payments . . . to the State” if she determines that the
+    Secretary of Health and Human Services the authority to do just that. It allows her to withhold all “further [Medicaid] payments . . . to the State” if she determines that the
     State is out of compliance with any Medicaid requirement,
-    including those contained in the expansion. 
-
-42 U.S. C
-
-    
-    
-    .
-    §1396c. In light of the Court’s holding, the Secretary
+    including those contained in the expansion.  In light of the Court’s holding, the Secretary
     cannot apply §1396c to withdraw existing Medicaid funds
     for failure to comply with the requirements set out in the
     expansion.
@@ -1586,278 +1355,105 @@
     vided under the Affordable Care Act if a State that has
     chosen to participate in the expansion fails to comply with
     the requirements of that Act.
-       This is not to say, as the joint dissent suggests, that we
-    are “rewriting the Medicaid Expansion.” Post, at 48.
-    Instead, we determine, first, that §1396c is unconstitu-
-    tional when applied to withdraw existing Medicaid funds
-    from States that decline to comply with the expansion.
-    We then follow Congress’s explicit textual instruction to
-    leave unaffected “the remainder of the chapter, and the
-    application of [the challenged] provision to other persons
-    or circumstances.” §1303. When we invalidate an applica-
-    tion of a statute because that application is unconstitu-
-    tional, we are not “rewriting” the statute; we are merely
-    enforcing the Constitution.
-       The question remains whether today’s holding affects
-    other provisions of the Affordable Care Act. In considering
-                     Cite as: 567 U. S. ____ (2012)           57
     
-                       Opinion of ROBERTS, C. J.
-    
-    that question, “[w]e seek to determine what Congress
+   The question remains whether today’s holding affects
+    other provisions of the Affordable Care Act. In considering that question, “[w]e seek to determine what Congress
     would have intended in light of the Court’s constitutional
-    holding.” United States v. Booker, 
-
-543 U.S. 220
-
-    
-    
-    , 246
-    (2005) (internal quotation marks omitted). Our “touch-
+    holding.”  Our “touch-
     stone for any decision about remedy is legislative intent,
-    for a court cannot use its remedial powers to circum-
-    vent the intent of the legislature.” Ayotte v. Planned
-    Parenthood of Northern New Eng., 
-
-[546 U.S. 320](/opinion/145691/ayotte-v-planned-parenthood-of-northern-new-
-eng/)
-
-    
-    
-    , 330
-    (2006) (internal quotation marks omitted). The question
+    for a court cannot use its remedial powers to circumvent the intent of the legislature.”  The question
     here is whether Congress would have wanted the rest of
     the Act to stand, had it known that States would have a
     genuine choice whether to participate in the new Medicaid
     expansion. Unless it is “evident” that the answer is no, we
-    must leave the rest of the Act intact. Champlin Refining
-    Co. v. Corporation Comm’n of Okla., 
+    must leave the rest of the Act intact. 
 
-[286 U.S. 210](/opinion/101918/champlin-rfg-co-v-corporation-commission-of-
-oklahoma/)
-
-    
-    
-    , 234
-    (1932).
       We are confident that Congress would have wanted to
     preserve the rest of the Act. It is fair to say that Congress
-    assumed that every State would participate in the Medi-
-    caid expansion, given that States had no real choice but to
+    assumed that every State would participate in the Medicaid expansion, given that States had no real choice but to
     do so. The States contend that Congress enacted the rest
     of the Act with such full participation in mind; they point
     out that Congress made Medicaid a means for satisfying
-    the mandate, 
-
-26 U.S. C
-
-    
-    
-    . §5000A(f)(1)(A)(ii), and enacted
+    the mandate, and enacted
     no other plan for providing coverage to many low-income
     individuals. According to the States, this means that the
     entire Act must fall.
+    
       We disagree. The Court today limits the financial pres-
     sure the Secretary may apply to induce States to accept
     the terms of the Medicaid expansion. As a practical mat-
-    ter, that means States may now choose to reject the ex-
-    pansion; that is the whole point. But that does not mean
+    ter, that means States may now choose to reject the expansion; that is the whole point. But that does not mean
     all or even any will. Some States may indeed decline to
     participate, either because they are unsure they will be
     able to afford their share of the new funding obligations,
-    or because they are unwilling to commit the administra-
-    58       NATIONAL FEDERATION OF INDEPENDENT
-                     BUSINESS v. SEBELIUS
-                     Opinion of ROBERTS, C. J.
-    
-    tive resources necessary to support the expansion. Other
+    or because they are unwilling to commit the administrative resources necessary to support the expansion. Other
     States, however, may voluntarily sign up, finding the idea
     of expanding Medicaid coverage attractive, particularly
     given the level of federal funding the Act offers at the
     outset.
+    
        We have no way of knowing how many States will ac-
     cept the terms of the expansion, but we do not believe
     Congress would have wanted the whole Act to fall, simply
     because some may choose not to participate. The other
     reforms Congress enacted, after all, will remain “fully
-    operative as a law,” Champlin, supra, at 234, and will still
+    operative as a law” and will still
     function in a way “consistent with Congress’ basic objec-
-    tives in enacting the statute,” Booker, supra, at 259.
-    Confident that Congress would not have intended any-
-    thing different, we conclude that the rest of the Act need
+    tives in enacting the statute.” 
+    Confident that Congress would not have intended anything different, we conclude that the rest of the Act need
     not fall in light of our constitutional holding.
-                            *     *   *
+    
+
       The Affordable Care Act is constitutional in part and
     unconstitutional in part. The individual mandate cannot
     be upheld as an exercise of Congress’s power under the
     Commerce Clause. That Clause authorizes Congress to
     regulate interstate commerce, not to order individuals to
-    engage in it. In this case, however, it is reasonable to con-
-    strue what Congress has done as increasing taxes on those
+    engage in it. In this case, however, it is reasonable to construe what Congress has done as increasing taxes on those
     who have a certain amount of income, but choose to go
-    without health insurance. Such legislation is within Con-
-    gress’s power to tax.
-      As for the Medicaid expansion, that portion of the Af-
-    fordable Care Act violates the Constitution by threatening
+    without health insurance. Such legislation is within Congress’s power to tax.
+    
+      As for the Medicaid expansion, that portion of the Affordable Care Act violates the Constitution by threatening
     existing Medicaid funding. Congress has no authority to
     order the States to regulate according to its instructions.
     Congress may offer the States grants and require the
     States to comply with accompanying conditions, but the
     States must have a genuine choice whether to accept the
     offer. The States are given no such choice in this case:
-                     Cite as: 567 U. S. ____ (2012)                 59
-    
-                       Opinion of ROBERTS, C. J.
-    
     They must either accept a basic change in the nature of
     Medicaid, or risk losing all Medicaid funding. The remedy
     for that constitutional violation is to preclude the Federal
     Government from imposing such a sanction. That remedy
-    does not require striking down other portions of the Af-
-    fordable Care Act.
-      The Framers created a Federal Government of limited
-    powers, and assigned to this Court the duty of enforcing
-    those limits. The Court does so today. But the Court does
-    not express any opinion on the wisdom of the Affordable
-    Care Act. Under the Constitution, that judgment is re-
-    served to the people.
-      The judgment of the Court of Appeals for the Eleventh
-    Circuit is affirmed in part and reversed in part.
-    
-                                                      It is so ordered.
-                     Cite as: 567 U. S. ____ (2012)           1
-    
-                        Opinion of GINSBURG, J.
-    
-    SUPREME COURT OF THE UNITED STATES
-                             _________________
-    
-                    Nos. 11–393, 11–398 and 11–400
-                             _________________
-    
-    
-        NATIONAL FEDERATION OF INDEPENDENT
-             BUSINESS, ET AL., PETITIONERS
-    11–393                 v.
-      KATHLEEN SEBELIUS, SECRETARY OF HEALTH
-              AND HUMAN SERVICES, ET AL.
-    
-          DEPARTMENT OF HEALTH AND HUMAN
-    
-             SERVICES, ET AL., PETITIONERS 
-    
-    11–398                 v.
-                   FLORIDA ET AL.
-    
-               FLORIDA, ET AL., PETITIONERS
-    11–400                  v.
-               DEPARTMENT OF HEALTH AND
-                  HUMAN SERVICES ET AL.
-    ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
-              APPEALS FOR THE ELEVENTH CIRCUIT
-                            [June 28, 2012]
-    
-       JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR
+    does not require striking down other portions of the Affordable Care Act.
+        
+**JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR
     joins, and with whom JUSTICE BREYER and JUSTICE
     KAGAN join as to Parts I, II, III, and IV, concurring in
     part, concurring in the judgment in part, and dissenting in
-    part.
+    part.**
+    
        I agree with THE CHIEF JUSTICE that the Anti-Injunction
     Act does not bar the Court’s consideration of this case,
     and that the minimum coverage provision is a proper
     exercise of Congress’ taxing power. I therefore join Parts
     I, II, and III–C of THE CHIEF JUSTICE’s opinion.
-    Unlike THE CHIEF JUSTICE, however, I would hold, alterna­
-    2        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    tively, that the Commerce Clause authorizes Congress to
+    Unlike THE CHIEF JUSTICE, however, I would hold, alterna­tively, that the Commerce Clause authorizes Congress to
     enact the minimum coverage provision. I would also hold
     that the Spending Clause permits the Medicaid expansion
     exactly as Congress enacted it.
+
                                  I
-       The provision of health care is today a concern of na­
-    tional dimension, just as the provision of old-age and
-    survivors’ benefits was in the 1930’s. In the Social Secu-
-    rity Act, Congress installed a federal system to provide
-    monthly benefits to retired wage earners and, eventually,
-    to their survivors. Beyond question, Congress could have
-    adopted a similar scheme for health care. Congress chose,
-    instead, to preserve a central role for private insurers and
-    state governments. According to THE CHIEF JUSTICE, the
-    Commerce Clause does not permit that preservation. This
-    rigid reading of the Clause makes scant sense and is
-    stunningly retrogressive.
-       Since 1937, our precedent has recognized Congress’
-    large authority to set the Nation’s course in the economic
-    and social welfare realm. See United States v. Darby, 
 
-[312 U.S. 100](/opinion/103442/united-states-v-darby/)
-
-    
-    
-    , 115 (1941) (overruling Hammer v. Dagenhart,
-    
-
-[247 U.S. 251](/opinion/99190/hammer-v-dagenhart/)
-
-    
-    
-     (1918), and recognizing that “regulations of
-    commerce which do not infringe some constitutional prohibi-
-    tion are within the plenary power conferred on Congress
-    by the Commerce Clause”); NLRB v. Jones & Laughlin
-    Steel Corp., 
-
-[301 U.S. 1](/opinion/102804/nlrb-v-jones-laughlin-steel-corp/)
-
-    
-    
-    , 37 (1937) (“[The commerce]
-    power is plenary and may be exerted to protect interstate
-    commerce no matter what the source of the dangers which
-    threaten it.” (internal quotation marks omitted)). THE
-    CHIEF JUSTICE’s crabbed reading of the Commerce Clause
-    harks back to the era in which the Court routinely thwarted
-    Congress’ efforts to regulate the national economy in
-    the interest of those who labor to sustain it. See, e.g.,
-    Railroad Retirement Bd. v. Alton R. Co., 
-
-[295 U.S. 330](/opinion/102460/railroad-retirement-bd-v-alton-r-co/)
-
-    
-    
-    ,
-    362, 368 (1935) (invalidating compulsory retirement and
-                     Cite as: 567 U. S. ____ (2012)           3
-    
-                        Opinion of GINSBURG, J.
-    
-    pension plan for employees of carriers subject to the Inter­
-    state Commerce Act; Court found law related essentially
-    “to the social welfare of the worker, and therefore remote
-    from any regulation of commerce as such”). It is a reading
-    that should not have staying power.
                                  A
+
        In enacting the Patient Protection and Affordable Care
     Act (ACA), Congress comprehensively reformed the
     national market for health-care products and services.
     By any measure, that market is immense. Collectively,
     Americans spent $2.5 trillion on health care in 2009,
-    accounting for 17.6% of our Nation’s economy. 
-
-42 U.S. C
-
+    accounting for 17.6% of our Nation’s economy.  Within the next decade,
+    it is anticipated, spending on health care will nearly dou­ble.
     
-    
-    .
-    §18091(2)(B) (2006 ed., Supp. IV). Within the next decade,
-    it is anticipated, spending on health care will nearly dou­
-    ble. Ibid.
        The health-care market’s size is not its only distinctive
     feature. Unlike the market for almost any other product
     or service, the market for medical care is one in which all
@@ -1866,96 +1462,56 @@ oklahoma/)
     a doctor or other health-care professional. See Dept. of
     Health and Human Services, National Center for Health
     Statistics, Summary Health Statistics for U. S. Adults:
-    National Health Interview Survey 2009, Ser. 10, No. 249,
-    p. 124, Table 37 (Dec. 2010) (Over 99.5% of adults above
+    National Health Interview Survey 2009 (Over 99.5% of adults above
     65 have visited a health-care professional.). Most people
-    will do so repeatedly. See id., at 115, Table 34 (In 2009
+    will do so repeatedly. See (In 2009
     alone, 64% of adults made two or more visits to a doctor’s
     office.).
+    
        When individuals make those visits, they face another
     reality of the current market for medical care: its high
     cost. In 2010, on average, an individual in the United
-    States incurred over $7,000 in health-care expenses.
-    Dept. of Health and Human Services, Centers for Medi­
-    care and Medicaid Services, Historic National Health
-    4        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    Expenditure Data, National Health Expenditures: Se-
-    lected Calendar Years 1960–2010 (Table 1). Over a life­
-    time, costs mount to hundreds of thousands of dollars. See
-    Alemayahu & Warner, The Lifetime Distribution of
-    Health Care Costs, in 39 Health Service Research 627, 635
-    (June 2004). When a person requires nonroutine care, the
+    States incurred over $7,000 in health-care expenses. Over a life­
+    time, costs mount to hundreds of thousands of dollars. When a person requires nonroutine care, the
     cost will generally exceed what he or she can afford to pay.
     A single hospital stay, for instance, typically costs up­
-    wards of $10,000. See Dept. of Health and Human Ser­
-    vices, Office of Health Policy, ASPE Research Brief: The
-    Value of Health Insurance 5 (May 2011). Treatments for
+    wards of $10,000. Treatments for
     many serious, though not uncommon, conditions similarly
     cost a substantial sum. Brief for Economic Scholars as
-    Amici Curiae in No. 11–398, p. 10 (citing a study indicat­
+    Amici Curiae (citing a study indicat­
     ing that, in 1998, the cost of treating a heart attack for the
     first 90 days exceeded $20,000, while the annual cost of
     treating certain cancers was more than $50,000).
+    
        Although every U. S. domiciliary will incur significant
     medical expenses during his or her lifetime, the time when
     care will be needed is often unpredictable. An accident, a
     heart attack, or a cancer diagnosis commonly occurs with­
     out warning. Inescapably, we are all at peril of needing
-    medical care without a moment’s notice. See, e.g., Camp­
-    bell, Down the Insurance Rabbit Hole, N. Y. Times, Apr. 5,
-    2012, p. A23 (telling of an uninsured 32-year-old woman
-    who, healthy one day, became a quadriplegic the next due
-    to an auto accident).
+    medical care without a moment’s notice. 
+
        To manage the risks associated with medical care—
-    its high cost, its unpredictability, and its inevitability—
-    most people in the United States obtain health insurance.
+    its high cost, its unpredictability, and its inevitability---most people in the United States obtain health insurance.
     Many (approximately 170 million in 2009) are insured by
     private insurance companies. Others, including those
     over 65 and certain poor and disabled persons, rely on
     government-funded insurance programs, notably Medicare
     and Medicaid. Combined, private health insurers and
-    State and Federal Governments finance almost 85% of the
-                      Cite as: 567 U. S. ____ (2012)            5
-    
-                        Opinion of GINSBURG, J.
-    
-    medical care administered to U. S. residents. See Con­
-    gressional Budget Office, CBO’s 2011 Long-Term Budget
-    Outlook 37 (June 2011).
+    State and Federal Governments finance almost 85% of the medical care administered to U. S. residents. 
+
        Not all U. S. residents, however, have health insurance.
     In 2009, approximately 50 million people were uninsured,
     either by choice or, more likely, because they could not
     afford private insurance and did not qualify for govern­
-    ment aid. See Dept. of Commerce, Census Bureau, C.
-    DeNavas-Walt, B. Proctor, & J. Smith, Income, Poverty,
-    and Health Insurance Coverage in the United States: 2009,
-    p. 23, Table 8 (Sept. 2010). As a group, uninsured individ­
-    uals annually consume more than $100 billion in health-
-    care services, nearly 5% of the Nation’s total. Hidden
-    Health Tax: Americans Pay a Premium 2 (2009), avail-
-    able at http://www.familiesusa.org (all Internet mate-
-    rial as visited June 25, 2012, and included in Clerk of
-    Court’s case file). Over 60% of those without insurance
+    ment aid. As a group, uninsured individ­
+    uals annually consume more than $100 billion in healthcare services, nearly 5% of the Nation’s total.  Over 60% of those without insurance
     visit a doctor’s office or emergency room in a given year.
-    See Dept. of Health and Human Services, National Cen-
-    ter for Health Statistics, Health—United States—2010,
-    p. 282, Table 79 (Feb. 2011).
+
                                   B
+
       The large number of individuals without health insur­
     ance, Congress found, heavily burdens the national
-    health-care market. See 
-
-42 U.S. C
-
-    
-    
-    . §18091(2). As just
+    health-care market.  As just
     noted, the cost of emergency care or treatment for a seri­
     ous illness generally exceeds what an individual can afford
     to pay on her own. Unlike markets for most products,
@@ -1964,25 +1520,8 @@ oklahoma/)
     state law, as well as professional obligations and embed­
     ded social norms, require hospitals and physicians to
     provide care when it is most needed, regardless of the
-    patient’s ability to pay. See, e.g., 
+    patient’s ability to pay. 
 
-42 U.S. C
-
-    
-    
-    . §1395dd; Fla.
-    Stat. §395.1041(3)(f) (2010); Tex. Health & Safety Code
-    6        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    Ann. §§311.022(a) and (b) (West 2010); American Medical
-    Association, Council on Ethical and Judicial Affairs,
-    Code of Medical Ethics, Current Opinions: Opinion 8.11—
-    Neglect of Patient, p. 70 (1998–1999 ed.).
        As a consequence, medical-care providers deliver sig-
     nificant amounts of care to the uninsured for which the
     providers receive no payment. In 2008, for example, hospi-
@@ -1991,11 +1530,6 @@ oklahoma/)
     billion in care they administered to those without insur­
     ance. 
 
-42 U.S. C
-
-    
-    
-    . §18091(2)(F) (2006 ed., Supp. IV).
        Health-care providers do not absorb these bad debts.
     Instead, they raise their prices, passing along the cost
     of uncompensated care to those who do pay reliably: the
@@ -2006,12 +1540,12 @@ oklahoma/)
     ance subsidize the medical care of those without it. As
     economists would describe what happens, the uninsured
     “free ride” on those who pay for health insurance.
+
        The size of this subsidy is considerable. Congress found
     that the cost-shifting just described “increases family
-    [insurance] premiums by on average over $1,000 a year.”
-    Ibid. Higher premiums, in turn, render health insurance
-    less affordable, forcing more people to go without insur­
-    ance and leading to further cost-shifting.
+    [insurance] premiums by on average over $1,000 a year.” Higher premiums, in turn, render health insurance
+    less affordable, forcing more people to go without insur­ance and leading to further cost-shifting.
+    
        And it is hardly just the currently sick or injured among
     the uninsured who prompt elevation of the price of health
     care and health insurance. Insurance companies and
@@ -2021,61 +1555,29 @@ oklahoma/)
     bility to pay. In anticipation of this uncompensated care,
     health-care companies raise their prices, and insurers
     their premiums. In other words, because any uninsured
-                       Cite as: 567 U. S. ____ (2012)              7
-    
-                         Opinion of GINSBURG, J.
-    
     person may need medical care at any moment and because
     health-care companies must account for that risk, every
     uninsured person impacts the market price of medical care
     and medical insurance.
+    
        The failure of individuals to acquire insurance has other
     deleterious effects on the health-care market. Because
     those without insurance generally lack access to preventa­
-    tive care, they do not receive treatment for conditions—
-    like hypertension and diabetes—that can be successfully
-    and affordably treated if diagnosed early on. See Institute
-    of Medicine, National Academies, Insuring America’s
-    Health: Principles and Recommendations 43 (2004). When
+    tive care, they do not receive treatment for conditionslike hypertension and diabetes---that can be successfully
+    and affordably treated if diagnosed early on. When
     sickness finally drives the uninsured to seek care, once
     treatable conditions have escalated into grave health
-    problems, requiring more costly and extensive interven­
-    tion. Id., at 43–44. The extra time and resources provid­
-    ers spend serving the uninsured lessens the providers’
-    ability to care for those who do have insurance. See Kliff,
-    High Uninsured Rates Can Kill You—Even if You Have
-    Coverage, Washington Post (May 7, 2012) (describing a
-    study of California’s health-care market which found
-    that, when hospitals divert time and resources to provide
-    uncompensated care, the quality of care the hospitals
-    deliver to those with insurance drops significantly), availa-
-    ble at http://www.washingtonpost.com/blogs/ezra-klein/post/
-    high-uninsured-rates-can-kill-you-even-if-you-have-coverage/2012/
-    05/07/gIQALNHN8T_print.html.
+    problems, requiring more costly and extensive interven­tion.  The extra time and resources provid­ers spend serving the uninsured lessens the providers’
+    ability to care for those who do have insurance. 
+
+
                                C
+
       States cannot resolve the problem of the uninsured on
     their own. Like Social Security benefits, a universal
     health-care system, if adopted by an individual State,
     would be “bait to the needy and dependent elsewhere,
-    encouraging them to migrate and seek a haven of repose.”
-    Helvering v. Davis, 
-
-[301 U.S. 619](/opinion/102844/helvering-v-davis/)
-
-    
-    
-    , 644 (1937). See also
-    Brief for Commonwealth of Massachusetts as Amicus
-    8        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    Curiae in No. 11–398, p. 15 (noting that, in 2009, Massa­
-    chusetts’ emergency rooms served thousands of uninsured,
-    out-of-state residents). An influx of unhealthy individuals
+    encouraging them to migrate and seek a haven of repose.” An influx of unhealthy individuals
     into a State with universal health care would result in
     increased spending on medical services. To cover the
     increased costs, a State would have to raise taxes, and
@@ -2083,100 +1585,43 @@ oklahoma/)
     crease premiums. Higher taxes and increased insurance
     costs would, in turn, encourage businesses and healthy
     individuals to leave the State.
-      States that undertake health-care reforms on their own
-    thus risk “placing themselves in a position of economic
-    disadvantage as compared with neighbors or competitors.”
-    Davis, 301 U. S., at 644. See also Brief for Health Care for
-    All, Inc., et al. as Amici Curiae in No. 11–398, p. 4 (“[O]ut­
-    of-state residents continue to seek and receive millions of
-    dollars in uncompensated care in Massachusetts hospitals,
-    limiting the State’s efforts to improve its health care
-    system through the elimination of uncompensated care.”).
-    Facing that risk, individual States are unlikely to take the
-    initiative in addressing the problem of the uninsured, even
-    though solving that problem is in all States’ best interests.
-    Congress’ intervention was needed to overcome this collective­
-    action impasse.
+    
+
                                  D
+
       Aware that a national solution was required, Congress
     could have taken over the health-insurance market by
     establishing a tax-and-spend federal program like Social
     Security. Such a program, commonly referred to as a
     single-payer system (where the sole payer is the Federal
-    Government), would have left little, if any, room for pri­
-    vate enterprise or the States. Instead of going this route,
-    Congress enacted the ACA, a solution that retains a ro­
-    bust role for private insurers and state governments. To
-    make its chosen approach work, however, Congress had to
-                        Cite as: 567 U. S. ____ (2012)                   9
+    Government), would have left little, if any, room for pri­vate enterprise or the States. Instead of going this route,
+    Congress enacted the ACA, a solution that retains a ro­bust role for private insurers and state governments. To
+    make its chosen approach work, however, Congress had to use some new tools, including a requirement that most
+    individuals obtain private health insurance coverage. As explained below, by employing
+    these tools, Congress was able to achieve a practical, alto­gether reasonable, solution.
     
-                           Opinion of GINSBURG, J.
-    
-    use some new tools, including a requirement that most
-    individuals obtain private health insurance coverage. See
-    
-
-26 U.S. C
-
-    
-    
-    . §5000A (2006 ed., Supp. IV) (the minimum
-    coverage provision). As explained below, by employing
-    these tools, Congress was able to achieve a practical, alto­
-    gether reasonable, solution.
       A central aim of the ACA is to reduce the number of
-    uninsured U. S. residents. See 
-
-42 U.S. C
-
-    
-    
-    . §18091(2)(C)
-    and (I) (2006 ed., Supp. IV). The minimum coverage
+    uninsured U. S. residents.  The minimum coverage
     provision advances this objective by giving potential recip­
     ients of health care a financial incentive to acquire insur­
     ance. Per the minimum coverage provision, an individual
     must either obtain insurance or pay a toll constructed as a
-    tax penalty. See 
+    tax penalty. 
 
-26 U.S. C
-
-    
-    
-    . §5000A.
       The minimum coverage provision serves a further pur­
     pose vital to Congress’ plan to reduce the number of unin­
     sured. Congress knew that encouraging individuals to
     purchase insurance would not suffice to solve the problem,
     because most of the uninsured are not uninsured by
-    choice.1 Of particular concern to Congress were people
+    choice. Of particular concern to Congress were people
     who, though desperately in need of insurance, often cannot
     acquire it: persons who suffer from preexisting medical
     conditions.
+    
       Before the ACA’s enactment, private insurance compa­
     nies took an applicant’s medical history into account when
     setting insurance rates or deciding whether to insure an
-    individual. Because individuals with preexisting med-
-    ——————
-      1 According to one study conducted by the National Center for Health
-    
-    Statistics, the high cost of insurance is the most common reason why
-    individuals lack coverage, followed by loss of one’s job, an employer’s
-    unwillingness to offer insurance or an insurers’ unwillingness to cover
-    those with preexisting medical conditions, and loss of Medicaid cover­
-    age. See Dept. of Health and Human Services, National Center for
-    Health Statistics, Summary Health Statistics for the U. S. Population:
-    National Health Interview Survey—2009, Ser. 10, No. 248, p. 71, Table
-    25 (Dec. 2010). “[D]id not want or need coverage” received too few re-
-    sponses to warrant its own category. See ibid., n. 2.
-    10       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    ical conditions cost insurance companies significantly more
+    individual. Because individuals with preexisting medical conditions cost insurance companies significantly more
     than those without such conditions, insurers routinely re-
     fused to insure these individuals, charged them substan­
     tially higher premiums, or offered only limited coverage
@@ -2186,511 +1631,216 @@ oklahoma/)
     1 (2009) (Over the past three years, 12.6 million non­
     elderly adults were denied insurance coverage or charged
     higher premiums due to a preexisting condition.).
+    
        To ensure that individuals with medical histories have
     access to affordable insurance, Congress devised a three­
     part solution. First, Congress imposed a “guaranteed is­
     sue” requirement, which bars insurers from denying
     coverage to any person on account of that person’s medical
-    condition or history. See 
-
-42 U.S. C
-
-    
-    
-    . §§300gg–1, 300gg–3,
-    300gg–4(a) (2006 ed., Supp. IV). Second, Congress required
+    condition or history. Second, Congress required
     insurers to use “community rating” to price their insurance
-    policies. See §300gg. Community rating, in effect, bars
+    policies. Community rating, in effect, bars
     insurance companies from charging higher premiums
     to those with preexisting conditions.
+    
        But these two provisions, Congress comprehended, could
     not work effectively unless individuals were given a pow­
-    erful incentive to obtain insurance. See Hearings before
-    the House Ways and Means Committee, 111th Cong., 1st
-    Sess., 10, 13 (2009) (statement of Uwe Reinhardt) (“[I]m-
-    position of community-rated premiums and guaranteed
-    issue on a market of competing private health insurers
-    will inexorably drive that market into extinction, unless
-    these two features are coupled with . . . a mandate on
-    individual[s] to be insured.” (emphasis in original)).
+    erful incentive to obtain insurance. 
+    
        In the 1990’s, several States—including New York, New
     Jersey, Washington, Kentucky, Maine, New Hampshire,
     and Vermont—enacted guaranteed-issue and community­
     rating laws without requiring universal acquisition of
-    insurance coverage. The results were disastrous. “All
-                     Cite as: 567 U. S. ____ (2012)           11
-    
-                        Opinion of GINSBURG, J.
-    
-    seven states suffered from skyrocketing insurance pre­
-    mium costs, reductions in individuals with coverage, and
-    reductions in insurance products and providers.” Brief for
-    American Association of People with Disabilities et al. as
-    Amici Curiae in No. 11–398, p. 9 (hereinafter AAPD Brief).
-    See also Brief for Governor of Washington Christine
-    Gregoire as Amicus Curiae in No. 11–398, pp. 11–14 (de­
-    scribing the “death spiral” in the insurance market Wash­
-    ington experienced when the State passed a law requiring
-    coverage for preexisting conditions).
+    insurance coverage. The results were disastrous. “All seven states suffered from skyrocketing insurance pre­mium costs, reductions in individuals with coverage, and
+    reductions in insurance products and providers.” 
+
        Congress comprehended that guaranteed-issue and
-    community-rating laws alone will not work. When insur­
-    ance companies are required to insure the sick at afforda­
-    ble prices, individuals can wait until they become ill to buy
-    insurance. Pretty soon, those in need of immediate medi­
-    cal care—i.e., those who cost insurers the most—become
+    community-rating laws alone will not work. When insur­ance companies are required to insure the sick at afforda­ble prices, individuals can wait until they become ill to buy
+    insurance. Pretty soon, those in need of immediate medi­cal care---i.e., those who cost insurers the most---become
     the insurance companies’ main customers. This “adverse
     selection” problem leaves insurers with two choices: They
     can either raise premiums dramatically to cover their
     ever-increasing costs or they can exit the market. In the
     seven States that tried guaranteed-issue and community­
-    rating requirements without a minimum coverage provi­
-    sion, that is precisely what insurance companies did. See,
-    e.g., AAPD Brief 10 (“[In Maine,] [m]any insurance provid­
-    ers doubled their premiums in just three years or less.”);
-    id., at 12 (“Like New York, Vermont saw substantial
-    increases in premiums after its . . . insurance reform
-    measures took effect in 1993.”); Hall, An Evaluation of
-    New York’s Reform Law, 25 J. Health Pol. Pol’y & L. 71,
-    91–92 (2000) (Guaranteed-issue and community-rating
-    laws resulted in a “dramatic exodus of indemnity insurers
-    from New York’s individual [insurance] market.”); Brief
-    for Barry Friedman et al. as Amici Curiae in No. 11–398,
-    p. 17 (“In Kentucky, all but two insurers (one State-run)
-    abandoned the State.”).
+    rating requirements without a minimum coverage provi­sion, that is precisely what insurance companies did. 
+
        Massachusetts, Congress was told, cracked the adverse
-    12         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
     selection problem. By requiring most residents to obtain
-    insurance, see Mass. Gen. Laws, ch. 111M, §2 (West 2011),
-    the Commonwealth ensured that insurers would not be
+    insurance, the Commonwealth ensured that insurers would not be
     left with only the sick as customers. As a result, federal
     lawmakers observed, Massachusetts succeeded where
-    other States had failed. See Brief for Commonwealth of
-    Massachusetts as Amicus Curiae in No. 11–398, p. 3 (not­
-    ing that the Commonwealth’s reforms reduced the number
-    of uninsured residents to less than 2%, the lowest rate in
-    the Nation, and cut the amount of uncompensated care
-    by a third); 
-
-42 U.S. C
-
-    
-    
-    . §18091(2)(D) (2006 ed., Supp. IV)
-    (noting the success of Massachusetts’ reforms).2 In cou­
+    other States had failed.  In cou­
     pling the minimum coverage provision with guaranteed­
     issue and community-rating prescriptions, Congress
     followed Massachusetts’ lead.
-                           *     *    *
+    
+
        In sum, Congress passed the minimum coverage provi­
     sion as a key component of the ACA to address an econom­
     ic and social problem that has plagued the Nation for
     decades: the large number of U. S. residents who are
     unable or unwilling to obtain health insurance. Whatever
     one thinks of the policy decision Congress made, it was
-    Congress’ prerogative to make it. Reviewed with appro­
-    priate deference, the minimum coverage provision, allied
-    to the guaranteed-issue and community-rating prescrip­
+    Congress’ prerogative to make it. Reviewed with appro­priate deference, the minimum coverage provision, allied
+    to the guaranteed-issue and community---rating prescrip­
     tions, should survive measurement under the Commerce
     and Necessary and Proper Clauses.
+    
                               II
+
                               A
+
       The Commerce Clause, it is widely acknowledged, “was
     the Framers’ response to the central problem that gave
-    ——————
-      2 Despite its success, Massachusetts’ medical-care providers still ad­
-    
-    minister substantial amounts of uncompensated care, much of that to
-    uninsured patients from out-of-state. See supra, at 7–8.
-                          Cite as: 567 U. S. ____ (2012)                    13
-    
-                             Opinion of GINSBURG, J.
-    
-    rise to the Constitution itself.” EEOC v. Wyoming, 
-
-[460 U.S. 226](/opinion/110881/eeoc-v-wyoming/)
-
-    
-    
-    , 244, 245, n. 1 (1983) (Stevens, J., concurring)
-    (citing sources). Under the Articles of Confederation, the
+    rise to the Constitution itself.”  Under the Articles of Confederation, the
     Constitution’s precursor, the regulation of commerce was
     left to the States. This scheme proved unworkable, be­
     cause the individual States, understandably focused on
     their own economic interests, often failed to take actions
-    critical to the success of the Nation as a whole. See Vices
-    of the Political System of the United States, in James
-    Madison: Writings 69, 71, ¶5 (J. Rakove ed. 1999) (As a
-    result of the “want of concert in matters where common
-    interest requires it,” the “national dignity, interest, and reve-
-    nue [have] suffered.”).3
+    critical to the success of the Nation as a whole. 
+
        What was needed was a “national Government . . .
     armed with a positive & compleat authority in all cases
-    where uniform measures are necessary.” See Letter from
-    James Madison to Edmund Randolph (Apr. 8, 1787), in 9
-    Papers of James Madison 368, 370 (R. Rutland ed. 1975).
-    See also Letter from George Washington to James Madi­
-    son (Nov. 30, 1785), in 8 id., at 428, 429 (“We are either a
-    United people, or we are not. If the former, let us, in all
-    matters of general concern act as a nation, which ha[s]
-    national objects to promote, and a national character
-    to support.”). The Framers’ solution was the Commerce
+    where uniform measures are necessary.” The Framers’ solution was the Commerce
     Clause, which, as they perceived it, granted Congress the
     authority to enact economic legislation “in all Cases for
     the general Interests of the Union, and also in those Cases
-    to which the States are separately incompetent.” 2 Rec­
-    ords of the Federal Convention of 1787, pp. 131–132, ¶8
-    ——————
-       3 Alexander Hamilton described the problem this way:         “[Often] it
-    would be beneficial to all the states to encourage, or suppress[,] a
-    particular branch of trade, while it would be detrimental . . . to attempt
-    it without the concurrence of the rest.” The Continentalist No. V, in 3
-    Papers of Alexander Hamilton 75, 78 (H. Syrett ed. 1962). Because the
-    concurrence of all States was exceedingly difficult to obtain, Hamilton
-    observed, “the experiment would probably be left untried.” Ibid.
-    14       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    (M. Farrand rev. 1966). See also North American Co. v.
-    SEC, 
+    to which the States are separately incompetent.” 
 
-[327 U.S. 686](/opinion/104273/north-american-co-v-sec/)
-
-    
-    
-    , 705 (1946) (“[The commerce power]
-    is an affirmative power commensurate with the national
-    needs.”).
       The Framers understood that the “general Interests of
     the Union” would change over time, in ways they could not
     anticipate. Accordingly, they recognized that the Consti­
     tution was of necessity a “great outlin[e],” not a detailed
-    blueprint, see McCulloch v. Maryland, 
+    blueprint, and that its provisions included broad concepts, to
+    be “explained by the context or by the facts of the case.”
 
-[4 Wheat. 316](/opinion/85272/mculloch-v-state-of-maryland/)
-
-    
-    
-    , 407
-    (1819), and that its provisions included broad concepts, to
-    be “explained by the context or by the facts of the case,”
-    Letter from James Madison to N. P. Trist (Dec. 1831), in 9
-    Writings of James Madison 471, 475 (G. Hunt ed. 1910).
-    “Nothing . . . can be more fallacious,” Alexander Hamilton
-    emphasized, “than to infer the extent of any power, proper
-    to be lodged in the national government, from . . . its
-    immediate necessities. There ought to be a CAPACITY to
-    provide for future contingencies[,] as they may happen;
-    and as these are illimitable in their nature, it is impossible
-    safely to limit that capacity.” The Federalist No. 34,
-    pp. 205, 206 (John Harvard Library ed. 2009). See also
-    McCulloch, 4 Wheat., at 415 (The Necessary and Proper
-    Clause is lodged “in a constitution[,] intended to endure
-    for ages to come, and consequently, to be adapted to the
-    various crises of human affairs.”).
                                B
+
       Consistent with the Framers’ intent, we have repeatedly
     emphasized that Congress’ authority under the Commerce
     Clause is dependent upon “practical” considerations,
-    including “actual experience.” Jones & Laughlin Steel
-    Corp., 301 U. S., at 41–42; see Wickard v. Filburn, 
-
-[317 U.S. 111](/opinion/103716/wickard-v-filburn/)
-
-    
-    
-    , 122 (1942); United States v. Lopez, 
-
-[514 U.S. 549](/opinion/117927/united-states-v-lopez/)
-
-    
-    
-    , 573 (1995) (KENNEDY, J., concurring) (emphasizing
-    “the Court’s definitive commitment to the practical con­
-    ception of the commerce power”). See also North American
-                     Cite as: 567 U. S. ____ (2012)           15
-    
-                        Opinion of GINSBURG, J.
-    
-    Co., 327 U. S., at 705 (“Commerce itself is an intensely
-    practical matter. To deal with it effectively, Congress
-    must be able to act in terms of economic and financial
-    realities.” (citation omitted)). We afford Congress the
+    including “actual experience.”  We afford Congress the
     leeway “to undertake to solve national problems directly
-    and realistically.” American Power & Light Co. v. SEC,
-    
+    and realistically.” 
 
-[329 U.S. 90](/opinion/104329/american-power-light-co-v-sec/)
-
-    
-    
-    , 103 (1946).
        Until today, this Court’s pragmatic approach to judging
     whether Congress validly exercised its commerce power
     was guided by two familiar principles. First, Congress has
     the power to regulate economic activities “that substan­
-    tially affect interstate commerce.” Gonzales v. Raich, 
-
-[545 U.S. 1](/opinion/799995/gonzales-v-raich/)
-
-    
-    
-    , 17 (2005). This capacious power extends even to
+    tially affect interstate commerce.” This capacious power extends even to
     local activities that, viewed in the aggregate, have a sub­
-    stantial impact on interstate commerce. See ibid. See
-    also Wickard, 317 U. S., at 125 (“[E]ven if appellee’s activ-
-    ity be local and though it may not be regarded as com­
-    merce, it may still, whatever its nature, be reached by
-    Congress if it exerts a substantial economic effect on
-    interstate commerce.” (emphasis added)); Jones & Laugh-
-    lin Steel Corp., 301 U. S., at 37.
+    stantial impact on interstate commerce. 
        Second, we owe a large measure of respect to Congress
-    when it frames and enacts economic and social legislation.
-    See Raich, 545 U. S., at 17. See also Pension Benefit
-    Guaranty Corporation v. R. A. Gray & Co., 
-
-[467 U.S. 717](/opinion/111216/pension-benefit-guaranty-corporation-v-ra-gray-
-co/)
-
-    
-    
-    ,
-    729 (1984) (“[S]trong deference [is] accorded legislation in
-    the field of national economic policy.”); Hodel v. Indiana,
-    
-
-[452 U.S. 314](/opinion/110517/hodel-v-indiana/)
-
-    
-    
-    , 326 (1981) (“This [C]ourt will certainly not
-    substitute its judgment for that of Congress unless the
-    relation of the subject to interstate commerce and its ef­
-    fect upon it are clearly non-existent.” (internal quotation
-    marks omitted)). When appraising such legislation, we
+    when it frames and enacts economic and social legislation. When appraising such legislation, we
     ask only (1) whether Congress had a “rational basis” for
     concluding that the regulated activity substantially affects
-    interstate commerce, and (2) whether there is a “reasona­
-    ble connection between the regulatory means selected and
-    16       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    the asserted ends.” Id., at 323–324. See also Raich, 545
-    U. S., at 22; Lopez, 514 U. S., at 557; Hodel v. Virginia
-    Surface Mining & Reclamation Assn., Inc., 
+    interstate commerce, and (2) whether there is a “reasona­ble connection between the regulatory means selected and the asserted ends.” 
 
-[452 U.S. 264](/opinion/110516/hodel-v-virginia-surface-mining-reclamation-
-assn-inc/)
-
-    
-    
-    ,
-    277 (1981); Katzenbach v. McClung, 
-
-[379 U.S. 294](/opinion/106951/katzenbach-v-mcclung/)
-
-    
-    
-    , 303
-    (1964); Heart of Atlanta Motel, Inc. v. United States, 
-
-379 U.S. 241
-
-    
-    
-    , 258 (1964); United States v. Carolene Products
-    Co., 
-
-[304 U.S. 144](/opinion/103017/united-states-v-carolene-products-co/)
-
-    
-    
-    , 152–153 (1938). In answering these
+ In answering these
     questions, we presume the statute under review is consti­
     tutional and may strike it down only on a “plain showing”
-    that Congress acted irrationally. United States v. Morri-
-    son, 
+    that Congress acted irrationally. 
 
-[529 U.S. 598](/opinion/118363/united-states-v-morrison/)
-
-    
-    
-    , 607 (2000).
                                    C
+
       Straightforward application of these principles would
     require the Court to hold that the minimum coverage
     provision is proper Commerce Clause legislation. Beyond
     dispute, Congress had a rational basis for concluding that
     the uninsured, as a class, substantially affect interstate
     commerce. Those without insurance consume billions of
-    dollars of health-care products and services each year. See
-    supra, at 5. Those goods are produced, sold, and delivered
+    dollars of health-care products and services each year.  Those goods are produced, sold, and delivered
     largely by national and regional companies who routinely
     transact business across state lines. The uninsured also
     cross state lines to receive care. Some have medical emer­
     gencies while away from home. Others, when sick, go to a
     neighboring State that provides better care for those who
-    have not prepaid for care. See supra, at 7–8.
+    have not prepaid for care. 
+
       Not only do those without insurance consume a large
     amount of health care each year; critically, as earlier
     explained, their inability to pay for a significant portion of
     that consumption drives up market prices, foists costs on
     other consumers, and reduces market efficiency and sta­
-    bility. See supra, at 5–7. Given these far-reaching effects
+    bility.  Given these far-reaching effects
     on interstate commerce, the decision to forgo insurance is
-    hardly inconsequential or equivalent to “doing nothing,”
-    ante, at 20; it is, instead, an economic decision Congress
-                      Cite as: 567 U. S. ____ (2012)           17
-    
-                        Opinion of GINSBURG, J.
-    
-    has the authority to address under the Commerce Clause.
-    See supra, at 14–16. See also Wickard, 317 U. S., at 128
-    (“It is well established by decisions of this Court that
-    the power to regulate commerce includes the power to regu­
-    late the prices at which commodities in that commerce are
-    dealt in and practices affecting such prices.” (emphasis
-    added)).
+    hardly inconsequential or equivalent to “doing nothing”; it is, instead, an economic decision Congress has the authority to address under the Commerce Clause.
+
        The minimum coverage provision, furthermore, bears a
     “reasonable connection” to Congress’ goal of protecting the
-    health-care market from the disruption caused by individ­
-    uals who fail to obtain insurance. By requiring those who
+    health-care market from the disruption caused by individ­uals who fail to obtain insurance. By requiring those who
     do not carry insurance to pay a toll, the minimum cover­
     age provision gives individuals a strong incentive to in­
     sure. This incentive, Congress had good reason to believe,
     would reduce the number of uninsured and, correspond­
     ingly, mitigate the adverse impact the uninsured have on
     the national health-care market.
+    
        Congress also acted reasonably in requiring uninsured
     individuals, whether sick or healthy, either to obtain
-    insurance or to pay the specified penalty. As earlier ob­
-    served, because every person is at risk of needing care at
+    insurance or to pay the specified penalty. As earlier ob­served, because every person is at risk of needing care at
     any moment, all those who lack insurance, regardless of
     their current health status, adversely affect the price of
-    health care and health insurance. See supra, at 6–7.
-    Moreover, an insurance-purchase requirement limited to
+    health care and health insurance.  Moreover, an insurance-purchase requirement limited to
     those in need of immediate care simply could not work.
-    Insurance companies would either charge these individu­
-    als prohibitively expensive premiums, or, if community­
-    rating regulations were in place, close up shop. See supra,
-    at 9–11. See also Brief for State of Maryland and 10
-    Other States et al. as Amici Curiae in No. 11–398, p. 28
-    (hereinafter Maryland Brief) (“No insurance regime can
-    survive if people can opt out when the risk insured against
-    is only a risk, but opt in when the risk materializes.”).
+    Insurance companies would either charge these individu­als prohibitively expensive premiums, or, if community­ rating regulations were in place, close up shop. 
+
        “[W]here we find that the legislators . . . have a rational
-    basis for finding a chosen regulatory scheme necessary to
-    18       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    the protection of commerce, our investigation is at an end.”
-    Katzenbach, 379 U. S., at 303–304. Congress’ enactment
+    basis for finding a chosen regulatory scheme necessary to the protection of commerce, our investigation is at an end.” Congress’ enactment
     of the minimum coverage provision, which addresses a
     specific interstate problem in a practical, experience­
     informed manner, easily meets this criterion.
-                                D
+    
+
       Rather than evaluating the constitutionality of the
     minimum coverage provision in the manner established by
     our precedents, THE CHIEF JUSTICE relies on a newly
     minted constitutional doctrine. The commerce power does
     not, THE CHIEF JUSTICE announces, permit Congress
     to “compe[l] individuals to become active in commerce
-    by purchasing a product.” Ante, at 20 (emphasis deleted).
-                                 1
-                                 a
+    by purchasing a product.” 
+
+          1.a
+                                           
       THE CHIEF JUSTICE’s novel constraint on Congress’
     commerce power gains no force from our precedent and for
-    that reason alone warrants disapprobation. See infra, at
-    23–27. But even assuming, for the moment, that Congress
-    lacks authority under the Commerce Clause to “compel
+    that reason alone warrants disapprobation. But even assuming, for the moment, that Congress lacks authority under the Commerce Clause to “compel
     individuals not engaged in commerce to purchase an
-    unwanted product,” ante, at 18, such a limitation would be
+    unwanted product,” such a limitation would be
     inapplicable here. Everyone will, at some point, consume
-    health-care products and services. See supra, at 3. Thus,
+    health-care products and services. Thus,
     if THE CHIEF JUSTICE is correct that an insurance­
     purchase requirement can be applied only to those who
     “actively” consume health care, the minimum coverage
     provision fits the bill.
+    
       THE CHIEF JUSTICE does not dispute that all U. S. resi­
     dents participate in the market for health services over
-    the course of their lives. See ante, at 16 (“Everyone will
-    eventually need health care at a time and to an extent
-    they cannot predict.”). But, THE CHIEF JUSTICE insists,
-    the uninsured cannot be considered active in the market
-                         Cite as: 567 U. S. ____ (2012)                  19
-    
-                            Opinion of GINSBURG, J.
-    
-    for health care, because “[t]he proximity and degree of
+    the course of their lives.  But, THE CHIEF JUSTICE insists,
+    the uninsured cannot be considered active in the market for health care, because “[t]he proximity and degree of
     connection between the [uninsured today] and [their]
-    subsequent commercial activity is too lacking.” Ante,
-    at 27.
+    subsequent commercial activity is too lacking.” 
+
        This argument has multiple flaws. First, more than
     60% of those without insurance visit a hospital or doctor’s
-    office each year. See supra, at 5. Nearly 90% will within
-    five years.4 An uninsured’s consumption of health care is
+    office each year.  Nearly 90% will within
+    five years. An uninsured’s consumption of health care is
     thus quite proximate: It is virtually certain to occur in the
     next five years and more likely than not to occur this year.
+    
        Equally evident, Congress has no way of separating
-    those uninsured individuals who will need emergency medi-
-    cal care today (surely their consumption of medical care
+    those uninsured individuals who will need emergency medical care today (surely their consumption of medical care
     is sufficiently imminent) from those who will not need
     medical services for years to come. No one knows when an
     emergency will occur, yet emergencies involving the unin­
-    sured arise daily. To capture individuals who unexpect-
-    edly will obtain medical care in the very near future, then,
+    sured arise daily. To capture individuals who unexpectedly will obtain medical care in the very near future, then,
     Congress needed to include individuals who will not go to
     a doctor anytime soon. Congress, our decisions instruct,
     has authority to cast its net that wide. See Perez v. United
-    States, 
-
-[402 U.S. 146](/opinion/108326/perez-v-united-states/)
-
-    
-    
-    , 154 (1971) (“[W]hen it is necessary
+    States,  (“[W]hen it is necessary
     in order to prevent an evil to make the law embrace more
-    than the precise thing to be prevented it may do so.” (in­
-    ternal quotation marks omitted)).5
-    ——————
-      4 See Dept. of Health and Human Services, National Center for
-    
-    Health Statistics, Summary Health Statistics for U. S. Adults: National
-    Health Interview Survey 2009, Ser. 10, No. 249, p. 124, Table 37
-    (Dec. 2010).
-      5 Echoing THE CHIEF JUSTICE, the joint dissenters urge that the min­
-    
-    imum coverage provision impermissibly regulates young people who
-    “have no intention of purchasing [medical care]” and are too far “re­
-    moved from the [health-care] market.” See post, at 8, 11. This criticism
-    ignores the reality that a healthy young person may be a day away
-    from needing health care. See supra, at 4. A victim of an accident or
-    unforeseen illness will consume extensive medical care immediately,
-    though scarcely expecting to do so.
-    20       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
+    than the precise thing to be prevented it may do so.”^[Echoing THE CHIEF JUSTICE, the joint dissenters urge that the min­imum coverage provision impermissibly regulates young people who “have no intention of purchasing [medical care]” and are too far “re­moved from the [health-care] market.” This criticism ignores the reality that a healthy young person may be a day away from needing health care. A victim of an accident or unforeseen illness will consume extensive medical care immediately, though scarcely expecting to do so.]
+
        Second, it is Congress’ role, not the Court’s, to delineate
     the boundaries of the market the Legislature seeks to
     regulate. THE CHIEF JUSTICE defines the health-care mar-
@@ -2699,50 +1849,46 @@ assn-inc/)
     proximity to the next instant. But Congress could reason­
     ably have viewed the market from a long-term perspective,
     encompassing all transactions virtually certain to occur
-    over the next decade, see supra, at 19, not just those oc­
-    curring here and now.
+    over the next decade, not just those oc­curring here and now.
+    
        Third, contrary to THE CHIEF JUSTICE’s contention, our
     precedent does indeed support “[t]he proposition that
     Congress may dictate the conduct of an individual today
-    because of prophesied future activity.” Ante, at 26. In
-    Wickard, the Court upheld a penalty the Federal Govern­
-    ment imposed on a farmer who grew more wheat than he
+    because of prophesied future activity.” In
+    Wickard, the Court upheld a penalty the Federal Govern­ment imposed on a farmer who grew more wheat than he
     was permitted to grow under the Agricultural Adjustment
-    Act of 1938 (AAA). 317 U. S., at 114–115. He could not
+    Act of 1938 (AAA). He could not
     be penalized, the farmer argued, as he was growing the
     wheat for home consumption, not for sale on the open
-    market. Id., at 119. The Court rejected this argument.
-    Id., at 127–129. Wheat intended for home consumption,
+    market. The Court rejected this argument. Wheat intended for home consumption,
     the Court noted, “overhangs the market, and if induced by
     rising prices, tends to flow into the market and check price
-    increases [intended by the AAA].” Id., at 128.
+    increases [intended by the AAA].” 
+
        Similar reasoning supported the Court’s judgment in
     Raich, which upheld Congress’ authority to regulate mari­
-    juana grown for personal use. 545 U. S., at 19. Home­
+    juana grown for personal use.  Home­
     grown marijuana substantially affects the interstate mar-
     ket for marijuana, we observed, for “the high demand in
     the interstate market will [likely] draw such marijuana
-    into that market.” Ibid.
+    into that market.” 
+    
        Our decisions thus acknowledge Congress’ authority,
     under the Commerce Clause, to direct the conduct of an
     individual today (the farmer in Wickard, stopped from
-    growing excess wheat; the plaintiff in Raich, ordered to
-                     Cite as: 567 U. S. ____ (2012)          21
-    
-                        Opinion of GINSBURG, J.
-    
-    cease cultivating marijuana) because of a prophesied
+    growing excess wheat; the plaintiff in Raich, ordered to cease cultivating marijuana) because of a prophesied
     future transaction (the eventual sale of that wheat or
     marijuana in the interstate market). Congress’ actions
     are even more rational in this case, where the future
     activity (the consumption of medical care) is certain to
     occur, the sole uncertainty being the time the activity will
     take place.
+    
        Maintaining that the uninsured are not active in the
     health-care market, THE CHIEF JUSTICE draws an analogy
     to the car market. An individual “is not ‘active in the car
     market,’ ” THE CHIEF JUSTICE observes, simply because he
-    or she may someday buy a car. Ante, at 25. The analogy
+    or she may someday buy a car. The analogy
     is inapt. The inevitable yet unpredictable need for medi­
     cal care and the guarantee that emergency care will be
     provided when required are conditions nonexistent in
@@ -2753,39 +1899,17 @@ assn-inc/)
     a car or has a craving for broccoli, she will be obliged to
     pay at the counter before receiving the vehicle or nour­
     ishment. She will get no free ride or food, at the expense
-    of another consumer forced to pay an inflated price. See
-    Thomas More Law Center v. Obama, 
-
-[651 F.3d 529](/opinion/2427342/thomas-more-law-center-v-obama/)
-
-    
-    
-    , 565
-    (CA6 2011) (Sutton, J., concurring in part) (“Regulating
-    how citizens pay for what they already receive (health
-    care), never quite know when they will need, and in the
-    case of severe illnesses or emergencies generally will not
-    be able to afford, has few (if any) parallels in modern
-    life.”). Upholding the minimum coverage provision on the
+    of another consumer forced to pay an inflated price.  Upholding the minimum coverage provision on the
     ground that all are participants or will be participants in
     the health-care market would therefore carry no implica­
     tion that Congress may justify under the Commerce
     Clause a mandate to buy other products and services.
+    
        Nor is it accurate to say that the minimum coverage
-    provision “compel[s] individuals . . . to purchase an un­
-    22       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    wanted product,” ante, at 18, or “suite of products,” post, at
-    11, n. 2 (joint opinion of SCALIA, KENNEDY, THOMAS, and
-    ALITO, JJ.). If unwanted today, medical service secured by
+    provision “compel[s] individuals . . . to purchase an un­wanted product.” If unwanted today, medical service secured by
     insurance may be desperately needed tomorrow. Virtually
     everyone, I reiterate, consumes health care at some point
-    in his or her life. See supra, at 3. Health insurance is a
+    in his or her life. Health insurance is a
     means of paying for this care, nothing more. In requiring
     individuals to obtain insurance, Congress is therefore not
     mandating the purchase of a discrete, unwanted product.
@@ -2794,39 +1918,25 @@ assn-inc/)
     Persons subject to the mandate must now pay for medical
     care in advance (instead of at the point of service) and
     through insurance (instead of out of pocket). Establishing
-    payment terms for goods in or affecting interstate com­
-    merce is quintessential economic regulation well within
-    Congress’ domain. See, e.g., United States v. Wrightwood
-    Dairy Co., 
+    payment terms for goods in or affecting interstate com­merce is quintessential economic regulation well within
+    Congress’ domain. 
 
-[315 U.S. 110](/opinion/103600/united-states-v-wrightwood-dairy-co/)
-
-    
-    
-    , 118 (1942). Cf. post, at 13 (joint
-    opinion of SCALIA, KENNEDY, THOMAS, and ALITO, JJ.)
-    (recognizing that “the Federal Government can prescribe
-    [a commodity’s] quality . . . and even [its price]”).
-       THE CHIEF JUSTICE also calls the minimum coverage
+THE CHIEF JUSTICE also calls the minimum coverage
     provision an illegitimate effort to make young, healthy
     individuals subsidize insurance premiums paid by the less
-    hale and hardy. See ante, at 17, 25–26. This complaint,
+    hale and hardy. This complaint,
     too, is spurious. Under the current health-care system,
     healthy persons who lack insurance receive a benefit for
     which they do not pay: They are assured that, if they need
     it, emergency medical care will be available, although they
-    cannot afford it. See supra, at 5–6. Those who have in­
-    surance bear the cost of this guarantee. See ibid. By
+    cannot afford it. Those who have in­
+    surance bear the cost of this guarantee. By
     requiring the healthy uninsured to obtain insurance or
     pay a penalty structured as a tax, the minimum coverage
     provision ends the free ride these individuals currently
     enjoy.
-       In the fullness of time, moreover, today’s young and
-                     Cite as: 567 U. S. ____ (2012)           23
     
-                        Opinion of GINSBURG, J.
-    
-    healthy will become society’s old and infirm. Viewed over
+       In the fullness of time, moreover, today’s young and healthy will become society’s old and infirm. Viewed over
     a lifespan, the costs and benefits even out: The young who
     pay more than their fair share currently will pay less than
     their fair share when they become senior citizens. And
@@ -2837,7 +1947,9 @@ assn-inc/)
     insured person receives protection against a catastrophic
     loss, even though only a subset of the covered class will
     ultimately need that protection.
+    
                                    b
+
        In any event, THE CHIEF JUSTICE’s limitation of the
     commerce power to the regulation of those actively en­
     gaged in commerce finds no home in the text of the Consti­
@@ -2848,325 +1960,76 @@ assn-inc/)
     lating those actively engaged in commercial transactions.
     Indeed, as the D. C. Circuit observed, “[a]t the time the
     Constitution was [framed], to ‘regulate’ meant,” among
-    other things, “to require action.” See Seven-Sky v. Holder,
-    
+    other things, “to require action.” 
 
-[661 F.3d 1](/opinion/616874/seven-sky-v-holder/)
-
-    
-    
-    , 16 (2011).
        Arguing to the contrary, THE CHIEF JUSTICE notes that
     “the Constitution gives Congress the power to ‘coin
     Money,’ in addition to the power to ‘regulate the Value
     thereof,’ ” and similarly “gives Congress the power to ‘raise
     and support Armies’ and to ‘provide and maintain a Navy,’ in
     addition to the power to ‘make Rules for the Government
-    and Regulation of the land and naval Forces.’ ” Ante, at
-    18–19 (citing Art. I, §8, cls. 5, 12–14). In separating the
+    and Regulation of the land and naval Forces.’”  In separating the
     power to regulate from the power to bring the subject of
     the regulation into existence, THE CHIEF JUSTICE asserts,
-    “[t]he language of the Constitution reflects the natural
-    24         NATIONAL FEDERATION OF INDEPENDENT 
+    “[t]he language of the Constitution reflects the natural understanding that the power to regulate assumes there is
+    already something to be regulated.” 
     
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    understanding that the power to regulate assumes there is
-    already something to be regulated.” Ante, at 19.
-       This argument is difficult to fathom. Requiring individ­
-    uals to obtain insurance unquestionably regulates the inter­
-    state health-insurance and health-care markets, both of
-    them in existence well before the enactment of the ACA.
-    See Wickard, 317 U. S., at 128 (“The stimulation of com­
-    merce is a use of the regulatory function quite as definitely
-    as prohibitions or restrictions thereon.”). Thus, the “some­
+       This argument is difficult to fathom. Requiring individ­uals to obtain insurance unquestionably regulates the inter­state health-insurance and health-care markets, both of
+    them in existence well before the enactment of the ACA. Thus, the “some­
     thing to be regulated” was surely there when Congress
-    created the minimum coverage provision.6
-       Nor does our case law toe the activity versus inactiv­
-    ity line. In Wickard, for example, we upheld the penalty
-    imposed on a farmer who grew too much wheat, even
-    though the regulation had the effect of compelling farmers
-    to purchase wheat in the open market. Id., at 127–129.
-    “[F]orcing some farmers into the market to buy what they
-    could provide for themselves” was, the Court held, a valid
-    means of regulating commerce. Id., at 128–129. In an-
-    other context, this Court similarly upheld Congress’ author­
-    ity under the commerce power to compel an “inactive” land­
-    holder to submit to an unwanted sale. See Monongahela
-    Nav. Co. v. United States, 
-
-[148 U.S. 312](/opinion/93562/monongahela-nav-co-v-united-states/)
-
-    
-    
-    , 335–337 (1893)
-    (“[U]pon the [great] power to regulate commerce[,]” Con­
-    gress has the authority to mandate the sale of real prop-
-    erty to the Government, where the sale is essential to the
-    improvement of a navigable waterway (emphasis added));
-    Cherokee Nation v. Southern Kansas R. Co., 
-
-[135 U.S. 641](/opinion/92808/cherokee-nation-v-southern-kansas-r-co/)
-
-    
-    
-    ,
-    ——————
-      6 THE  CHIEF JUSTICE’s reliance on the quoted passages of the Consti­
-    tution, see ante, at 18–19, is also dubious on other grounds. The power
-    to “regulate the Value” of the national currency presumably includes
-    the power to increase the currency’s worth—i.e., to create value where
-    none previously existed. And if the power to “[r]egulat[e] . . . the land
-    and naval Forces” presupposes “there is already [in existence] some­
-    thing to be regulated,” i.e., an Army and a Navy, does Congress lack
-    authority to create an Air Force?
-                      Cite as: 567 U. S. ____ (2012)            25
-    
-                         Opinion of GINSBURG, J.
-    
-    657–659 (1890) (similar reliance on the commerce power
-    regarding mandated sale of private property for railroad
-    construction).
-       In concluding that the Commerce Clause does not per­
-    mit Congress to regulate commercial “inactivity,” and there-
-    fore does not allow Congress to adopt the practical solu­
-    tion it devised for the health-care problem, THE CHIEF
-    JUSTICE views the Clause as a “technical legal conception,”
-    precisely what our case law tells us not to do. Wickard,
-    317 U. S., at 122 (internal quotation marks omitted). See
-    also supra, at 14–16. This Court’s former endeavors to
-    impose categorical limits on the commerce power have not
-    fared well. In several pre-New Deal cases, the Court
-    attempted to cabin Congress’ Commerce Clause authority
-    by distinguishing “commerce” from activity once conceived
-    to be noncommercial, notably, “production,” “mining,” and
-    “manufacturing.” See, e.g., United States v. E. C. Knight
-    Co., 
-
-[156 U.S. 1](/opinion/94079/united-states-v-ec-knight-co/)
-
-    
-    
-    , 12 (1895) (“Commerce succeeds to manu­
-    facture, and is not a part of it.”); Carter v. Carter Coal Co.,
+    created the minimum coverage provision.
     
 
-[298 U.S. 238](/opinion/102662/carter-v-carter-coal-co/)
 
-    
-    
-    , 304 (1936) (“Mining brings the subject
-    matter of commerce into existence. Commerce disposes of
-    it.”). The Court also sought to distinguish activities hav­
-    ing a “direct” effect on interstate commerce, and for that
-    reason, subject to federal regulation, from those having
-    only an “indirect” effect, and therefore not amenable to
-    federal control. See, e.g., A. L. A. Schechter Poultry Corp.
-    v. United States, 
-
-[295 U.S. 495](/opinion/102474/ala-schechter-poultry-corp-v-united-states/)
-
-    
-    
-    , 548 (1935) (“[T]he dis-
-    tinction between direct and indirect effects of intrastate
-    transactions upon interstate commerce must be recognized
-    as a fundamental one.”).
-       These line-drawing exercises were untenable, and the
-    Court long ago abandoned them. “[Q]uestions of the power
-    of Congress [under the Commerce Clause],” we held in
-    Wickard, “are not to be decided by reference to any for-
-    mula which would give controlling force to nomenclature such
-    as ‘production’ and ‘indirect’ and foreclose consideration of
-    26         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    the actual effects of the activity in question upon inter­
-    state commerce.” 317 U. S., at 120. See also Morrison,
-    529 U. S., at 641–644 (Souter, J., dissenting) (recounting
-    the Court’s “nearly disastrous experiment” with formalis­
-    tic limits on Congress’ commerce power). Failing to learn
-    from this history, THE CHIEF JUSTICE plows ahead with
-    his formalistic distinction between those who are “active
-    in commerce,” ante, at 20, and those who are not.
        It is not hard to show the difficulty courts (and Con­
     gress) would encounter in distinguishing statutes that reg­
     ulate “activity” from those that regulate “inactivity.” As
     Judge Easterbrook noted, “it is possible to restate most
-    actions as corresponding inactions with the same effect.”
-    Archie v. Racine, 
-
-[847 F.2d 1211](/opinion/506618/betty-j-archie-v-city-of-racine-ronald-w-
-chiapete-and-george-w-giese/)
-
-    
-    
-    , 1213 (CA7 1988) (en
-    banc). Take this case as an example. An individual who
+    actions as corresponding inactions with the same effect.” Take this case as an example. An individual who
     opts not to purchase insurance from a private insurer can
     be seen as actively selecting another form of insurance:
-    self-insurance. See Thomas More Law Center, 
-
-651 F. 3d
-
-    
-    
-    ,
-    at 561 (Sutton, J., concurring in part) (“No one is in­
-    active when deciding how to pay for health care, as self­
-    insurance and private insurance are two forms of action
-    for addressing the same risk.”). The minimum coverage
+    self-insurance. The minimum coverage
     provision could therefore be described as regulating activ­
-    ists in the self-insurance market.7 Wickard is another
+    ists in the self-insurance market. Wickard is another
     example. Did the statute there at issue target activity
     (the growing of too much wheat) or inactivity (the farmer’s
-    failure to purchase wheat in the marketplace)? If any­
-    thing, the Court’s analysis suggested the latter. See 317
-    U. S., at 127–129.
-       At bottom, THE CHIEF JUSTICE’s and the joint dissent­
-    ——————
-       7 THE CHIEF JUSTICE’s characterization of individuals who choose not
-    
-    to purchase private insurance as “doing nothing,” ante, at 20, is simi­
-    larly questionable. A person who self-insures opts against prepayment for
-    a product the person will in time consume. When aggregated, exercise
-    of that option has a substantial impact on the health-care market. See
-    supra, at 5–7, 16–17.
-                          Cite as: 567 U. S. ____ (2012)                     27
-    
-                             Opinion of GINSBURG, J.
-    
-    ers’ “view that an individual cannot be subject to Com­
-    merce Clause regulation absent voluntary, affirmative acts
-    that enter him or her into, or affect, the interstate mar­
-    ket expresses a concern for individual liberty that [is]
-    more redolent of Due Process Clause arguments.” Seven-
-    Sky, 
+    failure to purchase wheat in the marketplace)? If any­thing, the Court’s analysis suggested the latter. 
 
-661 F. 3d
 
-    
-    
-    , at 19. See also Troxel v. Granville, 
 
-[530 U.S. 57](/opinion/1087668/troxel-v-granville/)
-
-    
-    
-    , 65 (2000) (plurality opinion) (“The [Due Process]
-    Clause also includes a substantive component that pro­
-    vides heightened protection against government interfer­
-    ence with certain fundamental rights and liberty inter­
-    ests.” (internal quotation marks omitted)). Plaintiffs have
-    abandoned any argument pinned to substantive due pro­
-    cess, however, see 
-
-[648 F.3d 1235](/opinion/223249/florida-ex-rel-attorney-general-v-us-dept-of-
-health-and-human-services/)
-
-    
-    
-    , 1291, n. 93 (CA11
-    2011), and now concede that the provisions here at issue
-    do not offend the Due Process Clause.8
                                          2
+
        Underlying THE CHIEF JUSTICE’s view that the Com­
     merce Clause must be confined to the regulation of active
     participants in a commercial market is a fear that the
-    commerce power would otherwise know no limits. See,
-    e.g., ante, at 23 (Allowing Congress to compel an individ-
-    ual not engaged in commerce to purchase a product would
-    “permi[t] Congress to reach beyond the natural extent
-    of its authority, everywhere extending the sphere of its
-    activity, and drawing all power into its impetuous vortex.”
-    (internal quotation marks omitted)). The joint dissenters
-    ——————
-       8 Some adherents to the joint dissent have questioned the existence of
+    commerce power would otherwise know no limits. This concern is unfounded.
     
-    substantive due process rights. See McDonald v. Chicago, 
-
-[561 U.S. ](/opinion/149586/free-enterprise-fund-v-public-company-accounting-
-oversight-bd/)
-
-    
-    
-    ___, ___ (2010) (THOMAS, J., concurring) (slip op., at 7) (The notion that
-    the Due Process Clause “could define the substance of th[e] righ[t to
-    liberty] strains credulity.”); Albright v. Oliver, 
-
-[510 U.S. 266](/opinion/112924/albright-v-oliver/)
-
-    
-    
-    , 275 (1994)
-    (SCALIA, J., concurring) (“I reject the proposition that the Due Process
-    Clause guarantees certain (unspecified) liberties[.]”). Given these
-    Justices’ reluctance to interpret the Due Process Clause as guarantee­
-    ing liberty interests, their willingness to plant such protections in the
-    Commerce Clause is striking.
-    28       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    express a similar apprehension. See post, at 8 (If the
-    minimum coverage provision is upheld under the com­
-    merce power then “the Commerce Clause becomes a font of
-    unlimited power, . . . the hideous monster whose devour­
-    ing jaws . . . spare neither sex nor age, nor high nor low,
-    nor sacred nor profane.” (internal quotation marks omit­
-    ted)). This concern is unfounded.
        First, THE CHIEF JUSTICE could certainly uphold the
     individual mandate without giving Congress carte blanche
     to enact any and all purchase mandates. As several times
     noted, the unique attributes of the health-care market
     render everyone active in that market and give rise to a
     significant free-riding problem that does not occur in other
-    markets. See supra, at 3–7, 16–18, 21.
-       Nor would the commerce power be unbridled, absent
+    markets. 
+
+ Nor would the commerce power be unbridled, absent
     THE CHIEF JUSTICE’s “activity” limitation. Congress would
     remain unable to regulate noneconomic conduct that has
     only an attenuated effect on interstate commerce and is
-    traditionally left to state law. See Lopez, 514 U. S., at
-    567; Morrison, 529 U. S., at 617–619. In Lopez, for
-    example, the Court held that the Federal Government
-    lacked power, under the Commerce Clause, to criminalize
-    the possession of a gun in a local school zone. Possessing
-    a gun near a school, the Court reasoned, “is in no sense
-    an economic activity that might, through repetition else­
-    where, substantially affect any sort of interstate com­
-    merce.” 514 U. S., at 567; ibid. (noting that the Court
-    would have “to pile inference upon inference” to conclude
-    that gun possession has a substantial effect on commerce).
-    Relying on similar logic, the Court concluded in Morrison
-    that Congress could not regulate gender-motivated vio­
-    lence, which the Court deemed to have too “attenuated
-    [an] effect upon interstate commerce.” 529 U. S., at 615.
+    traditionally left to state law. See Lopez; Morrison.
+    
        An individual’s decision to self-insure, I have explained,
     is an economic act with the requisite connection to inter­
-    state commerce. See supra, at 16–17. Other choices
-                         Cite as: 567 U. S. ____ (2012)                    29
-    
-                            Opinion of GINSBURG, J.
-    
-    individuals make are unlikely to fit the same or similar
+    state commerce. Other choices individuals make are unlikely to fit the same or similar
     description. As an example of the type of regulation he
     fears, THE CHIEF JUSTICE cites a Government mandate to
-    purchase green vegetables. Ante, at 22–23. One could call
+    purchase green vegetables. One could call
     this concern “the broccoli horrible.” Congress, THE CHIEF
     JUSTICE posits, might adopt such a mandate, reasoning
     that an individual’s failure to eat a healthy diet, like the
     failure to purchase health insurance, imposes costs on
-    others. See ibid.
+    others. 
+    
        Consider the chain of inferences the Court would have
     to accept to conclude that a vegetable-purchase mandate
     was likely to have a substantial effect on the health-care
@@ -3176,117 +2039,39 @@ oversight-bd/)
     would prepare the vegetables in a healthy way (steamed
     or raw, not deep-fried), would cut back on unhealthy foods,
     and would not allow other factors (such as lack of exercise
-    or little sleep) to trump the improved diet.9 Such “pil[ing
+    or little sleep) to trump the improved diet. Such “pil[ing
     of] inference upon inference” is just what the Court re­
-    fused to do in Lopez and Morrison.
+    fused to do in Lopez and Morrison.^[The failure to purchase vegetables in THE CHIEF JUSTICE’s hypothet­ical, then, is not what leads to higher health-care costs for others; rather, it is the failure of individuals to maintain a healthy diet, and the resulting obesity, that creates the cost-shifting problem. Requiring individuals to purchase vegetables is thus several steps removed from solving the problem. The failure to obtain health insurance, by contrast, is the immediate cause of the cost-shifting Congress sought to address through the ACA. Requiring individuals to obtain insurance attacks the source of the problem directly, in a single step.]
+    
        Other provisions of the Constitution also check congres­
-    sional overreaching. A mandate to purchase a particu-
-    lar product would be unconstitutional if, for example, the
-    edict impermissibly abridged the freedom of speech, inter­
-    fered with the free exercise of religion, or infringed on a
+    sional overreaching. A mandate to purchase a particular product would be unconstitutional if, for example, the edict impermissibly abridged the freedom of speech, inter­fered with the free exercise of religion, or infringed on a
     liberty interest protected by the Due Process Clause.
-    ——————
-      9 The failure to purchase vegetables in THE CHIEF JUSTICE’s hypothet­
-    
-    ical, then, is not what leads to higher health-care costs for others;
-    rather, it is the failure of individuals to maintain a healthy diet, and
-    the resulting obesity, that creates the cost-shifting problem. See ante,
-    at 22–23. Requiring individuals to purchase vegetables is thus
-    several steps removed from solving the problem. The failure to obtain
-    health insurance, by contrast, is the immediate cause of the cost-shifting
-    Congress sought to address through the ACA. See supra, at 5–7.
-    Requiring individuals to obtain insurance attacks the source of the
-    problem directly, in a single step.
-    30        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                      BUSINESS v. SEBELIUS
-    
-                       Opinion of GINSBURG, J. 
-    
+
     
        Supplementing these legal restraints is a formidable
-    check on congressional power: the democratic process. See
-    Raich, 545 U. S., at 33; Wickard, 317 U. S., at 120 (repeat­
-    ing Chief Justice Marshall’s “warning that effective re­
-    straints on [the commerce power’s] exercise must proceed
-    from political rather than judicial processes” (citing Gib-
-    bons v. Ogden, 
-
-[9 Wheat. 1](/opinion/85412/gibbons-v-ogden/)
-
-    
-    
-    , 197 (1824)). As the controversy
+    check on congressional power: the democratic process.  As the controversy
     surrounding the passage of the Affordable Care Act at­
     tests, purchase mandates are likely to engender political
     resistance. This prospect is borne out by the behavior of
     state legislators. Despite their possession of unquestioned
     authority to impose mandates, state governments have
-    rarely done so. See Hall, Commerce Clause Challenges to
-    Health Care Reform, 159 U. Pa. L. Rev. 1825, 1838 (2011).
-       When contemplated in its extreme, almost any power
+    rarely done so. 
+
+When contemplated in its extreme, almost any power
     looks dangerous. The commerce power, hypothetically,
     would enable Congress to prohibit the purchase and home
     production of all meat, fish, and dairy goods, effectively
-    compelling Americans to eat only vegetables. Cf. Raich,
-    545 U. S., at 9; Wickard, 317 U. S., at 127–129. Yet no one
-    would offer the “hypothetical and unreal possibilit[y],”
-    Pullman Co. v. Knott, 
-
-[235 U.S. 23](/opinion/98267/pullman-co-v-knott/)
-
-    
-    
-    , 26 (1914), of a vegetar­
+    compelling Americans to eat only vegetables. Yet no one
+    would offer the “hypothetical and unreal possibilit[y]” of a vegetar­
     ian state as a credible reason to deny Congress the author­
     ity ever to ban the possession and sale of goods. THE
     CHIEF JUSTICE accepts just such specious logic when he
     cites the broccoli horrible as a reason to deny Congress
-    the power to pass the individual mandate. Cf. R. Bork,
-    The Tempting of America 169 (1990) (“Judges and lawyers
-    live on the slippery slope of analogies; they are not supposed
-    to ski it to the bottom.”). But see, e.g., post, at 3 (joint opin­
-    ion of SCALIA, KENNEDY, THOMAS, and ALITO, JJ.) (assert­
-    ing, outlandishly, that if the minimum coverage provision
-    is sustained, then Congress could make “breathing in and
-    out the basis for federal prescription”).
-                      Cite as: 567 U. S. ____ (2012)           31
-    
-                        Opinion of GINSBURG, J.
-    
-                                   3
-       To bolster his argument that the minimum coverage
-    provision is not valid Commerce Clause legislation, THE
-    CHIEF JUSTICE emphasizes the provision’s novelty. See
-    ante, at 18 (asserting that “sometimes the most telling
-    indication of [a] severe constitutional problem . . . is the
-    lack of historical precedent for Congress’s action” (internal
-    quotation marks omitted)). While an insurance-purchase
-    mandate may be novel, THE CHIEF JUSTICE’s argument
-    certainly is not. “[I]n almost every instance of the exer-
-    cise of the [commerce] power differences are asserted from
-    previous exercises of it and made a ground of attack.”
-    Hoke v. United States, 
-
-[227 U.S. 308](/opinion/97782/hoke-v-united-states/)
+    the power to pass the individual mandate. 
 
     
-    
-    , 320 (1913). See, e.g.,
-    Brief for Petitioner in Perez v. United States, O. T. 1970,
-    No. 600, p. 5 (“unprecedented exercise of power”); Sup-
-    plemental Brief for Appellees in Katzenbach v. McClung,
-    O. T. 1964, No. 543, p. 40 (“novel assertion of federal
-    power”); Brief for Appellee in Wickard v. Filburn, O. T.
-    1941, No. 59, p. 6 (“complete departure”). For decades,
-    the Court has declined to override legislation because of
-    its novelty, and for good reason. As our national economy
-    grows and changes, we have recognized, Congress must
-    adapt to the changing “economic and financial realities.”
-    See supra, at 14–15. Hindering Congress’ ability to do so
-    is shortsighted; if history is any guide, today’s constriction
-    of the Commerce Clause will not endure. See supra, at
-    25–26.
+                                   
+
                                 III
     
                                  A
@@ -3296,346 +2081,107 @@ oversight-bd/)
     pra, Part II. When viewed as a component of the entire
     ACA, the provision’s constitutionality becomes even plain­
     er.
-      The Necessary and Proper Clause “empowers Congress
-    32       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    to enact laws in effectuation of its [commerce] powe[r]
-    that are not within its authority to enact in isolation.”
-    Raich, 545 U. S., at 39 (SCALIA, J., concurring in judgment).
-    Hence, “[a] complex regulatory program . . . can survive a
+      The Necessary and Proper Clause “empowers Congress to enact laws in effectuation of its [commerce] powe[r]
+    that are not within its authority to enact in isolation.” Hence, “[a] complex regulatory program . . . can survive a
     Commerce Clause challenge without a showing that every
     single facet of the program is independently and directly
-    related to a valid congressional goal.” Indiana, 452 U. S.,
-    at 329, n. 17. “It is enough that the challenged provisions
+    related to a valid congressional goal.” “It is enough that the challenged provisions
     are an integral part of the regulatory program and that
     the regulatory scheme when considered as a whole satis­
-    fies this test.” Ibid. (collecting cases). See also Raich,
-    545 U. S., at 24–25 (A challenged statutory provision
-    fits within Congress’ commerce authority if it is an “essen­
-    tial par[t] of a larger regulation of economic activity,”
-    such that, in the absence of the provision, “the regulatory
-    scheme could be undercut.” (quoting Lopez, 514 U. S., at
-    561)); Raich, 545 U. S., at 37 (SCALIA, J., concurring in
-    judgment) (“Congress may regulate even noneconomic
-    local activity if that regulation is a necessary part of
-    a more general regulation of interstate commerce. The
-    relevant question is simply whether the means chosen are
-    ‘reasonably adapted’ to the attainment of a legitimate end
-    under the commerce power.” (citation omitted)).
-       Recall that one of Congress’ goals in enacting the Af­
-    fordable Care Act was to eliminate the insurance indus­
-    try’s practice of charging higher prices or denying coverage
-    to individuals with preexisting medical conditions. See
-    supra, at 9–10. The commerce power allows Congress to
-    ban this practice, a point no one disputes. See United
-    States v. South-Eastern Underwriters Assn., 
+    fies this test.” 
 
-[322 U.S. 533](/opinion/104009/united-states-v-south-eastern-underwriters-
-assn/)
-
+Recall that one of Congress’ goals in enacting the Af­fordable Care Act was to eliminate the insurance indus­try’s practice of charging higher prices or denying coverage
+    to individuals with preexisting medical conditions. The commerce power allows Congress to ban this practice, a point no one disputes. 
     
-    
-    ,
-    545, 552–553 (1944) (Congress may regulate “the methods
-    by which interstate insurance companies do business.”).
        Congress knew, however, that simply barring insurance
     companies from relying on an applicant’s medical history
     would not work in practice. Without the individual man­
-    date, Congress learned, guaranteed-issue and community­
-                     Cite as: 567 U. S. ____ (2012)          33
-    
-                        Opinion of GINSBURG, J.
-    
-    rating requirements would trigger an adverse-selection
+    date, Congress learned, guaranteed-issue and community­ rating requirements would trigger an adverse-selection
     death-spiral in the health-insurance market: Insurance
     premiums would skyrocket, the number of uninsured
     would increase, and insurance companies would exit the
-    market. See supra, at 10–11. When complemented by an
+    market. When complemented by an
     insurance mandate, on the other hand, guaranteed issue
     and community rating would work as intended, increasing
-    access to insurance and reducing uncompensated care.
-    See supra, at 11–12. The minimum coverage provision is
+    access to insurance and reducing uncompensated care. The minimum coverage provision is
     thus an “essential par[t] of a larger regulation of economic
     activity”; without the provision, “the regulatory scheme
-    [w]ould be undercut.” Raich, 545 U. S., at 24–25 (inter-
-    nal quotation marks omitted). Put differently, the mini­
+    [w]ould be undercut.”  Put differently, the mini­
     mum coverage provision, together with the guaranteed­
     issue and community-rating requirements, is “ ‘reasonably
     adapted’ to the attainment of a legitimate end under
     the commerce power”: the elimination of pricing and
     sales practices that take an applicant’s medical history
-    into account. See id., at 37 (SCALIA, J., concurring in
-    judgment).
+    into account. 
+
                                 B
+
       Asserting that the Necessary and Proper Clause does
     not authorize the minimum coverage provision, THE CHIEF
     JUSTICE focuses on the word “proper.” A mandate to
     purchase health insurance is not “proper” legislation, THE
     CHIEF JUSTICE urges, because the command “under­
     mine[s] the structure of government established by the
-    Constitution.” Ante, at 28. If long on rhetoric, THE CHIEF
+    Constitution.” If long on rhetoric, THE CHIEF
     JUSTICE’s argument is short on substance.
+    
       THE CHIEF JUSTICE cites only two cases in which this
     Court concluded that a federal statute impermissibly
     transgressed the Constitution’s boundary between state
-    and federal authority: Printz v. United States, 
+    and federal authority: Printz v. United States, and New York v. United States. The statutes at issue in both cases, however, compelled state officials to act on the
+    Federal Government’s behalf.
 
-[521 U.S. 898](/opinion/118148/printz-v-united-states/)
-
-    
-    
-     (1997), and New York v. United States, 
-
-[505 U.S. 144](/opinion/112768/new-york-v-united-states/)
-
-    
-    
-     (1992). See ante, at 29. The statutes at issue in
-    34       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    both cases, however, compelled state officials to act on the
-    Federal Government’s behalf. 521 U. S., at 925–933 (hold­
-    ing unconstitutional a statute obligating state law en­
-    forcement officers to implement a federal gun-control law);
-    New York, 505 U. S., at 176–177 (striking down a statute
-    requiring state legislators to pass regulations pursuant to
-    Congress’ instructions). “[Federal] laws conscripting state
-    officers,” the Court reasoned, “violate state sovereignty
-    and are thus not in accord with the Constitution.” Printz,
-    521 U. S., at 925, 935; New York, 505 U. S., at 176.
        The minimum coverage provision, in contrast, acts
     “directly upon individuals, without employing the States
-    as intermediaries.” New York, 505 U. S., at 164. The
-    provision is thus entirely consistent with the Consti­
-    tution’s design. See Printz, 521 U. S., at 920 (“[T]he
-    Framers explicitly chose a Constitution that confers upon
-    Congress the power to regulate individuals, not States.”
-    (internal quotation marks omitted)).
+    as intermediaries.”  The provision is thus entirely consistent with the Consti­
+    tution’s design. 
+
        Lacking case law support for his holding, THE CHIEF
     JUSTICE nevertheless declares the minimum coverage
     provision not “proper” because it is less “narrow in scope”
     than other laws this Court has upheld under the Neces­
-    sary and Proper Clause. Ante, at 29 (citing United States
-    v. Comstock, 560 U. S. ___ (2010); Sabri v. United States,
-    
-
-[541 U.S. 600](/opinion/134745/sabri-v-united-states/)
-
-    
-    
-     (2004); Jinks v. Richland County, 
-
-[538 U.S. 456](/opinion/127912/jinks-v-richland-county/)
-
-    
-    
-     (2003)). THE CHIEF JUSTICE’s reliance on cases in
+    sary and Proper Clause. THE CHIEF JUSTICE’s reliance on cases in
     which this Court has affirmed Congress’ “broad authority
     to enact federal legislation” under the Necessary and
-    Proper Clause, Comstock, 560 U. S., at ___ (slip op., at 5),
-    is underwhelming.
+    Proper Clause is underwhelming.
+    
        Nor does THE CHIEF JUSTICE pause to explain why the
     power to direct either the purchase of health insurance or,
     alternatively, the payment of a penalty collectible as a tax
     is more far-reaching than other implied powers this Court
     has found meet under the Necessary and Proper Clause.
-    These powers include the power to enact criminal laws,
-                         Cite as: 567 U. S. ____ (2012)                    35
-    
-                            Opinion of GINSBURG, J.
-    
-    see, e.g., United States v. Fox, 
-
-[95 U.S. 670](/opinion/89649/united-states-v-fox/)
-
-    
-    
-    , 672 (1878); the
-    power to imprison, including civil imprisonment, see, e.g.,
-    Comstock, 560 U. S., at ___ (slip op., at 1); and the power
-    to create a national bank, see McCulloch, 4 Wheat., at 425.
-    See also Jinks, 538 U. S., at 463 (affirming Congress’
+    These powers include the power to enact criminal laws, the
+    power to imprison, including civil imprisonment; and the power
+    to create a national bank.See also Jinks (affirming Congress’
     power to alter the way a state law is applied in state court,
     where the alteration “promotes fair and efficient operation
-    of the federal courts”).10
+    of the federal courts”).^[Indeed, Congress regularly and uncontroversially requires individ­uals who are "doing nothing," to take action. Exam­ples include federal requirements to report for jury duty; to register for selective service; to purchase firearms and gear in anticipation of service in the Militia (Uniform Militia Act of 1792); to turn gold currency over to the Federal Government in exchange for paper currency, see Nortz v. United States (1935); and to file a tax return.]
+    
+
        In failing to explain why the individual mandate threat­
     ens our constitutional order, THE CHIEF JUSTICE disserves
     future courts. How is a judge to decide, when ruling on
     the constitutionality of a federal statute, whether Con­
-    gress employed an “independent power,” ante, at 28, or
-    merely a “derivative” one, ante, at 29. Whether the power
-    used is “substantive,” ante, at 30, or just “incidental,” ante,
-    at 29? The instruction THE CHIEF JUSTICE, in effect,
-    provides lower courts: You will know it when you see it.
-       It is more than exaggeration to suggest that the mini­
-    mum coverage provision improperly intrudes on “essential
-    attributes of state sovereignty.” Ibid. (internal quotation
-    marks omitted). First, the Affordable Care Act does not
-    operate “in [an] are[a] such as criminal law enforcement or
-    education where States historically have been sovereign.”
-    Lopez, 514 U. S., at 564. As evidenced by Medicare, Medi­
-    caid, the Employee Retirement Income Security Act of
+    gress employed an “independent power,” or
+    merely a “derivative” one. Whether the power
+    used is “substantive,” or just “incidental?" The instruction THE CHIEF JUSTICE, in effect, provides lower courts: You will know it when you see it.
+    
+    It is more than exaggeration to suggest that the mini­mum coverage provision improperly intrudes on “essential attributes of state sovereignty.”  First, the Affordable Care Act does not operate “in [an] are[a] such as criminal law enforcement or
+    education where States historically have been sovereign.” As evidenced by Medicare, Medi­caid, the Employee Retirement Income Security Act of
     1974 (ERISA), and the Health Insurance Portability and
-    Accountability Act of 1996 (HIPAA), the Federal Govern­
-    
-    ——————
-       10 Indeed, Congress regularly and uncontroversially requires individ­
-    
-    uals who are “doing nothing,” see ante, at 20, to take action. Exam­
-    ples include federal requirements to report for jury duty, 
-
-28 U.S. C
-
-    
-    
-    .
-    §1866(g) (2006 ed., Supp. IV); to register for selective service, 
-
-50 U.S. C
-
-    
-    
-    . App. §453; to purchase firearms and gear in anticipation of
-    service in the Militia, 1 Stat. 271 (Uniform Militia Act of 1792); to turn
-    gold currency over to the Federal Government in exchange for paper
-    currency, see Nortz v. United States, 
-
-[294 U.S. 317](/opinion/102388/nortz-v-united-states/)
-
-    
-    
-    , 328 (1935); and to
-    file a tax return, 
-
-26 U.S. C
-
-    
-    
-    . §6012 (2006 ed., Supp. IV).
-    36         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    ment plays a lead role in the health-care sector, both as a
+    Accountability Act of 1996 (HIPAA), the Federal Govern­ment plays a lead role in the health-care sector, both as a
     direct payer and as a regulator.
+    
       Second, and perhaps most important, the minimum
     coverage provision, along with other provisions of the
     ACA, addresses the very sort of interstate problem that
     made the commerce power essential in our federal system.
-    See supra, at 12–14. The crisis created by the large num­
-    ber of U. S. residents who lack health insurance is one of
+    The crisis created by the large num­ber of U. S. residents who lack health insurance is one of
     national dimension that States are “separately incompe­
-    tent” to handle. See supra, at 7–8, 13. See also Maryland
-    Brief 15–26 (describing “the impediments to effective state
-    policymaking that flow from the interconnectedness of
-    each state’s healthcare economy” and emphasizing that
-    “state-level reforms cannot fully address the problems
-    associated with uncompensated care”). Far from tram­
-    pling on States’ sovereignty, the ACA attempts a federal
-    solution for the very reason that the States, acting sepa­
-    rately, cannot meet the need. Notably, the ACA serves the
+    tent” to handle.  Far from tram­pling on States’ sovereignty, the ACA attempts a federal solution for the very reason that the States, acting sepa­rately, cannot meet the need. Notably, the ACA serves the
     general welfare of the people of the United States while
-    retaining a prominent role for the States. See id., at 31–
-    36 (explaining and illustrating how the ACA affords States
-    wide latitude in implementing key elements of the Act’s
-    reforms).11
-    ——————
-      11 In a separate argument, the joint dissenters contend that the min­
-    
-    imum coverage provision is not necessary and proper because it was not
-    the “only . . . way” Congress could have made the guaranteed-issue and
-    community-rating reforms work. Post, at 9–10. Congress could also
-    have avoided an insurance-market death spiral, the dissenters main­
-    tain, by imposing a surcharge on those who did not previously purchase
-    insurance when those individuals eventually enter the health­
-    insurance system. Post, at 10. Or Congress could “den[y] a full income
-    tax credit” to those who do not purchase insurance. Ibid.
-         Neither a surcharge on those who purchase insurance nor the de­
-    nial of a tax credit to those who do not would solve the problem created
-    by guaranteed-issue and community-rating requirements. Neither
-    would prompt the purchase of insurance before sickness or injury
-    occurred.
-                         Cite as: 567 U. S. ____ (2012)                   37
-    
-                            Opinion of GINSBURG, J.
-    
-                                  IV
-       In the early 20th century, this Court regularly struck
-    down economic regulation enacted by the peoples’ repre­
-    sentatives in both the States and the Federal Government.
-    See, e.g., Carter Coal Co., 298 U. S., at 303–304, 309–310;
-    Dagenhart, 247 U. S., at 276–277; Lochner v. New York,
-    
+    retaining a prominent role for the States. 
 
-[198 U.S. 45](/opinion/96276/lochner-v-new-york/)
-
-    
-    
-    , 64 (1905). THE CHIEF JUSTICE’s Commerce
-    Clause opinion, and even more so the joint dissenters’
-    reasoning, see post, at 4–16, bear a disquieting resem­
-    blance to those long-overruled decisions.
-       Ultimately, the Court upholds the individual mandate
-    as a proper exercise of Congress’ power to tax and spend
-    “for the . . . general Welfare of the United States.” Art. I,
-    §8, cl. 1; ante, at 43–44. I concur in that determination,
-    which makes THE CHIEF JUSTICE’s Commerce Clause
-    essay all the more puzzling. Why should THE CHIEF
-    JUSTICE strive so mightily to hem in Congress’ capacity to
-    meet the new problems arising constantly in our ever­
-    developing modern economy? I find no satisfying response
-    to that question in his opinion.12
-    ——————
-         But even assuming there were “practicable” alternatives to the
-    minimum coverage provision, “we long ago rejected the view that the
-    Necessary and Proper Clause demands that an Act of Congress be
-    ‘absolutely necessary’ to the exercise of an enumerated power.” Jinks
-    v. Richland County, 
-
-[538 U.S. 456](/opinion/127912/jinks-v-richland-county/)
-
-    
-    
-    , 462 (2003) (quoting McCulloch
-    v. Maryland, 
-
-[4 Wheat. 316](/opinion/85272/mculloch-v-state-of-maryland/)
-
-    
-    
-    , 414–415 (1819)). Rather, the statutory
-    provision at issue need only be “conducive” and “[reasonably] adapted”
-    to the goal Congress seeks to achieve. Jinks, 538 U. S., at 462 (internal
-    quotation marks omitted). The minimum coverage provision meets this
-    requirement. See supra, at 31–33.
-      12 THE CHIEF JUSTICE states that he must evaluate the constitution­
-    
-    ality of the minimum coverage provision under the Commerce Clause
-    because the provision “reads more naturally as a command to buy
-    insurance than as a tax.” Ante, at 44. THE CHIEF JUSTICE ultimately
-    concludes, however, that interpreting the provision as a tax is a “fairly
-    possible” construction. Ante, at 32 (internal quotation marks omitted).
-    That being so, I see no reason to undertake a Commerce Clause analy­
-    sis that is not outcome determinative.
-    38       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
     
                                   V
        Through Medicaid, Congress has offered the States an
@@ -3653,20 +2199,13 @@ assn/)
     eral poverty level. The spending power conferred by the
     Constitution, the Court has never doubted, permits Con­
     gress to define the contours of programs financed with
-    federal funds. See, e.g., Pennhurst State School and Hos-
-    pital v. Halderman, 
-
-[451 U.S. 1](/opinion/110458/pennhurst-state-school-and-hospital-v-halderman/)
-
-    
-    
-    , 17 (1981). And to expand
+    federal funds. And to expand
     coverage, Congress could have recalled the existing legis­
     lation, and replaced it with a new law making Medicaid as
     embracive of the poor as Congress chose.
+    
        The question posed by the 2010 Medicaid expansion,
-    then, is essentially this: To cover a notably larger popula­
-    tion, must Congress take the repeal/reenact route, or may
+    then, is essentially this: To cover a notably larger popula­tion, must Congress take the repeal/reenact route, or may
     it achieve the same result by amending existing law? The
     answer should be that Congress may expand by amend­
     ment the classes of needy persons entitled to Medicaid
@@ -3678,36 +2217,22 @@ assn/)
     requirement would rigidify Congress’ efforts to empower
     States by partnering with them in the implementation of
     federal programs.
-       Medicaid is a prototypical example of federal-state coop­
-                     Cite as: 567 U. S. ____ (2012)          39
     
-                        Opinion of GINSBURG, J.
-    
-    eration in serving the Nation’s general welfare. Rather
-    than authorizing a federal agency to administer a uni-
-    form national health-care system for the poor, Con-
-    gress offered States the opportunity to tailor Medicaid
+       Medicaid is a prototypical example of federal-state coop­eration in serving the Nation’s general welfare. Rather
+    than authorizing a federal agency to administer a uniform national health-care system for the poor, Congress offered States the opportunity to tailor Medicaid
     grants to their particular needs, so long as they remain
     within bounds set by federal law. In shaping Medicaid,
     Congress did not endeavor to fix permanently the terms
-    participating states must meet; instead, Congress re­
-    served the “right to alter, amend, or repeal” any provision
-    of the Medicaid Act. 
-
-42 U.S. C
-
-    
-    
-    . §1304. States, for their
+    participating states must meet; instead, Congress re­served the “right to alter, amend, or repeal” any provision
+    of the Medicaid Act. States, for their
     part, agreed to amend their own Medicaid plans consistent
-    with changes from time to time made in the federal law.
-    See 42 CFR §430.12(c)(i) (2011). And from 1965 to the
+    with changes from time to time made in the federal law. And from 1965 to the
     present, States have regularly conformed to Congress’
     alterations of the Medicaid Act.
+    
        THE CHIEF JUSTICE acknowledges that Congress may
     “condition the receipt of [federal] funds on the States’
-    complying with restrictions on the use of those funds,”
-    ante, at 50, but nevertheless concludes that the 2010
+    complying with restrictions on the use of those funds,” but nevertheless concludes that the 2010
     expansion is unduly coercive. His conclusion rests on
     three premises, each of them essential to his theory. First,
     the Medicaid expansion is, in THE CHIEF JUSTICE’s view, a
@@ -3718,446 +2243,140 @@ assn/)
     to adopt a new one. Second, the expansion was unforesee­
     able by the States when they first signed on to Medicaid.
     Third, the threatened loss of funding is so large that the
-    States have no real choice but to participate in the Medi­
-    caid expansion. THE CHIEF JUSTICE therefore—for the
-    first time ever—finds an exercise of Congress’ spending
+    States have no real choice but to participate in the Medi­caid expansion. THE CHIEF JUSTICE therefore---for the
+    first time ever---finds an exercise of Congress’ spending
     power unconstitutionally coercive.
+    
        Medicaid, as amended by the ACA, however, is not two
     spending programs; it is a single program with a constant
-    aim—to enable poor persons to receive basic health care
-    40       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    when they need it. Given past expansions, plus express
+    aim---to enable poor persons to receive basic health care when they need it. Given past expansions, plus express
     statutory warning that Congress may change the re­
     quirements participating States must meet, there can be
     no tenable claim that the ACA fails for lack of notice.
-    Moreover, States have no entitlement to receive any Medi­
-    caid funds; they enjoy only the opportunity to accept funds
+    Moreover, States have no entitlement to receive any Medi­caid funds; they enjoy only the opportunity to accept funds
     on Congress’ terms. Future Congresses are not bound
     by their predecessors’ dispositions; they have authority to
-    spend federal revenue as they see fit. The Federal Gov­
-    ernment, therefore, is not, as THE CHIEF JUSTICE charges,
+    spend federal revenue as they see fit. The Federal Gov­ernment, therefore, is not, as THE CHIEF JUSTICE charges,
     threatening States with the loss of “existing” funds from
     one spending program in order to induce them to opt into
     another program. Congress is simply requiring States to
     do what States have long been required to do to receive
     Medicaid funding: comply with the conditions Congress
     prescribes for participation.
+    
        A majority of the Court, however, buys the argument
     that prospective withholding of funds formerly available
     exceeds Congress’ spending power. Given that holding, I
-    entirely agree with THE CHIEF JUSTICE as to the appropri­
-    ate remedy. It is to bar the withholding found impermis­
-    sible—not, as the joint dissenters would have it, to scrap
-    the expansion altogether, see post, at 46–48. The dissent­
-    ers’ view that the ACA must fall in its entirety is a radical
-    departure from the Court’s normal course. When a consti­
-    tutional infirmity mars a statute, the Court ordinarily
-    removes the infirmity. It undertakes a salvage operation;
-    it does not demolish the legislation. See, e.g., Brockett v.
-    Spokane Arcades, Inc., 
-
-[472 U.S. 491](/opinion/111480/brockett-v-spokane-arcades-inc/)
-
-    
-    
-    , 504 (1985) (Court’s
-    normal course is to declare a statute invalid “to the extent
-    that it reaches too far, but otherwise [to leave the statute]
-    intact”). That course is plainly in order where, as in this
-    case, Congress has expressly instructed courts to leave
-    untouched every provision not found invalid. See 
-
-42 U.S. C
-
-    
-    
-    . §1303. Because THE CHIEF JUSTICE finds the
-    withholding—not the granting—of federal funds incom­
-                        Cite as: 567 U. S. ____ (2012)                  41
-    
-                           Opinion of GINSBURG, J.
-    
-    patible with the Spending Clause, Congress’ extension of
+    entirely agree with THE CHIEF JUSTICE as to the appropri­ate remedy. It is to bar the withholding found impermis­
+    sible---not, as the joint dissenters would have it, to scrap
+    the expansion altogether. Because THE CHIEF JUSTICE finds the
+    withholding—not the granting----of federal funds incom­patible with the Spending Clause, Congress’ extension of
     Medicaid remains available to any State that affirms its
     willingness to participate.
+    
                                   A
+    
        Expansion has been characteristic of the Medicaid pro­
     gram. Akin to the ACA in 2010, the Medicaid Act as
     passed in 1965 augmented existing federal grant programs
-    jointly administered with the States.13 States were not
+    jointly administered with the States. States were not
     required to participate in Medicaid. But if they did, the
-    Federal Government paid at least half the costs. To qual-
-    ify for these grants, States had to offer a minimum level of
+    Federal Government paid at least half the costs. To qualify for these grants, States had to offer a minimum level of
     health coverage to beneficiaries of four federally funded,
     state-administered welfare programs: Aid to Families with
     Dependent Children; Old Age Assistance; Aid to the Blind;
-    and Aid to the Permanently and Totally Disabled. See
-    Social Security Amendments of 1965, §121(a), 79 Stat.
-    343; Schweiker v. Gray Panthers, 
+    and Aid to the Permanently and Totally Disabled. 
 
-[453 U.S. 34](/opinion/110547/schweiker-v-gray-panthers/)
-
-    
-    
-    , 37 (1981).
     At their option, States could enroll additional “medically
     needy” individuals; these costs, too, were partially borne by
     the Federal Government at the same, at least 50%, rate.
-    Ibid.
+
        Since 1965, Congress has amended the Medicaid pro­
     gram on more than 50 occasions, sometimes quite sizably.
-    Most relevant here, between 1988 and 1990, Congress
-    ——————
-      13 Medicaid was “plainly an extension of the existing Kerr-Mills”
-    
-    grant program. Huberfeld, Federalizing Medicaid, 14 U. Pa. J. Const.
-    L. 431, 444–445 (2011). Indeed, the “section of the Senate report
-    dealing with Title XIX”—the title establishing Medicaid—“was entitled,
-    ‘Improvement and Extension of Kerr-Mills Medical Assistance Pro­
-    gram.’ ” Stevens & Stevens, Welfare Medicine in America 51 (1974)
-    (quoting S. Rep. No. 404, 89th Cong., 1st Sess., pt. 1, p. 9 (1965)).
-    Setting the pattern for Medicaid, Kerr-Mills reimbursed States for a
-    portion of the cost of health care provided to welfare recipients if
-    States met conditions specified in the federal law, e.g., participating
-    States were obliged to offer minimum coverage for hospitalization and
-    physician services. See Huberfeld, supra, at 443–444.
-    42        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                      BUSINESS v. SEBELIUS
-    
-                       Opinion of GINSBURG, J. 
-    
-    
-    required participating States to include among their bene­
-    ficiaries pregnant women with family incomes up to 133%
+    Most relevant here, between 1988 and 1990, Congress required participating States to include among their bene­ficiaries pregnant women with family incomes up to 133%
     of the federal poverty level, children up to age 6 at the
     same income levels, and children ages 6 to 18 with family
-    incomes up to 100% of the poverty level. See 
+    incomes up to 100% of the poverty level.  These amendments added millions to the
+    Medicaid-eligible population. 
 
-42 U.S. C
-
-    
-    
-    .
-    §§1396a(a)(10)(A)(i), 1396a(l); Medicare Catastrophic Cov­
-    erage Act of 1988, §302, 102 Stat. 750; Omnibus Budget
-    Reconciliation Act of 1989, §6401, 103 Stat. 2258; Om-
-    nibus Budget Reconciliation Act of 1990, §4601, 104 Stat.
-    1388–166. These amendments added millions to the
-    Medicaid-eligible population. Dubay & Kenney, Lessons
-    from the Medicaid Expansions for Children and Pregnant
-    Women 5 (Apr. 1997).
-       Between 1966 and 1990, annual federal Medicaid spend­
-    ing grew from $631.6 million to $42.6 billion; state
-    spending rose to $31 billion over the same period. See Dept.
-    of Health and Human Services, National Health Expendi­
-    tures by Type of Service and Source of Funds: Calendar
-    Years 1960 to 2010 (table).14 And between 1990 and 2010,
-    federal spending increased to $269.5 billion. Ibid. En­
-    largement of the population and services covered by Medi­
+       Between 1966 and 1990, annual federal Medicaid spend­ing grew from $631.6 million to $42.6 billion; state
+    spending rose to $31 billion over the same period.  And between 1990 and 2010,
+    federal spending increased to $269.5 billion. En­largement of the population and services covered by Medi­
     caid, in short, has been the trend.
+    
        Compared to past alterations, the ACA is notable for the
     extent to which the Federal Government will pick up the
     tab. Medicaid’s 2010 expansion is financed largely by
     federal outlays. In 2014, federal funds will cover 100%
     of the costs for newly eligible beneficiaries; that rate will
-    gradually decrease before settling at 90% in 2020. 
-
-42 U.S. C
-
-    
-    
-    . §1396d(y) (2006 ed., Supp. IV). By comparison,
+    gradually decrease before settling at 90% in 2020. By comparison,
     federal contributions toward the care of beneficiaries
     eligible pre-ACA range from 50% to 83%, and averaged
-    57% between 2005 and 2008. §1396d(b) (2006 ed., Supp.
-    ——————
-      14 Available online at http://www.cms.gov/Research-Statistics-Data-
-    
-    and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/
-    NationalHealthAccountsHistorical.html.
-                          Cite as: 567 U. S. ____ (2012)                    43
-    
-                             Opinion of GINSBURG, J.
-    
-    IV); Dept. of Health and Human Services, Centers for
-    Medicare and Medicaid Services, C. Truffer et al., 2010
-    Actuarial Report on the Financial Outlook for Medicaid,
-    p. 20.
-       Nor will the expansion exorbitantly increase state Medi­
-    caid spending. The Congressional Budget Office (CBO)
+    57% between 2005 and 2008. 
+
+       Nor will the expansion exorbitantly increase state Medi­caid spending. The Congressional Budget Office (CBO)
     projects that States will spend 0.8% more than they would
-    have, absent the ACA. See CBO, Spending & Enrollment
-    Detail for CBO’s March 2009 Baseline. But see ante, at
-    44–45 (“[T]he Act dramatically increases state obligations
-    under Medicaid.”); post, at 45 (joint opinion of SCALIA,
-    KENNEDY, THOMAS, and ALITO, JJ.) (“[A]cceptance of the
-    [ACA expansion] will impose very substantial costs on
-    participating States.”). Whatever the increase in state
+    have, absent the ACA. Whatever the increase in state
     obligations after the ACA, it will pale in comparison to the
-    increase in federal funding.15
+    increase in federal funding.
+    
        Finally, any fair appraisal of Medicaid would require
     acknowledgment of the considerable autonomy States
-    enjoy under the Act. Far from “conscript[ing] state agen­
-    cies into the national bureaucratic army,” ante, at 55
-    (citing FERC v. Mississippi, 
-
-[456 U.S. 742](/opinion/110718/ferc-v-mississippi/)
-
-    
-    
-    , 775 (1982)
-    (O’Connor, J., concurring in judgment in part and dissent­
-    ing in part) (brackets in original and internal quotation
-    marks omitted)), Medicaid “is designed to advance cooper­
-    ative federalism.” Wisconsin Dept. of Health and Family
-    Servs. v. Blumer, 
-
-[534 U.S. 473](/opinion/118481/wisconsindept-of-health-and-family-servs-v-
-blumer/)
-
-    
-    
-    , 495 (2002) (citing Harris
-    v. McRae, 
-
-[448 U.S. 297](/opinion/110333/harris-v-mcrae/)
-
-    
-    
-    , 308 (1980)). Subject to its basic
-    
-    ——————
-      15 Even the study on which the plaintiffs rely, see Brief for Petitioners
-    
-    10, concludes that “[w]hile most states will experience some increase in
-    spending, this is quite small relative to the federal matching payments
-    and low relative to the costs of uncompensated care that [the states]
-    would bear if the[re] were no health reform.” See Kaiser Commission
-    on Medicaid & the Uninsured, Medicaid Coverage & Spending in
-    Health Reform 16 (May 2010). Thus there can be no objection to the
-    ACA’s expansion of Medicaid as an “unfunded mandate.” Quite the
-    contrary, the program is impressively well funded.
-    44        NATIONAL FEDERATION OF INDEPENDENT 
-    
-                      BUSINESS v. SEBELIUS
-    
-                       Opinion of GINSBURG, J. 
-    
-    
-    requirements, the Medicaid Act empowers States to “select
+    enjoy under the Act. Far from “conscript[ing] state agen­cies into the national bureaucratic army,” Medicaid “is designed to advance cooper­ative federalism.” Subject to its basic requirements, the Medicaid Act empowers States to “select
     dramatically different levels of funding and coverage,
     alter and experiment with different financing and delivery
-    modes, and opt to cover (or not to cover) a range of parti-
-    cular procedures and therapies. States have leveraged
+    modes, and opt to cover (or not to cover) a range of particular procedures and therapies. States have leveraged
     this policy discretion to generate a myriad of dramatically
     different Medicaid programs over the past several dec­
-    ades.” Ruger, Of Icebergs and Glaciers, 75 Law & Con­
-    temp. Probs. 215, 233 (2012) (footnote omitted). The ACA
-    does not jettison this approach. States, as first-line ad­
-    ministrators, will continue to guide the distribution of
+    ades.”  States, as first-line ad­ministrators, will continue to guide the distribution of
     substantial resources among their needy populations.
+    
        The alternative to conditional federal spending, it bears
     emphasis, is not state autonomy but state marginaliza­
-    tion.16 In 1965, Congress elected to nationalize health
+    tion. In 1965, Congress elected to nationalize health
     coverage for seniors through Medicare. It could similarly
-    have established Medicaid as an exclusively federal pro­
-    gram. Instead, Congress gave the States the opportunity
+    have established Medicaid as an exclusively federal pro­gram. Instead, Congress gave the States the opportunity
     to partner in the program’s administration and develop­
     ment. Absent from the nationalized model, of course, is
     the state-level policy discretion and experimentation that
-    is Medicaid’s hallmark; undoubtedly the interests of fed­
-    eralism are better served when States retain a meaning-
-    ful role in the implementation of a program of such
-    importance. See Caminker, State Sovereignty and Sub­
-    ordinacy, 95 Colum. L. Rev. 1001, 1002–1003 (1995) (coopera-
-    tive federalism can preserve “a significant role for state
-    discretion in achieving specified federal goals, where the
-    alternative is complete federal preemption of any state
-    ——————
-      16 In 1972, for example, Congress ended the federal cash-assistance
-    
-    program for the aged, blind, and disabled. That program previously
-    had been operated jointly by the Federal and State Governments, as
-    is the case with Medicaid today. Congress replaced the cooperative
-    federal program with the nationalized Supplemental Security In-
-    come (SSI) program. See Schweiker v. Gray Panthers, 
+    is Medicaid’s hallmark; undoubtedly the interests of fed­eralism are better served when States retain a meaningful role in the implementation of a program of such
+    importance. 
+                    B
 
-[453 U.S. 34](/opinion/110547/schweiker-v-gray-panthers/)
-
-    
-    
-    , 38
-    (1981).
-                        Cite as: 567 U. S. ____ (2012)                  45
-    
-                           Opinion of GINSBURG, J.
-    
-    regulatory role”); Rose-Ackerman, Cooperative Federalism
-    and Co-optation, 92 Yale L. J. 1344, 1346 (1983) (“If
-    the federal government begins to take full responsibility
-    for social welfare spending and preempts the states, the
-    result is likely to be weaker . . . state governments.”).17
-      Although Congress “has no obligation to use its Spend­
-    ing Clause power to disburse funds to the States,” College
-    Savings Bank v. Florida Prepaid Postsecondary Ed. Ex-
-    pense Bd., 
-
-[527 U.S. 666](/opinion/118317/college-savings-bank-v-florida-prepaid-
-postsecondary-ed-expense-bd/)
-
-    
-    
-    , 686 (1999), it has provided Medi­
-    caid grants notable for their generosity and flexibility.
-    “[S]uch funds,” we once observed, “are gifts,” id., at 686–
-    687, and so they have remained through decades of expan­
-    sion in their size and scope.
-                                    B
        The Spending Clause authorizes Congress “to pay the
     Debts and provide for the . . . general Welfare of the
-    United States.” Art. I, §8, cl. 1. To ensure that federal funds
+    United States.” To ensure that federal funds
     granted to the States are spent “to ‘provide for the . . .
-    general Welfare’ in the manner Congress intended,” ante,
-    at 46, Congress must of course have authority to impose
+    general Welfare’ in the manner Congress intended,” Congress must of course have authority to impose
     limitations on the States’ use of the federal dollars. This
-    Court, time and again, has respected Congress’ prescrip­
-    tion of spending conditions, and has required States to
-    abide by them. See, e.g., Pennhurst, 451 U. S., at 17
-    (“[O]ur cases have long recognized that Congress may fix
-    the terms on which it shall disburse federal money to the
-    States.”). In particular, we have recognized Congress’
+    Court, time and again, has respected Congress’ prescrip­tion of spending conditions, and has required States to
+    abide by them.  In particular, we have recognized Congress’
     prerogative to condition a State’s receipt of Medicaid
-    ——————
-      17 THE CHIEF JUSTICE and the joint dissenters perceive in cooperative
-    
-    federalism a “threa[t]” to “political accountability.” Ante, at 48; see
-    post, at 34–35. By that, they mean voter confusion: Citizens upset by
-    unpopular government action, they posit, may ascribe to state officials
-    blame more appropriately laid at Congress’ door. But no such confu­
-    sion is apparent in this case: Medicaid’s status as a federally funded,
-    state-administered program is hardly hidden from view.
-    46         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
     funding on compliance with the terms Congress set for
-    participation in the program. See, e.g., Harris, 448 U. S.,
-    at 301 (“[O]nce a State elects to participate [in Medicaid],
-    it must comply with the requirements of [the Medicaid
-    Act].”); Arkansas Dept. of Health and Human Servs. v.
-    Ahlborn, 
+    participation in the program. 
 
-[547 U.S. 268](/opinion/145661/arkansas-dept-of-health-and-human-servs-v-
-ahlborn/)
-
-    
-    
-    , 275 (2006); Frew v. Hawkins, 
-
-[540 U.S. 431](/opinion/131155/frew-v-hawkins/)
-
-    
-    
-    , 433 (2004); Atkins v. Rivera, 
-
-[477 U.S. 154](/opinion/111716/atkins-v-rivera/)
-
-    
-    
-    , 156–
-    157 (1986).
        Congress’ authority to condition the use of federal funds
     is not confined to spending programs as first launched.
-    The legislature may, and often does, amend the law, im­
-    posing new conditions grant recipients henceforth must
-    meet in order to continue receiving funds. See infra, at 54
-    (describing Bennett v. Kentucky Dept. of Ed., 
+    The legislature may, and often does, amend the law, im­posing new conditions grant recipients henceforth must
+    meet in order to continue receiving funds. 
 
-[470 U.S. 656](/opinion/111377/bennett-v-kentucky-dept-of-ed/)
-
-    
-    
-    , 659–660 (1985) (enforcing restriction added five years
-    after adoption of educational program)).
        Yes, there are federalism-based limits on the use of
     Congress’ conditional spending power. In the leading
-    decision in this area, South Dakota v. Dole, 
-
-[483 U.S. 203](/opinion/111939/south-dakota-v-dole/)
-
-    
-    
-    (1987), the Court identified four criteria. The conditions
+    decision in this area, South Dakota v. Dole, the Court identified four criteria. The conditions
     placed on federal grants to States must (a) promote the
     “general welfare,” (b) “unambiguously” inform States what
     is demanded of them, (c) be germane “to the federal inter­
     est in particular national projects or programs,” and (d)
     not “induce the States to engage in activities that would
-    themselves be unconstitutional.” Id., at 207–208, 210
-    (internal quotation marks omitted).18
-       The Court in Dole mentioned, but did not adopt, a fur­
-    ther limitation, one hypothetically raised a half-century
-    earlier: In “some circumstances,” Congress might be pro­
-    hibited from offering a “financial inducement . . . so coer­
-    
-    ——————
-      18 Although the plaintiffs, in the proceedings below, did not contest
-    the ACA’s satisfaction of these criteria, see 
+    themselves be unconstitutional.” 
 
-[648 F.3d 1235](/opinion/223249/florida-ex-rel-attorney-general-v-us-dept-of-
-health-and-human-services/)
-
-    
-    
-    , 1263 (CA11
-    2011), THE CHIEF JUSTICE appears to rely heavily on the second crite-
-    rion. Compare ante, at 52, 54, with infra, at 52–54.
-                     Cite as: 567 U. S. ____ (2012)          47
-    
-                        Opinion of GINSBURG, J.
-    
-    cive as to pass the point at which ‘pressure turns into
-    compulsion.’ ” Id., at 211 (quoting Steward Machine Co. v.
-    Davis, 
-
-[301 U.S. 548](/opinion/102843/steward-machine-co-v-davis/)
-
-    
-    
-    , 590 (1937)). Prior to today’s deci­
+      The Court in Dole mentioned, but did not adopt, a fur­ther limitation, one hypothetically raised a half-century
+    earlier: In “some circumstances,” Congress might be pro­hibited from offering a “financial inducement . . . so coer­cive as to pass the point at which ‘pressure turns into
+    compulsion.’”  Prior to today’s deci­
     sion, however, the Court has never ruled that the terms of
     any grant crossed the indistinct line between temptation
     and coercion.
-       Dole involved the National Minimum Drinking Age Act,
-    
 
-23 U.S. C
-
-    
-    
-    . §158, enacted in 1984. That Act directed the
-    Secretary of Transportation to withhold 5% of the federal
-    highway funds otherwise payable to a State if the State
-    permitted purchase of alcoholic beverages by persons
-    less than 21 years old. Drinking age was not within the
-    authority of Congress to regulate, South Dakota argued,
-    because the Twenty-First Amendment gave the States
-    exclusive power to control the manufacture, transporta­
-    tion, and consumption of alcoholic beverages. The small
-    percentage of highway-construction funds South Dakota
-    stood to lose by adhering to 19 as the age of eligibility to
-    purchase 3.2% beer, however, was not enough to qualify as
-    coercion, the Court concluded.
        This case does not present the concerns that led the
     Court in Dole even to consider the prospect of coercion. In
     Dole, the condition—set 21 as the minimum drinking age—
@@ -4166,6 +2385,7 @@ health-and-human-services/)
     Twenty-First Amendment, it was an open question whether
     Congress could directly impose a national minimum
     drinking age.
+    
        The ACA, in contrast, relates solely to the federally
     funded Medicaid program; if States choose not to comply,
     Congress has not threatened to withhold funds earmarked
@@ -4173,16 +2393,9 @@ health-and-human-services/)
     funding to induce States to take action Congress itself
     could not undertake. The Federal Government undoubt­
     edly could operate its own health-care program for poor
-    persons, just as it operates Medicare for seniors’ health
-    48       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    care. See supra, at 44.
-      That is what makes this such a simple case, and the
+    persons, just as it operates Medicare for seniors’ health care. 
+
+That is what makes this such a simple case, and the
     Court’s decision so unsettling. Congress, aiming to assist
     the needy, has appropriated federal money to subsidize
     state health-insurance programs that meet federal stand­
@@ -4192,611 +2405,200 @@ health-and-human-services/)
     sures that federal funds will be spent on health care for
     the poor in furtherance of Congress’ present perception of
     the general welfare.
+    
                                    C
+    
       THE CHIEF JUSTICE asserts that the Medicaid expan­
-    sion creates a “new health care program.” Ante, at 54.
-    Moreover, States could “hardly anticipate” that Congress
-    would “transform [the program] so dramatically.” Ante,
-    at 55. Therefore, THE CHIEF JUSTICE maintains, Congress’
+    sion creates a “new health care program.” Moreover, States could “hardly anticipate” that Congress
+    would “transform [the program] so dramatically.” Therefore, THE CHIEF JUSTICE maintains, Congress’
     threat to withhold “old” Medicaid funds based on a State’s
     refusal to participate in the “new” program is a “threa[t] to
-    terminate [an]other . . . independent gran[t].” Ante, at 50,
-    52–53. And because the threat to withhold a large amount
+    terminate [an]other . . . independent gran[t].”  And because the threat to withhold a large amount
     of funds from one program “leaves the States with no real
     option but to acquiesce [in a newly created program],” THE
     CHIEF JUSTICE concludes, the Medicaid expansion is un­
-    constitutionally coercive. Ante, at 52.
+    constitutionally coercive. 
+
                                 1
+
       The starting premise on which THE CHIEF JUSTICE’s
     coercion analysis rests is that the ACA did not really
     “extend” Medicaid; instead, Congress created an entirely
     new program to co-exist with the old. THE CHIEF JUSTICE
     calls the ACA new, but in truth, it simply reaches more of
     America’s poor than Congress originally covered.
+    
       Medicaid was created to enable States to provide medi­
-    cal assistance to “needy persons.” See S. Rep. No. 404,
-                     Cite as: 567 U. S. ____ (2012)          49
-    
-                        Opinion of GINSBURG, J.
-    
-    89th Cong., 1st Sess., pt. 1, p. 9 (1965). See also §121(a),
-    79 Stat. 343 (The purpose of Medicaid is to enable States
-    “to furnish . . . medical assistance on behalf of [certain
-    persons] whose income and resources are insufficient to
-    meet the costs of necessary medical services.”). By bring­
+    cal assistance to “needy persons.”  By bring­
     ing health care within the reach of a larger population of
     Americans unable to afford it, the Medicaid expansion is
     an extension of that basic aim.
+    
        The Medicaid Act contains hundreds of provisions gov­
     erning operation of the program, setting conditions rang­
     ing from “Limitation on payments to States for expend-
-    itures attributable to taxes,” 
-
-42 U.S. C
-
-    
-    
-    . §1396a(t) (2006
-    ed.), to “Medical assistance to aliens not lawfully admitted
-    for permanent residence,” §1396b(v) (2006 ed. and Supp.
-    IV). The Medicaid expansion leaves unchanged the vast
+    itures attributable to taxes,” to “Medical assistance to aliens not lawfully admitted
+    for permanent residence.” The Medicaid expansion leaves unchanged the vast
     majority of these provisions; it adds beneficiaries to the
     existing program and specifies the rate at which States
     will be reimbursed for services provided to the added bene-
-    ficiaries. See ACA §§2001(a)(1), (3), 124 Stat. 271–272.
-    The ACA does not describe operational aspects of the
+    ficiaries.  The ACA does not describe operational aspects of the
     program for these newly eligible persons; for that infor­
-    mation, one must read the existing Medicaid Act. See 
+    mation, one must read the existing Medicaid Act. 
 
-42 U.S. C
-
-    
-    
-    . §§1396–1396v(b) (2006 ed. and Supp. IV).
        Congress styled and clearly viewed the Medicaid expan­
     sion as an amendment to the Medicaid Act, not as a “new”
-    health-care program. To the four categories of beneficiar­
-    ies for whom coverage became mandatory in 1965, and the
-    three mandatory classes added in the late 1980’s, see
-    supra, at 41–42, the ACA adds an eighth: individuals
+    health-care program. To the four categories of beneficiar­ies for whom coverage became mandatory in 1965, and the
+    three mandatory classes added in the late 1980’s, the ACA adds an eighth: individuals
     under 65 with incomes not exceeding 133% of the federal
     poverty level. The expansion is effectuated by §2001 of the
     ACA, aptly titled: “Medicaid Coverage for the Lowest
-    Income Populations.” 124 Stat. 271. That section amends
+    Income Populations.” That section amends
     Title 42, Chapter 7, Subchapter XIX: Grants to States for
     Medical Assistance Programs. Commonly known as the
-    Medicaid Act, Subchapter XIX filled some 278 pages in
-    50         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    2006. Section 2001 of the ACA would add approximately
-    three pages.19
+    Medicaid Act, Subchapter XIX filled some 278 pages in 2006. Section 2001 of the ACA would add approximately three pages.
+
        Congress has broad authority to construct or adjust
     spending programs to meet its contemporary understand­
-    ing of “the general Welfare.” Helvering v. Davis, 
-
-[301 U.S. 619](/opinion/102844/helvering-v-davis/)
-
-    
-    
-    , 640–641 (1937). Courts owe a large measure of re­
+    ing of “the general Welfare.” Courts owe a large measure of re­
     spect to Congress’ characterization of the grant programs
-    it establishes. See Steward Machine, 301 U. S., at 594.
-    Even if courts were inclined to second-guess Congress’
+    it establishes. Even if courts were inclined to second-guess Congress’
     conception of the character of its legislation, how would
-    reviewing judges divine whether an Act of Congress, pur­
-    porting to amend a law, is in reality not an amendment,
+    reviewing judges divine whether an Act of Congress, pur­porting to amend a law, is in reality not an amendment,
     but a new creation? At what point does an extension
     become so large that it “transforms” the basic law?
+    
        Endeavoring to show that Congress created a new pro­
-    gram, THE CHIEF JUSTICE cites three aspects of the ex­
-    pansion. First, he asserts that, in covering those earning
-    no more than 133% of the federal poverty line, the Medi­
-    caid expansion, unlike pre-ACA Medicaid, does not “care
-    for the neediest among us.” Ante, at 53. What makes
+    gram, THE CHIEF JUSTICE cites three aspects of the ex­pansion. First, he asserts that, in covering those earning no more than 133% of the federal poverty line, the Medi­caid expansion, unlike pre-ACA Medicaid, does not “care for the neediest among us.”  What makes
     that so? Single adults earning no more than $14,856 per
-    year—133% of the current federal poverty level—surely
+    year---133% of the current federal poverty level---surely
     rank among the Nation’s poor.
+    
        Second, according to THE CHIEF JUSTICE, “Congress
     mandated that newly eligible persons receive a level of
     coverage that is less comprehensive than the traditional
-    Medicaid benefit package.” Ibid. That less comprehensive
+    Medicaid benefit package.” That less comprehensive
     benefit package, however, is not an innovation introduced
     by the ACA; since 2006, States have been free to use it for
-    many of their Medicaid beneficiaries.20 The level of bene­
-    ——————
-      19 Compare Subchapter XIX, 
-
-42 U.S. C
-
-    
-    
-    . §§1396–1396v(b) (2006 ed.
-    
-    and Supp. IV) with §§1396a(a) (10)(A)(i)(VIII) (2006 ed. and Supp.
-    IV); 1396a(a) (10)(A)(ii)(XX), 1396a(a)(75), 1396a(k), 1396a(gg) to (hh),
-    1396d(y), 1396r–1(e), 1396u–7(b)(5) to (6).
-      20 The Deficit Reduction Act of 2005 authorized States to provide
-    
-    “benchmark coverage” or “benchmark equivalent coverage” to certain
-                        Cite as: 567 U. S. ____ (2012)                  51
-    
-                           Opinion of GINSBURG, J.
-    
-    fits offered therefore does not set apart post-ACA Medicaid
+    many of their Medicaid beneficiaries. The level of bene­fits offered therefore does not set apart post-ACA Medicaid
     recipients from all those entitled to benefits pre-ACA.
+
        Third, THE CHIEF JUSTICE correctly notes that the
-    reimbursement rate for participating States is differ­
-    ent regarding individuals who became Medicaid-eligible
+    reimbursement rate for participating States is differ­ent regarding individuals who became Medicaid-eligible
     through the ACA. Ibid. But the rate differs only in its
     generosity to participating States. Under pre-ACA Medi­
     caid, the Federal Government pays up to 83% of the costs
-    of coverage for current enrollees, §1396d(b) (2006 ed. and
-    Supp. IV); under the ACA, the federal contribution starts
-    at 100% and will eventually settle at 90%, §1396d(y).
-    Even if one agreed that a change of as little as 7 percent­
+    of coverage for current enrollees; under the ACA, the federal contribution starts
+    at 100% and will eventually settle at 90%. Even if one agreed that a change of as little as 7 percent­
     age points carries constitutional significance, is it not
     passing strange to suggest that the purported incursion on
     state sovereignty might have been averted, or at least
     mitigated, had Congress offered States less money to carry
     out the same obligations?
+    
        Consider also that Congress could have repealed Medi­
-    caid. See supra, at 38–39 (citing 
-
-42 U.S. C
-
-    
-    
-    . §1304); Brief
-    for Petitioners in No. 11–400, p. 41. Thereafter, Congress
-    could have enacted Medicaid II, a new program combin­
-    ing the pre-2010 coverage with the expanded coverage
+    caid. Thereafter, Congress
+    could have enacted Medicaid II, a new program combin­ing the pre-2010 coverage with the expanded coverage
     required by the ACA. By what right does a court stop
     Congress from building up without first tearing down?
+
                                  2
+
       THE CHIEF JUSTICE finds the Medicaid expansion vul­
-    nerable because it took participating States by surprise.
-    Ante, at 54. “A State could hardly anticipate that Con­
+    nerable because it took participating States by surprise. “A State could hardly anticipate that Con­
     gres[s]” would endeavor to “transform [the Medicaid pro­
-    gram] so dramatically,” he states. Ante, at 54–55. For the
+    gram] so dramatically,” he states. For the
     notion that States must be able to foresee, when they sign
-    up, alterations Congress might make later on, THE CHIEF
-    ——————
-    Medicaid populations. See §6044, 120 Stat. 88, 
-
-42 U.S. C
-
+    up, alterations Congress might make later on, THE CHIEF JUSTICE cites only one case: Pennhurst State School and Hospital v. Halderman.
     
-    
-    . §1396u–7
-    (2006 ed. and Supp. IV). States may offer the same level of coverage to
-    persons newly eligible under the ACA. See §1396a(k).
-    52       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    JUSTICE cites only one case: Pennhurst State School and
-    Hospital v. Halderman, 
-
-[451 U.S. 1](/opinion/110458/pennhurst-state-school-and-hospital-v-halderman/)
-
-    
-    
-    .
        In Pennhurst, residents of a state-run, federally funded
-    institution for the mentally disabled complained of abu­
-    sive treatment and inhumane conditions in alleged viola­
-    tion of the Developmentally Disabled Assistance and Bill
-    of Rights Act. 451 U. S., at 5–6. We held that the State
+    institution for the mentally disabled complained of abu­sive treatment and inhumane conditions in alleged viola­tion of the Developmentally Disabled Assistance and Bill
+    of Rights Act. We held that the State
     was not answerable in damages for violating conditions
-    it did not “voluntarily and knowingly accep[t].” Id., at 17,
-    27. Inspecting the statutory language and legislative his­
-    tory, we found that the Act did not “unambiguously” im­
-    pose the requirement on which the plaintiffs relied: that
+    it did not “voluntarily and knowingly accep[t].” Inspecting the statutory language and legislative his­tory, we found that the Act did not “unambiguously” im­pose the requirement on which the plaintiffs relied: that
     they receive appropriate treatment in the least restrictive
-    environment. Id., at 17–18. Satisfied that Congress had
+    environment. Satisfied that Congress had
     not clearly conditioned the States’ receipt of federal funds
     on the States’ provision of such treatment, we declined to
     read such a requirement into the Act. Congress’ spending
-    power, we concluded, “does not include surprising partici­
-    pating States with postacceptance or ‘retroactive’ condi­
-    tions.” Id., at 24–25.
+    power, we concluded, “does not include surprising partici­pating States with postacceptance or ‘retroactive’ condi­tions.” 
+
        Pennhurst thus instructs that “if Congress intends to
     impose a condition on the grant of federal moneys, it must
-    do so unambiguously.” Ante, at 53 (quoting Pennhurst,
-    451 U. S., at 17). That requirement is met in this case.
+    do so unambiguously.” That requirement is met in this case.
     Section 2001 does not take effect until 2014. The ACA
     makes perfectly clear what will be required of States that
     accept Medicaid funding after that date: They must extend
     eligibility to adults with incomes no more than 133% of
-    the federal poverty line. See 
+    the federal poverty line. 
 
-42 U.S. C
-
-    
-    
-    . §1396a(a)(10)(A)
-    (i)(VIII) (2006 ed. and Supp. IV).
        THE CHIEF JUSTICE appears to find in Pennhurst a
     requirement that, when spending legislation is first
     passed, or when States first enlist in the federal program,
     Congress must provide clear notice of conditions it might
     later impose. If I understand his point correctly, it was
-    incumbent on Congress, in 1965, to warn the States clearly
-                         Cite as: 567 U. S. ____ (2012)                  53
-    
-                            Opinion of GINSBURG, J.
-    
-    of the size and shape potential changes to Medicaid might
-    take. And absent such notice, sizable changes could not be
+    incumbent on Congress, in 1965, to warn the States clearly of the size and shape potential changes to Medicaid might take. And absent such notice, sizable changes could not be
     made mandatory. Our decisions do not support such a
-    requirement.21
-       In Bennett v. New Jersey, 
+    requirement. When amendment of an existing grant program has no retroactive effect, however, we have upheld Congress’ instruction. [analysis of cases omitted]
 
-[470 U.S. 632](/opinion/111376/bennett-v-new-jersey/)
-
-    
-    
-     (1985), the
-    Secretary of Education sought to recoup Title I funds22
-    based on the State’s noncompliance, from 1970 to 1972,
-    with a 1978 amendment to Title I. Relying on Pennhurst,
-    we rejected the Secretary’s attempt to recover funds based
-    on the States’ alleged violation of a rule that did not exist
-    when the State accepted and spent the funds. See 470
-    U. S., at 640 (“New Jersey[,] when it applied for and re­
-    ceived Title I funds for the years 1970–1972[,] had no
-    basis to believe that the propriety of the expenditures
-    would be judged by any standards other than the ones in
-    effect at the time.” (citing Pennhurst, 451 U. S., at 17, 24–
-    25; emphasis added)).
-       When amendment of an existing grant program has no
-    such retroactive effect, however, we have upheld Congress’
-    instruction. In Bennett v. Kentucky Dept. of Ed., 
-
-[470 U.S. 656](/opinion/111377/bennett-v-kentucky-dept-of-ed/)
-
-    
-    
-     (1985), the Secretary sued to recapture Title I funds
-    based on the Commonwealth’s 1974 violation of a spend­
-    ing condition Congress added to Title I in 1970. Rejecting
-    Kentucky’s argument pinned to Pennhurst, we held that
-    ——————
-       21 THE CHIEF JUSTICE observes that “Spending Clause legislation
-    
-    [i]s much in the nature of a contract.” Ante, at 46 (internal quotation
-    marks omitted). See also post, at 33 (joint opinion of SCALIA, KENNEDY,
-    THOMAS, and ALITO, JJ.) (same). But the Court previously has rec-
-    ognized that “[u]nlike normal contractual undertakings, federal grant
-    programs originate in and remain governed by statutory provisions
-    expressing the judgment of Congress concerning desirable public
-    policy.” Bennett v. Kentucky Dept. of Ed., 
-
-[470 U.S. 656](/opinion/111377/bennett-v-kentucky-dept-of-ed/)
-
-    
-    
-    , 669 (1985).
-       22 Title I of the Elementary and Secondary Education Act of 1965
-    
-    provided federal grants to finance supplemental educational programs
-    in school districts with high concentrations of children from low-income
-    families. See Bennett v. New Jersey, 
-
-[470 U.S. 632](/opinion/111376/bennett-v-new-jersey/)
-
-    
-    
-    , 634–635 (1985)
-    (citing Pub. L. No. 89–10, 79 Stat. 27).
-    54       NATIONAL FEDERATION OF INDEPENDENT 
-    
-                     BUSINESS v. SEBELIUS
-    
-                      Opinion of GINSBURG, J. 
-    
-    
-    the Commonwealth suffered no surprise after accepting
-    the federal funds. Kentucky was therefore obliged to re-
-    turn the money. 470 U. S., at 665–666, 673–674. The
-    conditions imposed were to be assessed as of 1974, in light
-    of “the legal requirements in place when the grants were
-    made,” id., at 670, not as of 1965, when Title I was origi­
-    nally enacted.
         As these decisions show, Pennhurst’s rule demands that
     conditions on federal funds be unambiguously clear at the
     time a State receives and uses the money—not at the time,
     perhaps years earlier, when Congress passed the law
-    establishing the program. See also Dole, 483 U. S., at 208
-    (finding Pennhurst satisfied based on the clarity of the
-    Federal Aid Highway Act as amended in 1984, without
-    looking back to 1956, the year of the Act’s adoption).
+    establishing the program. 
+
         In any event, from the start, the Medicaid Act put
     States on notice that the program could be changed: “The
     right to alter, amend, or repeal any provision of [Medi­
     caid],” the statute has read since 1965, “is hereby reserved
-    to the Congress.” 
-
-42 U.S. C
-
-    
-    
-    . §1304. The “effect of these
-    few simple words” has long been settled. See National
-    Railroad Passenger Corporation v. Atchison, T. & S. F. R.
-    Co., 
-
-[470 U.S. 451](/opinion/111369/national-r-passenger-corp-v-at-sfr-co/)
-
-    
-    
-    , 467–468, n. 22 (1985) (citing Sinking
-    Fund Cases, 
-
-[99 U.S. 700](/opinion/90001/sinking-fund-cases/)
-
-    
-    
-    , 720 (1879)). By reserving the
+    to the Congress.” The “effect of these
+    few simple words” has long been settled.  By reserving the
     right to “alter, amend, [or] repeal” a spending program,
     Congress “has given special notice of its intention to retain
     . . . full and complete power to make such alterations and
     amendments . . . as come within the just scope of legisla­
-    tive power.” Id., at 720.
-        Our decision in Bowen v. Public Agencies Opposed to
-    Social Security Entrapment, 
+    tive power.” 
 
-[477 U.S. 41](/opinion/111711/bowen-v-public-agencies-opposed-to-social-
-security-entrapment/)
-
-    
-    
-    , 51–52 (1986), is
-    guiding here. As enacted in 1935, the Social Security Act
-    did not cover state employees. Id., at 44. In response to
-    pressure from States that wanted coverage for their em­
-    ployees, Congress, in 1950, amended the Act to allow
-    States to opt into the program. Id., at 45. The statutory
-                     Cite as: 567 U. S. ____ (2012)           55
-    
-                        Opinion of GINSBURG, J.
-    
-    provision giving States this option expressly permitted
-    them to withdraw from the program. Ibid.
-       Beginning in the late 1970’s, States increasingly exer­
-    cised the option to withdraw. Id., at 46. Concerned that
-    withdrawals were threatening the integrity of Social
-    Security, Congress repealed the termination provision.
-    Congress thereby changed Social Security from a program
-    voluntary for the States to one from which they could not
-    escape. Id., at 48. California objected, arguing that the
-    change impermissibly deprived it of a right to withdraw
-    from Social Security. Id., at 49–50. We unanimously
-    rejected California’s argument. Id., at 51–53. By includ­
-    ing in the Act “a clause expressly reserving to it ‘[t]he
-    right to alter, amend, or repeal any provision’ of the Act,”
-    we held, Congress put States on notice that the Act
-    “created no contractual rights.” Id., at 51–52. The States
-    therefore had no law-based ground on which to complain
-    about the amendment, despite the significant character of
-    the change.
-       THE CHIEF JUSTICE nevertheless would rewrite §1304
-    to countenance only the “right to alter somewhat,” or
-    “amend, but not too much.” Congress, however, did not so
-    qualify §1304. Indeed, Congress retained discretion to
-    “repeal” Medicaid, wiping it out entirely. Cf. Delta Air
-    Lines, Inc. v. August, 
-
-[450 U.S. 346](/opinion/110429/delta-air-lines-inc-v-august/)
-
-    
-    
-    , 368 (1981) (Rehnquist,
-    J., dissenting) (invoking “the common-sense maxim that
-    the greater includes the lesser”). As Bowen indicates, no
-    State could reasonably have read §1304 as reserving to
-    Congress authority to make adjustments only if modestly
-    sized.
-       In fact, no State proceeded on that understanding. In com­
-    pliance with Medicaid regulations, each State expressly
-    undertook to abide by future Medicaid changes. See 42
-    CFR §430.12(c)(1) (2011) (“The [state Medicaid] plan must
-    provide that it will be amended whenever necessary to
-    reflect . . . [c]hanges in Federal law, regulations, policy
-    56         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    interpretations, or court decisions.”). Whenever a State
-    notifies the Federal Government of a change in its own
-    Medicaid program, the State certifies both that it knows
-    the federally set terms of participation may change, and
-    that it will abide by those changes as a condition of con­
-    tinued participation. See, e.g., Florida Agency for Health
-    Care Admin., State Plan Under Title XIX of the Social
-    Security Act Medical Assistance Program §7.1, p. 86 (Oct.
-    6, 1992).
        THE CHIEF JUSTICE insists that the most recent expan­
     sion, in contrast to its predecessors, “accomplishes a shift
-    in kind, not merely degree.” Ante, at 53. But why was
+    in kind, not merely degree." But why was
     Medicaid altered only in degree, not in kind, when Con­
     gress required States to cover millions of children and
-    pregnant women? See supra, at 41–42. Congress did not
+    pregnant women? Congress did not
     “merely alte[r] and expan[d] the boundaries of ” the Aid to
-    Families with Dependent Children program. But see ante,
-    at 53–55. Rather, Congress required participating States
+    Families with Dependent Children program. Rather, Congress required participating States
     to provide coverage tied to the federal poverty level (as it
     later did in the ACA), rather than to the AFDC program.
-    See Brief for National Health Law Program et al. as Amici
-    Curiae 16–18. In short, given §1304, this Court’s con­
+    In short, given §1304, this Court’s con­
     struction of §1304’s language in Bowen, and the enlarge­
-    ment of Medicaid in the years since 1965,23 a State would
+    ment of Medicaid in the years since 1965, a State would
     be hard put to complain that it lacked fair notice when,
     in 2010, Congress altered Medicaid to embrace a larger
     portion of the Nation’s poor.
+    
                                  3
-         THE CHIEF JUSTICE ultimately asks whether “the finan­
-    ——————
-      23 Note, in this regard, the extension of Social Security, which began
-    
-    in 1935 as an old-age pension program, then expanded to include sur-
-    vivor benefits in 1939 and disability benefits in 1956. See Social
-    Security Act, ch. 531, 49 Stat. 622–625; Social Security Act Amend­
-    ments of 1939, 53 Stat. 1364–1365; Social Security Amendments of
-    1956, ch. 836, §103, 70 Stat. 815–816.
-                          Cite as: 567 U. S. ____ (2012)                       57
-    
-                              Opinion of GINSBURG, J.
-    
-    cial inducement offered by Congress . . . pass[ed] the point
-    at which pressure turns into compulsion.” Ante, at 50
-    (internal quotation marks omitted). The financial in­
-    ducement Congress employed here, he concludes, crosses
-    that threshold: The threatened withholding of “existing
-    Medicaid funds” is “a gun to the head” that forces States to
-    acquiesce. Ante, at 50–51 (citing 
 
-42 U.S. C
 
-    
-    
-    . §1396c).24
-       THE CHIEF JUSTICE sees no need to “fix the outermost
-    line,” Steward Machine, 301 U. S., at 591, “where persua­
-    sion gives way to coercion,” ante, at 55. Neither do the
-    joint dissenters. See post, at 36, 38.25 Notably, the deci­
-    ——————
-       24 The joint dissenters, for their part, would make this the entire in­
-    
-    quiry. “[I]f States really have no choice other than to accept the pack­
-    age,” they assert, “the offer is coercive.” Post, at 35. THE CHIEF JUSTICE
-    recognizes Congress’ authority to construct a single federal program
-    and “condition the receipt of funds on the States’ complying with
-    restrictions on the use of those funds.” Ante, at 50. For the joint
-    dissenters, however, all that matters, it appears, is whether States can
-    resist the temptation of a given federal grant. Post, at 35. On this
-    logic, any federal spending program, sufficiently large and well-funded,
-    would be unconstitutional. The joint dissenters point to smaller pro­
-    grams States might have the will to refuse. See post, at 40–41 (elemen­
-    tary and secondary education). But how is a court to judge whether
-    “only 6.6% of all state expenditures,” post, at 41, is an amount States
-    could or would do without?
-       Speculations of this genre are characteristic of the joint dissent. See,
-    e.g., post, at 35 (“it may be state officials who will bear the brunt of
-    public disapproval” for joint federal-state endeavors); ibid., (“federal
-    officials . . . may remain insulated from the electoral ramifications of
-    their decision”); post, at 37 (“a heavy federal tax . . . levied to support a
-    federal program that offers large grants to the States . . . may, as a
-    practical matter, [leave States] unable to refuse to participate”); ibid.
-    (withdrawal from a federal program “would likely force the State to
-    impose a huge tax increase”); post, at 46 (state share of ACA expansion
-    costs “may increase in the future”) (all emphasis added; some internal
-    quotation marks omitted). The joint dissenters are long on conjecture
-    and short on real-world examples.
-       25 The joint dissenters also rely heavily on Congress’ perceived intent
-    
-    to coerce the States. Post, at 42–46; see, e.g., post, at 42 (“In crafting the
-    ACA, Congress clearly expressed its informed view that no State could
-    58          NATIONAL FEDERATION OF INDEPENDENT 
-    
-                        BUSINESS v. SEBELIUS
-    
-                         Opinion of GINSBURG, J. 
-    
-    
-    sion on which they rely, Steward Machine, found the
-    statute at issue inside the line, “wherever the line may
-    be.” 301 U. S., at 591.
        When future Spending Clause challenges arrive, as they
-    likely will in the wake of today’s decision, how will liti­
-    gants and judges assess whether “a State has a legitimate
-    choice whether to accept the federal conditions in ex­
-    change for federal funds”? Ante, at 48. Are courts to
+    likely will in the wake of today’s decision, how will liti­gants and judges assess whether “a State has a legitimate
+    choice whether to accept the federal conditions in ex­change for federal funds”? Are courts to
     measure the number of dollars the Federal Government
     might withhold for noncompliance? The portion of the
-    State’s budget at stake? And which State’s—or States’—
-    budget is determinative: the lead plaintiff, all challenging
+    State’s budget at stake? And which State’s—or States’—budget is determinative: the lead plaintiff, all challenging
     States (26 in this case, many with quite different fiscal
     situations), or some national median? Does it matter that
     Florida, unlike most States, imposes no state income tax,
     and therefore might be able to replace foregone federal
-    funds with new state revenue?26 Or that the coercion state
-    ——————
-    possibly refuse the offer that the ACA extends.”). We should not lightly
-    ascribe to Congress an intent to violate the Constitution (at least as my
-    colleagues read it). This is particularly true when the ACA could just
-    as well be comprehended as demonstrating Congress’ mere expectation,
-    in light of the uniformity of past participation and the generosity of the
-    federal contribution, that States would not withdraw. Cf. South Dakota
-    v. Dole, 
-
-[483 U.S. 203](/opinion/111939/south-dakota-v-dole/)
-
-    
-    
-    , 211 (1987) (“We cannot conclude . . . that a con­
-    ditional grant of federal money . . . is unconstitutional simply by
-    reason of its success in achieving the congressional objective.”).
-       26 Federal taxation of a State’s citizens, according to the joint dissent­
-    
-    ers, may diminish a State’s ability to raise new revenue. This, in turn,
-    could limit a State’s capacity to replace a federal program with an
-    “equivalent” state-funded analog. Post, at 40. But it cannot be true
-    that “the amount of the federal taxes extracted from the taxpayers of a
-    State to pay for the program in question is relevant in determining
-    whether there is impermissible coercion.” Post, at 37. When the
-    United States Government taxes United States citizens, it taxes them
-    “in their individual capacities” as “the people of America”—not as
-    residents of a particular State. See U. S. Term Limits, Inc. v. Thornton,
-    
-
-[514 U.S. 779](/opinion/117935/us-term-limits-inc-v-thornton/)
-
-    
-    
-    , 839 (1995) (KENNEDY, J., concurring). That is because
-    the “Framers split the atom of sovereignty[,] . . . establishing two orders
-    of government”—“one state and one federal”—“each with its own direct
-                        Cite as: 567 U. S. ____ (2012)                 59
-    
-                           Opinion of GINSBURG, J.
-    
-    officials in fact fear is punishment at the ballot box for
+    funds with new state revenue? Or that the coercion state officials in fact fear is punishment at the ballot box for
     turning down a politically popular federal grant?
+    
        The coercion inquiry, therefore, appears to involve polit-
-    ical judgments that defy judicial calculation. See Baker
-    v. Carr, 
-
-[369 U.S. 186](/opinion/106366/baker-v-carr/)
-
-    
-    
-    , 217 (1962). Even commentators
-    sympathetic to robust enforcement of Dole’s limitations,
-    see supra, at 46, have concluded that conceptions of
+    ical judgments that defy judicial calculation. See Baker v. Carr. Even commentators
+    sympathetic to robust enforcement of Dole’s limitations have concluded that conceptions of
     “impermissible coercion” premised on States’ perceived
     inability to decline federal funds “are just too amorphous
-    to be judicially administrable.” Baker & Berman, Getting
-    off the Dole, 
+    to be judicially administrable.” 
 
-78 Ind. L
-
-    
-    
-    . J. 459, 521, 522, n. 307 (2003)
-    (citing, e.g., Scalia, The Rule of Law as a Law of Rules, 56
-    U. Chi. L. Rev. 1175 (1989)).
        At bottom, my colleagues’ position is that the States’
     reliance on federal funds limits Congress’ authority to
     alter its spending programs. This gets things backwards:
@@ -4806,155 +2608,11 @@ security-entrapment/)
     fit. When the 110th Congress reached a conclusion about
     Medicaid funds that differed from its predecessors’ view,
     it abridged no State’s right to “existing,” or “pre-existing,”
-    funds. But see ante, at 51–52; post, at 47–48 (joint opinion
-    of SCALIA, KENNEDY, THOMAS, and ALITO, JJ.). For, in
-    ——————
-    relationship” to the people. Id., at 838.
-       A State therefore has no claim on the money its residents pay in
-    federal taxes, and federal “spending programs need not help people in
-    all states in the same measure.” See Brief for David Satcher et al. as
-    Amici Curiae 19. In 2004, for example, New Jersey received 55 cents
-    in federal spending for every dollar its residents paid to the Federal
-    Government in taxes, while Mississippi received $1.77 per tax dollar
-    paid. C. Dubay, Tax Foundation, Federal Tax Burdens and Expendi­
-    tures by State: Which States Gain Most from Federal Fiscal Opera­
-    tions? 2 (Mar. 2006). Thus no constitutional problem was created when
-    Arizona declined for 16 years to participate in Medicaid, even though
-    its residents’ tax dollars financed Medicaid programs in every other
-    State.
-    60         NATIONAL FEDERATION OF INDEPENDENT 
-    
-                       BUSINESS v. SEBELIUS
-    
-                        Opinion of GINSBURG, J. 
-    
-    
-    fact, there are no such funds. There is only money States
+    funds. In fact, there are no such funds. There is only money States
     anticipate receiving from future Congresses.
-                                   D
-      Congress has delegated to the Secretary of Health and
-    Human Services the authority to withhold, in whole or
-    in part, federal Medicaid funds from States that fail to
-    comply with the Medicaid Act as originally composed and as
-    subsequently amended. 
+    
+** JUSTICE SCALIA, JUSTICE KENNEDY, JUSTICE THOMAS, and JUSTICE ALITO, dissenting.**
 
-42 U.S. C
-
-    
-    
-    . §1396c.27 THE CHIEF
-    JUSTICE, however, holds that the Constitution precludes
-    the Secretary from withholding “existing” Medicaid funds
-    based on States’ refusal to comply with the expanded Medi­
-    caid program. Ante, at 55. For the foregoing reasons, I
-    disagree that any such withholding would violate the
-    Spending Clause. Accordingly, I would affirm the decision
-    of the Court of Appeals for the Eleventh Circuit in this
-    regard.
-      But in view of THE CHIEF JUSTICE’s disposition, I agree
-    with him that the Medicaid Act’s severability clause de­
-    termines the appropriate remedy. That clause provides
-    that “[i]f any provision of [the Medicaid Act], or the appli­
-    cation thereof to any person or circumstance, is held in-
-    valid, the remainder of the chapter, and the application of
-    such provision to other persons or circumstances shall not
-    be affected thereby.” 
-
-42 U.S. C
-
-    
-    
-    . §1303.
-      The Court does not strike down any provision of the
-    ——————
-      27 As THE CHIEF JUSTICE observes, the Secretary is authorized to
-    withhold all of a State’s Medicaid funding. See ante, at 51. But total
-    withdrawal is what the Secretary may, not must, do. She has discre­
-    tion to withhold only a portion of the Medicaid funds otherwise due a
-    noncompliant State. See §1396c; cf. 45 CFR §80.10(f) (2011) (Secretary
-    may enforce Title VI’s nondiscrimination requirement through “refusal
-    to grant or continue Federal financial assistance, in whole or in part.”
-    (emphasis added)). The Secretary, it is worth noting, may herself
-    experience political pressures, which would make her all the more
-    reluctant to cut off funds Congress has appropriated for a State’s needy
-    citizens.
-                     Cite as: 567 U. S. ____ (2012)          61
-    
-                        Opinion of GINSBURG, J.
-    
-    ACA. It prohibits only the “application” of the Secretary’s
-    authority to withhold Medicaid funds from States that
-    decline to conform their Medicaid plans to the ACA’s
-    requirements. Thus the ACA’s authorization of funds to
-    finance the expansion remains intact, and the Secretary’s
-    authority to withhold funds for reasons other than non­
-    compliance with the expansion remains unaffected.
-       Even absent §1303’s command, we would have no war­
-    rant to invalidate the Medicaid expansion, contra post, at
-    46–48 (joint opinion of SCALIA, KENNEDY, THOMAS, and
-    ALITO, JJ.), not to mention the entire ACA, post, at 49–64
-    (same). For when a court confronts an unconstitutional
-    statute, its endeavor must be to conserve, not destroy,
-    the legislature’s dominant objective. See, e.g., Ayotte v.
-    Planned Parenthood of Northern New Eng., 
-
-[546 U.S. 320](/opinion/145691/ayotte-v-planned-parenthood-of-northern-new-
-eng/)
-
-    
-    
-    ,
-    328–330 (2006). In this case, that objective was to in­
-    crease access to health care for the poor by increasing the
-    States’ access to federal funds. THE CHIEF JUSTICE is
-    undoubtedly right to conclude that Congress may offer
-    States funds “to expand the availability of health care, and
-    requir[e] that States accepting such funds comply with the
-    conditions on their use.” Ante, at 55. I therefore concur
-    in the judgment with respect to Part IV–B of THE CHIEF
-    JUSTICE’s opinion.
-                            *    *     *
-      For the reasons stated, I agree with THE CHIEF JUSTICE
-    that, as to the validity of the minimum coverage provi­
-    sion, the judgment of the Court of Appeals for the Eleventh
-    Circuit should be reversed. In my view, the provision en-
-    counters no constitutional obstruction. Further, I would
-    uphold the Eleventh Circuit’s decision that the Medicaid
-    expansion is within Congress’ spending power.
-                        Cite as: 567 U. S. ____ (2012)             1
-    
-             SCALIA, KENNEDY, THOMAS, and ALITO, JJ., dissenting
-    
-    SUPREME COURT OF THE UNITED STATES
-                                _________________
-    
-                      Nos. 11–393, 11–398 and 11–400
-                                _________________
-    
-    
-        NATIONAL FEDERATION OF INDEPENDENT
-             BUSINESS, ET AL., PETITIONERS
-    11–393                 v.
-      KATHLEEN SEBELIUS, SECRETARY OF HEALTH
-              AND HUMAN SERVICES, ET AL.
-    
-          DEPARTMENT OF HEALTH AND HUMAN
-    
-             SERVICES, ET AL., PETITIONERS 
-    
-    11–398                 v.
-                   FLORIDA ET AL.
-    
-                 FLORIDA, ET AL., PETITIONERS
-    11–400                    v.
-                 DEPARTMENT OF HEALTH AND
-                    HUMAN SERVICES ET AL.
-    ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
-              APPEALS FOR THE ELEVENTH CIRCUIT
-                               [June 28, 2012]
-    
-      JUSTICE SCALIA, JUSTICE KENNEDY, JUSTICE THOMAS,
-    and JUSTICE ALITO, dissenting.
       Congress has set out to remedy the problem that the
     best health care is beyond the reach of many Americans
     who cannot afford it. It can assuredly do that, by exercis-
