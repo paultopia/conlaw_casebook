@@ -1,218 +1,38 @@
-334 U.S. 1
+# Shelley v. Kraemer
 
-68 S.Ct. 836
+334 U.S. 1 (1948)
 
-92 L.Ed. 1161
-
-SHELLEY et ux.  
-v.  
-KRAEMER et ux. McGHEE et ux. v. SIPES et al.
-
-Nos. 72, 87.
-
-Argued Jan. 15, 16, 1948.
-
-Decided May 3, 1948.
-
-Messrs. George L. Vaughn and Herman Willer, both of St. Louis, Mo., for
-petitioners Shelley.
-
-Messrs. Thurgood Marshall, of New York City, Loren Miller, for petitioners
-McGhee.
-
-Mr. Gerald L. Seegers, of St. Louis, Mo., for respondents Kraemer.
-
-Messrs. Henry Gilligan and James A. Crooks, both of Washington, D.C. for
-respondents Sipes and others.
-
-Mr. Philip B. Perlman, Sol. Gen., of Washington, D.C., for the United States,
-as amicus curiae, by special leave of Court.
-
-Mr. Cheif Justice VINSON delivered the opinion of the Court.
-
-1
+**Mr. Chief Justice VINSON delivered the opinion of the Court.**
 
 These cases present for our consideration questions relating to the validity
 of court enforcement of private agreements, generally described as restrictive
 covenants, which have as their purpose the exclusion of persons of designated
-race or color from the Basic constitutional issues of obvious importance have
-been raised.
+race or color from the ownership or occupancy of real property. Basic constitutional issues of obvious importance have been raised.
 
-2
-
-The first of these cases comes to this Court on certiorari to the Supreme
-Court of Missouri. On February 16, 1911, thirty out of a total of thirty-nine
+On February 16, 1911, thirty out of a total of thirty-nine
 owners of property fronting both sides of Labadie Avenue between Taylor Avenue
 and Cora Avenue in the city of St. Louis, signed an agreement, which was
 subsequently recorded, providing in part:
 
-3
+> the said property is hereby restricted to the use and occupancy for the term of Fifty (50) years from this date, so that it shall be a condition all the time and whether recited and referred to as (sic) not in subsequent conveyances and shall attach to the land, as a condition precedent to the sale of the same, that hereafter no part of said property or any portion thereof shall be, for said term of Fifty-years, occupied by any person not of the Caucasian race, it being intended hereby to restrict the use of said property for said period of time against the occupancy as owners or tenants of any portion of said property for resident or other purpose by people of the Negro or Mongolian Race.'
 
-'* * * the said property is hereby restricted to the use and occupancy for the
-term of Fifty (50) years from this date, so that it shall be a condition all
-the time and whether recited and referred to as (sic) not in subsequent
-conveyances and shall attach to the land, as a condition precedent to the sale
-of the same, that hereafter no part of said property or any portion thereof
-shall be, for said term of Fifty-years, occupied by any person not of the
-Caucasian race, it being intended hereby to restrict the use of said property
-for said period of time against the occupancy as owners or tenants of any
-portion of said property for resident or other purpose by people of the Negro
-or Mongolian Race.'
-
-4
-
-The entire district described in the agreement included fifty-seven parcels of
-lamd. The thirty owners who signed the agreement held title to forty-seven
-parcels, including the particular parcel involved in this case. At the time
-the agreement was signed, five of the parcels in the district were owned by
-Negroes. One of those had been occupied by Negro families since 1882, nearly
-thirty years before the restrictive agreement was executed. The trial court
-found that owners of seven out of nine homes on the south side of Labadie
-Avenue, within the restrit ed district and 'in the immediate vicinity' of the
-premises in question, had failed to sign the restrictive agreement in 1911. At
-the time this action was brought, four of the premises were occupied by
-Negroes, and had been so occupied for periods ranging from twenty-three to
-sixty-three years. A fifth parcel had been occupied by Negroes until a year
-before this suit was instituted.
-
-5
 
 On August 11, 1945, pursuant to a contract of sale, petitioners Shelley, who
 are Negroes, for valuable consideration received from one Fitzgerald a
-warranty deed to the parcel in question.1 The trial court found that
+warranty deed to the parcel in question. The trial court found that
 petitioners had no actual knowledge of the restrictive agreement at the time
 of the purchase.
-
-6
 
 On October 9, 1945, respondents, as owners of other property subject to the
 terms of the restrictive covenant, brought suit in Circuit Court of the city
 of St. Louis prarying that petitioners Shelley be restrained from taking
 possession of the property and that judgment be entered divesting title out of
 petitioners Shelley and revesting title in the immediate grantor or in such
-other person as the court should direct. The trial court denied the requested
-relief on the ground that the restrictive agreement, upon which respondents
-based their action, had never become final and complete because it was the
-intention of the parties to that agreement that it was not to become effective
-until signed by all property owners in the district, and signatures of all the
-owners had never been obtained.
-
-7
-
-The Supreme Court of Missouri sitting en banc reversed and directed the trial
-court to grant the relief for which respondents had prayed. That court held
-the agreement effective and concluded that enforcement of its provisions
-violated no rights guaranteed to petitioners by the Federal Constitution.2 At
-the time the court rendered its decision, petitioners were occupying the
-property in question.
-
-8
-
-The second of the cases under consideration comes to this Court from the
-Supreme Court of Michigan. The circumstances presented do not differ
-materially from the Missouri case. In June, 1934, one Ferguson and his wife,
-who then owned the property located in the city of Detroit which is involved
-in this case, executed a contract providing in part:
-
-9
-
-'This property shall not be used or occupied by any person or persons except
-those of the Caucasian race.
-
-10
-
-'It is further agreed that this restriction shall not be effective unless at
-least eighty percent of the property fronting on both sides of the street in
-the block where our land is located is subjected to this or a similar
-restriction.'
-
-11
-
-The agreement provided that the restrictions were to remain in effect until
-January 1, 1960. The contract was subsequently recorded; and similar
-agreements were executed with respect to eighty percent of the lots in the
-block in which the property in question is situated.
-
-12
-
-By deed dated November 30, 1944, petitioners, who were found by the trial
-court to be Negroes, acquired title to the property and thereupon entered into
-its occupancy. On January 30, 1945, respondents, as owners of property subject
-to the terms of the restrictive agreement, brought suit against petitioners in
-the Circuit Court of Wayne County. After a hearing, the court entered a decree
-directing petitioners to move from the property within ninety days.
-Petitioners were further enjoined and restrained from using or occupying the
-premises in the future. On appeal, the Supreme Court of Michigan affirmed,
-deciding adversely to petitioners' contentions that they had been denied
-rights protected by the Fourteenth Amendment.3
-
-13
-
-Petitioners have placed primary reliance on their contentions, first raised in
-the state courts, that judicial enforcement of the restrictive agreements in
-these cases has violated rights guaranteed to petitioners by the Fourteenth
-Amendment of the Federal Constitution and Acts of Congress passed pursuant to
-that Amendment.4 Specifically, petitioners urge that they have been denied the
-equal protection of the laws, deprived of property without due process of law,
-and have been denied privileges and immunities of citizens of the United
-States. We pass to a consideration of those issues.
-
-I.
-
-14
-
-Whether the equal protection clause of the Fourteenth Amendment inhibits
-judicial enforcement by state courts of restrictive covenants based on race or
-color is a question which this Court has not heretofore been called upon to
-consider. Only two cases have been decided by this Court which in any way have
-involved the enforcement of such agreements. The first of these was the case
-of Corrigan v. Buckley, 1926, 271 U.S. 323, 46 S.Ct. 521, 70 L.Ed. 969. There,
-suit was brought in the courts of the District of Columbia to enjoin a
-threatened violation of certain restrictive covenants relating to lands
-situated in the city of Washington. Relief was granted, and the case was
-brought here on appeal. It is apparent that that case, which had originated in
-the federal courts and involved the enforcement of covenants on land located
-in the District of Columbia, could present no issues under the Fourteenth
-Amendment; for that Amendment by its terms applies only to the States. Nor was
-the question of the validity of court enforcement of the restrictive covenants
-under the Fifth Amendment properly before the Court, as the opinion of this
-Court specifically recognizes.5 The only constitutional issue which the
-appellants had raised in the lower courts, and hence the only constitutional
-issue before this Court on appeal, was the validity of the covenant agreements
-as such. This Court concluded that since the inhibitions of the constitutional
-provisions invoked, apply only to governmental action, as contrasted to action
-of private individuals, there was no showing that the covenants, which were
-simply agreements between private property owners, were invalid. Accordingly,
-the appeal was dismissed for want of a substantial question. Nothing in the
-opinion of this Court, therefore, may properly be regarded as an adjudication
-on the merits of the constitutional issues presented by these cases, which
-raise the question of the validity, not of the private agreements as such, but
-of the judicial enforcement of those agreements.
-
-15
-
-The second of the cases involving racial restrictive covenants was Hansberry
-v. Lee, 1940, 311 U.S. 32, 61 S.Ct. 115, 85 L.Ed. 22, 132 A.L.R. 741. In that
-case, petitioners, white property owners, were enjoined by the state courts
-from violating the terms of a restrictive agreement. The state Supreme Court
-had held petitioners bound by an earlier judicial determination, in litigation
-in which petitioners were not parties, upholding the validity of the
-restrictive agreement, although, in fact, the agreement had not been signed by
-the number of owners necessary to make it effective under state law. This
-Court reversed the judgment of the state Supreme Court upon the ground that
-petitioners had been denied due process f law in being held estopped to
-challenge the validity of the agreement on the theory, accepted by the state
-court, that the earlier litigation, in which petitioners did not participate,
-was in the nature of a class suit. In arriving at its result, this Court did
-not reach the issues presented by the cases now under consideration.
-
-16
+other person as the court should direct. 
 
 It is well, at the outset, to scrutinize the terms of the restrictive
-agreemens involved in these cases. In the Missouri case, the covenant declares
-that no part of the affected property shall be (355 Mo. 814, 198 S.W.2d 681)
-'occupied by any person not of the Caucasian race, it being intended hereby to
-restrict the use of said property * * * against the occupancy as owners or
+agreements involved in these cases. In the Missouri case, the covenant declares
+that no part of the affected property shall be 'occupied by any person not of the Caucasian race, it being intended hereby to restrict the use of said property * * * against the occupancy as owners or
 tenants of any portion of said property for resident or other purpose by
 people of the Negro or Mongolian Race.' Not only does the restricton seek to
 proscribe use and occupancy of the affected properties by members of the
