@@ -15,15 +15,13 @@ There are also a number of situations where we might think that state power is a
 
 Now you're probably thinking "wait a minute, the Constitution is only a few pages long, and the federal government does a huge amount of stuff. What gives, Gowder?  Where are those limited powers of yours?" Well, what gives is that there are two gigantic holes that Congress has been driving the legislative truck through for a long time: the Necessary and Proper Clause and the Commerce Clause.  
 
-The Commerce Clause is the subject of a subsequent handout.  I'll cover the Necessary and Proper Clause right now.
-
 ## Necessary and Proper
 
 Congress can enact legislation that is "necessary" and "proper" to carry out its enumerated powers. 
 
 ### What’s Necessary?
 
-Justice Marshall, in McCulloch, establishes the principle that “necessary” doesn’t mean “essential,” instead, it roughly means “useful.”
+Chief Justice Marshall, in McCulloch, establishes the principle that “necessary” doesn’t mean “essential,” instead, it roughly means “useful.”
 
 Moreover, separation of powers considerations suggest that Congress, not the Court, should be the judge of what is useful to carry out its enumerated powers. In Marshall’s words: 
 
@@ -37,7 +35,7 @@ Note how this presupposes that Congress is pursuing one of its enumerated powers
 
 The second part of the test is a constitutional idea that is often known as "rational basis"---we'll see *lots and lots and lots* of this idea in constitutional law. 
 
-Justice Breyer’s opinion in Comstock gives a somewhat more complicated formulation that seems more like a balancing test:
+Justice Breyer’s opinion in United States v. Comstock, 560 U.S. 126 (2010) (which we would read if we had more time) gives a somewhat more complicated formulation that seems more like a balancing test:
 
 1.  Rational relationship to implementation of a constitutionally enumerated power.
 
@@ -61,15 +59,13 @@ Lately, we’ve seen an attempt to make “proper” do some independent work, m
 
 That opinion suggested that the individual mandate wasn’t a “proper” way of carrying out Congress’s power over commerce because it’s not “narrow in scope,” but instead would be “a substantial expansion of federal authority” into an area traditionally left to the states. The key idea is that a law is not proper when it “undermine[s] the structure of government established by the Constitution,” by trampling too far on state policy territory. We’ll have to see if this goes anywhere in future cases.
 
-\newpage
-
-# Commerce Clause
+## Commerce Clause
 
 The very short version: Congress's power to regulate interstate commerce became, in the latter 2/3 of the 20th century, the foundation for a truly staggering amount of federal regulation. Far more of our economic life is under the authority of the federal government than the Framers (with the possible exception of Alexander Hamilton) could have ever imagined.  Moreover, the federal government has use the commerce clause to reach a substantial amount of what some people might call non-economic activity as well as purely intra-state activity too.
 
-In recent decades there have been substantial challenges to this broad power, some of which have been successful. Accordingly, it's all the more important to learn the history, because it might be that the Supreme Court will further roll back the commerce power. If it does so, lawyers involved in Commerce Clause litigation will need to understand the variety of possible positions on the extent of the power that have been taken in the past, so that they may advocate for their clients in selecting among them.
+In recent decades there have been substantial challenges to this broad power, some of which have been successful. Accordingly, useful to have some familiarity with the history, because it might be that the Supreme Court will further roll back the commerce power. For that reason, many constitutional law classes read a bunch of obsolete commerce clause cases, on the theory that lawyers involved in Commerce Clause litigation will need to understand the variety of possible positions on the extent of the power that have been taken in the past, so that they may advocate for their clients in selecting among them. For the sake of time, we're not doing that here, but I'll provide a brief summary below.
 
-## Historical Periods
+### Historical Periods
 
 There are several distinct periods of commerce clause doctrine: 
 
@@ -79,9 +75,9 @@ There are several distinct periods of commerce clause doctrine:
 
 3. The late 20th century and contemporary court, from *Lopez* onward, has been rolling back the earlier commerce clause expansion. In consequence, the doctrine is currently unsettled: it's unclear where the limits lie, or to what extent we might anticipate a return to some of the ideas from the earlier period. 
 
-## Key Questions
+### Key Questions
 
-Congress has power to regulate (1) "commerce" (2) "among the several states." Observe that there are at least two textual elements necessary in order to be a valid exercise of the commerce clause power.^[We'll see that Chief Justice Roberts's opinion in *NFIB v. Sebelius* suggests a third element as well: the Congressional enactment must be a *regulation*, where that means a rule governing existing commercial activity as opposed to commanding new commercial activity.]
+Congress has power to regulate (1) "commerce" (2) "among the several states." Observe that there are at least two textual elements necessary in order to be a valid exercise of the commerce clause power.^[Chief Justice Roberts's opinion in *NFIB v. Sebelius* suggests a third element as well: the Congressional enactment must be a *regulation*, where that means a rule governing existing commercial activity as opposed to commanding new commercial activity.]
 
 The cases focus on four key questions: 
 
@@ -111,13 +107,13 @@ The Court in *E.C. Knight* interpreted an antitrust law as not applying to manuf
 
 ### Interlude: The Substantial Effects Test 
 
-Ultimately, the first and second issues were resolved in the cases we'll read soon with the **substantial effects test**. *NLRB v. Jones* and *United States v. Darby* capture the development of this doctrine, with *Wickard v. Filburn* being its high point. If some activity has a substantial effect on interstate commerce, Congress can regulate it. **This is extremely important.**
+Ultimately, the first and second issues were resolved with the **substantial effects test**. *NLRB v. Jones* and *United States v. Darby* capture the development of this doctrine, with *Wickard v. Filburn* being its high point. If some activity has a substantial effect on interstate commerce, Congress can regulate it. 
 
 The substantial effects test is really a necessary and proper kind of idea: much like Congress's power over currency and such gives it the power to make a national bank in order to achieve its currency (etc.) policy, Congress's power over commerce gives it power over some intrastate/non-commercial activity in order to effectuate its commerce policy. Therefore, for example, Congress can reach activities that aren't clearly commerce or aren't clearly interstate if its regulation of interstate trade would be less effective without also regulating that activity.
 
-Another important element of the substantial effects test is that the effects can be **aggregate**. In *Wickard* and in *Heart of Atlanta*, it wasn't relevant that one farmer's wheat production or one hotel owner's racial discrimination wouldn't affect the overall market for wheat or hotels; because discrimination in public accommodations in general affected the ability of African-Americans to participate in interstate commerce, and because wheat-growing in general affected the stability of the system of price controls Congress was imposing, Congress could regulate individual activity in those areas.
+Another important element of the substantial effects test is that the effects can be **aggregate**. In *Wickard* and in *Heart of Atlanta* (which we will read, but later on in the course), it wasn't relevant that one farmer's wheat production or one hotel owner's racial discrimination wouldn't affect the overall market for wheat or hotels; because discrimination in public accommodations in general affected the ability of African-Americans to participate in interstate commerce, and because wheat-growing in general affected the stability of the system of price controls Congress was imposing, Congress could regulate individual activity in those areas.
 
-The substantial effects test was dominant through most of the 20th century, and is still good law today, although, as we'll see, in cases like *Lopez* and *Morrison*, the Court has reined it in somewhat. 
+The substantial effects test was dominant through most of the 20th century, and is still good law today, although, in cases like *Lopez* and *Morrison*, the Court has reined it in somewhat. 
 
 ### How Much Deference?
 
@@ -129,25 +125,25 @@ The mid-20th-century cases show a substantial amount of deference, that resemble
 
 Here's a not-really-a-hypo hypo: assuming that wages and hours aren't themselves regulable under the commerce clause (i.e., because employment is intrastate), can Congress regulate them by prohibiting the transport of goods in interstate commerce where those goods have been made under working conditions that violate the Congressional policy? 
 
-The early 20th century Court struggled to answer this question. Sometimes we saw the argument that Congress either has to have a commercial *motive*, as oppoed to something like a motive to carry out morals regulation (e.g., as the dissent argued in *Champion v. Ames*). Sometimes we saw the argument that the law had to have commercial or economic *effects* (*Hammer*). 
+The early 20th century Court struggled to answer this question. Sometimes we saw the argument that Congress either has to have a commercial *motive*, as opposed to something like a motive to carry out morals regulation (e.g., as the dissent argued in *Champion v. Ames*). Sometimes we saw the argument that the law had to have commercial or economic *effects* (*Hammer v. Dagenhart*). 
 
 However, the mid-20th-century cases abandoned these ideas. *Heart of Atlanta* is a good example, where it's clear that the point and effect of the regulation weren't to create more interstate travel but to promote racial equality. 
 
-Today, it's generally accepted that Congress may regulate noneconomic activity by prohibiting the use of interstate commerce to carry it out. For example, the Mann Act (enacted 1910) forbade the transport of women across state lines for immoral purposes.^[I think it was later amended to be slightly less blatantly sexist, and is now mostly used as an anti-prostitution/anti underage sex transport provision... but check with a criminal person to make sure that's right]. It's clearly within the commerce power. Because it's a regulation of the channels of interstate commerce, it doesn't matter that Congress was actually trying to outlaw kinds of sex it disapproves of. (Cf. *Hoke v. United States*, 227 U.S. 308 (1913).)
+Today, it's generally accepted that Congress may regulate noneconomic activity by prohibiting the use of interstate commerce to carry it out. For example, the Mann Act (enacted 1910) forbade the transport of women across state lines for immoral purposes.^[I think it was later amended to be slightly less blatantly sexist, and is now mostly used as an anti-prostitution/anti underage sex transport provision... but check with a criminal person to make sure that's right.] It's clearly within the commerce power. Because it's a regulation of the channels of interstate commerce, it doesn't matter that Congress was actually trying to outlaw kinds of sex it disapproves of. (Cf. *Hoke v. United States*, 227 U.S. 308 (1913).)
 
-## The Demand for a Limiting Principle
+### The Demand for a Limiting Principle
 
-In *Hammer* we also see an extremely important strategy of constitutional argument that comes up a lot in the commerce clause and necessary and proper cases: the demand for a limiting principle. Here's how this goes, step by step: 
+In *Lopez* and *NFIB* we also see an extremely important strategy of constitutional argument that comes up a lot in the commerce clause and necessary and proper cases (and which also appeared in some of the earlier obsolete cases, particularly *Hammer*): the demand for a limiting principle. Here's how this goes, step by step: 
 
 1. We know that the Federal government has limited powers. In particular, it does not have a general police power.
 
 2. Sometimes, the government claims a power under the commerce clause and/or the necessary and proper clause, to do something that looks pretty far from its enumerated powers. Examples: forbid child labor in manufacturing, civilly commit sex offenders, forbid guns in schools, require people to buy health insurance.
 
-3. When the government claims that power, it needs a *theory* of how the regulated activity affects commerce, or how the regulation is necessary and proper to effectuate its enumerated powers. For example, in *U.S. v. Lopez*, (part of) the government's theory could be summarized as follows: "gun violence in schools makes it harder for people to get an education, which creates a less educated workforce, which lowers national economic productivity, substantially affecting interstate commerce."
+3. When the government claims that power, it needs a *theory* of how the regulated activity affects commerce, or how the regulation is necessary and proper to effectuate its enumerated powers. For example, in *Lopez*, (part of) the government's theory could be summarized as follows: "gun violence in schools makes it harder for people to get an education, which creates a less educated workforce, which lowers national economic productivity, substantially affecting interstate commerce."
 
 4. The government's theory typically can be generalized and applied to other cases. For example, a general statement of that *Lopez* theory might be "Congress can regulate any behavior that might, in the aggregate, make the workforce less productive."
 
-5. Then the government is faced with a demand: **what principle limits that general theory?** The *Lopez* theory sounds like it might entitle the government to regulate anything: command people to get 8 hours of sleep a night, to go to the gym every day, to study math in school, etc. But we know, from (1), that the government doesn't have a general police power. Therefore, the government must be able to state a plausible **limiting principle** that yields concrete cases to which their theory from (4) would not extend. If it can do so, then it has shown that its theory doesn't "prove too much."^[For those of you with a philosophy or a rhetoric background, this is a style of argument analagous to the *modus tollens* or *reductio ad absurdum*.]
+5. Then the government is faced with a demand: what principle limits that general theory The *Lopez* theory sounds like it might entitle the government to regulate anything: command people to get 8 hours of sleep a night, to go to the gym every day, to study math in school, etc. But we know, from (1), that the government doesn't have a general police power. Therefore, the government must be able to state a plausible **limiting principle** that yields concrete cases to which their theory from (4) would not extend. If it can do so, then it has shown that its theory doesn't "prove too much."^[For those of you with a philosophy or a rhetoric background, this is a style of argument analagous to the *modus tollens* or *reductio ad absurdum*.]
 
 The demand for a limiting principle really comes home to roost in *Lopez*: if you [listen to the oral argument](https://www.oyez.org/cases/1994/93-1260) you'll hear the solicitor general^[*Solicitor general*: a high-ranking lawyer in the Justice Department who does the government's major oral arguments in the Supreme Court. Often the President puts someone in this position as the job before a Supreme Court nomination.] get slaughtered in oral argument by multiple justices repeatedly demanding he give them a limiting principle; he was unable to do so, and the majority opinion beats the government up like crazy for that. 
 
@@ -155,7 +151,7 @@ Justice Ginsburg is very careful, in her sorta-concurrence sorta-dissent in *NFI
 
 The demand for a limiting principle is still controversial: those in the liberal wing of the court typically argue that the commerce and necessary and proper powers should be interpreted with a rational basis test, and with the chief constraint being the democratic process, not some fixed Congressional no-go zone... but they've lost the last few cases. 
 
-## Where are we going?
+### Where are we going?
 
 In general, the *Lopez-Morrision-NFIB* rollback of commerce clause power and of the substantial effects test (which, to repeat, is still good law... it's just less clear how far it goes) seems to hinge on four ideas: 
 
@@ -165,11 +161,11 @@ In general, the *Lopez-Morrision-NFIB* rollback of commerce clause power and of 
 
 3. More caution about Congressional intrusion into areas like education, family life, and the control of violent crime that have been the traditional province of the states.
 
-4. More caution about Congressional regulation of activities that do not seem conceptually "economic." This is particularly important in *Morrison*, where we see the suggestion that intrastate activity that Congress regulates under the commerce power must be "economic in nature," and the assertion that the substantial effects test does not apply to non-economic violent crimes.
+4. More caution about Congressional regulation of activities that do not seem conceptually "economic." This is particularly important in *Morrison*, where we see the suggestion that intrastate activity that Congress regulates under the commerce power must be "economic in nature," and the assertion that the substantial effects test does not apply to non-economic violent crimes.^[We're not reading Morrison.  But: United States v. Morrison, 529 US 598 (2000), invalidating a federal cause of action for gender-based violence on essentially the same argument as *Lopez*.]
 
-Let's also remember that the extent of the rollback is highly uncertain. *Gonzalez v. Raich*, for example, looks like a resurgence of the old mid-20th-century commerce clause doctrine in 2005. As I've been emphasizing, this doctrine is in flux, and it's hard to predict where the law will go in the coming years---particularly with the death of Justice Scalia. 
+Let's also remember that the extent of the rollback is highly uncertain. *Gonzalez v. Raich*, for example, looks like a resurgence of the old mid-20th-century commerce clause doctrine in 2005. As I've been emphasizing, this doctrine is in flux, and it's hard to predict where the law will go in the coming years. 
 
-## Summary of "black-letter principles"
+### Summary of "black-letter principles"
 
 If you're confronting a commerce clause question on the multistate bar exam, where you're expected to give some kind of mechanical answer, here's what you'd rely on: 
 
@@ -177,7 +173,7 @@ If you're confronting a commerce clause question on the multistate bar exam, whe
 
 2. Congress clearly has the power to regulate the "channels and instrumentalities" of interstate commerce.
 
-3. Congress has the power to regulate intrastate economic activity if that activity, taken in the aggregate, has a "substantial effect" on interstate commerce. However, it is no longer clear that Congress has the power to regulate intrastate noneconomic activity on the same grounds (Lopez, Morrison).
+3. Congress has the power to regulate intrastate economic activity if that activity, taken in the aggregate, has a "substantial effect" on interstate commerce. However, it is no longer clear that Congress has the power to regulate intrastate noneconomic activity on the same grounds (*Lopez*, *Morrison*).
 
 4. Congress may use its power over the "channels and instrumentalities of interstate commerce" to get at intrastate and/or noneconomic activity that it doesn't like, by prohibiting, e.g., the use of interstate commerce to transport the products of forbidden goods.
 
@@ -185,8 +181,9 @@ If you're confronting a commerce clause question on the multistate bar exam, whe
 
 6. Congress does not have the power to compel participation in interstate commerce (*NFIB*).
 
-Later, we'll see that there's also a "dormant commerce clause," which is about restricting state regulation in the area.
+## The Dormant Commerce Clause (what?)
 
+There's also a "dormant commerce clause," which is about restricting state regulation in the area. We're not really covering it in this course, because there's really not time, but you should know that it limits the extent to which states can discriminate against interstate commerce.  See a hornbook for more. 
 
 \newpage
 
@@ -207,11 +204,9 @@ Knowing, as we do from Lopez, that Congress can't forbid guns in school zones, s
 
 The point of the anti-commandeering principle is simple: the federal government can't order about state and local governments in order to do its work.
 
-This, **does not imply** that state and local governments are immune from regulation. Since Garcia v. San Antonio MTA, it's been well-established that Congress can impose ordinary laws on state and local governments, like minimum wages. 
+This, **does not imply** that state and local governments are immune from regulation. It's settled law that Congress can impose ordinary laws on the activities of state and local governments on similar terms as it does private persons, for requiring states to pay their employees the federal minimum wage.^[*Garcia v. San Antonio Transit Authority*, 469 US 528 (1985).]
 
-What it can't do, however, is order the states to carry out governmental functions. For example, it can't command local police officers to enforce federal law, or command state legislatures to legislate.
-
-Reno v. Condon, is about the distinction between these two kinds of regulation. This can be conceptually problematic, but doesn't pose a lot of real-world problems in day-to-day practice.
+What it can't do, however, is order the states to carry out governmental functions. For example, it can't command local police officers to enforce federal law, or command state legislatures to legislate.^[Reno v. Condon, 528 U.S. 141 (2000), addresses the distinction between these two kinds of regulation. This can be conceptually problematic, but doesn't pose a lot of real-world problems in day-to-day practice.]
 
 ## Anti-Commandeering and Sanctuary Cities
 
@@ -226,9 +221,9 @@ One key statute is 8 U.S.C. §1373, which reads, in relevant part, as follows:
 > Notwithstanding any other provision of Federal, State, or local law, no person or agency may prohibit, or in any way restrict, a Federal, State, or local government entity from doing any of the following with respect to information regarding the immigration status, lawful or unlawful, of any individual:
 > (1) Sending such information to, or requesting or receiving such information from, the Immigration and Naturalization Service.
 > (2) Maintaining such information.
-> (3) Exchanging such information with any other Federal, State, or local government entity.
+> (3) Exchanging such information with any other Federal, State, or local government entity.^[Note: the language about the "Immigration and Naturalization Service" is a bit obsolete since the agencies were shuffled around in 2003, but it means ICE today.]
 
-Consider the constitutionality of this law. May the federal government forbid a state from forbidding its officials from cooperating with the INS (ICE)? The statute purports to say to, for example, the state of California "you may not prohibit your police departments from keeping information about people's immigration statuses.  Is that consistent with *Printz v. United States*?
+Consider the constitutionality of this law. May the federal government forbid a state from forbidding its officials from cooperating with the ICE? The statute purports to say to, for example, the state of California "you may not prohibit your police departments from keeping information about people's immigration statuses.  Is that consistent with *Printz v. United States*?
 
 ## Questions on the Tenth Amendment:
 
@@ -255,13 +250,6 @@ Did the law in New York v. United States actually order the states to regulate? 
 ### Prinz v. United States
 
 Ask yourself: can state courts refuse to apply federal law? Is that different from the question in this case?  Why?
-
-### Reno v. Condon
-
-How is this case distinguished from *New York* and *Prinz*?
-
-Footnote: the federal government can also impose (nondiscriminatory, proportionate) taxes on the states. See *Massachusetts v. United States*, 435 U.S. 444 (1978) (federal government may apply aircraft registration tax to state aircraft).
-
 
 \newpage
 
@@ -294,7 +282,7 @@ What this immediately suggests is that Congress can---and, you'll be totally uns
 
 The immediate question the spending clause raises, given that many of these grants are given to state and local governments, is whether they can be used to coerce local officials to carry out federal law in ways that would otherwise be forbidden by the anti-commandeering principle.  
 
-This, of course, is another politically fraught question, as one strategy that the current President has been planning against sanctuary cities is to take away their federal funding---in order to give them a strong incentive to cooperate with federal law enforcement. Here is a relevant excerpt from an executive order of January 25, 2017:
+This, of course, is another politically fraught question, as one strategy that Donald Trump was considering against sanctuary cities was to take away their federal funding---in order to give them a strong incentive to cooperate with federal law enforcement. Here is a relevant excerpt from an executive order of January 25, 2017:
 
 > In furtherance of this policy, the Attorney General and the Secretary [of Homeland Security], in their discretion and to the extent consistent with law, shall ensure that jurisdictions that willfully refuse to comply with 8 U.S.C. 1373 (sanctuary jurisdictions) are not eligible to receive Federal grants, except as deemed necessary for law enforcement purposes by the Attorney General or the Secretary.  The Secretary has the authority to designate, in his discretion and to the extent consistent with law, a jurisdiction as a sanctuary jurisdiction.  The Attorney General shall take appropriate enforcement action against any entity that violates 8 U.S.C. 1373, or which has in effect a statute, policy, or practice that prevents or hinders the enforcement of Federal law.
 
@@ -359,4 +347,6 @@ With respect to the individual mandate, three theories were raised in defense of
 3.  The penalty that you pay if you don't get insurance is really just a tax. (If you're interested, it might benefit you to google "pigouvian tax.")
 
 With respect to the medicaid expansion, the defense was straight-up spending clause, the claim of the challengers was that it was sufficiently coercive to amount to unconstitutional commandeering.
+
+\newpage
 
