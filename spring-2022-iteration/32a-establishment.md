@@ -1,6 +1,6 @@
 # The Establishment Clause
 
-Ok, onto the Establishment clause. Here, the doctrine is a lot less clear. We know, of course, that the government can't establish an official church. But how much favoritism to religion can it show otherwise? Can we have "under God" in the pledge of allegiance? Can we give student loan money to religious schools? Can we have prayers before legislative sessions (and does it depend on who is allowed to give the prayer)? Can there be Christmas decorations on city hall?
+We know, of course, that the government can't establish an official church. But how much favoritism to religion can it show otherwise? Can we have "under God" in the pledge of allegiance? Can we give student loan money to religious schools? Can we have prayers before legislative sessions (and does it depend on who is allowed to give the prayer)? Can there be Christmas decorations on city hall?
 
 ## The Lemon test
 
@@ -34,7 +34,7 @@ So what does this geometry of crooked lines and wavering shapes actually work ou
 
 - But school vouchers, even when they direct funds to religious schools, are ok. *Zelman v. Simmons-Harris*, 536 US 639 (2002). From Rehnquist's majority opinion:
 
-> where a government aid program is neutral with respect to religion, and provides assistance directly to a broad class of citizens who, in turn, direct government aid to religious schools wholly as a result of their own genuine and independent private choice, the program is not readily subject to challenge under the Establishment Clause. A program that shares these features permits government aid to reach religious institutions only by way of the deliberate choices of numerous individual recipients. The incidental advancement of a religious mission, or the perceived endorsement of a religious message, is reasonably attributable to the individual recipient, not to the government, whose role ends with the disbursement of benefits
+> Where a government aid program is neutral with respect to religion, and provides assistance directly to a broad class of citizens who, in turn, direct government aid to religious schools wholly as a result of their own genuine and independent private choice, the program is not readily subject to challenge under the Establishment Clause. A program that shares these features permits government aid to reach religious institutions only by way of the deliberate choices of numerous individual recipients. The incidental advancement of a religious mission, or the perceived endorsement of a religious message, is reasonably attributable to the individual recipient, not to the government, whose role ends with the disbursement of benefits.
 
 - There's also a question of the extent to which government can fund religious groups on the same terms as nonreligious groups. *Rosenberger v. University of Virginia*, 515 U.S. 819 (1995), said that it can, and that failing to do so would actually be an impermissible content-based restriction on speech! (How is that reconcilable with *Rust v. Sullivan*, you might ask? Good question. Ask a justice.)
 
@@ -42,11 +42,10 @@ So what does this geometry of crooked lines and wavering shapes actually work ou
 
 - Legislative prayer: ok, mainly because it's an old tradition. *Marsh v. Chambers*, 463 U.S. 783 (1983)
 
-- Finally, public-provided religious monuments on public property. Ten commandments in the courthouse, nativity scene in city hall. That's the subject of one of our cases in this area, *McCreary County v. ACLU*. We'll focus on the application of the Lemon Test here to try to make sense of it.
 
 ## Theoretical foundations
 
-Generally, we might describe at least four broad ideas, all of which are constantly battling, and none of which has won (although the last has clearly lost, despite Scalia's urge for it to win):
+Generally, we might describe at least four broad ideas, all of which are constantly battling, and none of which has won:
 
 "Wall of separation": Jefferson.
 
@@ -56,6 +55,6 @@ Neutrality2: can promote religion generally, so long as it is noncoercive/doesn'
 
 Can't establish an official church. Can do whatever else. Something like the Scalia view.
 
-The theoretical ideas running underneath those views are also contested. Some say the point is to protect religion from state corruption. Some say the point is to protect the state from religious corruption. And some say the point is to permit a healthy diversity of religions. Me? I dunno. So that's really what I've got on that. Highly indeterminate doctrine, lots of mess.
+The theoretical ideas running underneath those views are also contested. Some say the point is to protect religion from state corruption. Some say the point is to protect the state from religious corruption. And some say the point is to permit a healthy diversity of religions. If anything, I probably agree with a Justice-O'Connor-esque view according to which the point of the establishment clause is expressive, i.e., that the notion is to not suggest that people are unwelcome as part of the U.S. political community because of their faith. But the doctrine is messy, and no one theory will really account for it. 
 
 \newpage
