@@ -18,9 +18,9 @@ There's also one weird glitch in the doctrine according to which facially conten
 
 ## Public Forums
 
-We often say those rules apply to the "public forum," but the "public forum" basically means "anything except government property, plus some kinds of government property." So obviously these rules apply to speech in one's own home as well as out on the sidewalk. But in addition, they also apply in areas, like the sidewalk, that are considered part of the "traditional public forum"---the town square, the steps of City Hall, places where people typically showed up to rant about stuff. 
+We often say those rules apply to the "public forum," but the "public forum" basically means "only some kinds of government property." So obviously the full protections of the speech clause applies to speech in one's own home as well as out on the sidewalk. But in addition, they also apply in areas, like the sidewalk, that are considered part of the "traditional public forum"---the town square, the steps of City Hall, places where people typically showed up to rant about stuff. 
 
-This is contrasted with kinds of government space that are not public forums. There are also "limited public forums" where the government has opened up the space for a particular category of speaker or subject (e.g., the inside of a university classroom), and there are totally non-public forums (e.g., the inside of a military base). The rules are more permissive in these categories. The doctrine here is a total mess, though, particularly on limited public forums---partly because it's hard to tell the difference between government speech (about which more below) and a limited public forum. The short version is that the government is sometimes allowed to discriminate on the basis of speakers or subjects in limited public forums. In my classroom, I can silence people who aren't students, and I can tell you to talk about constitutional law and related subjects rather than the latest episode of Game of Thrones or something, without violating the First Amendment. And in non-public forums the government can do what it wants, broadly speaking.
+This is contrasted with kinds of government space that are not public forums. There are also "limited public forums" where the government has opened up the space for a particular category of speaker or subject (e.g., the inside of a university classroom), and there are totally non-public forums (e.g., the inside of a military base). The rules are more permissive in these categories. The doctrine here is a total mess, though, particularly on limited public forums---partly because it's hard to tell the difference between government speech (about which more below) and a limited public forum. The short version is that the government is sometimes allowed to discriminate on the basis of speakers or subjects in limited public forums. Before I came to Northwestern, I was at the University of Iowa---a public university---and I felt totally free to silence people who weren't students, and to tell the people who were students to talk about constitutional law and related subjects rather than the latest episode of the netflix series du jour or something, without worrying about violating the First Amendment. And in non-public forums the government can do what it wants, broadly speaking.
 
 ## Time, Place, Manner
 
@@ -62,17 +62,17 @@ The Court has also rejected attempts to extend the obscenity idea to violent vid
 
 #### Incitement of Illegal Conduct: unprotected
 
-"Hey, guys, let's go burn down that house!" 
+"Hey, guys, let's go burn down that house!  I've got a can of gas right here!" 
 
 The test here is called the Brandenburg Test. Also three parts, also all must be met:
 
-1.  Harm must be imminent. No "let's burn down that house next month!"
+1.  Harm must be imminent. No "let's burn down that house next month, depending on the price of gasoline!"
 
 2.  It must be likely to produce the illegal action. You can't just be some person randomly yelling nonsense, like you stand up in class and say "ok, everybody riot now!" Nobody's going to riot just because you say so.
 
 3.  Finally, the speaker must intend to cause the illegal action.
 
-Be careful to distinguish incitement from sort of general criminal speech. Some kinds of speech are banned under the notion that they're not really speech, they're really conduct, because they're not really being done for their expressive purposes. For example, extortion happens through talking, but it's not really speech. Nobody's going to raise a First Amendment defense to the blackmail charges.
+Be careful to distinguish incitement from sort of general criminal speech. Some kinds of speech are banned under the notion that they're not really speech, they're really conduct, because they're not really being done for their expressive purposes. For example, extortion happens through talking, but it's not really about speech. Nobody's going to raise a First Amendment defense to the blackmail charges.^[Don't think about this too hard, unless you reall want to.  I confess that I'm sometimes tempted by the idea that there could be an argument for counting conventional blackmail of the form "I'll tell your spouse you're cheating on them unless you give me a pile of money" as First Amendment speech. But probably don't try that in court.]
 
 #### Fighting words: unprotected
 
@@ -102,9 +102,9 @@ This is a doctrine that started with public officials, the idea being that we sh
 
 Other kinds of false speech are a little confusing. In U.S. v. Alvarez, Justice Kennedy for a plurality (Kennedy for a plurality! We're doomed.) affirmed a lower court striking down the "stolen valor act," which prohibited falsely claiming military decorations. Kennedy applied the usual strict scrutiny standard for content-based regulations, and claimed that there was no special constitutional rule permitting regulation of false speech. So there you go.
 
-#### Government employee speech (me!): less protected than usual
+#### Government employee speech: less protected than usual
 
-Can the state of Iowa fire me for my speech in the classroom? Yes: if it's on the job and within the scope of job duties, there's no First Amendment protection, *at all*. It's basically government speech then, and the government is entitled to control its own speech. 
+If it's on the job and within the scope of job duties, there's no First Amendment protection, *at all* for government employee speech. It's basically government speech then, and the government is entitled to control its own speech. 
 
 Even off the job, the Court applies a balancing test, employee's interest in free speech vs. government's interest in not having the job functions undermined. And this is kind of obvious, right? The President can obviously fire the Secretary of State for secretly writing nazi propaganda or something, because, goodbye credibility of the administration. 
 
@@ -118,7 +118,7 @@ Speech about pending cases can be regulated if it poses a substantial risk of pr
 
 #### "Core political speech": extra-protected?  Maybe? Sorta?
 
-You'll often hear talk about "core political speech." The idea there is that the First Amendment, if it means anything, means "protect free debate in democracy," so the courts should be extra-vigilant against restrictions of political speech. That being said, it's not clear that this is a real doctrinal category: political speech gets strict scrutiny for content-based regulations just like everything else does.
+You'll often hear talk about "core political speech." The idea there is that the First Amendment, if it means anything, means "protect free debate in democracy," so the courts should be extra-vigilant against restrictions of political speech. That being said, it's not clear that this is a real doctrinal category: political speech gets strict scrutiny for content-based regulations just like everything else does. It's not like there's a kind of extra-super-mondo-mega-strict scrutiny for the political stuff. 
 
 #### Political Campaign Expenditures: Protected. 
 
@@ -156,7 +156,12 @@ in fact there are a huge number of ways to evade contribution limits, and essent
 
 ### Kinds of regulation
 
-On to the "what kind of regulation" question. A few categories here too. First, government speech and government funding. We'll actually cover that in the first case of this module, Rust v. Sullivan, so I'll hold that discussion until we cover the case. When reading the case, look out for how the Court distinguishes between government funding and viewpoint discriminatory regulations; that's the part I want to focus on in class.
+On to the "what kind of regulation" question. A few categories here too. 
+
+
+#### Government speech (and money) 
+
+Typically, the government gets to control its own speech, and can say, e.g., "when you're taking this money, you can't use it to make a case for the opposite of the policy that we're trying to subsidize. (Though there are some limits.) The leading case here is Rust v. Sullivan, 500 U.S. 173 (1991), which upheld a restriction on federally funded family planning clinics prohibiting them (basically when they were working on the federal dime) from suggesting that their patients get abortions. 
 
 #### Compelled speech
 
@@ -183,7 +188,7 @@ To understand it, you first have to understand the difference between facial and
 
 Overbreadth doctrine, then, is actually best understood as a special First Amendment exception to standing doctrine! Normally, someone who brings an as-applied constitutional challenge to a law has to show that it actually is unconstitutional as applied to his or her situation, but a First Amendment plaintiff can show that even though his or her speech is unprotected, the law prohibits so much protected speech that it should go out anyway. R.A.V v. St. Paul, discussed earlier, could have gone off on an overbreadth challenge; the challengers actually asserted one (the idea being that cross-burning, not protected speech, but the hate speech law covered a whole lot of protected speech), but the Court did them one better and struck the law down under a facial challenge.
 
-Ok, that's a pretty comprehensive overview of First Amendment speech law. There's a lot of it, and there's a good amount of stuff that I've left off, but this hits the basics, enough for you to be able to find your way around the territory, understand what's going on in your bar review course, and so forth. I've included a couple of brief exercises below, just to stretch your brain, but don't feel obliged to worry about them unless you want. 
+Ok, that's a pretty comprehensive overview of First Amendment speech law. There's a lot of it, and there's a good amount of stuff that I've left off, but this hits the basics, enough for you to be able to find your way around the territory, understand what's going on in your bar review course, and so forth. I've included a couple of brief exercises below (2/3 of which are blatantly swiped from real cases), just to stretch your brain, but don't feel obliged to worry about them unless you want. 
 
 \newpage
 
