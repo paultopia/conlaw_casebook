@@ -1,4 +1,6 @@
-# Marbury v. Madison, 5 U.S. 137 (1803)
+# Marbury v. Madison
+
+5 U.S. 137 (1803)
 
 
 At the last term on the affidavits then read and filed with the clerk, a rule was granted in this case, requiring the secretary of state to show cause why a mandamus should not issue, directing him to deliver to William Marbury his commission as a justice of the peace for the county of Washington, in the district of Columbia.

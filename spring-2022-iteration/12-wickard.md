@@ -1,4 +1,6 @@
-Wickard v. Filburn, 317 U.S. 111 (1942)
+Wickard v. Filburn
+
+317 U.S. 111 (1942)
 
 **Mr. Justice JACKSON delivered the opinion of the Court.**
 

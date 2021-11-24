@@ -1,6 +1,8 @@
 [CLEANUP NOTES: STRIP LEADING WHITESPACE FROM EVERY PARAGRAPH UGH]
 
-# Zivotofsky v. Kerry, 576 U.S. 1  (2015)
+# Zivotofsky v. Kerry
+
+576 U.S. 1  (2015)
 
     
     

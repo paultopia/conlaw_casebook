@@ -1,4 +1,6 @@
-# U.S. v. Lopez, 514 U.S. 549 (1995)
+# U.S. v. Lopez
+
+514 U.S. 549 (1995)
 
 **Chief Justice REHNQUIST delivered the opinion of the Court.**
 

@@ -1,4 +1,6 @@
-# Luther v. Borden, 48 U.S. 1 (1849)
+# Luther v. Borden
+
+48 U.S. 1 (1849)
 
 Martin Luther, a citizen of the State of Massachusetts, brought an action of
 trespass against the defendants, citizens of the State

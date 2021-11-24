@@ -1,7 +1,9 @@
 [TODO: strip leading whitespace]
 
 
-# National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)
+# National Federation of Independent Business v. Sebelius
+
+567 U.S. 519 (2012)
 
     
        ROBERTS, C. J., announced the judgment of the Court and delivered

@@ -1,4 +1,6 @@
-# South Dakota v. Dole, 483 U.S. 203 (1987)
+# South Dakota v. Dole
+
+483 U.S. 203 (1987)
 
 **Chief Justice REHNQUIST delivered the opinion of the Court.**
 

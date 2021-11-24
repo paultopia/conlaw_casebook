@@ -1,4 +1,6 @@
-# Massachusetts v. EPA, 549 U.S. 497 (2007)
+# Massachusetts v. EPA
+
+549 U.S. 497 (2007)
 
 **Justice STEVENS delivered the opinion of the Court.**
 

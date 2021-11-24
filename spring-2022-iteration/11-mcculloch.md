@@ -1,4 +1,6 @@
-# McCulloch v. Maryland, 17 U.S. 316 (1819)
+# McCulloch v. Maryland
+
+17 U.S. 316 (1819)
 
 [From the reporter's summary]
 

@@ -1,4 +1,6 @@
-# New York v. U.S., 505 U.S. 144 (1992)
+# New York v. U.S.
+
+505 U.S. 144 (1992)
 
 **Justice O'CONNOR delivered the opinion of the Court.**
 

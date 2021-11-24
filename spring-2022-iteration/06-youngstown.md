@@ -1,4 +1,6 @@
-# Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579 (1952)
+# Youngstown Sheet & Tube Co. v. Sawyer
+
+343 U.S. 579 (1952)
 
 **Mr. Justice BLACK delivered the opinion of the Court.**
 

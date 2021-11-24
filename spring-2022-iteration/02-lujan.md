@@ -1,4 +1,6 @@
-# Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992)
+# Lujan v. Defenders of Wildlife
+
+504 U.S. 555 (1992)
 
 
 **Justice SCALIA delivered the opinion of the Court.**

@@ -1,4 +1,6 @@
-# Free Enterprise Fund v. Public Company Accounting Oversight Board, 561 U.S. 477 (2010)
+# Free Enterprise Fund v. Public Company Accounting Oversight Board
+
+561 U.S. 477 (2010)
 
 **Chief Justice Roberts delivered the opinion of the Court.**
 

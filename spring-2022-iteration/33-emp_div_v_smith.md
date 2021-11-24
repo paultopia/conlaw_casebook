@@ -552,3 +552,4 @@ claims of Native Americans, however unorthodox they may be. Otherwise, both
 the First Amendment and the stated policy of Congress will offer to Native
 Americans merely an unfulfilled and hollow promise.
 
+\newpage

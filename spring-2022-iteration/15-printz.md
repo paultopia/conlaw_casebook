@@ -1,4 +1,6 @@
-# Printz v. Unied States, 521 U.S. 898 (1997)
+# Printz v. Unied States
+
+521 U.S. 898 (1997)
 
 **Justice SCALIA delivered the opinion of the Court.**
 

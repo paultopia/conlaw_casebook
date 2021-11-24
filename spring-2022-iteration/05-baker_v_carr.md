@@ -1,4 +1,6 @@
-# Baker v. Carr, 369 U.S. 186 (1962)
+# Baker v. Carr
+
+369 U.S. 186 (1962)
 
 **Mr. Justice BRENNAN delivered the opinion of the Court.**
 

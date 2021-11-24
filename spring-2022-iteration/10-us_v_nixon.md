@@ -1,4 +1,6 @@
-# United States v. Nixon, 418 U.S. 683 (1974)
+# United States v. Nixon
+
+418 U.S. 683 (1974)
 
 
 **Mr. Chief Justice BURGER delivered the opinion of the Court.**

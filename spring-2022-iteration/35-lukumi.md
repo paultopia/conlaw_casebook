@@ -1,5 +1,9 @@
-Justice Kennedy
-delivered the opinion of the Court, except as to Part II-A-2.
+# Church of the Lukumi Babalu Aye, Inc. v. Hialeah
+
+508 U.S. 520 (1993)
+
+**Justice Kennedy delivered the opinion of the Court, except as to Part II-A-2.**
+
 The principle that government may not enact laws that suppress religious belief or practice is so well understood that few violations are recorded in our opinions. Cf. McDaniel v. Paty, 435 U. S. 618 (1978); Fowler v. Rhode Island, 345 U. S. 67 (1953). Concerned that this fundamental nonperseeution principle of the First Amendment was implicated here, however, we granted certiorari. 503 U. S. 935 (1992).
 Our review confirms that the laws in question were enacted by officials who did not understand, failed to perceive, or chose to ignore the fact that their official actions violated the Nation’s essential commitment to religious freedom. The challenged laws had an impermissible object; and in all events the principle of general applicability was violated because the secular ends asserted in defense of the laws were pursued only with respect to conduct motivated by religious beliefs. We invalidate the challenged enactments and reverse the judgment of the Court of Appeals.
 I
