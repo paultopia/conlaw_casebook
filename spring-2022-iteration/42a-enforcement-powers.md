@@ -23,3 +23,5 @@ Ultimately, what we get out of the caselaw is something in between:
 - Congress cannot expand the scope of constitutional rights against the state, by forbidding things the Supreme Court has said is ok under the 14th amendment. 
 
 - Congress can implement what we might call "remedial" rules, that is, rules that don't directly prohibit what the constitution already prohibits, but do help effectuate that prohibition. (Think of the exclusionary rule in the criminal procedure context.)
+
+\newpage
