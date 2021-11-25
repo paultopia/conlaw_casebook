@@ -6,7 +6,7 @@ Eleventh Amendment and Sovereign Immunity doctrine are kind of messy. Here's the
 
 The idea of "sovereign immunity" is that a government may not be sued without its consent. 
 
-The text of the Eleventh Amendment only strips federal courts of jurisdiction over suits against states by "foreigners" (i.e., suits from citizens of other states, or other countries). As a citizen of Iowa, if I brought suit against Illinois, I wouldn't be entitled to bring it in federal court.^[Some, including on the liberal wing of the current Court, have argued that this merely bars *diversity* jurisdiction, not federal question jurisdiction as well. But the current doctrine, to the extent it's clear, is that the Eleventh Amendment bars both federal question and subject matter jurisdiction. There are also issues about the extent to which the *federal* government has sovereign immunity, but this handout will only discuss the states.]
+The text of the Eleventh Amendment only strips federal courts of jurisdiction over suits against states by "foreigners" (i.e., suits from citizens of other states, or other countries). As a citizen of Illinois, if I brought suit against Indiana, I wouldn't be entitled to bring it in federal court.^[Some, including on the liberal wing of the current Court, have argued that this merely bars *diversity* jurisdiction, not federal question jurisdiction as well. But the current doctrine, to the extent it's clear, is that the Eleventh Amendment bars both federal question and subject matter jurisdiction. There are also issues about the extent to which the *federal* government has sovereign immunity, but this handout will only discuss the states.]
 
 But the Supreme Court has nonetheless created a much broader sovereign immunity doctrine with no obvious textual foundation.
 
@@ -38,7 +38,7 @@ There's a lot of sovereign immunity doctrine, to which we're not going to devote
 
 3. They're also immune to suits in equity (i.e., injunctive relief).
 
-4. Congress cannot (with some exceptions relating to Congress's power to enforce the Fourteenth Amendment, which we'll discuss later in the course) authorize suits against states without their consent.
+4. Congress cannot (with exceptions relating to Congress's power to enforce the Fourteenth Amendment) authorize suits against states without their consent.
 
 5. They are *not* immune from suits brought by other states (with the exception for when they're just bringing private claims on behalf of their own citizens) or the federal government. 
 
@@ -52,7 +52,7 @@ There's a lot of sovereign immunity doctrine, to which we're not going to devote
 
 The doctrine of sovereign immunity is not as harsh as it seems for two reasons. 
 
-First, as noted above, states often consent to suit (because, democracy). Most states have something like a tort claims act consenting to a broad array of suits, often with procedural requirements like prior notice to the state to give them an opportunity to settle.^[See e.g. Iowa Tort Claims Act, Iowa Code sec. 669 <https://www.legis.iowa.gov/law/iowaCode/sections?codeChapter=669&year=2016> (consenting to personal injury and property damage tort suits in state court under various conditions)]
+First, as noted above, states often consent to suit (because, democracy). Most states have something like a tort claims act consenting to a broad array of suits, often with procedural requirements like prior notice to the state to give them an opportunity to settle.
 
 Second, and more importantly, the Court has interpreted the doctrine of sovereign immunity in a very formalist sense: only when the state is actually named, or its treasury is directly at risk, does sovereign immunity apply. This means that a plaintiff can often sue a state official for injunctive relief which effectively works against the state.  
 
@@ -79,7 +79,7 @@ If you actually have ambitions to practice in this area, you must spend some foc
 
 The Supreme Court has concluded that Congress has such a big and overwhelming power over interstate commerce that the states themselves totally lack the power to impede it, even in the absence of federal action.  
 
-What does this mean?  Well, take an obvious kind of case. Suppose the state of Iowa decides to pass a law requiring its businesses to use raw materials from Iowa if they're the same price or cheaper than out-of-state materials.  You have some livestock in Iowa. You better buy Iowa corn, not Illinois corn, if it's available for the same price, or you go straight to the pokey.
+What does this mean?  Well, take an obvious kind of case. Suppose the state of Illinois decides to pass a law requiring its businesses to use raw materials from Illinois if they're the same price or cheaper than out-of-state materials.  You have some livestock in Illinois. You better buy Illinois corn, not Iowa corn, if it's available for the same price, or you go straight to the pokey.
 
 By now, you should have a strong intuition that there's gotta be something wrong with that picture.  After all, a big part of the point of the commerce clause and of Article I---indeed, a big part of the point of the Constitution in general, as opposed to the Articles of Confederation---was to create a unified national economy. And that obviously wouldn't work if states could start trade wars with one another. 
 
@@ -105,13 +105,13 @@ There are basically three kinds of discrimination:
 
 3. Discrimination with a protectionist effect.
 
-The easiest case is where a state flat-out makes a law treating interstate commerce differently. Examples: *Philadelphia v. NJ*, you can't import garbage from out of state, *Granholm*, different rules for in-state and out-of-state alcohol, and so forth.  This is called "facial discrimination."  The word "facial" here doesn't refer to a beauty product. Rather, it means "on the face of the law," that is, written right into the text.
+The easiest case is where a state flat-out makes a law treating interstate commerce differently. Big example: *Philadelphia v. NJ*, you can't import garbage from out of state.  This is called "facial discrimination."  The word "facial" here doesn't refer to a beauty product. Rather, it means "on the face of the law," that is, written right into the text. (Just like in Equal Protection.)
 
 For example, here's a facially discriminatory tax: "No grocery stores may sell fruits in Hawaii unless those fruits were grown in Hawaii."
 
 By contrast, here's a tax that is clearly discriminatory, but isn't *facially* discriminatory against interstate commerce: "No grocery stores may sell fruits other than pineapples in Hawaii."  That doesn't explicitly, that is, "facially," discriminate against non-Hawaiian produce, but it still discriminates because *who else grows pineapples in the U.S., huh?*
 
-The cases contain reveal a few subtle issues, however. First, it isn't just regulations like "nobody from out of state shall bring their dirty trash in to dump in a landfill in New Jersey" that count. Discriminatory taxes count as well.^[Also, it doesn't just have to be a law, like on the statute books. Discriminatory application of non-discriminatory laws can count too, like if a licensing authority just *by an amazing coincidence* exercises its discretion to grant licenses to in-staters but not out-of-staters.] Subsidies out of general revenue *do not* count (Iowa can pay the pig farmers---out of general tax revenue), but they cannot be structured as discriminatory tax exemptions or taxes on an industry that are earmarked to be rebates to local producers. For example, Iowa can subsidize corn farmers out of the taxes we all pay, but it can't impose a tax on corn and then give a rebate to the Iowa farmers.
+The cases contain reveal a few subtle issues, however. First, it isn't just regulations like "nobody from out of state shall bring their dirty trash in to dump in a landfill in New Jersey" that count. Discriminatory taxes count as well.^[Also, it doesn't just have to be a law, like on the statute books. Discriminatory application of non-discriminatory laws can count too, like if a licensing authority just *by an amazing coincidence* exercises its discretion to grant licenses to in-staters but not out-of-staters.] Subsidies out of general revenue *do not* count, but they cannot be structured as discriminatory tax exemptions or taxes on an industry that are earmarked to be rebates to local producers. For example, Illinois can subsidize corn farmers out of the taxes we all pay, but it can't impose a tax on corn and then give a rebate to the Illinois farmers.
 
 When we get into protectionist purpose and effect, the easiest way to think about it is in terms of two key issues^[Note: this isn't really formal "doctrine," as such, but I do think these are helpful rules of thumb.]: 
 
@@ -125,13 +125,13 @@ In the dormant commerce clause case, this mostly means that very few cases of ac
 
 ### What's the market participant exception?
 
-Sometimes states act like ordinary economic actors---owning factories, buying and selling products, hiring construction workers, etc. The market participant exception allows states to discriminate in favor of their own residents. If Iowa owns a car repair shop, for example, it can give free oil changes to Iowans but not to Illinoisans (Illinoisese? Illinoisoids?). It can even refuse to sell oil changes to Illinoisites altogether. 
+Sometimes states act like ordinary economic actors---owning factories, buying and selling products, hiring construction workers, etc. The market participant exception allows states to discriminate in favor of their own residents. If Illinois owns a car repair shop, for example, it can give free oil changes to Illinoisans but not to Wisconsinites It can even refuse to sell oil changes to Wisconsinites altogether. 
 
-However, *South Central Timber Development v. Wunnicke* stands for the proposition that the state can't go too far.  But we're not reading that case, I cut it out of the readings, and you're not responsible for it or the details of the doctrine on the exam.  It just gets too far into the weeds to be worth teaching, and tends to confuse more than it enlightens. 
+However, there's a very difficult-to-understand case called *South Central Timber Development v. Wunnicke* that stands for the proposition that the state can't go too far. But the details are messy.
 
 ### Tell me more about burdening interstate commerce.
 
-Sometimes a state imposes a regulation that doesn't treat people from in-state and out-of-state differently at all, but that still makes it harder to conduct interstate commerce. The clearest example is one of the note cases, *Bibb v. Navajo Freight Lines*, where the Court struck down an Illinois law requiring curved mudguards. The issue here wasn't that Illinois trucks tended to have curved mudguards while out-of-state trucks tended to have straight mudguards or anything like that---there was no reason to think the law favored local interests at all. Rather, the problem was that all the other states allowed straight mudguards and one state required them, so any truck passing through Illinois ---wherever it came from --- would have to change its mudguards at the state line. 
+Sometimes a state imposes a regulation that doesn't treat people from in-state and out-of-state differently at all, but that still makes it harder to conduct interstate commerce. One example is *Bibb v. Navajo Freight Lines*, where the Court struck down an Illinois law requiring curved mudguards. The issue here wasn't that Illinois trucks tended to have curved mudguards while out-of-state trucks tended to have straight mudguards or anything like that---there was no reason to think the law favored local interests at all. Rather, the problem was that all the other states allowed straight mudguards and one state required them, so any truck passing through Illinois ---wherever it came from --- would have to change its mudguards at the state line. 
 
 What happens next is a balancing test. And in balancing tests, courts have a lot of discretion, so there's not a lot that I can say to help you resolve these cases. In Bibb, there was substantial skepticism about the idea that it had any benefit for the state at all (it was alleged to be a safety benefit), and it was massively inconvenient for trucks to carry two sets of mudflaps, so it was struck down.
 
@@ -189,7 +189,7 @@ That would be a fair question, and really, the only answer I can give you is "th
 
 The doctrine of preemption is a product of the Supremacy Clause: if Acts of Congress enacted pursuant to its constitutional authority are the supreme law of the land, then any other law has to give way. The constitutional term of art for "give way" is "preemption."
 
-Here's a basic example. Suppose Congress passes a law saying that all cars have to be painted in neon, glow in the dark, colors so they're easier to see at night.  And suppose the state of Iowa has a light pollution law forbidding glow in the dark paint on vehicles operated within the state.^[Let us assume away any dormant commerce clause objections to Iowa's law.]  You're picking out the paint color for your car. What do you do?  
+Here's a basic example. Suppose Congress passes a law saying that all cars have to be painted in neon, glow in the dark, colors so they're easier to see at night.  And suppose the state of Illinois has a light pollution law forbidding glow in the dark paint on vehicles operated within the state.^[Let us assume away any dormant commerce clause objections to that law.]  You're picking out the paint color for your car. What do you do?  
 
 The answer is simple: you follow the federal law and paint your car with the neon glow sparkle bling. Federal and state law conflict, the federal law is within Congress's power^[assume that's true here because blah blah blah channels and instrumentalities of interstate commerce, road safety, hand-wave hand-wave] so the federal law preempts the state law.
 
@@ -205,7 +205,7 @@ Put together, you have four possible categories of preemption: express field pre
 
 Accordingly, when you see references to "express preemption," we're talking about "express field preemption."  And when you see references to "conflict preemption" and "field preemption" we're talking about "implied conflict preemption" and "implied field preemption."
 
-Hereafter, I'll use the terms as given in the casebook and cases.  With no further ado, some details:
+Hereafter, I'll use the terms as given in most sources cases.  With no further ado, some details:
 
 **Express preemption** is the easy kind: sometimes Congress says "everything states do in this area is preempted." 
 
@@ -215,21 +215,21 @@ Here's an example: do you want to know why airlines can lie to you about everyth
 
 However, even express preemption requires statutory interpretation. Taking this example: what is "related to a price, route, or service of an air carrier?"  Does it just cover price controls and direct route regulation, or does it place airlines above the (state) law altogether by preempting things like state contract and tort law? 
 
-I'm very sad to report that the answer in the case of the Airline Deregulation Act is the latter.  In *Northwest Inc. v. Ginsberg*, the Supreme Court held that the Airline Deregulation Act doesn't preempt the rules of contract that the parties may bargain into, but it does preempt state law rules that are imposed on all contracts, like the implied duty of good faith and fair dealing, and basically all of state consumer protection law.^[Grouchy airline victim editorial: That's right: thanks to Congress, *an airline is not obligated to act in good faith when it makes a contract with you*.] Incidentally, this was a 9-0 opinion. However, not all cases of express preemption are this broad. It all depends on legislative intent.^[This is a good opportunity to think about the policy consequences of preemption. While there's good reason to have a national air travel market regulated by one central authority, it's also hard to deny that it's much easier for the airlines to lobby/corrupt Congress and the FAA than it would be to do the same in all 50 states, and harder for shafted consumers to influence those central agencies than it is to influence state legislators and regulators. In that way, preemption comes with a real democratic cost.]
+I'm very sad to report that the answer in the case of the Airline Deregulation Act is the latter.  In *Northwest v. Ginsberg*, the Supreme Court held that the Airline Deregulation Act doesn't preempt the rules of contract that the parties may bargain into, but it does preempt state law rules that are imposed on all contracts, like the implied duty of good faith and fair dealing, and basically all of state consumer protection law.^[Grouchy airline victim editorial: That's right: thanks to Congress, *an airline is not obligated to act in good faith when it makes a contract with you*.] Incidentally, this was a 9-0 opinion. However, not all cases of express preemption are this broad. It all depends on legislative intent.^[This is a good opportunity to think about the policy consequences of preemption. While there's good reason to have a national air travel market regulated by one central authority, it's also hard to deny that it's much easier for the airlines to lobby/corrupt Congress and the FAA than it would be to do the same in all 50 states, and harder for shafted consumers to influence those central agencies than it is to influence state legislators and regulators. In that way, preemption comes with a real democratic cost.]
 
 **Field Preemption** is where Congress impliedly preempts an entire field of regulation. Typically this is by regulating it all itself (or by handing over responsibility for that area to an administrative agency, in which case Congress's preemptive power will pass through to agency rules issued under its authority---about which, see basically all of administrative law). A court will be more likely to find field preemption in a traditional area of federal concern. Again, remember that this is *implied*: if Congress says "we preempt the whole field," then we have a case of express preemption like the Airline Deregulation act.   
 
 There's not a whole lot to say about field preemption, except that, like in express preemption, the the court will look at Congress's intent. We say that if Congress intended to "fully occupy the field," then state law is preempted. And this is so *even if the state law is fully consistent with the federal law and the purposes behind it.*  That's the difference between field preemption and conflict preemption: with field preemption (and express preemption) the state can't legislate *even if everything the state does is totally compatible with what the feds did*.
 
-The PG&E case in this week's reading is a nice illustration of how there can be disagreement about the extent of the field that Congress intended to occupy, even when all agree that there was a field it did so intend to occupy. In that case, the Court held that Congress intended to occupy the field of safety regulations of nuclear plants, but not of economic regulations of the same.^[*See also, Silkwood v. Kerr-McGee Corp.*, 464 U.S. 238 (1984), which followed the case in the readings and further held that Congress's occupying the field of safety regulations did not peeempt state tort claims based on nuclear injuries---in particular focusing on the fact that Congress established a program to indemnify some nuclear plant operators against private tort suits---thus, on the Court's argument, evidencing Congress's belief that such suits could still be brought even after its legislation.]
+Pacific Gas & Electric Co. v. State Energy Resources Conservation & Development Commission, 461 U.S. 190 (1983) is a nice illustration of how there can be disagreement about the extent of the field that Congress intended to occupy, even when all agree that there was a field it did so intend to occupy. In that case, the Court held that Congress intended to occupy the field of safety regulations of nuclear plants, but not of economic regulations of the same.^[*See also, Silkwood v. Kerr-McGee Corp.*, 464 U.S. 238 (1984), which further held that Congress's occupying the field of safety regulations did not peeempt state tort claims based on nuclear injuries---in particular focusing on the fact that Congress established a program to indemnify some nuclear plant operators against private tort suits---thus, on the Court's argument, evidencing Congress's belief that such suits could still be brought even after its legislation.]
 
 Sometimes the court will also look at things like the extent of the federal interest in the area and the extent to which allowing states to particpate in regulation will undermine the federal scheme.  We can think of those either as independent doctrinal ideas or as guidelines that might lead a court to think that Congress intended preemption (that is, as interpretive principles); it doesn't really matter for the ultimate result.^[One good example of these ideas is *Pennsylvania v. Nelson*, 350 U.S. 497 (1956).]
 
-**Conflict Preemption** comes in two flavors (sub-types). The first is what we might call *impossibility preemption*: it's impossible to obey the federal law and the state law. Congress requires trucks to only have curved mudflaps, Iowa requires trucks to only have straight mudflaps. Nobody can obey both laws, so the Supremacy Clause eats the state law.
+**Conflict Preemption** comes in two flavors (sub-types). The first is what we might call *impossibility preemption*: it's impossible to obey the federal law and the state law. Congress requires trucks to only have curved mudflaps, Illinois requires trucks to only have straight mudflaps. Nobody can obey both laws, so the Supremacy Clause eats the state law.
 
 The second is what we might call *purposes preemption* (sometimes also called "objectives preemption" or "obstruction preemption" or lots of other things): the state law impedes the purposes/objectives of the federal program. An example is in the PG&E case, where the challenger claimed that California's law conflicted with the federal purpose, embodied in Congress's atomic energy legislation, of promoting nuclear power. 
 
-As you saw in that case, the Court disagreed, largely because it had a different view of the federal purposes than the challenger did. It interpreted Congress's having particularly carved out space for states to enact economic regulations as an indication that the Congressional purpose was not to promote nuclear power *no matter what*, but to promote nuclear power compatible with economic viability judgments made by states. California's making an economic viability judgment, therefore, did not conflict with that Congressional objective.
+The Court disagreed, largely because it had a different view of the federal purposes than the challenger did. It interpreted Congress's having particularly carved out space for states to enact economic regulations as an indication that the Congressional purpose was not to promote nuclear power *no matter what*, but to promote nuclear power compatible with economic viability judgments made by states. California's making an economic viability judgment, therefore, did not conflict with that Congressional objective.
 
 As you should be able to tell by now, all the action here is in... 
 
@@ -350,7 +350,7 @@ By contrast, here's all the court said about the process to be provided to the f
 
 However, the court also made clear that the reason so little process was provided pre-termination was because the employee was also provided with a full hearing after the fact, that is, he could get his job restored ex post. This question of pre-termination vs post-termination process is often the key issue in procedural due process cases.
 
-In Matthews v. Eldridgee, 424 U.S. 319 (1976)  (you need to know this case) the Court laid out a three-part balancing test that has been applied ever since. In application, it's honestly pretty ad hoc---it doesn't actually give courts lots of guidance (and as a result, in actual practice, you will have to look for cases similar to yours). But you still have to give lip service to it, and it tracks a kind of intuitive notion of fair process.
+In Matthews v. Eldridge, 424 U.S. 319 (1976) the Court laid out a three-part balancing test that has been applied ever since. In application, it's honestly pretty ad hoc---it doesn't actually give courts lots of guidance (and as a result, in actual practice, you will have to look for cases similar to yours). But you still have to give lip service to it, and it tracks a kind of intuitive notion of fair process.
 
 The three parts are:
 
@@ -392,7 +392,7 @@ That is the core message of the most famous footnote in all of constitutional la
 
 So if judicial scrutiny is directed at protecting the democratic process, then Carolene Products identifies at least two obvious grounds for invoking that scrutiny. First, "legislation which restricts those political processes which can ordinarily be expected to bring about repeal of undesirable legislation," like infringements on voting rights and free speech, and second, " prejudice against discrete and insular minorities ... which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities"
 
-	But if we interpret procedural due process as essentially the command that the legislature make generally applicable laws, rather than target particular people, then that leads us right into the Equal Protection Clause. One way to think about all of Equal Protection Clause doctrine is that it fills out the idea of general law:the government is required to have particular reasons before it treats people differently.^[For further discussion in a more academic vein, see my article, "Equal Law in an Unequal World," 99 Iowa L. Rev. 1021 (2014), and also pp. 81-86 of *The Rule of Law in the United States: An Unfinished Project of Black Liberation*.] But this one applies not just to the legislature, but to the executive too, forbidding, for example, racial discrimination in policing. 
+But if we interpret procedural due process as essentially the command that the legislature make generally applicable laws, rather than target particular people, then that leads us right into the Equal Protection Clause. One way to think about all of Equal Protection Clause doctrine is that it fills out the idea of general law:the government is required to have particular reasons before it treats people differently.^[For further discussion in a more academic vein, see my article, "Equal Law in an Unequal World," 99 Iowa L. Rev. 1021 (2014), and also pp. 81-86 of *The Rule of Law in the United States: An Unfinished Project of Black Liberation*.] But this one applies not just to the legislature, but to the executive too, forbidding, for example, racial discrimination in policing. 
 	
 To understand this on a doctrinal level, let's think about two legal routes a plaintiff might use to attack government action that treats her differently. 
 
@@ -439,7 +439,6 @@ UNSURE? Here are some rules of thumb:
 
 - Would additional process make the government decision more accurate?
 
-\newpage
 
 
 \newpage
