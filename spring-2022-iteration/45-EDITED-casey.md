@@ -546,7 +546,7 @@ Roe's mandate for abortion on demand destroyed the compromises of the past, rend
 
 > [T]o overrule under fire would subvert the Court's legitimacy . ". To all those who will be tested by follow-ing, the Court implicitly undertakes to remain steadfast . The promise of constancy, once given, binds its maker for as long as the power to stand by the decision survives and the commitment [is not] obsolete.
 
-> [The American people's] belief in themselves as a people [who aspire to live according to the rule of law] is not readily separable from their under- standing of the Court invested with the authority to decide their constitutional cases and speak before all others for their constitutional ideals. If the Court's legitimacy should be undermined, then, so would the country be in its very ability to see itself through its constitutional ideals."
+> [The American people's] belief in themselves as a people [who aspire to live according to the rule of law] is not readily separable from their understanding of the Court invested with the authority to decide their constitutional cases and speak before all others for their constitutional ideals. If the Court's legitimacy should be undermined, then, so would the country be in its very ability to see itself through its constitutional ideals."
 
 The Imperial Judiciary lives. It is instructive to compare this Nietzschean vision of us unelected, life-tenured judges-- leading a Volk who will be "tested by following," and whose very "belief in themselves" is mystically bound up in their "understanding" of a Court that "speak[s] before all others for their constitutional ideals"--with the somewhat more modest role envisioned for these lawyers by the Founders.
 
