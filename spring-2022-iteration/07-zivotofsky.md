@@ -110,5 +110,7 @@ A decade later, President Jackson faced a recognition  crisis over Texas. In 183
 
  It is true, as Zivotofsky notes, that Congress has substantial authority over passports. The Court does not question  the power of Congress to enact passport legislation of wide  scope. In Kent v. Dulles, for example, the Court held that  if a person's " 'liberty' " to travel "is to be regulated"  through a passport, "it must be pursuant to the lawmaking functions of the Congress." Later  cases, such as Zemel v. Rusk and Haig v. Agee, also proceeded on the assumption that Congress must authorize  the grounds on which passports may be approved or denied. This is consistent with the extensive lawmaking power the  Constitution vests in Congress over the Nation's foreign  affairs.  The problem with §214(d), however, lies in how Congress exercised its authority over passports. It was an  improper act for Congress to "aggrandiz[e] its power at the  expense of another branch" by requiring the President to  contradict an earlier recognition determination in an  official document issued by the Executive Branch. To allow  Congress to control the President's communication in the  context of a formal recognition determination is to allow  Congress to exercise that exclusive power itself. As a  result, the statute is unconstitutional.
 
- \newpage
+ \newpage
+
+
 
