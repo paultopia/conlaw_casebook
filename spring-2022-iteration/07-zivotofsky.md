@@ -2,516 +2,113 @@
 
 # Zivotofsky v. Kerry
 
-576 U.S. 1  (2015)
+576 U.S. 1 (2015)
 
-    
-    
+
+
 **JUSTICE KENNEDY delivered the opinion of the Court.**
 
 
-       A delicate subject lies in the background of this case.
-    That subject is Jerusalem. Questions touching upon the
-    history of the ancient city and its present legal and inter-
-    national status are among the most difficult and complex
-    in international affairs. In our constitutional system these
-    matters are committed to the Legislature and the Execu-
-    tive, not the Judiciary. As a result, in this opinion the
-    Court does no more, and must do no more, than note the
-    existence of international debate and tensions respecting
-    Jerusalem. Those matters are for Congress and the Presi-
-    dent to discuss and consider as they seek to shape the
-    Nation’s foreign policies.
-    
-       The Court addresses two questions to resolve the inter-
-    branch dispute now before it. First, it must determine
-    whether the President has the exclusive power to grant
-    formal recognition to a foreign sovereign. Second, if he
-    has that power, the Court must determine whether Con-
-    gress can command the President and his Secretary of State to issue a formal statement that contradicts the
-    earlier recognition. The statement in question here is a
-    congressional mandate that allows a United States citizen
-    born in Jerusalem to direct the President and Secretary of
-    State, when issuing his passport, to state that his place of
-    birth is “Israel.”
+ A delicate subject lies in the background of this case.  That subject is Jerusalem. Questions touching upon the  history of the ancient city and its present legal and inter-  national status are among the most difficult and complex  in international affairs. In our constitutional system these  matters are committed to the Legislature and the Execu-  tive, not the Judiciary. As a result, in this opinion the  Court does no more, and must do no more, than note the  existence of international debate and tensions respecting  Jerusalem. Those matters are for Congress and the Presi-  dent to discuss and consider as they seek to shape the  Nation's foreign policies.
 
-    
-       Jerusalem’s political standing has long been, and re-
-    mains, one of the most sensitive issues in American for-
-    eign policy, and indeed it is one of the most delicate issues
-    in current international affairs. In 1948, President Tru-
-    man formally recognized Israel in a signed statement of
-    “recognition.” See Statement by the President Announc-
-    ing Recognition of the State of Israel, Public Papers of the
-    Presidents, May 14, 1948, p. 258 (1964). That statement
-    did not recognize Israeli sovereignty over Jerusalem. Over
-    the last 60 years, various actors have sought to assert full
-    or partial sovereignty over the city, including Israel, Jor-
-    dan, and the Palestinians. Yet, in contrast to a consistent
-    policy of formal recognition of Israel, neither President
-    Truman nor any later United States President has issued
-    an official statement or declaration acknowledging any
-    country’s sovereignty over Jerusalem. Instead, the Execu-
-    tive Branch has maintained that “ ‘the status of Jerusalem
-    . . . should be decided not unilaterally but in consultation
-    with all concerned.’ ”  In a letter to Congress then-Secretary of State Warren Christopher expressed the
-    Executive’s concern that “[t]here is no issue related to the
-    Arab-Israeli negotiations that is more sensitive than
-    Jerusalem.” He fur-
-    ther noted the Executive’s opinion that “any effort . . . to
-    bring it to the forefront” could be “very damaging to the
-    success of the peace process.” 
-    
-    The President’s position on Jerusalem is reflected in
-    State Department policy regarding passports and consular
-    reports of birth abroad. Understanding that passports
-    will be construed as reflections of American policy, the
-    State Department’s Foreign Affairs Manual instructs its
-    employees, in general, to record the place of birth on a
-    passport as the “country [having] present sovereignty over
-    the actual area of birth.”  If a citizen objects to the
-    country listed as sovereign by the State Department, he or
-    she may list the city or town of birth rather than the
-    country.  The FAM, however, does not
-    allow citizens to list a sovereign that conflicts with Execu-
-    tive Branch policy. Because the
-    United States does not recognize any country as having
-    sovereignty over Jerusalem, the FAM instructs employees
-    to record the place of birth for citizens born there as “Jeru-
-    salem.” 
+ The Court addresses two questions to resolve the inter-  branch dispute now before it. First, it must determine  whether the President has the exclusive power to grant  formal recognition to a foreign sovereign. Second, if he  has that power, the Court must determine whether Con-  gress can command the President and his Secretary of State to issue a formal statement that contradicts the  earlier recognition. The statement in question here is a  congressional mandate that allows a United States citizen  born in Jerusalem to direct the President and Secretary of  State, when issuing his passport, to state that his place of  birth is "Israel."
 
-       In 2002, Congress passed the Act at issue here, the
-    Foreign Relations Authorization Act, Fiscal Year 2003,
-    116 Stat. 1350. Section 214 of the Act is titled “United
-    States Policy with Respect to Jerusalem as the Capital of
-    Israel.” 
 
-    The subsection that lies at the heart
-    of this case, §214(d), addresses passports. That subsection
-    seeks to override the FAM by allowing citizens born in
-    Jerusalem to list their place of birth as “Israel.” Titled
-    “Record of Place of Birth as Israel for Passport Purposes,”
-    §214(d) states “[f]or purposes of the registration of birth, certification of nationality, or issuance of a passport of a
-    United States citizen born in the city of Jerusalem, the
-    Secretary shall, upon the request of the citizen or the
-    citizen’s legal guardian, record the place of birth as Israel.”
-    
+ Jerusalem's political standing has long been, and re-  mains, one of the most sensitive issues in American for-  eign policy, and indeed it is one of the most delicate issues  in current international affairs. In 1948, President Tru-  man formally recognized Israel in a signed statement of  "recognition." See Statement by the President Announc-  ing Recognition of the State of Israel, Public Papers of the  Presidents, May 14, 1948, p. 258 (1964). That statement  did not recognize Israeli sovereignty over Jerusalem. Over  the last 60 years, various actors have sought to assert full  or partial sovereignty over the city, including Israel, Jor-  dan, and the Palestinians. Yet, in contrast to a consistent  policy of formal recognition of Israel, neither President  Truman nor any later United States President has issued  an official statement or declaration acknowledging any  country's sovereignty over Jerusalem. Instead, the Execu-  tive Branch has maintained that " 'the status of Jerusalem  . . . should be decided not unilaterally but in consultation  with all concerned.' " In a letter to Congress then-Secretary of State Warren Christopher expressed the  Executive's concern that "[t]here is no issue related to the  Arab-Israeli negotiations that is more sensitive than  Jerusalem." He fur-  ther noted the Executive's opinion that "any effort . . . to  bring it to the forefront" could be "very damaging to the  success of the peace process."
 
-       Pursuant to §214(d), Zivotofsky claims the right to have
-    “Israel” recorded as his place of birth in his passport.  After Zivotofsky brought suit, the District Court dis-
-    missed his case, reasoning that it presented a nonjusticia-
-    ble political question and that Zivotofsky lacked standing. The Court of Appeals for the District of Co-
-    lumbia Circuit reversed on the standing issue, but
-    later affirmed the District Court’s political question determination.  This Court granted certiorari, vacated the judgment,
-    and remanded the case. Whether §214(d) is constitutional,
-    the Court held, is not a question reserved for the politi-
-    cal branches. In reference to Zivotofsky’s claim the Court
-    observed “the Judiciary must decide if Zivotofsky’s inter-
-    pretation of the statute is correct, and whether the statute
-    is constitutional”—not whether Jerusalem is, in fact, part
-    of Israel. 
+ The President's position on Jerusalem is reflected in  State Department policy regarding passports and consular  reports of birth abroad. Understanding that passports  will be construed as reflections of American policy, the  State Department's Foreign Affairs Manual instructs its  employees, in general, to record the place of birth on a  passport as the "country [having] present sovereignty over  the actual area of birth." If a citizen objects to the  country listed as sovereign by the State Department, he or  she may list the city or town of birth rather than the  country. The FAM, however, does not  allow citizens to list a sovereign that conflicts with Execu-  tive Branch policy. Because the  United States does not recognize any country as having  sovereignty over Jerusalem, the FAM instructs employees  to record the place of birth for citizens born there as "Jeru-  salem."
 
-       On remand the Court of Appeals held the statute uncon-
-    stitutional. It determined that “the President exclusively
-    holds the power to determine whether to recognize a for-
-    eign sovereign,”and that “section 214(d)
-    directly contradicts a carefully considered exercise of the
-    Executive branch’s recognition power.” 
-    
-       This Court again granted certiorari. 
-       
-       In considering claims of Presidential power this Court
-    refers to Justice Jackson’s familiar tripartite framework
-    from Youngstown Sheet & Tube Co. v. Sawyer,  (concurring opinion). The framework
-    divides exercises of Presidential power into three catego-
-    ries: First, when “the President acts pursuant to an ex-
-    press or implied authorization of Congress, his authority
-    is at its maximum, for it includes all that he possesses in
-    his own right plus all that Congress can delegate.” 
-    
-    
-    Second, “in absence of either a congressional grant or
-    denial of authority” there is a “zone of twilight in which he
-    and Congress may have concurrent authority,” and where
-    “congressional inertia, indifference or quiescence may”
-    invite the exercise of executive power. 
+ In 2002, Congress passed the Act at issue here, the  Foreign Relations Authorization Act, Fiscal Year 2003,  116 Stat. 1350. Section 214 of the Act is titled "United  States Policy with Respect to Jerusalem as the Capital of  Israel."
 
-    
-    Finally, when “the President takes measures incompatible with
-    the expressed or implied will of Congress . . . he can rely only upon his own constitutional powers minus any consti-
-    tutional powers of Congress over the matter.” 
+ The subsection that lies at the heart  of this case, §214(d), addresses passports. That subsection  seeks to override the FAM by allowing citizens born in  Jerusalem to list their place of birth as "Israel." Titled  "Record of Place of Birth as Israel for Passport Purposes,"  §214(d) states "[f]or purposes of the registration of birth, certification of nationality, or issuance of a passport of a  United States citizen born in the city of Jerusalem, the  Secretary shall, upon the request of the citizen or the  citizen's legal guardian, record the place of birth as Israel."
 
-To succeed in this third category, the President’s asserted
-    power must be both “exclusive” and “conclusive” on the
-    issue. 
 
-    
-       In this case the Secretary contends that §214(d) in-
-    fringes on the President’s exclusive recognition power by
-    “requiring the President to contradict his recognition posi-
-    tion regarding Jerusalem in official communications with
-    foreign sovereigns.” In so doing
-    the Secretary acknowledges the President’s power is “at
-    its lowest ebb.” 
+ Pursuant to §214(d), Zivotofsky claims the right to have  "Israel" recorded as his place of birth in his passport. After Zivotofsky brought suit, the District Court dis-  missed his case, reasoning that it presented a nonjusticia-  ble political question and that Zivotofsky lacked standing. The Court of Appeals for the District of Co-  lumbia Circuit reversed on the standing issue, but  later affirmed the District Court's political question determination. This Court granted certiorari, vacated the judgment,  and remanded the case. Whether §214(d) is constitutional,  the Court held, is not a question reserved for the politi-  cal branches. In reference to Zivotofsky's claim the Court  observed "the Judiciary must decide if Zivotofsky's inter-  pretation of the statute is correct, and whether the statute  is constitutional"—not whether Jerusalem is, in fact, part  of Israel.
 
-Because the President’s refusal to implement §214(d) falls into
-    Justice Jackson’s third category, his claim must be “scru-
-    tinized with caution,” and he may rely solely on powers
-    the Constitution grants to him alone. 
+ On remand the Court of Appeals held the statute uncon-  stitutional. It determined that "the President exclusively  holds the power to determine whether to recognize a for-  eign sovereign,"and that "section 214(d)  directly contradicts a carefully considered exercise of the  Executive branch's recognition power."
 
-    
-       To determine whether the President possesses the
-    exclusive power of recognition the Court examines the
-    Constitution’s text and structure, as well as precedent and
-    history bearing on the question.
+ This Court again granted certiorari.
 
-       Recognition is a “formal acknowledgement” that a par-
-    ticular “entity possesses the qualifications for statehood”
-    or “that a particular regime is the effective government of
-    a state.”  It may
-    also involve the determination of a state’s territorial
-    bounds.  Recognition is often effected by an express “writ-
-    ten or oral declaration.”  It may also be implied—
-    for example, by concluding a bilateral treaty or by sending or receiving diplomatic agents. 
+ In considering claims of Presidential power this Court  refers to Justice Jackson's familiar tripartite framework  from Youngstown Sheet & Tube Co. v. Sawyer, (concurring opinion). The framework  divides exercises of Presidential power into three catego-  ries: First, when "the President acts pursuant to an ex-  press or implied authorization of Congress, his authority  is at its maximum, for it includes all that he possesses in  his own right plus all that Congress can delegate."
 
-      Legal consequences follow formal recognition. Recognized sovereigns may sue in United States courts, and may benefit from sovereign immunity when
-    they are sued. The actions of a
-    recognized sovereign committed within its own territory
-    also receive deference in domestic courts under the act of
-    state doctrine.  Recognition at international
-    law, furthermore, is a precondition of regular diplomatic
-    relations. Recognition is thus “useful,
-    even necessary,” to the existence of a state. 
 
-Despite the importance of the recognition power in
-    foreign relations, the Constitution does not use the term
-    “recognition,” either in Article II or elsewhere. The Secre-
-    tary asserts that the President exercises the recognition
-    power based on the Reception Clause, which directs that
-    the President “shall receive Ambassadors and other public
-    Ministers.” Art. II, §3. As Zivotofsky notes, the Reception
-    Clause received little attention at the Constitutional
-    Convention.  In fact, during the
-    ratification debates, Alexander Hamilton claimed that the
-    power to receive ambassadors was “more a matter of
-    dignity than of authority,” a ministerial duty largely
-    “without consequence.” 
+ Second, "in absence of either a congressional grant or  denial of authority" there is a "zone of twilight in which he  and Congress may have concurrent authority," and where  "congressional inertia, indifference or quiescence may"  invite the exercise of executive power.
 
-      At the time of the founding, however, prominent inter-
-    national scholars suggested that receiving an ambassador
-    was tantamount to recognizing the sovereignty of the
-    sending state. See E. de Vattel, The Law of Nations §78  (“[E]very state, truly
-    possessed of sovereignty, has a right to send ambassadors”
-    and “to contest their right in this instance” is equivalent to
-    “contesting their sovereign dignity”). It is a
-    logical and proper inference, then, that a Clause directing
-    the President alone to receive ambassadors would be
-    understood to acknowledge his power to recognize other
-    nations.
-    
-       This in fact occurred early in the Nation’s history when
-    President Washington recognized the French Revolutionary Government by receiving its ambassador. See A.
-    Hamilton, Pacificus No. 1, in The Letters of Pacificus and
-    Helvidius 5, 13–14 (1845) (President
-    “acknowledged the republic of France, by the reception of
-    its minister”). After this incident the import of the Recep-
-    tion Clause became clear—causing Hamilton to change his
-    earlier view. He wrote that the Reception Clause “in-
-    cludes th[e power] of judging, in the case of a revolution of
-    government in a foreign country, whether the new rulers
-    are competent organs of the national will, and ought to be
-    recognised, or not.”  As a result,
-    the Reception Clause provides support, although not the
-    sole authority, for the President’s power to recognize other
-    nations.
-    
-       The inference that the President exercises the recognition power is further supported by his additional Article II
-    powers. It is for the President, “by and with the Advice
-    and Consent of the Senate,” to “make Treaties, provided
-    two thirds of the Senators present concur.” In addition, “he shall nominate, and by and with the
-    Advice and Consent of the Senate, shall appoint Ambassa-
-    dors” as well as “other public Ministers and Consuls.”
-    
-As a matter of constitutional structure, these additional
-    powers give the President control over recognition deci-
-    sions. At international law, recognition may be effected by
-    different means, but each means is dependent upon Presi-
-    dential power. In addition to receiving an ambassador,
-    recognition may occur on “the conclusion of a bilateral
-    treaty,” or the “formal initiation of diplomatic relations,”
-    including the dispatch of an ambassador.  The President has the sole power
-    to negotiate treaties, and the Senate
-    may not conclude or ratify a treaty without Presidential
-    action. The President, too, nominates the Nation’s ambas-
-    sadors and dispatches other diplomatic agents. Congress
-    may not send an ambassador without his involvement.
-    Beyond that, the President himself has the power to open
-    diplomatic channels simply by engaging in direct diplo-
-    macy with foreign heads of state and their ministers. The
-    Constitution thus assigns the President means to effect
-    recognition on his own initiative. Congress, by contrast,
-    has no constitutional power that would enable it to initiate
-    diplomatic relations with a foreign nation. Because these
-    specific Clauses confer the recognition power on the Presi-
-    dent, the Court need not consider whether or to what
-    extent the Vesting Clause, which provides that the “execu-
-    tive Power” shall be vested in the President, provides
-    further support for the President’s action here. 
-    
-        
-        The text and structure of the Constitution grant the
-    President the power to recognize foreign nations and
-    governments. The question then becomes whether that
-    power is exclusive. The various ways in which the Presi-
-    dent may unilaterally effect recognition—and the lack of
-    any similar power vested in Congress—suggest that it is.
-    So, too, do functional considerations. Put simply, the
-    Nation must have a single policy regarding which gov-
-    ernments are legitimate in the eyes of the United States
-    and which are not. Foreign countries need to know, before
-    entering into diplomatic relations or commerce with the
-    United States, whether their ambassadors will be re-
-    ceived; whether their officials will be immune from suit in
-    federal court; and whether they may initiate lawsuits here
-    to vindicate their rights. These assurances cannot be
-    equivocal.
-    
-        Recognition is a topic on which the Nation must “ ‘speak
-    . . . with one voice.’ ”  That
-    voice must be the President’s. Between the two political
-    branches, only the Executive has the characteristic of
-    unity at all times. And with unity comes the ability to
-    exercise, to a greater degree, “[d]ecision, activity, secrecy,
-    and dispatch.” The Federalist No. 70. The President is capable, in ways Congress is not, of
-    engaging in the delicate and often secret diplomatic con-
-    tacts that may lead to a decision on recognition.  He is
-    also better positioned to take the decisive, unequivocal
-    action necessary to recognize other states at international
-    law.  These qualities explain why the Framers listed the tradi-
-    tional avenues of recognition—receiving ambassadors,    
-    making treaties, and sending ambassadors—as among the
-    President’s Article II powers.
-    
-       As described in more detail below, the President since
-    the founding has exercised this unilateral power to recog-
-    nize new states—and the Court has endorsed the practice.
-    
 
-       It remains true, of course, that many decisions affecting
-    foreign relations—including decisions that may determine
-    the course of our relations with recognized countries—
-    require congressional action. Congress may “regulate
-    Commerce with foreign Nations,” “establish an uniform
-    Rule of Naturalization,” “define and punish Piracies and
-    Felonies committed on the high Seas, and Offences against the Law of Nations,” “declare War,” “grant Letters of
-    Marque and Reprisal,” and “make Rules for the Govern-
-    ment and Regulation of the land and naval Forces.”  In addition, the President cannot make a treaty or appoint an ambassador without the approval of
-    the Senate. The President, furthermore,
-    could not build an American Embassy abroad without
-    congressional appropriation of the necessary funds.  Under basic separation-of-powers principles, it is
-    for the Congress to enact the laws, including “all Laws
-    which shall be necessary and proper for carrying into
-    Execution” the powers of the Federal Government. 
+ Finally, when "the President takes measures incompatible with  the expressed or implied will of Congress . . . he can rely only upon his own constitutional powers minus any consti-  tutional powers of Congress over the matter."
 
-       In foreign affairs, as in the domestic realm, the Consti-
-    tution “enjoins upon its branches separateness but inter-
-    dependence, autonomy but reciprocity.”  Although the Pres-
-    ident alone effects the formal act of recognition, Congress’
-    powers, and its central role in making laws, give it sub-
-    stantial authority regarding many of the policy determina-
-    tions that precede and follow the act of recognition itself.
-    If Congress disagrees with the President’s recognition
-    policy, there may be consequences. Formal recognition
-    may seem a hollow act if it is not accompanied by the
-    dispatch of an ambassador, the easing of trade re-
-    strictions, and the conclusion of treaties. And those deci-
-    sions require action by the Senate or the whole Congress.
-    
-       In practice, then, the President’s recognition determina-
-    tion is just one part of a political process that may require
-    Congress to make laws. The President’s exclusive recogni-
-    tion power encompasses the authority to acknowledge, in a
-    formal sense, the legitimacy of other states and govern-
-    ments, including their territorial bounds. Albeit limited,
-    the exclusive recognition power is essential to the conduct
-    of Presidential duties. The formal act of recognition is an
-    executive power that Congress may not qualify. If the  President is to be effective in negotiations over a formal
-    recognition determination, it must be evident to his coun-
-    terparts abroad that he speaks for the Nation on that
-    precise question.
-    
-      A clear rule that the formal power to recognize a foreign
-    government subsists in the President therefore serves a
-    necessary purpose in diplomatic relations. All this, of
-    course, underscores that Congress has an important role
-    in other aspects of foreign policy, and the President may
-    be bound by any number of laws Congress enacts. In this
-    way ambition counters ambition, ensuring that the demo-
-    cratic will of the people is observed and respected in for-
-    eign affairs as in the domestic realm. See The Federalist
-    No. 51.
-    
+To succeed in this third category, the President's asserted  power must be both "exclusive" and "conclusive" on the  issue.
+
+
+ In this case the Secretary contends that §214(d) in-  fringes on the President's exclusive recognition power by  "requiring the President to contradict his recognition posi-  tion regarding Jerusalem in official communications with  foreign sovereigns." In so doing  the Secretary acknowledges the President's power is "at  its lowest ebb."
+
+Because the President's refusal to implement §214(d) falls into  Justice Jackson's third category, his claim must be "scru-  tinized with caution," and he may rely solely on powers  the Constitution grants to him alone.
+
+
+ To determine whether the President possesses the  exclusive power of recognition the Court examines the  Constitution's text and structure, as well as precedent and  history bearing on the question.
+
+ Recognition is a "formal acknowledgement" that a par-  ticular "entity possesses the qualifications for statehood"  or "that a particular regime is the effective government of  a state." It may  also involve the determination of a state's territorial  bounds. Recognition is often effected by an express "writ-  ten or oral declaration." It may also be implied—  for example, by concluding a bilateral treaty or by sending or receiving diplomatic agents.
+
+ Legal consequences follow formal recognition. Recognized sovereigns may sue in United States courts, and may benefit from sovereign immunity when  they are sued. The actions of a  recognized sovereign committed within its own territory  also receive deference in domestic courts under the act of  state doctrine. Recognition at international  law, furthermore, is a precondition of regular diplomatic  relations. Recognition is thus "useful,  even necessary," to the existence of a state.
+
+Despite the importance of the recognition power in  foreign relations, the Constitution does not use the term  "recognition," either in Article II or elsewhere. The Secre-  tary asserts that the President exercises the recognition  power based on the Reception Clause, which directs that  the President "shall receive Ambassadors and other public  Ministers." Art. II, §3. As Zivotofsky notes, the Reception  Clause received little attention at the Constitutional  Convention. In fact, during the  ratification debates, Alexander Hamilton claimed that the  power to receive ambassadors was "more a matter of  dignity than of authority," a ministerial duty largely  "without consequence."
+
+ At the time of the founding, however, prominent inter-  national scholars suggested that receiving an ambassador  was tantamount to recognizing the sovereignty of the  sending state. See E. de Vattel, The Law of Nations §78 ("[E]very state, truly  possessed of sovereignty, has a right to send ambassadors"  and "to contest their right in this instance" is equivalent to  "contesting their sovereign dignity"). It is a  logical and proper inference, then, that a Clause directing  the President alone to receive ambassadors would be  understood to acknowledge his power to recognize other  nations.
+
+ This in fact occurred early in the Nation's history when  President Washington recognized the French Revolutionary Government by receiving its ambassador. See A.  Hamilton, Pacificus No. 1, in The Letters of Pacificus and  Helvidius 5, 13–14 (1845) (President  "acknowledged the republic of France, by the reception of  its minister"). After this incident the import of the Recep-  tion Clause became clear—causing Hamilton to change his  earlier view. He wrote that the Reception Clause "in-  cludes th[e power] of judging, in the case of a revolution of  government in a foreign country, whether the new rulers  are competent organs of the national will, and ought to be  recognised, or not." As a result,  the Reception Clause provides support, although not the  sole authority, for the President's power to recognize other  nations.
+
+ The inference that the President exercises the recognition power is further supported by his additional Article II  powers. It is for the President, "by and with the Advice  and Consent of the Senate," to "make Treaties, provided  two thirds of the Senators present concur." In addition, "he shall nominate, and by and with the  Advice and Consent of the Senate, shall appoint Ambassa-  dors" as well as "other public Ministers and Consuls."
+
+As a matter of constitutional structure, these additional  powers give the President control over recognition deci-  sions. At international law, recognition may be effected by  different means, but each means is dependent upon Presi-  dential power. In addition to receiving an ambassador,  recognition may occur on "the conclusion of a bilateral  treaty," or the "formal initiation of diplomatic relations,"  including the dispatch of an ambassador. The President has the sole power  to negotiate treaties, and the Senate  may not conclude or ratify a treaty without Presidential  action. The President, too, nominates the Nation's ambas-  sadors and dispatches other diplomatic agents. Congress  may not send an ambassador without his involvement.  Beyond that, the President himself has the power to open  diplomatic channels simply by engaging in direct diplo-  macy with foreign heads of state and their ministers. The  Constitution thus assigns the President means to effect  recognition on his own initiative. Congress, by contrast,  has no constitutional power that would enable it to initiate  diplomatic relations with a foreign nation. Because these  specific Clauses confer the recognition power on the Presi-  dent, the Court need not consider whether or to what  extent the Vesting Clause, which provides that the "execu-  tive Power" shall be vested in the President, provides  further support for the President's action here.
+
+
+ The text and structure of the Constitution grant the  President the power to recognize foreign nations and  governments. The question then becomes whether that  power is exclusive. The various ways in which the Presi-  dent may unilaterally effect recognition—and the lack of  any similar power vested in Congress—suggest that it is.  So, too, do functional considerations. Put simply, the  Nation must have a single policy regarding which gov-  ernments are legitimate in the eyes of the United States  and which are not. Foreign countries need to know, before  entering into diplomatic relations or commerce with the  United States, whether their ambassadors will be re-  ceived; whether their officials will be immune from suit in  federal court; and whether they may initiate lawsuits here  to vindicate their rights. These assurances cannot be  equivocal.
+
+ Recognition is a topic on which the Nation must " 'speak  . . . with one voice.' " That  voice must be the President's. Between the two political  branches, only the Executive has the characteristic of  unity at all times. And with unity comes the ability to  exercise, to a greater degree, "[d]ecision, activity, secrecy,  and dispatch." The Federalist No. 70. The President is capable, in ways Congress is not, of  engaging in the delicate and often secret diplomatic con-  tacts that may lead to a decision on recognition. He is  also better positioned to take the decisive, unequivocal  action necessary to recognize other states at international  law. These qualities explain why the Framers listed the tradi-  tional avenues of recognition—receiving ambassadors,  making treaties, and sending ambassadors—as among the  President's Article II powers.
+
+ As described in more detail below, the President since  the founding has exercised this unilateral power to recog-  nize new states—and the Court has endorsed the practice.
+
+
+ It remains true, of course, that many decisions affecting  foreign relations—including decisions that may determine  the course of our relations with recognized countries—  require congressional action. Congress may "regulate  Commerce with foreign Nations," "establish an uniform  Rule of Naturalization," "define and punish Piracies and  Felonies committed on the high Seas, and Offences against the Law of Nations," "declare War," "grant Letters of  Marque and Reprisal," and "make Rules for the Govern-  ment and Regulation of the land and naval Forces." In addition, the President cannot make a treaty or appoint an ambassador without the approval of  the Senate. The President, furthermore,  could not build an American Embassy abroad without  congressional appropriation of the necessary funds. Under basic separation-of-powers principles, it is  for the Congress to enact the laws, including "all Laws  which shall be necessary and proper for carrying into  Execution" the powers of the Federal Government.
+
+ In foreign affairs, as in the domestic realm, the Consti-  tution "enjoins upon its branches separateness but inter-  dependence, autonomy but reciprocity." Although the Pres-  ident alone effects the formal act of recognition, Congress'  powers, and its central role in making laws, give it sub-  stantial authority regarding many of the policy determina-  tions that precede and follow the act of recognition itself.  If Congress disagrees with the President's recognition  policy, there may be consequences. Formal recognition  may seem a hollow act if it is not accompanied by the  dispatch of an ambassador, the easing of trade re-  strictions, and the conclusion of treaties. And those deci-  sions require action by the Senate or the whole Congress.
+
+ In practice, then, the President's recognition determina-  tion is just one part of a political process that may require  Congress to make laws. The President's exclusive recogni-  tion power encompasses the authority to acknowledge, in a  formal sense, the legitimacy of other states and govern-  ments, including their territorial bounds. Albeit limited,  the exclusive recognition power is essential to the conduct  of Presidential duties. The formal act of recognition is an  executive power that Congress may not qualify. If the President is to be effective in negotiations over a formal  recognition determination, it must be evident to his coun-  terparts abroad that he speaks for the Nation on that  precise question.
+
+ A clear rule that the formal power to recognize a foreign  government subsists in the President therefore serves a  necessary purpose in diplomatic relations. All this, of  course, underscores that Congress has an important role  in other aspects of foreign policy, and the President may  be bound by any number of laws Congress enacts. In this  way ambition counters ambition, ensuring that the demo-  cratic will of the people is observed and respected in for-  eign affairs as in the domestic realm. See The Federalist  No. 51.
+
 [a lot of caselaw...]
 
-       Having examined the Constitution’s text and this
-    Court’s precedent, it is appropriate to turn to accepted
-    understandings and practice. In separation-of-powers
-    cases this Court has often “put significant weight upon
-    historical practice.”  Here, history
-    is not all on one side, but on balance it provides strong
-    support for the conclusion that the recognition power is
-    the President’s alone. As Zivotofsky argues, certain his-
-    torical incidents can be interpreted to support the position
-    that recognition is a shared power. But the weight of
-    historical evidence supports the opposite view, which is
-    that the formal determination of recognition is a power to
-    be exercised only by the President.
-    
-       The briefs of the parties and amici, which have been of
-    considerable assistance to the Court, give a more complete
-    account of the relevant history, as do the works of scholars
-    in this field. But even a brief survey of the major historical
-    examples, with an emphasis on those said to favor Zivo-
-    tofsky, establishes no more than that some Presidents
-    have chosen to cooperate with Congress, not that Congress
-    itself has exercised the recognition power.
-    
-       From the first Administration forward, the President
-    has claimed unilateral authority to recognize foreign sovereigns. For the most part, Congress has acquiesced in
-    the Executive’s exercise of the recognition power. On
-    occasion, the President has chosen, as may often be pru-
-    dent, to consult and coordinate with Congress. 
+ Having examined the Constitution's text and this  Court's precedent, it is appropriate to turn to accepted  understandings and practice. In separation-of-powers  cases this Court has often "put significant weight upon  historical practice." Here, history  is not all on one side, but on balance it provides strong  support for the conclusion that the recognition power is  the President's alone. As Zivotofsky argues, certain his-  torical incidents can be interpreted to support the position  that recognition is a shared power. But the weight of  historical evidence supports the opposite view, which is  that the formal determination of recognition is a power to  be exercised only by the President.
 
-      The first debate over the recognition power arose in
-    1793, after France had been torn by revolution.  Once the Revolution-
-    ary Government was established, Secretary of State
-    Jefferson and President Washington, without consulting
-    Congress, authorized the American Ambassador to resume
-    relations with the new regime.  Soon thereafter, the new French Government proposed to
-    send an ambassador, Citizen Genet, to the United States. Members of the President’s Cabinet
-    agreed that receiving Genet would be a binding and public
-    act of recognition. They decided, however, both that Genet should be received and that
-    consultation with Congress was not necessary. Congress expressed no disagreement with
-    this position, and Genet’s reception marked the Nation’s
-    first act of recognition—one made by the President alone.
+ The briefs of the parties and amici, which have been of  considerable assistance to the Court, give a more complete  account of the relevant history, as do the works of scholars  in this field. But even a brief survey of the major historical  examples, with an emphasis on those said to favor Zivo-  tofsky, establishes no more than that some Presidents  have chosen to cooperate with Congress, not that Congress  itself has exercised the recognition power.
 
-       The recognition power again became relevant when yet
-    another revolution took place—this time, in South America,
-    as several colonies rose against Spain. In 1818, Speaker
-    of the House Henry Clay announced he “intended moving the recognition of Buenos Ayres and probably of
-    Chile.” Clay thus sought to appropriate
-    money “ ‘[f]or one year’s salary’ ” for “ ‘a Minister’ ” to
-    present-day Argentina.
-    President Monroe, however, did not share that view.
-    Although Clay gave “one of the most remarkable speeches
-    of his career,” his proposed bill was defeated.  That action has been at-
-    tributed, in part, to the fact that Congress agreed the
-    recognition power rested solely with the President. Four years later, after the President had decided to recog-
-    nize the South American republics, Congress did pass a
-    resolution, on his request, appropriating funds for “such
-    missions to the independent nations on the American
-    continent, as the President of the United States may deem
-    proper.” 
+ From the first Administration forward, the President  has claimed unilateral authority to recognize foreign sovereigns. For the most part, Congress has acquiesced in  the Executive's exercise of the recognition power. On  occasion, the President has chosen, as may often be pru-  dent, to consult and coordinate with Congress.
 
-A decade later, President Jackson faced a recognition
-    crisis over Texas. In 1835, Texas rebelled against Mexico
-    and formed its own government. But the President feared that recognizing the new gov-
-    ernment could ignite a war.  After Congress urged
-    him to recognize Texas, the President delivered a message to the Legisla-
-    ture. He concluded there had not been a “deliberate in-
-    quiry” into whether the President or Congress possessed
-    the recognition power.  He stated, however, “on
-    the ground of expediency, I am disposed to concur” with
-    Congress’ preference regarding Texas.In response Congress appropriated funds for a “diplomatic agent to be
-    sent to the Republic of Texas, whenever the President of
-    the United States . . . shall deem it expedient to appoint
-    such minister.”  Thus,
-    although he cooperated with Congress, the President was
-    left to execute the formal act of recognition.
-    
-    [more examples]
-    
-    The weight of historical evidence indicates Congress has accepted that the power to recognize foreign states and
-    governments and their territorial bounds is exclusive to
-    the Presidency.
+ The first debate over the recognition power arose in  1793, after France had been torn by revolution. Once the Revolution-  ary Government was established, Secretary of State  Jefferson and President Washington, without consulting  Congress, authorized the American Ambassador to resume  relations with the new regime. Soon thereafter, the new French Government proposed to  send an ambassador, Citizen Genet, to the United States. Members of the President's Cabinet  agreed that receiving Genet would be a binding and public  act of recognition. They decided, however, both that Genet should be received and that  consultation with Congress was not necessary. Congress expressed no disagreement with  this position, and Genet's reception marked the Nation's  first act of recognition—one made by the President alone.
+
+ The recognition power again became relevant when yet  another revolution took place—this time, in South America,  as several colonies rose against Spain. In 1818, Speaker  of the House Henry Clay announced he "intended moving the recognition of Buenos Ayres and probably of  Chile." Clay thus sought to appropriate  money " '[f]or one year's salary' " for " 'a Minister' " to  present-day Argentina.  President Monroe, however, did not share that view.  Although Clay gave "one of the most remarkable speeches  of his career," his proposed bill was defeated. That action has been at-  tributed, in part, to the fact that Congress agreed the  recognition power rested solely with the President. Four years later, after the President had decided to recog-  nize the South American republics, Congress did pass a  resolution, on his request, appropriating funds for "such  missions to the independent nations on the American  continent, as the President of the United States may deem  proper."
+
+A decade later, President Jackson faced a recognition  crisis over Texas. In 1835, Texas rebelled against Mexico  and formed its own government. But the President feared that recognizing the new gov-  ernment could ignite a war. After Congress urged  him to recognize Texas, the President delivered a message to the Legisla-  ture. He concluded there had not been a "deliberate in-  quiry" into whether the President or Congress possessed  the recognition power. He stated, however, "on  the ground of expediency, I am disposed to concur" with  Congress' preference regarding Texas.In response Congress appropriated funds for a "diplomatic agent to be  sent to the Republic of Texas, whenever the President of  the United States . . . shall deem it expedient to appoint  such minister." Thus,  although he cooperated with Congress, the President was  left to execute the formal act of recognition.
+
+ [more examples]
+
+ The weight of historical evidence indicates Congress has accepted that the power to recognize foreign states and  governments and their territorial bounds is exclusive to  the Presidency.
 
 
-       As the power to recognize foreign states resides in the
-    President alone, the question becomes whether §214(d)
-    infringes on the Executive’s consistent decision to with-
-    hold recognition with respect to Jerusalem. 
+ As the power to recognize foreign states resides in the  President alone, the question becomes whether §214(d)  infringes on the Executive's consistent decision to with-  hold recognition with respect to Jerusalem.
 
-       Section 214(d) requires that, in a passport or consular
-    report of birth abroad, “the Secretary shall, upon the
-    request of the citizen or the citizen’s legal guardian, record
-    the place of birth as Israel” for a “United States citizen
-    born in the city of Jerusalem.” That is,
-    §214(d) requires the President, through the Secretary, to
-    identify citizens born in Jerusalem who so request as
-    being born in Israel. But according to the President, those
-    citizens were not born in Israel. As a matter of United
-    States policy, neither Israel nor any other country is
-    acknowledged as having sovereignty over Jerusalem. In
-    this way, §214(d) “directly contradicts” the “carefully
-    calibrated and longstanding Executive branch policy of
-    neutrality toward Jerusalem.” 
+ Section 214(d) requires that, in a passport or consular  report of birth abroad, "the Secretary shall, upon the  request of the citizen or the citizen's legal guardian, record  the place of birth as Israel" for a "United States citizen  born in the city of Jerusalem." That is,  §214(d) requires the President, through the Secretary, to  identify citizens born in Jerusalem who so request as  being born in Israel. But according to the President, those  citizens were not born in Israel. As a matter of United  States policy, neither Israel nor any other country is  acknowledged as having sovereignty over Jerusalem. In  this way, §214(d) "directly contradicts" the "carefully  calibrated and longstanding Executive branch policy of  neutrality toward Jerusalem."
 
-       If the power over recognition is to mean anything, it
-    must mean that the President not only makes the initial,
-    formal recognition determination but also that he may
-    maintain that determination in his and his agent’s statements. This conclusion is a matter of both common sense and necessity. If Congress could command the President
-    to state a recognition position inconsistent with his own,
-    Congress could override the President’s recognition de-
-    termination. Under international law, recognition may be
-    effected by “written or oral declaration of the recognizing
-    state.” In addition an act of recogni-
-    tion must “leave no doubt as to the intention to grant it.” Thus, if
-    Congress could alter the President’s statements on matters of recognition or force him to contradict them, Congress in effect would exercise the recognition power.
+ If the power over recognition is to mean anything, it  must mean that the President not only makes the initial,  formal recognition determination but also that he may  maintain that determination in his and his agent's statements. This conclusion is a matter of both common sense and necessity. If Congress could command the President  to state a recognition position inconsistent with his own,  Congress could override the President's recognition de-  termination. Under international law, recognition may be  effected by "written or oral declaration of the recognizing  state." In addition an act of recogni-  tion must "leave no doubt as to the intention to grant it." Thus, if  Congress could alter the President's statements on matters of recognition or force him to contradict them, Congress in effect would exercise the recognition power.
 
-       As Justice Jackson wrote in Youngstown, when a Presi-
-    dential power is “exclusive,” it “disabl[es] the Congress
-    from acting upon the subject.”  Here, the subject is quite narrow:
-    The Executive’s exclusive power extends no further than
-    his formal recognition determination. But as to that
-    determination, Congress may not enact a law that directly
-    contradicts it. This is not to say Congress may not express
-    its disagreement with the President in myriad ways. For
-    example, it may enact an embargo, decline to confirm an
-    ambassador, or even declare war. But none of these acts
-    would alter the President’s recognition decision.
+ As Justice Jackson wrote in Youngstown, when a Presi-  dential power is "exclusive," it "disabl[es] the Congress  from acting upon the subject." Here, the subject is quite narrow:  The Executive's exclusive power extends no further than  his formal recognition determination. But as to that  determination, Congress may not enact a law that directly  contradicts it. This is not to say Congress may not express  its disagreement with the President in myriad ways. For  example, it may enact an embargo, decline to confirm an  ambassador, or even declare war. But none of these acts  would alter the President's recognition decision.
 
-       If Congress may not pass a law, speaking in its own
-    voice, that effects formal recognition, then it follows that it
-    may not force the President himself to contradict his
-    earlier statement. That congressional command would not
-    only prevent the Nation from speaking with one voice but
-    also prevent the Executive itself from doing so in conduct-
-    ing foreign relations.
+ If Congress may not pass a law, speaking in its own  voice, that effects formal recognition, then it follows that it  may not force the President himself to contradict his  earlier statement. That congressional command would not  only prevent the Nation from speaking with one voice but  also prevent the Executive itself from doing so in conduct-  ing foreign relations.
 
-       
 
-       It is true, as Zivotofsky notes, that Congress has sub-
-    stantial authority over passports.  The Court does not question
-    the power of Congress to enact passport legislation of wide
-    scope. In Kent v. Dulles, for example, the Court held that
-    if a person’s “ ‘liberty’ ” to travel “is to be regulated”
-    through a passport, “it must be pursuant to the law-
-    making functions of the Congress.”  Later
-    cases, such as Zemel v. Rusk and Haig v. Agee, also pro-
-    ceeded on the assumption that Congress must authorize
-    the grounds on which passports may be approved or de-
-    nied.  This is consistent with the extensive lawmaking power the
-    Constitution vests in Congress over the Nation’s foreign
-    affairs.
-       The problem with §214(d), however, lies in how Con-
-    gress exercised its authority over passports. It was an
-    improper act for Congress to “aggrandiz[e] its power at the
-    expense of another branch” by requiring the President to
-    contradict an earlier recognition determination in an
-    official document issued by the Executive Branch.  To allow
-    Congress to control the President’s communication in the
-    context of a formal recognition determination is to allow
-    Congress to exercise that exclusive power itself. As a
-    result, the statute is unconstitutional.
- 
+
+ It is true, as Zivotofsky notes, that Congress has sub-  stantial authority over passports. The Court does not question  the power of Congress to enact passport legislation of wide  scope. In Kent v. Dulles, for example, the Court held that  if a person's " 'liberty' " to travel "is to be regulated"  through a passport, "it must be pursuant to the law-  making functions of the Congress." Later  cases, such as Zemel v. Rusk and Haig v. Agee, also pro-  ceeded on the assumption that Congress must authorize  the grounds on which passports may be approved or de-  nied. This is consistent with the extensive lawmaking power the  Constitution vests in Congress over the Nation's foreign  affairs.  The problem with §214(d), however, lies in how Con-  gress exercised its authority over passports. It was an  improper act for Congress to "aggrandiz[e] its power at the  expense of another branch" by requiring the President to  contradict an earlier recognition determination in an  official document issued by the Executive Branch. To allow  Congress to control the President's communication in the  context of a formal recognition determination is to allow  Congress to exercise that exclusive power itself. As a  result, the statute is unconstitutional.
+
  \newpage
 

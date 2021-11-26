@@ -43,7 +43,7 @@ The government of the United States has been emphatically termed a government of
 
 If this obloquy is to be cast on the jurisprudence of our country, it must arise from the peculiar character of the case.
 
-It behoves us, then, to inquire whether there be in its composition any ingredient which shall exempt it from legal investigation, or exclude the injured party from legal redress. 
+It behoves us, then, to inquire whether there be in its composition any ingredient which shall exempt it from legal investigation, or exclude the injured party from legal redress.
 
 If some acts be examinable, and others not, there must be some rule of law to guide the court in the exercise of its jurisdiction.
 

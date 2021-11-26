@@ -7,621 +7,134 @@
 **JUSTICE ALITO delivered the opinion of the Court.**
 
 
-      We must decide in these cases whether the Religious
-    Freedom Restoration Act of 1993 (RFRA), 42 U.S.C. §2000bb et seq., permits the United States
-    Department of Health and Human Services (HHS) to
-    demand that three closely held corporations provide
-    health-insurance coverage for methods of contraception
-    that violate the sincerely held religious beliefs of the
-    companies’ owners. We hold that the regulations that
-    impose this obligation violate RFRA, which prohibits the Federal Government from taking any action that substantially burdens the exercise of religion unless that action
-    constitutes the least restrictive means of serving a compelling government interest.
-	
-	The owners of the businesses have religious objections to
-    abortion, and according to their religious beliefs the four
-    contraceptive methods at issue are abortifacients. If the
-    owners comply with the HHS mandate, they believe they
-    will be facilitating abortions, and if they do not comply,
-    they will pay a very heavy price—as much as $1.3 million
-    per day, or about $475 million per year, in the case of one
-    of the companies. If these consequences do not amount to
-    a substantial burden, it is hard to see what would.
-    
-	Under RFRA, a Government action that imposes a
-    substantial burden on religious exercise must serve a
-    compelling government interest, and we assume that the
-    HHS regulations satisfy this requirement. But in order
-    for the HHS mandate to be sustained, it must also constitute the least restrictive means of serving that interest,
-    and the mandate plainly fails that test. There are other
-    ways in which Congress or HHS could equally ensure that
-    every woman has cost-free access to the particular contraceptives at issue here and, indeed, to all FDA-approved
-    contraceptives.
-    
-	In fact, HHS has already devised and implemented a
-    system that seeks to respect the religious liberty of religious nonprofit corporations while ensuring that the employees of these entities have precisely the same access to
-    all FDA-approved contraceptives as employees of companies whose owners have no religious objections to providing such coverage. The employees of these religious nonprofit corporations still have access to insurance coverage
-    without cost sharing for all FDA-approved contraceptives; and according to HHS, this system imposes no net
-    economic burden on the insurance companies that are
-    required to provide or secure the coverage.
-	
-       Although HHS has made this system available to religious nonprofits that have religious objections to the contraceptive mandate, HHS has provided no reason why the
-    same system cannot be made available when the owners of
-    for-profit corporations have similar religious objections.
-    We therefore conclude that this system constitutes an
-    alternative that achieves all of the Government’s aims
-    while providing greater respect for religious liberty. And
-    under RFRA, that conclusion means that enforcement of
-    the HHS contraceptive mandate against the objecting
-    parties in these cases is unlawful.
-	
-    
-	Congress enacted RFRA in 1993 in order to provide very
-    broad protection for religious liberty. RFRA’s enactment
-    came three years after this Court’s decision in Employment Div.. v. Smith, which largely repudiated the method of
-    analyzing free-exercise claims that had been used in cases
-    like Sherbert v. Verner and Wisconsin v. Yoder.
-	
-       Congress responded to Smith by enacting RFRA.
-    “[L]aws [that are] ‘neutral’ toward religion,” Congress
-    found, “may burden religious exercise as surely as laws
-    intended to interfere with religious exercise.” In order to ensure
-    broad protection for religious liberty, RFRA provides that
-    “Government shall not substantially burden a person’s
-    exercise of religion even if the burden results from a rule
-    of general applicability.” If the Govern-
-    ment substantially burdens a person’s exercise of religion,
-    under the Act that person is entitled to an exemption from
-    the rule unless the Government “demonstrates that appli-
-    cation of the burden to the person—(1) is in furtherance of
-    a compelling governmental interest; and (2) is the least
-    restrictive means of furthering that compelling governmental interest.” §2000bb–1(b).3
+ We must decide in these cases whether the Religious  Freedom Restoration Act of 1993 (RFRA), 42 U.S.C. §2000bb et seq., permits the United States  Department of Health and Human Services (HHS) to  demand that three closely held corporations provide  health-insurance coverage for methods of contraception  that violate the sincerely held religious beliefs of the  companies' owners. We hold that the regulations that  impose this obligation violate RFRA, which prohibits the Federal Government from taking any action that substantially burdens the exercise of religion unless that action  constitutes the least restrictive means of serving a compelling government interest.
 
-      As we have noted, the Hahns and Greens have a sincere
-    religious belief that life begins at conception. They there-
-    fore object on religious grounds to providing health insur-
-    ance that covers methods of birth control that, as HHS
-    acknowledges may result in the destruction of an embryo. By requiring
-    the Hahns and Greens and their companies to arrange for
-    such coverage, the HHS mandate demands that they
-    engage in conduct that seriously violates their religious
-    beliefs.
-	
-      If the Hahns and Greens and their companies do not
-    yield to this demand, the economic consequences will be
-    severe. If the companies continue to offer group health
-    plans that do not cover the contraceptives at issue, they
-    will be taxed $100 per day for each affected individual.  For Hobby Lobby, the bill could amount
-    to $1.3 million per day or about $475 million per year; for
-    Conestoga, the assessment could be $90,000 per day or
-    $33 million per year; and for Mardel, it could be $40,000
-    per day or about $15 million per year. These sums are
-    surely substantial.
-	
-      It is true that the plaintiffs could avoid these assess-
-    ments by dropping insurance coverage altogether and thus
-    forcing their employees to obtain health insurance on one
-    of the exchanges established under ACA. But if at least
-    one of their full-time employees were to qualify for a sub-
-    sidy on one of the government-run exchanges, this course
-    would also entail substantial economic consequences. The
-    companies could face penalties of $2,000 per employee
-    each year. These penalties would amount to
-    roughly $26 million for Hobby Lobby, $1.8 million for
-    Conestoga, and $800,000 for Mardel.
-  
-  
-  In taking the position that the HHS mandate does not
-    impose a substantial burden on the exercise of religion,
-    HHS’s main argument (echoed by the principal dissent) is
-    basically that the connection between what the objecting
-    parties must do (provide health-insurance coverage for
-    four methods of contraception that may operate after the
-    fertilization of an egg) and the end that they find to be
-    morally wrong (destruction of an embryo) is simply too
-    attenuated.  HHS and the dissent note that providing the
-    coverage would not itself result in the destruction of an
-    embryo; that would occur only if an employee chose to take
-    advantage of the coverage and to use one of the four meth-
-    ods at issue.
-	
-	This argument is not easy to square with the position taken by  HHS in providing exemptions from the contraceptive mandate for
-    religious employers, such as churches, that have the very same reli-
-    gious objections as the Hahns and Greens and their companies. The
-    connection between what these religious employers would be required to do if not exempted (provide insurance coverage for particular contra-
-    ceptives) and the ultimate event that they find morally wrong (destruc-
-    tion of an embryo) is exactly the same. Nevertheless, as discussed,
-    HHS and the Labor and Treasury Departments authorized the exemp-
-    tion from the contraceptive mandate of group health plans of certain
-    religious employers, and later expanded the exemption to include
-    certain nonprofit organizations with religious objections to contracep-
-    tive coverage. When this was done, the Govern-
-    ment made clear that its objective was to “protec[t]” these religious
-    objectors “from having to contract, arrange, pay, or refer for such
-    coverage.” Those exemptions would be hard to understand if the
-    plaintiffs’ objections here were not substantial.
+	The owners of the businesses have religious objections to  abortion, and according to their religious beliefs the four  contraceptive methods at issue are abortifacients. If the  owners comply with the HHS mandate, they believe they  will be facilitating abortions, and if they do not comply,  they will pay a very heavy price—as much as $1.3 million  per day, or about $475 million per year, in the case of one  of the companies. If these consequences do not amount to  a substantial burden, it is hard to see what would.
 
-[I]n these cases, the Hahns and Greens and
-    their companies sincerely believe that providing the in-
-    surance coverage demanded by the HHS regulations lies
-    on the forbidden side of the line, and it is not for us to say
-    that their religious beliefs are mistaken or insubstantial.
-    Instead, our “narrow function . . . in this context is to determine” whether the line drawn reflects “an honest conviction,” and there is no dispute that it
-    does.
+	Under RFRA, a Government action that imposes a  substantial burden on religious exercise must serve a  compelling government interest, and we assume that the  HHS regulations satisfy this requirement. But in order  for the HHS mandate to be sustained, it must also constitute the least restrictive means of serving that interest,  and the mandate plainly fails that test. There are other  ways in which Congress or HHS could equally ensure that  every woman has cost-free access to the particular contraceptives at issue here and, indeed, to all FDA-approved  contraceptives.
 
-HHS nevertheless compares these cases to decisions in
-    which we rejected the argument that the use of general
-    tax revenue to subsidize the secular activities of religious
-    institutions violated the Free Exercise Clause.  But in those cases, while the subsidies
-    were clearly contrary to the challengers’ views on a secular issue, namely, proper church-state relations, the challengers never articulated a religious objection to the subsidies. As we put it in Tilton, they were “unable to
-    identify any coercion directed at the practice or exercise of
-    their religious beliefs.” 
-	
-	Here, in contrast, the plaintiffs do assert that funding the specific
-    contraceptive methods at issue violates their religious
-    beliefs, and HHS does not question their sincerity. Be-
-    cause the contraceptive mandate forces them to pay an
-    enormous sum of money—as much as $475 million per
-    year in the case of Hobby Lobby—if they insist on provid-
-    ing insurance coverage in accordance with their religious
-    beliefs, the mandate clearly imposes a substantial burden
-    on those beliefs.
-    
-	Since the HHS contraceptive mandate imposes a sub-
-    stantial burden on the exercise of religion, we must move
-    on and decide whether HHS has shown that the mandate
-    both “(1) is in furtherance of a compelling governmental
-    interest; and (2) is the least restrictive means of further-
-    ing that compelling governmental interest.” 
+	In fact, HHS has already devised and implemented a  system that seeks to respect the religious liberty of religious nonprofit corporations while ensuring that the employees of these entities have precisely the same access to  all FDA-approved contraceptives as employees of companies whose owners have no religious objections to providing such coverage. The employees of these religious nonprofit corporations still have access to insurance coverage  without cost sharing for all FDA-approved contraceptives; and according to HHS, this system imposes no net  economic burden on the insurance companies that are  required to provide or secure the coverage.
 
-HHS asserts that the contraceptive mandate serves a
-    variety of important interests, but many of these are
-    couched in very broad terms, such as promoting “public
-    health” and “gender equality.” RFRA, however, contemplates a “more
-    focused” inquiry: It “requires the Government to demon-
-    strate that the compelling interest test is satisfied through
-    application of the challenged law ‘to the person’—the
-    particular claimant whose sincere exercise of religion is
-    being substantially burdened.” This requires us to
-    “loo[k] beyond broadly formulated interests” and to “scru-
-    tiniz[e] the asserted harm of granting specific exemptions
-    to particular religious claimants”—in other words, to look
-    to the marginal interest in enforcing the contraceptive
-    mandate in these cases. 
-	
-	In addition to asserting these very broadly framed
-    interests, HHS maintains that the mandate serves a
-    compelling interest in ensuring that all women have ac-
-    cess to all FDA-approved contraceptives without cost
-    sharing.  Under our cases, women (and men) have a constitutional right to
-    obtain contraceptives, see Griswold v. Connecticut,  and HHS tells us that “[s]tudies
-    have demonstrated that even moderate copayments for
-    preventive services can deter patients from receiving those
-    services.” 
-	
-	
-       The objecting parties contend that HHS has not shown
-    that the mandate serves a compelling government interest, and it is arguable that there are features of ACA that
-    support that view. As we have noted, many employees---those covered by grandfathered plans and those who work
-    for employers with fewer than 50 employees---may have no
-    contraceptive coverage without cost sharing at all.
-	
-       HHS responds that many legal requirements have
-    exceptions and the existence of exceptions does not in
-    itself indicate that the principal interest served by a law is
-    not compelling. Even a compelling interest may be outweighed in some circumstances by another even weightier
-    consideration. In these cases, however, the interest served
-    by one of the biggest exceptions, the exception for grandfathered plans, is simply the interest of employers in avoid-
-    ing the inconvenience of amending an existing plan.
-    Grandfathered plans are required “to comply with a subset
-    of the Affordable Care Act’s health reform provisions” that
-    provide what HHS has described as “particularly signifi-
-    cant protections.” But the
-    contraceptive mandate is expressly excluded from this
-    subset. 
-
-We find it unnecessary to adjudicate this issue. We will
-    assume that the interest in guaranteeing cost-free access
-    to the four challenged contraceptive methods is compelling
-    within the meaning of RFRA, and we will proceed to con-
-    sider the final prong of the RFRA test, i.e., whether HHS
-    has shown that the contraceptive mandate is “the least
-    restrictive means of furthering that compelling govern-
-    mental interest.” 
-	
-The least-restrictive-means standard is exceptionally
-    demanding, and it is
-    not satisfied here. HHS has not shown that it lacks other
-    means of achieving its desired goal without imposing a
-    substantial burden on the exercise of religion by the objecting parties in these cases. 
-	
-       The most straightforward way of doing this would be for
-    the Government to assume the cost of providing the four
-    contraceptives at issue to any women who are unable to
-    obtain them under their health-insurance policies due to
-    their employers’ religious objections. This would certainly
-    be less restrictive of the plaintiffs’ religious liberty, and
-    HHS has not shown that this is not a
-    viable alternative. 
-	
-	
-In the end, however, we need not rely on the option of a
-    new, government-funded program in order to conclude
-    that the HHS regulations fail the least-restrictive-means
-    test. HHS itself has demonstrated that it has at its dis-
-    posal an approach that is less restrictive than requiring
-    employers to fund contraceptive methods that violate their
-    religious beliefs. As we explained above, HHS has already
-    established an accommodation for nonprofit organizations
-    with religious objections. 
-	
-    Under that accommodation, the organization can self-
-    certify that it opposes providing coverage for particular
-    contraceptive services. If the organization
-    makes such a certification, the organization’s insurance
-    issuer or third-party administrator must “[e]xpressly
-    exclude contraceptive coverage from the group health
-    insurance coverage provided in connection with the group
-    health plan” and “[p]rovide separate payments for any
-    contraceptive services required to be covered” without
-    imposing “any cost-sharing requirements . . . on the eligi-
-    ble organization, the group health plan, or plan partici-
-    pants or beneficiaries.” 
-    
-	
-**JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR  joins, and with whom JUSTICE BREYER and JUSTICE KAGAN join as to all but Part III–C–1, dissenting.**
-
-       In a decision of startling breadth, the Court holds that
-    commercial enterprises, including corporations, along with
-    partnerships and sole proprietorships, can opt out of any
-    law (saving only tax laws) they judge incompatible with
-    their sincerely held religious beliefs.  Compelling governmental interests in uniform compliance
-    with the law, and disadvantages that religion-based opt-
-    outs impose on others, hold no sway, the Court decides, at
-    least when there is a “less restrictive alternative.” And
-    such an alternative, the Court suggests, there always will
-    be whenever, in lieu of tolling an enterprise claiming a religion-based exemption, the government, i.e., the general public, can pick up the tab. 
-
-       The Court does not pretend that the First Amendment’s
-    Free Exercise Clause demands religion-based accommoda-
-    tions so extreme, for our decisions leave no doubt on that
-    score. Instead, the Court holds that
-    Congress, in the Religious Freedom Restoration Act of
-    1993 (RFRA), dictated the
-    extraordinary religion-based exemptions today’s decision
-    endorses. In the Court’s view, RFRA demands accommo-
-    dation of a for-profit corporation’s religious beliefs no
-    matter the impact that accommodation may have on third
-    parties who do not share the corporation owners’ religious
-    faith—in these cases, thousands of women employed by
-    Hobby Lobby and Conestoga or dependents of persons
-    those corporations employ. Persuaded that Congress
-    enacted RFRA to serve a far less radical purpose, and
-    mindful of the havoc the Court’s judgment can introduce, I
-    dissent.
+ Although HHS has made this system available to religious nonprofits that have religious objections to the contraceptive mandate, HHS has provided no reason why the  same system cannot be made available when the owners of  for-profit corporations have similar religious objections.  We therefore conclude that this system constitutes an  alternative that achieves all of the Government's aims  while providing greater respect for religious liberty. And  under RFRA, that conclusion means that enforcement of  the HHS contraceptive mandate against the objecting  parties in these cases is unlawful.
 
 
-[in a discussion of the legislative history of the ACA] 
+	Congress enacted RFRA in 1993 in order to provide very  broad protection for religious liberty. RFRA's enactment  came three years after this Court's decision in Employment Div.. v. Smith, which largely repudiated the method of  analyzing free-exercise claims that had been used in cases  like Sherbert v. Verner and Wisconsin v. Yoder.
 
-      While the Women’s Health Amendment succeeded, a
-    countermove proved unavailing. The Senate voted down
-    the so-called “conscience amendment,” which would have
-    enabled any employer or insurance provider to deny coverage based on its asserted “religious beliefs or moral
-    convictions.”  That
-    amendment, Senator Mikulski observed, would have “pu[t]
-    the personal opinion of employers and insurers over the
-    practice of medicine.”  Rejecting the “conscience amendment,” Congress left health
-    care decisions—including the choice among contraceptive
-    methods—in the hands of women, with the aid of their
-    health care providers.
-    
+ Congress responded to Smith by enacting RFRA.  "[L]aws [that are] 'neutral' toward religion," Congress  found, "may burden religious exercise as surely as laws  intended to interfere with religious exercise." In order to ensure  broad protection for religious liberty, RFRA provides that  "Government shall not substantially burden a person's  exercise of religion even if the burden results from a rule  of general applicability." If the Govern-  ment substantially burdens a person's exercise of religion,  under the Act that person is entitled to an exemption from  the rule unless the Government "demonstrates that appli-  cation of the burden to the person—(1) is in furtherance of  a compelling governmental interest; and (2) is the least  restrictive means of furthering that compelling governmental interest." §2000bb–1(b).3
+
+ As we have noted, the Hahns and Greens have a sincere  religious belief that life begins at conception. They there-  fore object on religious grounds to providing health insur-  ance that covers methods of birth control that, as HHS  acknowledges may result in the destruction of an embryo. By requiring  the Hahns and Greens and their companies to arrange for  such coverage, the HHS mandate demands that they  engage in conduct that seriously violates their religious  beliefs.
+
+ If the Hahns and Greens and their companies do not  yield to this demand, the economic consequences will be  severe. If the companies continue to offer group health  plans that do not cover the contraceptives at issue, they  will be taxed $100 per day for each affected individual. For Hobby Lobby, the bill could amount  to $1.3 million per day or about $475 million per year; for  Conestoga, the assessment could be $90,000 per day or  $33 million per year; and for Mardel, it could be $40,000  per day or about $15 million per year. These sums are  surely substantial.
+
+ It is true that the plaintiffs could avoid these assess-  ments by dropping insurance coverage altogether and thus  forcing their employees to obtain health insurance on one  of the exchanges established under ACA. But if at least  one of their full-time employees were to qualify for a sub-  sidy on one of the government-run exchanges, this course  would also entail substantial economic consequences. The  companies could face penalties of $2,000 per employee  each year. These penalties would amount to  roughly $26 million for Hobby Lobby, $1.8 million for  Conestoga, and $800,000 for Mardel.
 
 
-         With RFRA’s restorative purpose [to restore the pre-Smith caselaw] in mind, I turn to the Act’s application to the instant lawsuits. That task, in
-    view of the positions taken by the Court, requires consid-
-    eration of several questions, each potentially dispositive of
-    Hobby Lobby’s and Conestoga’s claims: Do for-profit corpo-
-    rations rank among “person[s]” who “exercise . . . reli-
-    gion”? Assuming that they do, does the contraceptive
-    coverage requirement “substantially burden” their reli-
-    gious exercise? If so, is the requirement “in furtherance of
-    a compelling government interest”? And last, does the
-    requirement represent the least restrictive means for
-    furthering that interest?
-    
-      Misguided by its errant premise that RFRA moved
-    beyond the pre-Smith case law, the Court falters at each
-    step of its analysis.
-    
-    [discussion of corporatios as persons omitted]
+ In taking the position that the HHS mandate does not  impose a substantial burden on the exercise of religion,  HHS's main argument (echoed by the principal dissent) is  basically that the connection between what the objecting  parties must do (provide health-insurance coverage for  four methods of contraception that may operate after the  fertilization of an egg) and the end that they find to be  morally wrong (destruction of an embryo) is simply too  attenuated. HHS and the dissent note that providing the  coverage would not itself result in the destruction of an  embryo; that would occur only if an employee chose to take  advantage of the coverage and to use one of the four meth-  ods at issue.
+
+	This argument is not easy to square with the position taken by HHS in providing exemptions from the contraceptive mandate for  religious employers, such as churches, that have the very same reli-  gious objections as the Hahns and Greens and their companies. The  connection between what these religious employers would be required to do if not exempted (provide insurance coverage for particular contra-  ceptives) and the ultimate event that they find morally wrong (destruc-  tion of an embryo) is exactly the same. Nevertheless, as discussed,  HHS and the Labor and Treasury Departments authorized the exemp-  tion from the contraceptive mandate of group health plans of certain  religious employers, and later expanded the exemption to include  certain nonprofit organizations with religious objections to contracep-  tive coverage. When this was done, the Govern-  ment made clear that its objective was to "protec[t]" these religious  objectors "from having to contract, arrange, pay, or refer for such  coverage." Those exemptions would be hard to understand if the  plaintiffs' objections here were not substantial.
+
+[I]n these cases, the Hahns and Greens and  their companies sincerely believe that providing the in-  surance coverage demanded by the HHS regulations lies  on the forbidden side of the line, and it is not for us to say  that their religious beliefs are mistaken or insubstantial.  Instead, our "narrow function . . . in this context is to determine" whether the line drawn reflects "an honest conviction," and there is no dispute that it  does.
+
+HHS nevertheless compares these cases to decisions in  which we rejected the argument that the use of general  tax revenue to subsidize the secular activities of religious  institutions violated the Free Exercise Clause. But in those cases, while the subsidies  were clearly contrary to the challengers' views on a secular issue, namely, proper church-state relations, the challengers never articulated a religious objection to the subsidies. As we put it in Tilton, they were "unable to  identify any coercion directed at the practice or exercise of  their religious beliefs."
+
+	Here, in contrast, the plaintiffs do assert that funding the specific  contraceptive methods at issue violates their religious  beliefs, and HHS does not question their sincerity. Be-  cause the contraceptive mandate forces them to pay an  enormous sum of money—as much as $475 million per  year in the case of Hobby Lobby—if they insist on provid-  ing insurance coverage in accordance with their religious  beliefs, the mandate clearly imposes a substantial burden  on those beliefs.
+
+	Since the HHS contraceptive mandate imposes a sub-  stantial burden on the exercise of religion, we must move  on and decide whether HHS has shown that the mandate  both "(1) is in furtherance of a compelling governmental  interest; and (2) is the least restrictive means of further-  ing that compelling governmental interest."
+
+HHS asserts that the contraceptive mandate serves a  variety of important interests, but many of these are  couched in very broad terms, such as promoting "public  health" and "gender equality." RFRA, however, contemplates a "more  focused" inquiry: It "requires the Government to demon-  strate that the compelling interest test is satisfied through  application of the challenged law 'to the person'—the  particular claimant whose sincere exercise of religion is  being substantially burdened." This requires us to  "loo[k] beyond broadly formulated interests" and to "scru-  tiniz[e] the asserted harm of granting specific exemptions  to particular religious claimants"—in other words, to look  to the marginal interest in enforcing the contraceptive  mandate in these cases.
+
+	In addition to asserting these very broadly framed  interests, HHS maintains that the mandate serves a  compelling interest in ensuring that all women have ac-  cess to all FDA-approved contraceptives without cost  sharing. Under our cases, women (and men) have a constitutional right to  obtain contraceptives, see Griswold v. Connecticut, and HHS tells us that "[s]tudies  have demonstrated that even moderate copayments for  preventive services can deter patients from receiving those  services."
 
 
-    
+ The objecting parties contend that HHS has not shown  that the mandate serves a compelling government interest, and it is arguable that there are features of ACA that  support that view. As we have noted, many employees---those covered by grandfathered plans and those who work  for employers with fewer than 50 employees---may have no  contraceptive coverage without cost sharing at all.
 
-                                 2
-       Even if Hobby Lobby and Conestoga were deemed RFRA
-    “person[s],” to gain an exemption, they must demonstrate
-    that the contraceptive coverage requirement “substan-
-    tially burden[s] [their] exercise of religion.”  Congress no doubt meant the modifier
-    “substantially” to carry weight. In the original draft of
-    RFRA, the word “burden” appeared unmodified. The word
-    “substantially” was inserted pursuant to a clarifying
-    amendment offered by Senators Kennedy and Hatch.  In proposing the amendment,
-    Senator Kennedy stated that RFRA, in accord with the
-    Court’s pre-Smith case law, “does not require the Govern-
-    ment to justify every action that has some effect on reli-
-    gious exercise.”  The Court barely pauses to inquire whether any burden
-    imposed by the contraceptive coverage requirement is
-    substantial. Instead, it rests on the Greens’ and Hahns’
-    “belie[f ] that providing the coverage demanded by the
-    HHS regulations is connected to the destruction of an
-    embryo in a way that is sufficient to make it immoral for
-    them to provide the coverage.” I agree with
-    the Court that the Green and Hahn families’ religious
-    convictions regarding contraception are sincerely held.
-    See Thomas, 450 U.S., at 715(courts are not to question
-    where an individual “dr[aws] the line” in defining which
-    practices run afoul of her religious beliefs). 
+ HHS responds that many legal requirements have  exceptions and the existence of exceptions does not in  itself indicate that the principal interest served by a law is  not compelling. Even a compelling interest may be outweighed in some circumstances by another even weightier  consideration. In these cases, however, the interest served  by one of the biggest exceptions, the exception for grandfathered plans, is simply the interest of employers in avoid-  ing the inconvenience of amending an existing plan.  Grandfathered plans are required "to comply with a subset  of the Affordable Care Act's health reform provisions" that  provide what HHS has described as "particularly signifi-  cant protections." But the  contraceptive mandate is expressly excluded from this  subset.
 
-    But those beliefs, however deeply held, do not suffice to
-    sustain a RFRA claim. RFRA, properly understood, dis-
-    tinguishes between “factual allegations that [plaintiffs’]
-    beliefs are sincere and of a religious nature,” which a court
-    must accept as true, and the “legal conclusion . . . that
-    [plaintiffs’] religious exercise is substantially burdened,”
-    an inquiry the court must undertake. 
+We find it unnecessary to adjudicate this issue. We will  assume that the interest in guaranteeing cost-free access  to the four challenged contraceptive methods is compelling  within the meaning of RFRA, and we will proceed to con-  sider the final prong of the RFRA test, i.e., whether HHS  has shown that the contraceptive mandate is "the least  restrictive means of furthering that compelling govern-  mental interest."
 
-       That distinction is a facet of the pre-Smith jurispru-
-    dence RFRA incorporates. Bowen v. Roy is instructive. There, the Court rejected a free
-    exercise challenge to the Government’s use of a Native
-    American child’s Social Security number for purposes of
-    administering benefit programs. Without questioning the
-    sincerity of the father’s religious belief that “use of [his
-    daughter’s Social Security] number may harm [her] spirit,”
-    the Court concluded that the Government’s internal
-    uses of that number “place[d] [no] restriction on what [the
-    father] may believe or what he may do.”  Recognizing that the father’s “religious views may not
-    accept” the position that the challenged uses concerned
-    only the Government’s internal affairs, the Court ex-
-    plained that “for the adjudication of a constitutional claim,
-    the Constitution, rather than an individual’s religion,
-    must supply the frame of reference.” See also Hernandez v. Commissioner (1989) (distinguishing between, on the one hand, “question[s] [of] the centrality of particular beliefs or practices to a faith, or the validity of particular litigants’ interpretations of those creeds,” and, on the other, “whether the
-    alleged burden imposed [by the challenged government
-    action] is a substantial one”). Inattentive to this guidance,
-    today’s decision elides entirely the distinction between the
-    sincerity of a challenger’s religious belief and the substan-
-    tiality of the burden placed on the challenger.
-    
-       Undertaking the inquiry that the Court forgoes, I would
-    conclude that the connection between the families’ religious objections and the contraceptive coverage requirement is too attenuated to rank as substantial. The requirement carries no command that Hobby Lobby or Conestoga purchase or provide the contraceptives they find
-    objectionable. Instead, it calls on the companies covered
-    by the requirement to direct money into undifferentiated
-    funds that finance a wide variety of benefits under comprehensive health plans. Those plans, in order to comply
-    with the ACA, must offer contraceptive
-    coverage without cost sharing, just as they must cover an
-    array of other preventive services.
-    
-      Importantly, the decisions whether to claim benefits
-    under the plans are made not by Hobby Lobby or Cones-
-    toga, but by the covered employees and dependents, in
-    consultation with their health care providers. Should an
-    employee of Hobby Lobby or Conestoga share the religious
-    beliefs of the Greens and Hahns, she is of course under no
-    compulsion to use the contraceptives in question. But
-    “[n]o individual decision by an employee and her physician—be it to use contraception, treat an infection, or have
-    a hip replaced—is in any meaningful sense [her employer’s] decision or action.”  It is doubtful that
-    Congress, when it specified that burdens must be “substantial,” had in mind a linkage thus interrupted by
-    independent decisionmakers (the woman and her health
-    counselor) standing between the challenged government
-    action and the religious exercise claimed to be infringed.
-    Any decision to use contraceptives made by a woman
-    covered under Hobby Lobby’s or Conestoga’s plan will not
-    be propelled by the Government, it will be the woman’s autonomous choice, informed by the physician she
-    consults.
+The least-restrictive-means standard is exceptionally  demanding, and it is  not satisfied here. HHS has not shown that it lacks other  means of achieving its desired goal without imposing a  substantial burden on the exercise of religion by the objecting parties in these cases.
 
-      Even if one were to conclude that Hobby Lobby and
-    Conestoga meet the substantial burden requirement, the
-    Government has shown that the contraceptive coverage for which the ACA provides furthers compelling interests
-    in public health and women’s well being. Those interests
-    are concrete, specific, and demonstrated by a wealth of
-    empirical evidence. To recapitulate, the mandated contraception coverage enables women to avoid the health problems unintended pregnancies may visit on them and their
-    children. The coverage helps
-    safeguard the health of women for whom pregnancy may
-    be hazardous, even life threatening. And the mandate secures benefits
-    wholly unrelated to pregnancy, preventing certain cancers,
-    menstrual disorders, and pelvic pain. 
-
-       That Hobby Lobby and Conestoga resist coverage for
-    only 4 of the 20 FDA-approved contraceptives does not
-    lessen these compelling interests. Notably, the corporations exclude intrauterine devices (IUDs), devices significantly more effective, and significantly more expensive
-    than other contraceptive methods. 
-        
-    Moreover, the Court’s reasoning appears to permit commercial enterprises like Hobby Lobby and Conestoga to
-    exclude from their group health plans all forms of contraceptives. See Tr. of Oral Arg. 38–39 (counsel for Hobby
-    Lobby acknowledged that his “argument . . . would apply
-    just as well if the employer said ‘no contraceptives’ ” 
-
-       Perhaps the gravity of the interests at stake has led the Court to assume, for purposes of its RFRA analysis, that
-    the compelling interest criterion is met in these cases.  It bears note in this regard that the cost of
-    an IUD is nearly equivalent to a month’s full-time pay for
-    workers earning the minimum wage; that almost one-third
-    of women would change their contraceptive method if costs
-    were not a factor; and that only one-fourth of
-    women who request an IUD actually have one inserted
-    after finding out how expensive it would be.
-    
-       Stepping back from its assumption that compelling
-    interests support the contraceptive coverage requirement,
-    the Court notes that small employers and grandfathered
-    plans are not subject to the requirement. If there is a
-    compelling interest in contraceptive coverage, the Court suggests, Congress would not have created these exclusions. 
-
-       Federal statutes often include exemptions for small
-    employers, and such provisions have never been held to
-    undermine the interests served by these statutes. See,
-    e.g., Family and Medical Leave Act of 1993 (applicable to employers with 50 or more
-    employees); Age Discrimination in Employment Act of 1967 (originally exempting employers with fewer than 50 employees, 81 Stat. 605, the statute
-    now governs employers with 20 or more employees) [etc.]
-
-       The ACA’s grandfathering provision allows a phasing-in period for compliance with a number of the Act’s requirements (not just the contraceptive coverage or other preventive services provisions). Once specified changes are made, grandfathered status ceases.  Hobby Lobby’s own situation is
-    illustrative. By the time this litigation commenced, Hobby
-    Lobby did not have grandfathered status. Asked why by
-    the District Court, Hobby Lobby’s counsel explained that
-    the “grandfathering requirements mean that you can’t
-    make a whole menu of changes to your plan that involve
-    things like the amount of co-pays, the amount of coinsurance, deductibles, that sort of thing.”  Counsel acknowledged that, “just because
-    of economic realities, our plan has to shift over time. I
-    mean, insurance plans, as everyone knows, shif[t] over
-    time.” 
-
-    
-    The percentage of employees in grandfathered plans is steadily declining, having dropped from
-    56% in 2011 to 48% in 2012 to 36% in 2013. In short, far from
-    ranking as a categorical exemption, the grandfathering
-    provision is “temporary, intended to be a means for gradually transitioning employers into mandatory coverage.”
-
-       The Court ultimately acknowledges a critical point:
-    RFRA’s application “must take adequate account of the
-    burdens a requested accommodation may impose on non-
-    beneficiaries.”  No tradition, and no prior decision under RFRA, allows a
-    religion-based exemption when the accommodation would
-    be harmful to others—here, the very persons the contraceptive coverage requirement was designed to protect. 
-
-      After assuming the existence of compelling government
-    interests, the Court holds that the contraceptive coverage
-    requirement fails to satisfy RFRA’s least restrictive means
-    test. But the Government has shown that there is no less
-    restrictive, equally effective means that would both (1)
-    satisfy the challengers’ religious objections to providing insurance coverage for certain contraceptives (which they
-    believe cause abortions); and (2) carry out the objective of
-    the ACA’s contraceptive coverage requirement, to ensure
-    that women employees receive, at no cost to them, the
-    preventive care needed to safeguard their health and well
-    being. A “least restrictive means” cannot require employees to relinquish benefits accorded them by federal law in
-    order to ensure that their commercial employers can
-    adhere unreservedly to their religious tenets. 
-
-      Then let the government pay (rather than the employees
-    who do not share their employer’s faith), the Court suggests. “The most straightforward [alternative],” the Court
-    asserts, “would be for the Government to assume the cost
-    of providing . . . contraceptives . . . to any women who are
-    unable to obtain them under their health-insurance policies due to their employers’ religious objections.” The ACA, however, requires coverage of preventive
-    services through the existing employer-based system of
-    health insurance “so that [employees] face minimal logistical and administrative obstacles.”  Impeding women’s receipt of benefits “by requiring them
-    to take steps to learn about, and to sign up for, a new
-    [government funded and administered] health benefit”
-    was scarcely what Congress contemplated. 
-
-      And where is the stopping point to the “let the government pay” alternative? Suppose an employer’s sincerely
-    held religious belief is offended by health coverage of
-    vaccines, or paying the minimum wage, or according women equal pay for substantially similar work? Does it rank as
-    a less restrictive alternative to require the government to
-    provide the money or benefit to which the employer has
-    a religion-based objection? Because the Court cannot
-    easily answer that question, it proposes something else:
-    Extension to commercial enterprises of the accommodation
-    already afforded to nonprofit religion-based organizations. “At a minimum,” according
-    to the Court, such an approach would not “impinge on
-    [Hobby Lobby’s and Conestoga’s] religious belief.”  I have already discussed the “special solicitude” generally accorded nonprofit religion-based organizations that
-    exist to serve a community of believers, solicitude never
-    before accorded to commercial enterprises comprising
-    employees of diverse faiths. 
-
-      Ultimately, the Court hedges on its proposal to align for-
-    profit enterprises with nonprofit religion-based organizations. “We do not decide today whether [the] approach
-    [the opinion advances] complies with RFRA for purposes of
-    all religious claims.” Counsel for Hobby
-    Lobby was similarly noncommittal. Asked at oral argument whether the Court-proposed alternative was acceptable, counsel responded: “We haven’t been offered
-    that accommodation, so we haven’t had to decide what
-    kind of objection, if any, we would make to that.”^[*indeed, religious employers immediately started making objections to that accommodation on the grounds that having to file a form with the government saying "we object" would trigger third parties providing the contraception. see Zubik v. Burwell* -PG]
+ The most straightforward way of doing this would be for  the Government to assume the cost of providing the four  contraceptives at issue to any women who are unable to  obtain them under their health-insurance policies due to  their employers' religious objections. This would certainly  be less restrictive of the plaintiffs' religious liberty, and  HHS has not shown that this is not a  viable alternative.
 
 
-       Among the pathmarking pre-Smith decisions RFRA
-    preserved is United States v. Lee (1982).
-    Lee, a sole proprietor engaged in farming and carpentry,
-    was a member of the Old Order Amish. He sincerely
-    believed that withholding Social Security taxes from his
-    employees or paying the employer’s share of such taxes
-    would violate the Amish faith. This Court held that,
-    although the obligations imposed by the Social Security
-    system conflicted with Lee’s religious beliefs, the burden
-    was not unconstitutional.  The Government urges that Lee should control the chal-
-    lenges brought by Hobby Lobby and Conestoga. In contrast, today’s
-    Court dismisses Lee as a tax case.  Indeed, it was a tax case and the Court in Lee homed in on
-    “[t]he difficulty in attempting to accommodate religious
-    beliefs in the area of taxation.” 
+In the end, however, we need not rely on the option of a  new, government-funded program in order to conclude  that the HHS regulations fail the least-restrictive-means  test. HHS itself has demonstrated that it has at its dis-  posal an approach that is less restrictive than requiring  employers to fund contraceptive methods that violate their  religious beliefs. As we explained above, HHS has already  established an accommodation for nonprofit organizations  with religious objections.
 
-       But the Lee Court made two key points one cannot
-    confine to tax cases. “When followers of a particular sect
-    enter into commercial activity as a matter of choice,” the
-    Court observed, “the limits they accept on their own conduct as a matter of conscience and faith are not to be superimposed on statutory schemes which are binding on
-    others in that activity.” 
+ Under that accommodation, the organization can self-  certify that it opposes providing coverage for particular  contraceptive services. If the organization  makes such a certification, the organization's insurance  issuer or third-party administrator must "[e]xpressly  exclude contraceptive coverage from the group health  insurance coverage provided in connection with the group  health plan" and "[p]rovide separate payments for any  contraceptive services required to be covered" without  imposing "any cost-sharing requirements . . . on the eligi-  ble organization, the group health plan, or plan partici-  pants or beneficiaries."
 
-    The statutory scheme of employer-based comprehensive health coverage involved in these cases is surely binding on others engaged
-    in the same trade or business as the corporate challengers
-    here, Hobby Lobby and Conestoga. Further, the Court
-    recognized in Lee that allowing a religion-based exemption
-    to a commercial employer would “operat[e] to impose the
-    employer’s religious faith on the employees.”  No
-    doubt the Greens and Hahns and all who share their
-    beliefs may decline to acquire for themselves the contraceptives in question. But that choice may not be imposed
-    on employees who hold other beliefs. Working for Hobby
-    Lobby or Conestoga, in other words, should not deprive
-    employees of the preventive care available to workers at
-    the shop next door, at least in the absence of directions
-    from the Legislature or Administration to do so.
-    
-       Why should decisions of this order be made by Congress
-    or the regulatory authority, and not this Court? Hobby
-    Lobby and Conestoga surely do not stand alone as commercial enterprises seeking exemptions from generally applicable laws on the basis of their religious beliefs. See,
-    e.g., Newman v. Piggie Park Enterprises, Inc. (owner of restaurant chain refused to
-    serve black patrons based on his religious beliefs opposing
-    racial integration); In re Minnesota ex rel. McClure (born-again Christians who owned closely held, for-
-    profit health clubs believed that the Bible proscribed
-    hiring or retaining an “individua[l] living with but not
-    married to a person of the opposite sex,” “a young, single
-    woman working without her father’s consent or a married
-    woman working without her husband’s consent,” and any
-    person “antagonistic to the Bible,” including “fornicators
-    and homosexuals”; Elane Photog­raphy, LLC v. Willock (for-profit photography business owned by a husband and wife refused to photograph a lesbian couple’s
-    commitment ceremony based on the religious beliefs of the
-    company’s owners). Would RFRA require exemptions in cases of this ilk? And
-    if not, how does the Court divine which religious beliefs
-    are worthy of accommodation, and which are not? Isn’t
-    the Court disarmed from making such a judgment given
-    its recognition that “courts must not presume to determine
-    . . . the plausibility of a religious claim”? 
 
-        Would the exemption the Court holds RFRA demands
-    for employers with religiously grounded objections to the
-    use of certain contraceptives extend to employers with
-    religiously grounded objections to blood transfusions
-    (Jehovah’s Witnesses); antidepressants (Scientologists);
-    medications derived from pigs, including anesthesia,
-    intravenous fluids, and pills coated with gelatin (certain
-    Muslims, Jews, and Hindus); and vaccinations (Christian Scientists, among others)? According to counsel for Hobby Lobby, “each one of these cases . . . would have to
-    be evaluated on its own . . . apply[ing] the compelling
-    interest-least restrictive alternative test.”  Not much help there for the lower courts bound by today’s decision.
- 
-       The Court, however, sees nothing to worry about. To-
-    day’s cases, the Court concludes, are “concerned solely
-    with the contraceptive mandate. Our decision should not
-    be understood to hold that an insurance-coverage mandate
-    must necessarily fall if it conflicts with an employer’s
-    religious beliefs. Other coverage requirements, such as
-    immunizations, may be supported by different interests
-    (for example, the need to combat the spread of infectious
-    diseases) and may involve different arguments about the
-    least restrictive means of providing them.”  But the Court has assumed, for RFRA purposes, that the
-    interest in women’s health and well being is compelling
-    and has come up with no means adequate to serve that
-    interest, the one motivating Congress to adopt the Women’s Health Amendment.
-    
-       There is an overriding interest, I believe, in keeping the
-    courts “out of the business of evaluating the relative merits of differing religious claims,” or the sincerity with
-    which an asserted religious belief is held. Indeed, approving some religious claims while deeming others unworthy
-    of accommodation could be “perceived as favoring one
-    religion over another,” the very “risk the Establishment
-    Clause was designed to preclude.” 
+**JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR joins, and with whom JUSTICE BREYER and JUSTICE KAGAN join as to all but Part III–C–1, dissenting.**
+
+ In a decision of startling breadth, the Court holds that  commercial enterprises, including corporations, along with  partnerships and sole proprietorships, can opt out of any  law (saving only tax laws) they judge incompatible with  their sincerely held religious beliefs. Compelling governmental interests in uniform compliance  with the law, and disadvantages that religion-based opt-  outs impose on others, hold no sway, the Court decides, at  least when there is a "less restrictive alternative." And  such an alternative, the Court suggests, there always will  be whenever, in lieu of tolling an enterprise claiming a religion-based exemption, the government, i.e., the general public, can pick up the tab.
+
+ The Court does not pretend that the First Amendment's  Free Exercise Clause demands religion-based accommoda-  tions so extreme, for our decisions leave no doubt on that  score. Instead, the Court holds that  Congress, in the Religious Freedom Restoration Act of  1993 (RFRA), dictated the  extraordinary religion-based exemptions today's decision  endorses. In the Court's view, RFRA demands accommo-  dation of a for-profit corporation's religious beliefs no  matter the impact that accommodation may have on third  parties who do not share the corporation owners' religious  faith—in these cases, thousands of women employed by  Hobby Lobby and Conestoga or dependents of persons  those corporations employ. Persuaded that Congress  enacted RFRA to serve a far less radical purpose, and  mindful of the havoc the Court's judgment can introduce, I  dissent.
+
+
+[in a discussion of the legislative history of the ACA]
+
+ While the Women's Health Amendment succeeded, a  countermove proved unavailing. The Senate voted down  the so-called "conscience amendment," which would have  enabled any employer or insurance provider to deny coverage based on its asserted "religious beliefs or moral  convictions." That  amendment, Senator Mikulski observed, would have "pu[t]  the personal opinion of employers and insurers over the  practice of medicine." Rejecting the "conscience amendment," Congress left health  care decisions—including the choice among contraceptive  methods—in the hands of women, with the aid of their  health care providers.
+
+
+
+ With RFRA's restorative purpose [to restore the pre-Smith caselaw] in mind, I turn to the Act's application to the instant lawsuits. That task, in  view of the positions taken by the Court, requires consid-  eration of several questions, each potentially dispositive of  Hobby Lobby's and Conestoga's claims: Do for-profit corpo-  rations rank among "person[s]" who "exercise . . . reli-  gion"? Assuming that they do, does the contraceptive  coverage requirement "substantially burden" their reli-  gious exercise? If so, is the requirement "in furtherance of  a compelling government interest"? And last, does the  requirement represent the least restrictive means for  furthering that interest?
+
+ Misguided by its errant premise that RFRA moved  beyond the pre-Smith case law, the Court falters at each  step of its analysis.
+
+ [discussion of corporatios as persons omitted]
+
+
+
+
+ 2  Even if Hobby Lobby and Conestoga were deemed RFRA  "person[s]," to gain an exemption, they must demonstrate  that the contraceptive coverage requirement "substan-  tially burden[s] [their] exercise of religion." Congress no doubt meant the modifier  "substantially" to carry weight. In the original draft of  RFRA, the word "burden" appeared unmodified. The word  "substantially" was inserted pursuant to a clarifying  amendment offered by Senators Kennedy and Hatch. In proposing the amendment,  Senator Kennedy stated that RFRA, in accord with the  Court's pre-Smith case law, "does not require the Govern-  ment to justify every action that has some effect on reli-  gious exercise." The Court barely pauses to inquire whether any burden  imposed by the contraceptive coverage requirement is  substantial. Instead, it rests on the Greens' and Hahns'  "belie[f ] that providing the coverage demanded by the  HHS regulations is connected to the destruction of an  embryo in a way that is sufficient to make it immoral for  them to provide the coverage." I agree with  the Court that the Green and Hahn families' religious  convictions regarding contraception are sincerely held.  See Thomas, 450 U.S., at 715(courts are not to question  where an individual "dr[aws] the line" in defining which  practices run afoul of her religious beliefs).
+
+ But those beliefs, however deeply held, do not suffice to  sustain a RFRA claim. RFRA, properly understood, dis-  tinguishes between "factual allegations that [plaintiffs']  beliefs are sincere and of a religious nature," which a court  must accept as true, and the "legal conclusion . . . that  [plaintiffs'] religious exercise is substantially burdened,"  an inquiry the court must undertake.
+
+ That distinction is a facet of the pre-Smith jurispru-  dence RFRA incorporates. Bowen v. Roy is instructive. There, the Court rejected a free  exercise challenge to the Government's use of a Native  American child's Social Security number for purposes of  administering benefit programs. Without questioning the  sincerity of the father's religious belief that "use of [his  daughter's Social Security] number may harm [her] spirit,"  the Court concluded that the Government's internal  uses of that number "place[d] [no] restriction on what [the  father] may believe or what he may do." Recognizing that the father's "religious views may not  accept" the position that the challenged uses concerned  only the Government's internal affairs, the Court ex-  plained that "for the adjudication of a constitutional claim,  the Constitution, rather than an individual's religion,  must supply the frame of reference." See also Hernandez v. Commissioner (1989) (distinguishing between, on the one hand, "question[s] [of] the centrality of particular beliefs or practices to a faith, or the validity of particular litigants' interpretations of those creeds," and, on the other, "whether the  alleged burden imposed [by the challenged government  action] is a substantial one"). Inattentive to this guidance,  today's decision elides entirely the distinction between the  sincerity of a challenger's religious belief and the substan-  tiality of the burden placed on the challenger.
+
+ Undertaking the inquiry that the Court forgoes, I would  conclude that the connection between the families' religious objections and the contraceptive coverage requirement is too attenuated to rank as substantial. The requirement carries no command that Hobby Lobby or Conestoga purchase or provide the contraceptives they find  objectionable. Instead, it calls on the companies covered  by the requirement to direct money into undifferentiated  funds that finance a wide variety of benefits under comprehensive health plans. Those plans, in order to comply  with the ACA, must offer contraceptive  coverage without cost sharing, just as they must cover an  array of other preventive services.
+
+ Importantly, the decisions whether to claim benefits  under the plans are made not by Hobby Lobby or Cones-  toga, but by the covered employees and dependents, in  consultation with their health care providers. Should an  employee of Hobby Lobby or Conestoga share the religious  beliefs of the Greens and Hahns, she is of course under no  compulsion to use the contraceptives in question. But  "[n]o individual decision by an employee and her physician—be it to use contraception, treat an infection, or have  a hip replaced—is in any meaningful sense [her employer's] decision or action." It is doubtful that  Congress, when it specified that burdens must be "substantial," had in mind a linkage thus interrupted by  independent decisionmakers (the woman and her health  counselor) standing between the challenged government  action and the religious exercise claimed to be infringed.  Any decision to use contraceptives made by a woman  covered under Hobby Lobby's or Conestoga's plan will not  be propelled by the Government, it will be the woman's autonomous choice, informed by the physician she  consults.
+
+ Even if one were to conclude that Hobby Lobby and  Conestoga meet the substantial burden requirement, the  Government has shown that the contraceptive coverage for which the ACA provides furthers compelling interests  in public health and women's well being. Those interests  are concrete, specific, and demonstrated by a wealth of  empirical evidence. To recapitulate, the mandated contraception coverage enables women to avoid the health problems unintended pregnancies may visit on them and their  children. The coverage helps  safeguard the health of women for whom pregnancy may  be hazardous, even life threatening. And the mandate secures benefits  wholly unrelated to pregnancy, preventing certain cancers,  menstrual disorders, and pelvic pain.
+
+ That Hobby Lobby and Conestoga resist coverage for  only 4 of the 20 FDA-approved contraceptives does not  lessen these compelling interests. Notably, the corporations exclude intrauterine devices (IUDs), devices significantly more effective, and significantly more expensive  than other contraceptive methods.
+
+ Moreover, the Court's reasoning appears to permit commercial enterprises like Hobby Lobby and Conestoga to  exclude from their group health plans all forms of contraceptives. See Tr. of Oral Arg. 38–39 (counsel for Hobby  Lobby acknowledged that his "argument . . . would apply  just as well if the employer said 'no contraceptives' "
+
+ Perhaps the gravity of the interests at stake has led the Court to assume, for purposes of its RFRA analysis, that  the compelling interest criterion is met in these cases. It bears note in this regard that the cost of  an IUD is nearly equivalent to a month's full-time pay for  workers earning the minimum wage; that almost one-third  of women would change their contraceptive method if costs  were not a factor; and that only one-fourth of  women who request an IUD actually have one inserted  after finding out how expensive it would be.
+
+ Stepping back from its assumption that compelling  interests support the contraceptive coverage requirement,  the Court notes that small employers and grandfathered  plans are not subject to the requirement. If there is a  compelling interest in contraceptive coverage, the Court suggests, Congress would not have created these exclusions.
+
+ Federal statutes often include exemptions for small  employers, and such provisions have never been held to  undermine the interests served by these statutes. See,  e.g., Family and Medical Leave Act of 1993 (applicable to employers with 50 or more  employees); Age Discrimination in Employment Act of 1967 (originally exempting employers with fewer than 50 employees, 81 Stat. 605, the statute  now governs employers with 20 or more employees) [etc.]
+
+ The ACA's grandfathering provision allows a phasing-in period for compliance with a number of the Act's requirements (not just the contraceptive coverage or other preventive services provisions). Once specified changes are made, grandfathered status ceases. Hobby Lobby's own situation is  illustrative. By the time this litigation commenced, Hobby  Lobby did not have grandfathered status. Asked why by  the District Court, Hobby Lobby's counsel explained that  the "grandfathering requirements mean that you can't  make a whole menu of changes to your plan that involve  things like the amount of co-pays, the amount of coinsurance, deductibles, that sort of thing." Counsel acknowledged that, "just because  of economic realities, our plan has to shift over time. I  mean, insurance plans, as everyone knows, shif[t] over  time."
+
+
+ The percentage of employees in grandfathered plans is steadily declining, having dropped from  56% in 2011 to 48% in 2012 to 36% in 2013. In short, far from  ranking as a categorical exemption, the grandfathering  provision is "temporary, intended to be a means for gradually transitioning employers into mandatory coverage."
+
+ The Court ultimately acknowledges a critical point:  RFRA's application "must take adequate account of the  burdens a requested accommodation may impose on non-  beneficiaries." No tradition, and no prior decision under RFRA, allows a  religion-based exemption when the accommodation would  be harmful to others—here, the very persons the contraceptive coverage requirement was designed to protect.
+
+ After assuming the existence of compelling government  interests, the Court holds that the contraceptive coverage  requirement fails to satisfy RFRA's least restrictive means  test. But the Government has shown that there is no less  restrictive, equally effective means that would both (1)  satisfy the challengers' religious objections to providing insurance coverage for certain contraceptives (which they  believe cause abortions); and (2) carry out the objective of  the ACA's contraceptive coverage requirement, to ensure  that women employees receive, at no cost to them, the  preventive care needed to safeguard their health and well  being. A "least restrictive means" cannot require employees to relinquish benefits accorded them by federal law in  order to ensure that their commercial employers can  adhere unreservedly to their religious tenets.
+
+ Then let the government pay (rather than the employees  who do not share their employer's faith), the Court suggests. "The most straightforward [alternative]," the Court  asserts, "would be for the Government to assume the cost  of providing . . . contraceptives . . . to any women who are  unable to obtain them under their health-insurance policies due to their employers' religious objections." The ACA, however, requires coverage of preventive  services through the existing employer-based system of  health insurance "so that [employees] face minimal logistical and administrative obstacles." Impeding women's receipt of benefits "by requiring them  to take steps to learn about, and to sign up for, a new  [government funded and administered] health benefit"  was scarcely what Congress contemplated.
+
+ And where is the stopping point to the "let the government pay" alternative? Suppose an employer's sincerely  held religious belief is offended by health coverage of  vaccines, or paying the minimum wage, or according women equal pay for substantially similar work? Does it rank as  a less restrictive alternative to require the government to  provide the money or benefit to which the employer has  a religion-based objection? Because the Court cannot  easily answer that question, it proposes something else:  Extension to commercial enterprises of the accommodation  already afforded to nonprofit religion-based organizations. "At a minimum," according  to the Court, such an approach would not "impinge on  [Hobby Lobby's and Conestoga's] religious belief." I have already discussed the "special solicitude" generally accorded nonprofit religion-based organizations that  exist to serve a community of believers, solicitude never  before accorded to commercial enterprises comprising  employees of diverse faiths.
+
+ Ultimately, the Court hedges on its proposal to align for-  profit enterprises with nonprofit religion-based organizations. "We do not decide today whether [the] approach  [the opinion advances] complies with RFRA for purposes of  all religious claims." Counsel for Hobby  Lobby was similarly noncommittal. Asked at oral argument whether the Court-proposed alternative was acceptable, counsel responded: "We haven't been offered  that accommodation, so we haven't had to decide what  kind of objection, if any, we would make to that."^[*indeed, religious employers immediately started making objections to that accommodation on the grounds that having to file a form with the government saying "we object" would trigger third parties providing the contraception. see Zubik v. Burwell* -PG]
+
+
+ Among the pathmarking pre-Smith decisions RFRA  preserved is United States v. Lee (1982).  Lee, a sole proprietor engaged in farming and carpentry,  was a member of the Old Order Amish. He sincerely  believed that withholding Social Security taxes from his  employees or paying the employer's share of such taxes  would violate the Amish faith. This Court held that,  although the obligations imposed by the Social Security  system conflicted with Lee's religious beliefs, the burden  was not unconstitutional. The Government urges that Lee should control the chal-  lenges brought by Hobby Lobby and Conestoga. In contrast, today's  Court dismisses Lee as a tax case. Indeed, it was a tax case and the Court in Lee homed in on  "[t]he difficulty in attempting to accommodate religious  beliefs in the area of taxation."
+
+ But the Lee Court made two key points one cannot  confine to tax cases. "When followers of a particular sect  enter into commercial activity as a matter of choice," the  Court observed, "the limits they accept on their own conduct as a matter of conscience and faith are not to be superimposed on statutory schemes which are binding on  others in that activity."
+
+ The statutory scheme of employer-based comprehensive health coverage involved in these cases is surely binding on others engaged  in the same trade or business as the corporate challengers  here, Hobby Lobby and Conestoga. Further, the Court  recognized in Lee that allowing a religion-based exemption  to a commercial employer would "operat[e] to impose the  employer's religious faith on the employees." No  doubt the Greens and Hahns and all who share their  beliefs may decline to acquire for themselves the contraceptives in question. But that choice may not be imposed  on employees who hold other beliefs. Working for Hobby  Lobby or Conestoga, in other words, should not deprive  employees of the preventive care available to workers at  the shop next door, at least in the absence of directions  from the Legislature or Administration to do so.
+
+ Why should decisions of this order be made by Congress  or the regulatory authority, and not this Court? Hobby  Lobby and Conestoga surely do not stand alone as commercial enterprises seeking exemptions from generally applicable laws on the basis of their religious beliefs. See,  e.g., Newman v. Piggie Park Enterprises, Inc. (owner of restaurant chain refused to  serve black patrons based on his religious beliefs opposing  racial integration); In re Minnesota ex rel. McClure (born-again Christians who owned closely held, for-  profit health clubs believed that the Bible proscribed  hiring or retaining an "individua[l] living with but not  married to a person of the opposite sex," "a young, single  woman working without her father's consent or a married  woman working without her husband's consent," and any  person "antagonistic to the Bible," including "fornicators  and homosexuals"; Elane Photog­raphy, LLC v. Willock (for-profit photography business owned by a husband and wife refused to photograph a lesbian couple's  commitment ceremony based on the religious beliefs of the  company's owners). Would RFRA require exemptions in cases of this ilk? And  if not, how does the Court divine which religious beliefs  are worthy of accommodation, and which are not? Isn't  the Court disarmed from making such a judgment given  its recognition that "courts must not presume to determine  . . . the plausibility of a religious claim"?
+
+ Would the exemption the Court holds RFRA demands  for employers with religiously grounded objections to the  use of certain contraceptives extend to employers with  religiously grounded objections to blood transfusions  (Jehovah's Witnesses); antidepressants (Scientologists);  medications derived from pigs, including anesthesia,  intravenous fluids, and pills coated with gelatin (certain  Muslims, Jews, and Hindus); and vaccinations (Christian Scientists, among others)? According to counsel for Hobby Lobby, "each one of these cases . . . would have to  be evaluated on its own . . . apply[ing] the compelling  interest-least restrictive alternative test." Not much help there for the lower courts bound by today's decision.
+
+ The Court, however, sees nothing to worry about. To-  day's cases, the Court concludes, are "concerned solely  with the contraceptive mandate. Our decision should not  be understood to hold that an insurance-coverage mandate  must necessarily fall if it conflicts with an employer's  religious beliefs. Other coverage requirements, such as  immunizations, may be supported by different interests  (for example, the need to combat the spread of infectious  diseases) and may involve different arguments about the  least restrictive means of providing them." But the Court has assumed, for RFRA purposes, that the  interest in women's health and well being is compelling  and has come up with no means adequate to serve that  interest, the one motivating Congress to adopt the Women's Health Amendment.
+
+ There is an overriding interest, I believe, in keeping the  courts "out of the business of evaluating the relative merits of differing religious claims," or the sincerity with  which an asserted religious belief is held. Indeed, approving some religious claims while deeming others unworthy  of accommodation could be "perceived as favoring one  religion over another," the very "risk the Establishment  Clause was designed to preclude."
 
 
 \newpage

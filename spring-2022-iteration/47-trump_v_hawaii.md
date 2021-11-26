@@ -1,939 +1,192 @@
-# Trump v. HAwaii 
+# Trump v. HAwaii
 
 (2018)
 
 **CHIEF JUSTICE ROBERTS delivered the opinion of the Court.**
 
 
-       Under the Immigration and Nationality Act, foreign
-    nationals seeking entry into the United States undergo a
-    vetting process to ensure that they satisfy the numerous
-    requirements for admission. The Act also vests the President with authority to restrict the entry of aliens whenever he finds that their entry “would be detrimental to the
-    interests of the United States.”  Relying on that delegation, the President concluded that it was
-    necessary to impose entry restrictions on nationals of
-    countries that do not share adequate information for an
-    informed entry determination, or that otherwise present
-    national security risks. The
-    plaintiffs in this litigation, respondents here, challenged
-    the application of those entry restrictions to certain aliens
-    abroad. We now decide whether the President had authority under the Act to issue the Proclamation, and whether
-    the entry policy violates the Establishment Clause of the
-    First Amendment.
-        
-       Shortly after taking office, President Trump signed
-    Executive Order No. 13769, Protecting the Nation From
-    Foreign Terrorist Entry Into the United States. (EO–1). EO–1 directed the Secretary of
-    Homeland Security to conduct a review to examine the
-    adequacy of information provided by foreign governments
-    about their nationals seeking to enter the United States.
-    Pending that review, the order suspended for 90
-    days the entry of foreign nationals from seven countries---
-    Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen---
-    that had been previously identified by Congress or prior
-    administrations as posing heightened terrorism risks. The District Court for the Western District of Washington entered a temporary restraining order blocking the
-    entry restrictions, and the Court of Appeals for the Ninth
-    Circuit denied the Government’s request to stay that
-    order. 
+ Under the Immigration and Nationality Act, foreign  nationals seeking entry into the United States undergo a  vetting process to ensure that they satisfy the numerous  requirements for admission. The Act also vests the President with authority to restrict the entry of aliens whenever he finds that their entry "would be detrimental to the  interests of the United States." Relying on that delegation, the President concluded that it was  necessary to impose entry restrictions on nationals of  countries that do not share adequate information for an  informed entry determination, or that otherwise present  national security risks. The  plaintiffs in this litigation, respondents here, challenged  the application of those entry restrictions to certain aliens  abroad. We now decide whether the President had authority under the Act to issue the Proclamation, and whether  the entry policy violates the Establishment Clause of the  First Amendment.    Shortly after taking office, President Trump signed  Executive Order No. 13769, Protecting the Nation From  Foreign Terrorist Entry Into the United States. (EO–1). EO–1 directed the Secretary of  Homeland Security to conduct a review to examine the  adequacy of information provided by foreign governments  about their nationals seeking to enter the United States.  Pending that review, the order suspended for 90  days the entry of foreign nationals from seven countries---  Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen---  that had been previously identified by Congress or prior  administrations as posing heightened terrorism risks. The District Court for the Western District of Washington entered a temporary restraining order blocking the  entry restrictions, and the Court of Appeals for the Ninth  Circuit denied the Government's request to stay that  order.
 
-       In response, the President revoked EO–1, replacing it
-    with Executive Order No. 13780, which again directed a
-    worldwide review. (EO–2). Citing investigative burdens on agencies and the need to
-    diminish the risk that dangerous individuals would enter
-    without adequate vetting, EO–2 also temporarily restricted
-    the entry (with case-by-case waivers) of foreign nationals
-    from six of the countries covered by EO–1: Iran, Libya,
-    Somalia, Sudan, Syria, and Yemen. The
-    order explained that those countries had been selected
-    because each “is a state sponsor of terrorism, has been
-    significantly compromised by terrorist organizations, or
-    contains active conflict zones.” §1(d). The entry restriction was to stay in effect for 90 days, pending completion of the worldwide review.
-    
-       These interim measures were immediately challenged in court. The District Courts for the Districts of Maryland
-    and Hawaii entered nationwide preliminary injunctions
-    barring enforcement of the entry suspension, and the
-    respective Courts of Appeals upheld those injunctions,
-    albeit on different grounds. 
-    
-    This Court granted certiorari and stayed the injunctions—
-    allowing the entry suspension to go into effect—with
-    respect to foreign nationals who lacked a “credible claim of
-    a bona fide relationship” with a person or entity in the
-    United States. The temporary restrictions
-    in EO–2 expired before this Court took any action, and we
-    vacated the lower court decisions as moot. 
+ In response, the President revoked EO–1, replacing it  with Executive Order No. 13780, which again directed a  worldwide review. (EO–2). Citing investigative burdens on agencies and the need to  diminish the risk that dangerous individuals would enter  without adequate vetting, EO–2 also temporarily restricted  the entry (with case-by-case waivers) of foreign nationals  from six of the countries covered by EO–1: Iran, Libya,  Somalia, Sudan, Syria, and Yemen. The  order explained that those countries had been selected  because each "is a state sponsor of terrorism, has been  significantly compromised by terrorist organizations, or  contains active conflict zones." §1(d). The entry restriction was to stay in effect for 90 days, pending completion of the worldwide review.
 
-       On September 24, 2017, after completion of the world-
-    wide review, the President issued the Proclamation before
-    us---Proclamation No. 9645, Enhancing Vetting Capabili-
-    ties and Processes for Detecting Attempted Entry Into the
-    United States by Terrorists or Other Public-Safety
-    Threats. The Proclamation (as its
-    title indicates) sought to improve vetting procedures by
-    identifying ongoing deficiencies in the information needed
-    to assess whether nationals of particular countries present
-    “public safety threats.” To further that purpose, the
-    Proclamation placed entry restrictions on the nationals of
-    eight foreign states whose systems for managing and
-    sharing information about their nationals the President
-    deemed inadequate.
-    
-       The Proclamation described how foreign states were
-    selected for inclusion based on the review undertaken
-    pursuant to EO–2. As part of that review, the Department
-    of Homeland Security (DHS), in consultation with the
-    State Department and several intelligence agencies, developed a “baseline” for the information required from
-    foreign governments to confirm the identity of individuals
-    seeking entry into the United States, and to determine
-    whether those individuals pose a security threat. 
-    The baseline included three components. The first,
-    “identity-management information,” focused on whether a
-    foreign government ensures the integrity of travel documents by issuing electronic passports, reporting lost or
-    stolen passports, and making available additional identity-related information. Second, the agencies considered the
-    extent to which the country discloses information on criminal history and suspected terrorist links, provides travel
-    document exemplars, and facilitates the U. S. Government’s receipt of information about airline passengers and
-    crews traveling to the United States. Finally, the agencies
-    weighed various indicators of national security risk,
-    including whether the foreign state is a known or potential
-    terrorist safe haven and whether it regularly declines to
-    receive returning nationals following final orders of
-    removal from the United States. DHS collected and evaluated data regarding all foreign
-    governments. It identified 16 countries as having
-    deficient information-sharing practices and presenting
-    national security concerns, and another 31 countries as “at
-    risk” of similarly failing to meet the baseline. The
-    State Department then undertook diplomatic efforts over
-    a 50-day period to encourage all foreign governments to
-    improve their practices. As a result of that effort,
-    numerous countries provided DHS with travel document
-    exemplars and agreed to share information on known or
-    suspected terrorists. Following the 50-day period, the Acting Secretary of
-    Homeland Security concluded that eight countries---Chad,
-    Iran, Iraq, Libya, North Korea, Syria, Venezuela, and
-    Yemen---remained deficient in terms of their risk profile
-    and willingness to provide requested information. The Acting Secretary recommended that the President impose
-    entry restrictions on certain nationals from all of those
-    countries except Iraq. She also concluded that
-    although Somalia generally satisfied the information-
-    sharing component of the baseline standards, its “identity-
-    management deficiencies” and “significant terrorist presence” presented special circumstances justifying additional
-    limitations. She therefore recommended entry limitations
-    for certain nationals of that country. As for Iraq,
-    the Acting Secretary found that entry limitations on its
-    nationals were not warranted given the close cooperative
-    relationship between the U. S. and Iraqi Governments and
-    Iraq’s commitment to combating ISIS. 
-    
-       After consulting with multiple Cabinet members and
-    other officials, the President adopted the Acting Secretary’s recommendations and issued the Proclamation.
-    Invoking his authority under 8 U.S.C. §§1182(f) and
-    1185(a), the President determined that certain entry
-    restrictions were necessary to “prevent the entry of those
-    foreign nationals about whom the United States Government lacks sufficient information”; “elicit improved identity-
-    management and information-sharing protocols and
-    practices from foreign governments”; and otherwise “advance [the] foreign policy, national security, and counter-
-    terrorism objectives” of the United States.  The President explained that these restrictions
-    would be the “most likely to encourage cooperation” while
-    “protect[ing] the United States until such time as improvements occur.” 
+ These interim measures were immediately challenged in court. The District Courts for the Districts of Maryland  and Hawaii entered nationwide preliminary injunctions  barring enforcement of the entry suspension, and the  respective Courts of Appeals upheld those injunctions,  albeit on different grounds.
 
-The Proclamation imposed a range of restrictions that
-    vary based on the “distinct circumstances” in each of the
-    eight countries. For countries that do not cooperate
-    with the United States in identifying security risks (Iran,
-    North Korea, and Syria), the Proclamation suspends entry
-    of all nationals, except for Iranians seeking nonimmigrant
-    student and exchange-visitor visas. For countries that have information-sharing deficiencies but are nonetheless “valuable counterterrorism
-    partner[s]” (Chad, Libya, and Yemen), it restricts entry of
-    nationals seeking immigrant visas and nonimmigrant
-    business or tourist visas.  Because
-    Somalia generally satisfies the baseline standards but was
-    found to present special risk factors, the Proclamation
-    suspends entry of nationals seeking immigrant visas and
-    requires additional scrutiny of nationals seeking nonimmigrant visas. §2(h)(ii). And for Venezuela, which refuses
-    to cooperate in information sharing but for which alternative means are available to identify its nationals, the
-    Proclamation limits entry only of certain government
-    officials and their family members on nonimmigrant business or tourist visas. 
-    
-       The Proclamation exempts lawful permanent residents
-    and foreign nationals who have been granted asylum. It also provides for case-by-case waivers when a foreign national demonstrates undue hardship, and that
-    his entry is in the national interest and would not pose a
-    threat to public safety. The Proclamation further directs
-    DHS to assess on a continuing basis whether entry re-
-    strictions should be modified or continued, and to report to
-    the President every 180 days. Upon completion of the
-    first such review period, the President, on the recommen-
-    dation of the Secretary of Homeland Security, determined
-    that Chad had sufficiently improved its practices, and he
-    accordingly lifted restrictions on its nationals. 
+ This Court granted certiorari and stayed the injunctions—  allowing the entry suspension to go into effect—with  respect to foreign nationals who lacked a "credible claim of  a bona fide relationship" with a person or entity in the  United States. The temporary restrictions  in EO–2 expired before this Court took any action, and we  vacated the lower court decisions as moot.
+
+ On September 24, 2017, after completion of the world-  wide review, the President issued the Proclamation before  us---Proclamation No. 9645, Enhancing Vetting Capabili-  ties and Processes for Detecting Attempted Entry Into the  United States by Terrorists or Other Public-Safety  Threats. The Proclamation (as its  title indicates) sought to improve vetting procedures by  identifying ongoing deficiencies in the information needed  to assess whether nationals of particular countries present  "public safety threats." To further that purpose, the  Proclamation placed entry restrictions on the nationals of  eight foreign states whose systems for managing and  sharing information about their nationals the President  deemed inadequate.
+
+ The Proclamation described how foreign states were  selected for inclusion based on the review undertaken  pursuant to EO–2. As part of that review, the Department  of Homeland Security (DHS), in consultation with the  State Department and several intelligence agencies, developed a "baseline" for the information required from  foreign governments to confirm the identity of individuals  seeking entry into the United States, and to determine  whether those individuals pose a security threat.  The baseline included three components. The first,  "identity-management information," focused on whether a  foreign government ensures the integrity of travel documents by issuing electronic passports, reporting lost or  stolen passports, and making available additional identity-related information. Second, the agencies considered the  extent to which the country discloses information on criminal history and suspected terrorist links, provides travel  document exemplars, and facilitates the U. S. Government's receipt of information about airline passengers and  crews traveling to the United States. Finally, the agencies  weighed various indicators of national security risk,  including whether the foreign state is a known or potential  terrorist safe haven and whether it regularly declines to  receive returning nationals following final orders of  removal from the United States. DHS collected and evaluated data regarding all foreign  governments. It identified 16 countries as having  deficient information-sharing practices and presenting  national security concerns, and another 31 countries as "at  risk" of similarly failing to meet the baseline. The  State Department then undertook diplomatic efforts over  a 50-day period to encourage all foreign governments to  improve their practices. As a result of that effort,  numerous countries provided DHS with travel document  exemplars and agreed to share information on known or  suspected terrorists. Following the 50-day period, the Acting Secretary of  Homeland Security concluded that eight countries---Chad,  Iran, Iraq, Libya, North Korea, Syria, Venezuela, and  Yemen---remained deficient in terms of their risk profile  and willingness to provide requested information. The Acting Secretary recommended that the President impose  entry restrictions on certain nationals from all of those  countries except Iraq. She also concluded that  although Somalia generally satisfied the information-  sharing component of the baseline standards, its "identity-  management deficiencies" and "significant terrorist presence" presented special circumstances justifying additional  limitations. She therefore recommended entry limitations  for certain nationals of that country. As for Iraq,  the Acting Secretary found that entry limitations on its  nationals were not warranted given the close cooperative  relationship between the U. S. and Iraqi Governments and  Iraq's commitment to combating ISIS.
+
+ After consulting with multiple Cabinet members and  other officials, the President adopted the Acting Secretary's recommendations and issued the Proclamation.  Invoking his authority under 8 U.S.C. §§1182(f) and  1185(a), the President determined that certain entry  restrictions were necessary to "prevent the entry of those  foreign nationals about whom the United States Government lacks sufficient information"; "elicit improved identity-  management and information-sharing protocols and  practices from foreign governments"; and otherwise "advance [the] foreign policy, national security, and counter-  terrorism objectives" of the United States. The President explained that these restrictions  would be the "most likely to encourage cooperation" while  "protect[ing] the United States until such time as improvements occur."
+
+The Proclamation imposed a range of restrictions that  vary based on the "distinct circumstances" in each of the  eight countries. For countries that do not cooperate  with the United States in identifying security risks (Iran,  North Korea, and Syria), the Proclamation suspends entry  of all nationals, except for Iranians seeking nonimmigrant  student and exchange-visitor visas. For countries that have information-sharing deficiencies but are nonetheless "valuable counterterrorism  partner[s]" (Chad, Libya, and Yemen), it restricts entry of  nationals seeking immigrant visas and nonimmigrant  business or tourist visas. Because  Somalia generally satisfies the baseline standards but was  found to present special risk factors, the Proclamation  suspends entry of nationals seeking immigrant visas and  requires additional scrutiny of nationals seeking nonimmigrant visas. §2(h)(ii). And for Venezuela, which refuses  to cooperate in information sharing but for which alternative means are available to identify its nationals, the  Proclamation limits entry only of certain government  officials and their family members on nonimmigrant business or tourist visas.
+
+ The Proclamation exempts lawful permanent residents  and foreign nationals who have been granted asylum. It also provides for case-by-case waivers when a foreign national demonstrates undue hardship, and that  his entry is in the national interest and would not pose a  threat to public safety. The Proclamation further directs  DHS to assess on a continuing basis whether entry re-  strictions should be modified or continued, and to report to  the President every 180 days. Upon completion of the  first such review period, the President, on the recommen-  dation of the Secretary of Homeland Security, determined  that Chad had sufficiently improved its practices, and he  accordingly lifted restrictions on its nationals.
 
 
-       We now turn to plaintiffs’ claim that the Proclamation
-    was issued for the unconstitutional purpose of excluding
-    Muslims. 
-    
-      The First Amendment provides, in part, that “Congress
-    shall make no law respecting an establishment of religion,
-    or prohibiting the free exercise thereof.” Our cases recognize that “[t]he clearest command of the Establishment
-    Clause is that one religious denomination cannot be officially preferred over another.”  Plaintiffs believe that the Proclamation violates this prohibition by singling out Muslims
-    for disfavored treatment. The entry suspension, they
-    contend, operates as a “religious gerrymander,” in part
-    because most of the countries covered by the Proclamation
-    have Muslim-majority populations. And in their view,
-    deviations from the information-sharing baseline criteria
-    suggest that the results of the multi-agency review were “foreordained.” Relying on Establishment Clause precedents concerning laws and policies applied domestically,
-    plaintiffs allege that the primary purpose of the Proclamation was religious animus and that the President’s stated
-    concerns about vetting protocols and national security
-    were but pretexts for discriminating against Muslims.
- 
-      At the heart of plaintiffs’ case is a series of statements
-    by the President and his advisers casting doubt on the
-    official objective of the Proclamation. For example, while
-    a candidate on the campaign trail, the President published
-    a “Statement on Preventing Muslim Immigration” that
-    called for a “total and complete shutdown of Muslims
-    entering the United States until our country’s representa-
-    tives can figure out what is going on.” That
-    statement remained on his campaign website until May 2017. 
+ We now turn to plaintiffs' claim that the Proclamation  was issued for the unconstitutional purpose of excluding  Muslims.
 
-    Then-candidate Trump also stated
-    that “Islam hates us” and asserted that the United States
-    was “having problems with Muslims coming into the
-    country.”  Shortly after being elected,
-    when asked whether violence in Europe had affected
-    his plans to “ban Muslim immigration,” the President
-    replied, “You know my plans. All along, I’ve been proven
-    to be right.” 
-        
-       One week after his inauguration, the President issued
-    EO–1. In a television interview, one of the President’s
-    campaign advisers explained that when the President
-    “first announced it, he said, ‘Muslim ban.’ He called me
-    up. He said, ‘Put a commission together. Show me the
-    right way to do it legally.’ ” 
+ The First Amendment provides, in part, that "Congress  shall make no law respecting an establishment of religion,  or prohibiting the free exercise thereof." Our cases recognize that "[t]he clearest command of the Establishment  Clause is that one religious denomination cannot be officially preferred over another." Plaintiffs believe that the Proclamation violates this prohibition by singling out Muslims  for disfavored treatment. The entry suspension, they  contend, operates as a "religious gerrymander," in part  because most of the countries covered by the Proclamation  have Muslim-majority populations. And in their view,  deviations from the information-sharing baseline criteria  suggest that the results of the multi-agency review were "foreordained." Relying on Establishment Clause precedents concerning laws and policies applied domestically,  plaintiffs allege that the primary purpose of the Proclamation was religious animus and that the President's stated  concerns about vetting protocols and national security  were but pretexts for discriminating against Muslims.
 
-    
-    The adviser said he assembled a group of Members of Congress and lawyers
-    that “focused on, instead of religion, danger. . . . [The
-    order] is based on places where there [is] substantial
-    evidence that people are sending terrorists into our country.” 
+ At the heart of plaintiffs' case is a series of statements  by the President and his advisers casting doubt on the  official objective of the Proclamation. For example, while  a candidate on the campaign trail, the President published  a "Statement on Preventing Muslim Immigration" that  called for a "total and complete shutdown of Muslims  entering the United States until our country's representa-  tives can figure out what is going on." That  statement remained on his campaign website until May 2017.
 
-    
-       Plaintiffs also note that after issuing EO–2 to replace EO–1, the President expressed regret that his prior order
-    had been “watered down” and called for a “much tougher
-    version” of his “Travel Ban.” Shortly before the release of
-    the Proclamation, he stated that the “travel ban . . . should
-    be far larger, tougher, and more specific,” but “stupidly
-    that would not be politically correct.” 
-    
-    
-    More recently, on November 29, 2017, the President retweeted links to three anti-Muslim propaganda videos. In
-    response to questions about those videos, the President’s
-    deputy press secretary denied that the President thinks
-    Muslims are a threat to the United States, explaining that
-    “the President has been talking about these security
-    issues for years now, from the campaign trail to the White
-    House” and “has addressed these issues with the travel
-    order that he issued earlier this year and the companion
-    proclamation.” 
+ Then-candidate Trump also stated  that "Islam hates us" and asserted that the United States  was "having problems with Muslims coming into the  country." Shortly after being elected,  when asked whether violence in Europe had affected  his plans to "ban Muslim immigration," the President  replied, "You know my plans. All along, I've been proven  to be right."
 
-       The President of the United States possesses an ex-
-    traordinary power to speak to his fellow citizens and on
-    their behalf. Our Presidents have frequently used that
-    power to espouse the principles of religious freedom and
-    tolerance on which this Nation was founded. In 1790
-    George Washington reassured the Hebrew Congregation of
-    Newport, Rhode Island that “happily the Government of
-    the United States . . . gives to bigotry no sanction, to persecution no assistance [and] requires only that they who
-    live under its protection should demean themselves as
-    good citizens.”  President Eisenhower, at the opening of
-    the Islamic Center of Washington, similarly pledged to a
-    Muslim audience that “America would fight with her
-    whole strength for your right to have here your own
-    church,” declaring that “[t]his concept is indeed a part of
-    America.”  And just days
-    after the attacks of September 11, 2001, President George W. Bush returned to the same Islamic Center to implore
-    his fellow Americans---Muslims and non-Muslims alike---to remember during their time of grief that “[t]he face of
-    terror is not the true faith of Islam,” and that America is
-    “a great country because we share the same values of
-    respect and dignity and human worth.” Yet it cannot be denied that the Federal
-    Government and the Presidents who have carried its laws
-    into effect have---from the Nation’s earliest days---performed unevenly in living up to those inspiring words.
-    
-       Plaintiffs argue that this President’s words strike at
-    fundamental standards of respect and tolerance, in violation of our constitutional tradition. But the issue before
-    us is not whether to denounce the statements. It is instead the significance of those statements in reviewing a
-    Presidential directive, neutral on its face, addressing a
-    matter within the core of executive responsibility. In
-    doing so, we must consider not only the statements of a
-    particular President, but also the authority of the Presi-
-    dency itself.
-    
-       The case before us differs in numerous respects from the
-    conventional Establishment Clause claim. Unlike the
-    typical suit involving religious displays or school prayer,
-    plaintiffs seek to invalidate a national security directive
-    regulating the entry of aliens abroad. Their claim accordingly raises a number of delicate issues regarding the
-    scope of the constitutional right and the manner of proof.
-    The Proclamation, moreover, is facially neutral toward
-    religion. Plaintiffs therefore ask the Court to probe the
-    sincerity of the stated justifications for the policy by reference to extrinsic statements---many of which were made
-    before the President took the oath of office. These various
-    aspects of plaintiffs’ challenge inform our standard of
-    review.
-
-       For more than a century, this Court has recognized that
-    the admission and exclusion of foreign nationals is a “fundamental sovereign attribute exercised by the Govern-
-    ment’s political departments largely immune from judicial
-    control.”  Because decisions in these matters may implicate “relations
-    with foreign powers,” or involve “classifications defined in
-    the light of changing political and economic circumstances,”
-    such judgments “are frequently of a character more appropriate to either the Legislature or the Executive.”
-
-       Nonetheless, although foreign nationals seeking admission have no constitutional right to entry, this Court has
-    engaged in a circumscribed judicial inquiry when the
-    denial of a visa allegedly burdens the constitutional rights
-    of a U. S. citizen. In Kleindienst v. Mandel, the Attorney
-    General denied admission to a Belgian journalist and self-described “revolutionary Marxist,” Ernest Mandel, who
-    had been invited to speak at a conference at Stanford University.  The professors who
-    wished to hear Mandel speak challenged that decision
-    under the First Amendment, and we acknowledged that
-    their constitutional “right to receive information” was
-    implicated. But we limited our review to
-    whether the Executive gave a “facially legitimate and bona
-    fide” reason for its action. Given the authority
-    of the political branches over admission, we held that
-    “when the Executive exercises this [delegated] power
-    negatively on the basis of a facially legitimate and bona
-    fide reason, the courts will neither look behind the exercise of that discretion, nor test it by balancing its justification” against the asserted constitutional interests of U. S.
-    citizens. 
-
-    
-
-The upshot of our cases in this context is clear: “Any
-    rule of constitutional law that would inhibit the flexibility”
-    of the President “to respond to changing world conditions
-    should be adopted only with the greatest caution,” and our
-    inquiry into matters of entry and national security is
-    highly constrained.  We
-    need not define the precise contours of that inquiry in this
-    case. A conventional application of Mandel, asking only
-    whether the policy is facially legitimate and bona fide,
-    would put an end to our review. But the Government has
-    suggested that it may be appropriate here for the inquiry
-    to extend beyond the facial neutrality of the order.  For our purposes today,
-    we assume that we may look behind the face of the Proc-
-    lamation to the extent of applying rational basis review.
-    That standard of review considers whether the entry
-    policy is plausibly related to the Government’s stated
-    objective to protect the country and improve vetting pro-
-    cesses.  As a result, we may consider plaintiffs’
-    extrinsic evidence, but will uphold the policy so long as it
-    can reasonably be understood to result from a justification
-    independent of unconstitutional grounds.^[The dissent finds “perplexing” the application of rational basis review in this context. But what is far more problematic is the dissent’s assumption that courts should review immigration policies, diplomatic sanctions, and military actions under the de novo “reasonable observer” inquiry applicable to cases involving holiday displays and graduation ceremonies. The dissent criticizes application of a more constrained standard of review as “throw[ing] the Establishment Clause out the window.” But as the numerous precedents cited in this section make clear, such a circumscribed inquiry applies to any constitutional claim concerning the entry of foreign nationals.]
-
-Given the standard of review, it should come as no
-    surprise that the Court hardly ever strikes down a policy
-    as illegitimate under rational basis scrutiny. On the few
-    occasions where we have done so, a common thread has
-    been that the laws at issue lack any purpose other than a
-    “bare . . . desire to harm a politically unpopular group.”
-    In one case, we invalidated a local zoning ordinance that required a special permit for group homes for
-    the intellectually disabled, but not for other facilities such
-    as fraternity houses or hospitals. We did so on the ground
-    that the city’s stated concerns about (among other things)
-    “legal responsibility” and “crowded conditions” rested on
-    “an irrational prejudice” against the intellectually dis-
-    abled. Cleburne v. Cleburne Living Center.
-    And in another case, this Court overturned a state constitutional amendment that denied gays and lesbians access
-    to the protection of antidiscrimination laws. The amendment, we held, was “divorced from any factual context
-    from which we could discern a relationship to legitimate
-    state interests,” and “its sheer breadth [was] so discontinuous with the reasons offered for it” that the initiative
-    seemed “inexplicable by anything but animus.” Romer v.
-    Evans.
-    
-    
-The Proclamation does not fit this pattern. It cannot be
-    said that it is impossible to “discern a relationship to
-    legitimate state interests” or that the policy is “inexplica-
-    ble by anything but animus.” Indeed, the dissent can only
-    attempt to argue otherwise by refusing to apply anything
-    resembling rational basis review. But because there is persuasive evidence that the entry suspension has a legit-
-    imate grounding in national security concerns, quite apart
-    from any religious hostility, we must accept that independent justification.
-
-The Proclamation is expressly premised on legitimate
-    purposes: preventing entry of nationals who cannot be
-    adequately vetted and inducing other nations to improve
-    their practices. The text says nothing about religion.
-    Plaintiffs and the dissent nonetheless emphasize that five
-    of the seven nations currently included in the Proclamation have Muslim-majority populations. Yet that fact
-    alone does not support an inference of religious hostility,
-    given that the policy covers just 8% of the world’s Muslim
-    population and is limited to countries that were previously
-    designated by Congress or prior administrations as posing
-    national security risks. 
-    
-       The Proclamation, moreover, reflects the results of a
-    worldwide review process undertaken by multiple Cabinet
-    officials and their agencies. Plaintiffs seek to discredit the
-    findings of the review, pointing to deviations from the
-    review’s baseline criteria resulting in the inclusion of
-    Somalia and omission of Iraq. But as the Proclamation
-    explains, in each case the determinations were justified by
-    the distinct conditions in each country. Although Somalia
-    generally satisfies the information-sharing component of
-    the baseline criteria, it “stands apart . . . in the degree to
-    which [it] lacks command and control of its territory.” As for Iraq, the Secretary of Homeland Security determined that entry restrictions were not
-    warranted in light of the close cooperative relationship
-    between the U. S. and Iraqi Governments and the country’s key role in combating terrorism in the region.It is, in any event, difficult to see how exempting one of
-    the largest predominantly Muslim countries in the region
-    from coverage under the Proclamation can be cited as
-    evidence of animus toward Muslims.
+ One week after his inauguration, the President issued  EO–1. In a television interview, one of the President's  campaign advisers explained that when the President  "first announced it, he said, 'Muslim ban.' He called me  up. He said, 'Put a commission together. Show me the  right way to do it legally.' "
 
 
-       More fundamentally, plaintiffs and the dissent chal-
-    lenge the entry suspension based on their perception of its
-    effectiveness and wisdom. They suggest that the policy is
-    overbroad and does little to serve national security inter-
-    ests. But we cannot substitute our own assessment for the
-    Executive’s predictive judgments on such matters, all of
-    which “are delicate, complex, and involve large elements of
-    prophecy.” While we of course “do not defer to the Government’s
-    reading of the First Amendment,” the Executive’s evalua-
-    tion of the underlying facts is entitled to appropriate
-    weight, particularly in the context of litigation involving
-    “sensitive and weighty interests of national security and
-    foreign affairs.” 
-    
-       Finally, the dissent invokes Korematsu v. United States. Whatever rhetorical advantage the
-    dissent may see in doing so, Korematsu has nothing to do
-    with this case. The forcible relocation of U. S. citizens to
-    concentration camps, solely and explicitly on the basis of
-    race, is objectively unlawful and outside the scope of Pres-
-    idential authority. But it is wholly inapt to liken that
-    morally repugnant order to a facially neutral policy denying certain foreign nationals the privilege of admission. The entry suspension is an act that is
-    well within executive authority and could have been taken
-    by any other President---the only question is evaluating
-    the actions of this particular President in promulgating an
-    otherwise valid Proclamation.
-    
-       The dissent’s reference to Korematsu, however, affords
-    this Court the opportunity to make express what is already obvious: Korematsu was gravely wrong the day it was decided, has been overruled in the court of history,
-    and---to be clear---“has no place in law under the Constitution.” 323 U.S., at 248 (Jackson, J., dissenting).
+ The adviser said he assembled a group of Members of Congress and lawyers  that "focused on, instead of religion, danger. . . . [The  order] is based on places where there [is] substantial  evidence that people are sending terrorists into our country."
 
-      Under these circumstances, the Government has set
-    forth a sufficient national security justification to survive
-    rational basis review. We express no view on the sound-
-    ness of the policy. We simply hold today that plaintiffs
-    have not demonstrated a likelihood of success on the
-    merits of their constitutional claim.
+
+ Plaintiffs also note that after issuing EO–2 to replace EO–1, the President expressed regret that his prior order  had been "watered down" and called for a "much tougher  version" of his "Travel Ban." Shortly before the release of  the Proclamation, he stated that the "travel ban . . . should  be far larger, tougher, and more specific," but "stupidly  that would not be politically correct."
+
+
+ More recently, on November 29, 2017, the President retweeted links to three anti-Muslim propaganda videos. In  response to questions about those videos, the President's  deputy press secretary denied that the President thinks  Muslims are a threat to the United States, explaining that  "the President has been talking about these security  issues for years now, from the campaign trail to the White  House" and "has addressed these issues with the travel  order that he issued earlier this year and the companion  proclamation."
+
+ The President of the United States possesses an ex-  traordinary power to speak to his fellow citizens and on  their behalf. Our Presidents have frequently used that  power to espouse the principles of religious freedom and  tolerance on which this Nation was founded. In 1790  George Washington reassured the Hebrew Congregation of  Newport, Rhode Island that "happily the Government of  the United States . . . gives to bigotry no sanction, to persecution no assistance [and] requires only that they who  live under its protection should demean themselves as  good citizens." President Eisenhower, at the opening of  the Islamic Center of Washington, similarly pledged to a  Muslim audience that "America would fight with her  whole strength for your right to have here your own  church," declaring that "[t]his concept is indeed a part of  America." And just days  after the attacks of September 11, 2001, President George W. Bush returned to the same Islamic Center to implore  his fellow Americans---Muslims and non-Muslims alike---to remember during their time of grief that "[t]he face of  terror is not the true faith of Islam," and that America is  "a great country because we share the same values of  respect and dignity and human worth." Yet it cannot be denied that the Federal  Government and the Presidents who have carried its laws  into effect have---from the Nation's earliest days---performed unevenly in living up to those inspiring words.
+
+ Plaintiffs argue that this President's words strike at  fundamental standards of respect and tolerance, in violation of our constitutional tradition. But the issue before  us is not whether to denounce the statements. It is instead the significance of those statements in reviewing a  Presidential directive, neutral on its face, addressing a  matter within the core of executive responsibility. In  doing so, we must consider not only the statements of a  particular President, but also the authority of the Presi-  dency itself.
+
+ The case before us differs in numerous respects from the  conventional Establishment Clause claim. Unlike the  typical suit involving religious displays or school prayer,  plaintiffs seek to invalidate a national security directive  regulating the entry of aliens abroad. Their claim accordingly raises a number of delicate issues regarding the  scope of the constitutional right and the manner of proof.  The Proclamation, moreover, is facially neutral toward  religion. Plaintiffs therefore ask the Court to probe the  sincerity of the stated justifications for the policy by reference to extrinsic statements---many of which were made  before the President took the oath of office. These various  aspects of plaintiffs' challenge inform our standard of  review.
+
+ For more than a century, this Court has recognized that  the admission and exclusion of foreign nationals is a "fundamental sovereign attribute exercised by the Govern-  ment's political departments largely immune from judicial  control." Because decisions in these matters may implicate "relations  with foreign powers," or involve "classifications defined in  the light of changing political and economic circumstances,"  such judgments "are frequently of a character more appropriate to either the Legislature or the Executive."
+
+ Nonetheless, although foreign nationals seeking admission have no constitutional right to entry, this Court has  engaged in a circumscribed judicial inquiry when the  denial of a visa allegedly burdens the constitutional rights  of a U. S. citizen. In Kleindienst v. Mandel, the Attorney  General denied admission to a Belgian journalist and self-described "revolutionary Marxist," Ernest Mandel, who  had been invited to speak at a conference at Stanford University. The professors who  wished to hear Mandel speak challenged that decision  under the First Amendment, and we acknowledged that  their constitutional "right to receive information" was  implicated. But we limited our review to  whether the Executive gave a "facially legitimate and bona  fide" reason for its action. Given the authority  of the political branches over admission, we held that  "when the Executive exercises this [delegated] power  negatively on the basis of a facially legitimate and bona  fide reason, the courts will neither look behind the exercise of that discretion, nor test it by balancing its justification" against the asserted constitutional interests of U. S.  citizens.
+
+
+
+The upshot of our cases in this context is clear: "Any  rule of constitutional law that would inhibit the flexibility"  of the President "to respond to changing world conditions  should be adopted only with the greatest caution," and our  inquiry into matters of entry and national security is  highly constrained. We  need not define the precise contours of that inquiry in this  case. A conventional application of Mandel, asking only  whether the policy is facially legitimate and bona fide,  would put an end to our review. But the Government has  suggested that it may be appropriate here for the inquiry  to extend beyond the facial neutrality of the order. For our purposes today,  we assume that we may look behind the face of the Proc-  lamation to the extent of applying rational basis review.  That standard of review considers whether the entry  policy is plausibly related to the Government's stated  objective to protect the country and improve vetting pro-  cesses. As a result, we may consider plaintiffs'  extrinsic evidence, but will uphold the policy so long as it  can reasonably be understood to result from a justification  independent of unconstitutional grounds.^[The dissent finds "perplexing" the application of rational basis review in this context. But what is far more problematic is the dissent's assumption that courts should review immigration policies, diplomatic sanctions, and military actions under the de novo "reasonable observer" inquiry applicable to cases involving holiday displays and graduation ceremonies. The dissent criticizes application of a more constrained standard of review as "throw[ing] the Establishment Clause out the window." But as the numerous precedents cited in this section make clear, such a circumscribed inquiry applies to any constitutional claim concerning the entry of foreign nationals.]
+
+Given the standard of review, it should come as no  surprise that the Court hardly ever strikes down a policy  as illegitimate under rational basis scrutiny. On the few  occasions where we have done so, a common thread has  been that the laws at issue lack any purpose other than a  "bare . . . desire to harm a politically unpopular group."  In one case, we invalidated a local zoning ordinance that required a special permit for group homes for  the intellectually disabled, but not for other facilities such  as fraternity houses or hospitals. We did so on the ground  that the city's stated concerns about (among other things)  "legal responsibility" and "crowded conditions" rested on  "an irrational prejudice" against the intellectually dis-  abled. Cleburne v. Cleburne Living Center.  And in another case, this Court overturned a state constitutional amendment that denied gays and lesbians access  to the protection of antidiscrimination laws. The amendment, we held, was "divorced from any factual context  from which we could discern a relationship to legitimate  state interests," and "its sheer breadth [was] so discontinuous with the reasons offered for it" that the initiative  seemed "inexplicable by anything but animus." Romer v.  Evans.
+
+
+The Proclamation does not fit this pattern. It cannot be  said that it is impossible to "discern a relationship to  legitimate state interests" or that the policy is "inexplica-  ble by anything but animus." Indeed, the dissent can only  attempt to argue otherwise by refusing to apply anything  resembling rational basis review. But because there is persuasive evidence that the entry suspension has a legit-  imate grounding in national security concerns, quite apart  from any religious hostility, we must accept that independent justification.
+
+The Proclamation is expressly premised on legitimate  purposes: preventing entry of nationals who cannot be  adequately vetted and inducing other nations to improve  their practices. The text says nothing about religion.  Plaintiffs and the dissent nonetheless emphasize that five  of the seven nations currently included in the Proclamation have Muslim-majority populations. Yet that fact  alone does not support an inference of religious hostility,  given that the policy covers just 8% of the world's Muslim  population and is limited to countries that were previously  designated by Congress or prior administrations as posing  national security risks.
+
+ The Proclamation, moreover, reflects the results of a  worldwide review process undertaken by multiple Cabinet  officials and their agencies. Plaintiffs seek to discredit the  findings of the review, pointing to deviations from the  review's baseline criteria resulting in the inclusion of  Somalia and omission of Iraq. But as the Proclamation  explains, in each case the determinations were justified by  the distinct conditions in each country. Although Somalia  generally satisfies the information-sharing component of  the baseline criteria, it "stands apart . . . in the degree to  which [it] lacks command and control of its territory." As for Iraq, the Secretary of Homeland Security determined that entry restrictions were not  warranted in light of the close cooperative relationship  between the U. S. and Iraqi Governments and the country's key role in combating terrorism in the region.It is, in any event, difficult to see how exempting one of  the largest predominantly Muslim countries in the region  from coverage under the Proclamation can be cited as  evidence of animus toward Muslims.
+
+
+ More fundamentally, plaintiffs and the dissent chal-  lenge the entry suspension based on their perception of its  effectiveness and wisdom. They suggest that the policy is  overbroad and does little to serve national security inter-  ests. But we cannot substitute our own assessment for the  Executive's predictive judgments on such matters, all of  which "are delicate, complex, and involve large elements of  prophecy." While we of course "do not defer to the Government's  reading of the First Amendment," the Executive's evalua-  tion of the underlying facts is entitled to appropriate  weight, particularly in the context of litigation involving  "sensitive and weighty interests of national security and  foreign affairs."
+
+ Finally, the dissent invokes Korematsu v. United States. Whatever rhetorical advantage the  dissent may see in doing so, Korematsu has nothing to do  with this case. The forcible relocation of U. S. citizens to  concentration camps, solely and explicitly on the basis of  race, is objectively unlawful and outside the scope of Pres-  idential authority. But it is wholly inapt to liken that  morally repugnant order to a facially neutral policy denying certain foreign nationals the privilege of admission. The entry suspension is an act that is  well within executive authority and could have been taken  by any other President---the only question is evaluating  the actions of this particular President in promulgating an  otherwise valid Proclamation.
+
+ The dissent's reference to Korematsu, however, affords  this Court the opportunity to make express what is already obvious: Korematsu was gravely wrong the day it was decided, has been overruled in the court of history,  and---to be clear---"has no place in law under the Constitution." 323 U.S., at 248 (Jackson, J., dissenting).
+
+ Under these circumstances, the Government has set  forth a sufficient national security justification to survive  rational basis review. We express no view on the sound-  ness of the policy. We simply hold today that plaintiffs  have not demonstrated a likelihood of success on the  merits of their constitutional claim.
 
 
 **JUSTICE BREYER, with whom JUSTICE KAGAN joins, dissenting.**
 
-       The question before us is whether Proclamation No.
-    9645 is lawful. If its promulgation or content was signifi-
-    cantly affected by religious animus against Muslims, it
-    would violate the relevant statute or the First Amendment
-    itself.  If, however, its sole ratio
-    decidendi was one of national security, then it would be
-    unlikely to violate either the statute or the Constitution.
-    Which is it? Members of the Court principally disagree
-    about the answer to this question, i.e., about whether or
-    the extent to which religious animus played a significant
-    role in the Proclamation’s promulgation or content.
-    
-       In my view, the Proclamation’s elaborate system of
-    exemptions and waivers can and should help us answer
-    this question. That system provides for case-by-case
-    consideration of persons who may qualify for visas despite
-    the Proclamation’s general ban. Those persons include
-    lawful permanent residents, asylum seekers, refugees, students, children, and numerous others. There are likely
-    many such persons, perhaps in the thousands. And I
-    believe it appropriate to take account of their Proclamation-granted status when considering the Proclamation’s
-    lawfulness. The Solicitor General asked us to consider the
-    Proclamation “as” it is “written” and “as” it is “applied,”
-    waivers and exemptions included.  He
-    warned us against considering the Proclamation’s lawful-
-    ness “on the hypothetical situation that [the Proclamation]
-    is what it isn’t,” while telling us that its waiver and
-    exemption provisions mean what they say: The Proclamation does not exclude individuals from the United States
-    “if they meet the criteria” for a waiver or exemption. 
+ The question before us is whether Proclamation No.  9645 is lawful. If its promulgation or content was signifi-  cantly affected by religious animus against Muslims, it  would violate the relevant statute or the First Amendment  itself. If, however, its sole ratio  decidendi was one of national security, then it would be  unlikely to violate either the statute or the Constitution.  Which is it? Members of the Court principally disagree  about the answer to this question, i.e., about whether or  the extent to which religious animus played a significant  role in the Proclamation's promulgation or content.
 
-    
-    
-       On the one hand, if the Government is applying the
-    exemption and waiver provisions as written, then its
-    argument for the Proclamation’s lawfulness is strengthened. For one thing, the Proclamation then resembles
-    more closely the two important Presidential precedents on
-    point, President Carter’s Iran order and President
-    Reagan’s Cuba proclamation, both of which contained
-    similar categories of persons authorized to obtain case-by-case exemptions.  For another
-    thing, the Proclamation then follows more closely the basic
-    statutory scheme, which provides for strict case-by-case
-    scrutiny of applications. It would deviate from that system, not across the board, but where circumstances may
-    require that deviation.
-    
-       Further, since the case-by-case exemptions and waivers
-    apply without regard to the individual’s religion, application of that system would help make clear that the Proclamation does not deny visas to numerous Muslim individuals (from those countries) who do not pose a security threat. And that fact would help to rebut the First
-    Amendment claim that the Proclamation rests upon anti-Muslim bias rather than security need. Finally, of course,
-    the very fact that Muslims from those countries would
-    enter the United States (under Proclamation-provided
-    exemptions and waivers) would help to show the same
-    thing.
-    
-       On the other hand, if the Government is not applying
-    the system of exemptions and waivers that the Proclamation contains, then its argument for the Proclamation’s
-    lawfulness becomes significantly weaker. For one thing,
-    the relevant precedents—those of Presidents Carter and
-    Reagan—would bear far less resemblance to the present
-    Proclamation. Indeed, one might ask, if those two Presidents thought a case-by-case exemption system appropriate, what is different about present circumstances that
-    would justify that system’s absence?
-    
-    And, perhaps most importantly, if the Government is
-    not applying the Proclamation’s exemption and waiver
-    system, the claim that the Proclamation is a “Muslim
-    ban,” rather than a “security-based” ban, becomes much
-    stronger. How could the Government successfully claim
-    that the Proclamation rests on security needs if it is excluding Muslims who satisfy the Proclamation’s own
-    terms? At the same time, denying visas to Muslims who
-    meet the Proclamation’s own security terms would support
-    the view that the Government excludes them for reasons
-    based upon their religion.
-    
-       Unfortunately there is evidence that supports the second possibility, i.e., that the Government is not applying
-    the Proclamation as written. The Proclamation provides
-    that the Secretary of State and the Secretary of Homeland
-    Security “shall coordinate to adopt guidance” for consular
-    officers to follow when deciding whether to grant a waiver. Yet, to my knowledge, no guidance has issued.
-    The only potentially relevant document I have found
-    consists of a set of State Department answers to certain
-    Frequently Asked Questions, but this document simply
-    restates the Proclamation in plain language for visa applicants. It does not provide guidance for consular officers as
-    to how they are to exercise their discretion. 
-
-       An examination of publicly available statistics also
-    provides cause for concern. The State Department reported
-    that during the Proclamation’s first month, two waivers
-    were approved out of 6,555 eligible applicants. In its reply brief, the
-    Government claims that number increased from 2 to 430
-    during the first four months of implementation. That number, 430, however, when compared
-    with the number of pre-Proclamation visitors, accounts for
-    a miniscule percentage of those likely eligible for visas, in
-    such categories as persons requiring medical treatment,
-    academic visitors, students, family members, and others
-    belonging to groups that, when considered as a group
-    (rather than case by case), would not seem to pose security
-    threats.
-    
-      Amici have suggested that there are numerous appli-
-    cants who could meet the waiver criteria. For instance,
-    the Proclamation anticipates waivers for those with “significant business or professional obligations” in the United
-    States, and amici identify many scholars who
-    would seem to qualify. The Proclamation also
-    anticipates waivers for those with a “close family member
-    (e.g., a spouse, child, or parent)” in the United States, and amici identify many such individuals
-    affected by the Proclamation.  The Pars Equality Cen-
-    ter identified 1,000 individuals---including parents and
-    children of U. S. citizens---who sought and were denied
-    entry under the Proclamation, hundreds of whom seem to
-    meet the waiver criteria. 
-
-       Other data suggest the same. The Proclamation does
-    not apply to asylum seekers or refugees. 
-    Yet few refugees have been admitted since the Proclama-
-    tion took effect. While more than 15,000 Syrian refugees
-    arrived in the United States in 2016, only 13 have arrived
-    since January 2018.  Similarly
-    few refugees have been admitted since January from Iran
-    (3), Libya (1), Yemen (0), and Somalia (122). [similar evidence]
-
-       Finally, in a pending case in the Eastern District of New
-    York, a consular official has filed a sworn affidavit asserting that he and other officials do not, in fact, have discretion to grant waivers. According to the affidavit, consular
-    officers “were not allowed to exercise that discretion” and
-    “the waiver [process] is merely ‘window dressing.’” 
-    
-       Declarations, anecdotal evidence, facts, and numbers
-    taken from amicus briefs are not judicial factfindings. The
-    Government has not had an opportunity to respond, and a
-    court has not had an opportunity to decide. But, given the
-    importance of the decision in this case, the need for assurance that the Proclamation does not rest upon a “Muslim
-    ban,” and the assistance in deciding the issue that answers to the “exemption and waiver” questions may pro-
-    vide, I would send this case back to the District Court for
-    further proceedings. And, I would leave the injunction in
-    effect while the matter is litigated. Regardless, the
-    Court’s decision today leaves the District Court free to
-    explore these issues on remand.
-    
-       If this Court must decide the question without this
-    further litigation, I would, on balance, find the evidence of
-    antireligious bias, including statements on a website
-    taken down only after the President issued the two execu-
-    tive orders preceding the Proclamation, along with the
-    other statements also set forth in JUSTICE SOTOMAYOR’s
-    opinion, a sufficient basis to set the Proclamation aside.
-    And for these reasons, I respectfully dissent.
-    **JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG joins, dissenting.**
-    
-       The United States of America is a Nation built upon the
-    promise of religious liberty. Our Founders honored that
-    core promise by embedding the principle of religious neu­trality in the First Amendment. The Court’s decision
-    today fails to safeguard that fundamental principle. It
-    leaves undisturbed a policy first advertised openly and
-    unequivocally as a “total and complete shutdown of Mus­lims entering the United States” because the policy now
-    masquerades behind a façade of national-security con­
-    cerns. But this repackaging does little to cleanse Presi­dential Proclamation No. 9645 of the appearance of dis­crimination that the President’s words have created.
-    Based on the evidence in the record, a reasonable observer
-    would conclude that the Proclamation was motivated by
-    anti-Muslim animus. That alone suffices to show that
-    plaintiffs are likely to succeed on the merits of their Estab­lishment Clause claim. The majority holds otherwise by
-    ignoring the facts, misconstruing our legal precedent, and
-    turning a blind eye to the pain and suffering the Procla­mation inflicts upon countless families and individuals,
-    many of whom are United States citizens. Because that
-    troubling result runs contrary to the Constitution and our
-    precedent, I dissent.
+ In my view, the Proclamation's elaborate system of  exemptions and waivers can and should help us answer  this question. That system provides for case-by-case  consideration of persons who may qualify for visas despite  the Proclamation's general ban. Those persons include  lawful permanent residents, asylum seekers, refugees, students, children, and numerous others. There are likely  many such persons, perhaps in the thousands. And I  believe it appropriate to take account of their Proclamation-granted status when considering the Proclamation's  lawfulness. The Solicitor General asked us to consider the  Proclamation "as" it is "written" and "as" it is "applied,"  waivers and exemptions included. He  warned us against considering the Proclamation's lawful-  ness "on the hypothetical situation that [the Proclamation]  is what it isn't," while telling us that its waiver and  exemption provisions mean what they say: The Proclamation does not exclude individuals from the United States  "if they meet the criteria" for a waiver or exemption.
 
 
-      Although the majority briefly recounts a few of the
-    statements and background events that form the basis of
-    plaintiffs’ constitutional challenge, that
-    highly abridged account does not tell even half of the
-    story.  The full record paints a far more harrowing pic­ture, from which a reasonable observer would readily
-    conclude that the Proclamation was motivated by hostility
-    and animus toward the Muslim faith.
-    
-      During his Presidential campaign, then-candidate Don­ald Trump pledged that, if elected, he would ban Muslims
-    from entering the United States. Specifically, on Decem­ber 7, 2015, he issued a formal statement “calling for a
-    total and complete shutdown of Muslims entering the
-    United States.” That statement, which re­
-    mained on his campaign website until May 2017 (several
-    months into his Presidency), read in full:
-    
-        > Donald J. Trump is calling for a total and complete
-        shutdown of Muslims entering the United States until
-        our country’s representatives can figure out what is
-        going on. According to Pew Research, among others,
-        there is great hatred towards Americans by large
-        segments of the Muslim population. Most recently, a
-        poll from the Center for Security Policy released data
-        showing ‘25% of those polled agreed that violence
-        against Americans here in the United States is justi­fied as a part of the global jihad’ and 51% of those
-        polled ‘agreed that Muslims in America should have
-        the choice of being governed according to Shariah.’
-        Shariah authorizes such atrocities as murder against
-        nonbelievers who won’t convert, beheadings and more
-        unthinkable acts that pose great harm to Americans,
-        especially women.
-        
-        > Mr. Trum[p] stated, ‘Without looking at the vari­ous polling data, it is obvious to anybody the hatred is
-        beyond comprehension. Where this hatred comes
-        from and why we will have to determine. Until we are
-        able to determine and understand this problem and
-        the dangerous threat it poses, our country cannot be
-        the victims of the horrendous attacks by people that
-        believe only in Jihad, and have no sense of reason or
-        respect of human life. If I win the election for Presi­dent, we are going to Make America Great Again.’—
-        Donald J. Trump.”
 
-       On December 8, 2015, Trump justified his proposal
-    during a television interview by noting that President
-    Franklin D. Roosevelt “did the same thing” with respect to
-    the internment of Japanese Americans during World War
-    II. 
-        
-    In January 2016, during a Republican
-    primary debate, Trump was asked whether he wanted to
-    “rethink [ his] position” on “banning Muslims from enter­ing the country.”  He answered, “No.”
+ On the one hand, if the Government is applying the  exemption and waiver provisions as written, then its  argument for the Proclamation's lawfulness is strengthened. For one thing, the Proclamation then resembles  more closely the two important Presidential precedents on  point, President Carter's Iran order and President  Reagan's Cuba proclamation, both of which contained  similar categories of persons authorized to obtain case-by-case exemptions. For another  thing, the Proclamation then follows more closely the basic  statutory scheme, which provides for strict case-by-case  scrutiny of applications. It would deviate from that system, not across the board, but where circumstances may  require that deviation.
 
-A month later, at a rally in South Carolina, Trump told an
-    apocryphal story about United States General John J.
-    Pershing killing a large group of Muslim insurgents in the
-    Philippines with bullets dipped in pigs’ blood in the early
-    1900’s. 
+ Further, since the case-by-case exemptions and waivers  apply without regard to the individual's religion, application of that system would help make clear that the Proclamation does not deny visas to numerous Muslim individuals (from those countries) who do not pose a security threat. And that fact would help to rebut the First  Amendment claim that the Proclamation rests upon anti-Muslim bias rather than security need. Finally, of course,  the very fact that Muslims from those countries would  enter the United States (under Proclamation-provided  exemptions and waivers) would help to show the same  thing.
 
-In March 2016, he expressed his
-    belief that “Islam hates us. . . . [W]e can’t allow people coming into this country who have this hatred of the United
-    States . . . [a]nd of people that are not Muslim.” 
+ On the other hand, if the Government is not applying  the system of exemptions and waivers that the Proclamation contains, then its argument for the Proclamation's  lawfulness becomes significantly weaker. For one thing,  the relevant precedents—those of Presidents Carter and  Reagan—would bear far less resemblance to the present  Proclamation. Indeed, one might ask, if those two Presidents thought a case-by-case exemption system appropriate, what is different about present circumstances that  would justify that system's absence?
 
-    That same month, Trump asserted that “[w]e’re
-    having problems with the Muslims, and we’re having
-    problems with Muslims coming into the country.” He therefore called for surveillance of mosques in the
-    United States, blaming terrorist attacks on Muslims’ lack
-    of “assimilation” and their commitment to “sharia law.”
-    Ibid.; 
-    
-    A day later, he opined that Muslims “do
-    not respect us at all” and “don’t respect a lot of the things
-    that are happening throughout not only our country, but
-    they don’t respect other things.” 
+ And, perhaps most importantly, if the Government is  not applying the Proclamation's exemption and waiver  system, the claim that the Proclamation is a "Muslim  ban," rather than a "security-based" ban, becomes much  stronger. How could the Government successfully claim  that the Proclamation rests on security needs if it is excluding Muslims who satisfy the Proclamation's own  terms? At the same time, denying visas to Muslims who  meet the Proclamation's own security terms would support  the view that the Government excludes them for reasons  based upon their religion.
 
-As Trump’s presidential campaign progressed, he began
-    to describe his policy proposal in slightly different terms.
-    In June 2016, for instance, he characterized the policy
-    proposal as a suspension of immigration from countries
-    “where there’s a proven history of terrorism.”  He also described the proposal as rooted in the need to
-    stop “importing radical Islamic terrorism to the West
-    through a failed immigration system.” 
+ Unfortunately there is evidence that supports the second possibility, i.e., that the Government is not applying  the Proclamation as written. The Proclamation provides  that the Secretary of State and the Secretary of Homeland  Security "shall coordinate to adopt guidance" for consular  officers to follow when deciding whether to grant a waiver. Yet, to my knowledge, no guidance has issued.  The only potentially relevant document I have found  consists of a set of State Department answers to certain  Frequently Asked Questions, but this document simply  restates the Proclamation in plain language for visa applicants. It does not provide guidance for consular officers as  to how they are to exercise their discretion.
 
-    Asked in July 2016 whether he was “pull[ing] back from”
-    his pledged Muslim ban, Trump responded, “I actually
-    don’t think it’s a rollback. In fact, you could say it’s an
-    expansion.”  He then explained that he
-    used different terminology because “[p]eople were so upset
-    when [he] used the word Muslim.” 
+ An examination of publicly available statistics also  provides cause for concern. The State Department reported  that during the Proclamation's first month, two waivers  were approved out of 6,555 eligible applicants. In its reply brief, the  Government claims that number increased from 2 to 430  during the first four months of implementation. That number, 430, however, when compared  with the number of pre-Proclamation visitors, accounts for  a miniscule percentage of those likely eligible for visas, in  such categories as persons requiring medical treatment,  academic visitors, students, family members, and others  belonging to groups that, when considered as a group  (rather than case by case), would not seem to pose security  threats.
+
+ Amici have suggested that there are numerous appli-  cants who could meet the waiver criteria. For instance,  the Proclamation anticipates waivers for those with "significant business or professional obligations" in the United  States, and amici identify many scholars who  would seem to qualify. The Proclamation also  anticipates waivers for those with a "close family member  (e.g., a spouse, child, or parent)" in the United States, and amici identify many such individuals  affected by the Proclamation. The Pars Equality Cen-  ter identified 1,000 individuals---including parents and  children of U. S. citizens---who sought and were denied  entry under the Proclamation, hundreds of whom seem to  meet the waiver criteria.
+
+ Other data suggest the same. The Proclamation does  not apply to asylum seekers or refugees.  Yet few refugees have been admitted since the Proclama-  tion took effect. While more than 15,000 Syrian refugees  arrived in the United States in 2016, only 13 have arrived  since January 2018. Similarly  few refugees have been admitted since January from Iran  (3), Libya (1), Yemen (0), and Somalia (122). [similar evidence]
+
+ Finally, in a pending case in the Eastern District of New  York, a consular official has filed a sworn affidavit asserting that he and other officials do not, in fact, have discretion to grant waivers. According to the affidavit, consular  officers "were not allowed to exercise that discretion" and  "the waiver [process] is merely 'window dressing.'"
+
+ Declarations, anecdotal evidence, facts, and numbers  taken from amicus briefs are not judicial factfindings. The  Government has not had an opportunity to respond, and a  court has not had an opportunity to decide. But, given the  importance of the decision in this case, the need for assurance that the Proclamation does not rest upon a "Muslim  ban," and the assistance in deciding the issue that answers to the "exemption and waiver" questions may pro-  vide, I would send this case back to the District Court for  further proceedings. And, I would leave the injunction in  effect while the matter is litigated. Regardless, the  Court's decision today leaves the District Court free to  explore these issues on remand.
+
+ If this Court must decide the question without this  further litigation, I would, on balance, find the evidence of  antireligious bias, including statements on a website  taken down only after the President issued the two execu-  tive orders preceding the Proclamation, along with the  other statements also set forth in JUSTICE SOTOMAYOR's  opinion, a sufficient basis to set the Proclamation aside.  And for these reasons, I respectfully dissent.  **JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG joins, dissenting.**    The United States of America is a Nation built upon the  promise of religious liberty. Our Founders honored that  core promise by embedding the principle of religious neu­trality in the First Amendment. The Court's decision  today fails to safeguard that fundamental principle. It  leaves undisturbed a policy first advertised openly and  unequivocally as a "total and complete shutdown of Mus­lims entering the United States" because the policy now  masquerades behind a façade of national-security con­  cerns. But this repackaging does little to cleanse Presi­dential Proclamation No. 9645 of the appearance of dis­crimination that the President's words have created.  Based on the evidence in the record, a reasonable observer  would conclude that the Proclamation was motivated by  anti-Muslim animus. That alone suffices to show that  plaintiffs are likely to succeed on the merits of their Estab­lishment Clause claim. The majority holds otherwise by  ignoring the facts, misconstruing our legal precedent, and  turning a blind eye to the pain and suffering the Procla­mation inflicts upon countless families and individuals,  many of whom are United States citizens. Because that  troubling result runs contrary to the Constitution and our  precedent, I dissent.
 
 
-     A month before the 2016 election, Trump reiterated that
-    his proposed “Muslim ban” had “morphed into a[n] ex­
-    treme vetting from certain areas of the world.” Then, on December 21, 2016, President-elect Trump was
-    asked whether he would “rethink” his previous “plans to
-    create a Muslim registry or ban Muslim immigration.” He replied: “You know my plans. All along, I’ve
- proven to be right.” 
+ Although the majority briefly recounts a few of the  statements and background events that form the basis of  plaintiffs' constitutional challenge, that  highly abridged account does not tell even half of the  story. The full record paints a far more harrowing pic­ture, from which a reasonable observer would readily  conclude that the Proclamation was motivated by hostility  and animus toward the Muslim faith.
+
+ During his Presidential campaign, then-candidate Don­ald Trump pledged that, if elected, he would ban Muslims  from entering the United States. Specifically, on Decem­ber 7, 2015, he issued a formal statement "calling for a  total and complete shutdown of Muslims entering the  United States." That statement, which re­  mained on his campaign website until May 2017 (several  months into his Presidency), read in full:
+
+ > Donald J. Trump is calling for a total and complete  shutdown of Muslims entering the United States until  our country's representatives can figure out what is  going on. According to Pew Research, among others,  there is great hatred towards Americans by large  segments of the Muslim population. Most recently, a  poll from the Center for Security Policy released data  showing '25% of those polled agreed that violence  against Americans here in the United States is justi­fied as a part of the global jihad' and 51% of those  polled 'agreed that Muslims in America should have  the choice of being governed according to Shariah.'  Shariah authorizes such atrocities as murder against  nonbelievers who won't convert, beheadings and more  unthinkable acts that pose great harm to Americans,  especially women.
+
+ > Mr. Trum[p] stated, 'Without looking at the vari­ous polling data, it is obvious to anybody the hatred is  beyond comprehension. Where this hatred comes  from and why we will have to determine. Until we are  able to determine and understand this problem and  the dangerous threat it poses, our country cannot be  the victims of the horrendous attacks by people that  believe only in Jihad, and have no sense of reason or  respect of human life. If I win the election for Presi­dent, we are going to Make America Great Again.'—  Donald J. Trump."
+
+ On December 8, 2015, Trump justified his proposal  during a television interview by noting that President  Franklin D. Roosevelt "did the same thing" with respect to  the internment of Japanese Americans during World War  II.
+
+ In January 2016, during a Republican  primary debate, Trump was asked whether he wanted to  "rethink [ his] position" on "banning Muslims from enter­ing the country." He answered, "No."
+
+A month later, at a rally in South Carolina, Trump told an  apocryphal story about United States General John J.  Pershing killing a large group of Muslim insurgents in the  Philippines with bullets dipped in pigs' blood in the early  1900's.
+
+In March 2016, he expressed his  belief that "Islam hates us. . . . [W]e can't allow people coming into this country who have this hatred of the United  States . . . [a]nd of people that are not Muslim."
+
+ That same month, Trump asserted that "[w]e're  having problems with the Muslims, and we're having  problems with Muslims coming into the country." He therefore called for surveillance of mosques in the  United States, blaming terrorist attacks on Muslims' lack  of "assimilation" and their commitment to "sharia law."  Ibid.;
+
+ A day later, he opined that Muslims "do  not respect us at all" and "don't respect a lot of the things  that are happening throughout not only our country, but  they don't respect other things."
+
+As Trump's presidential campaign progressed, he began  to describe his policy proposal in slightly different terms.  In June 2016, for instance, he characterized the policy  proposal as a suspension of immigration from countries  "where there's a proven history of terrorism." He also described the proposal as rooted in the need to  stop "importing radical Islamic terrorism to the West  through a failed immigration system."
+
+ Asked in July 2016 whether he was "pull[ing] back from"  his pledged Muslim ban, Trump responded, "I actually  don't think it's a rollback. In fact, you could say it's an  expansion." He then explained that he  used different terminology because "[p]eople were so upset  when [he] used the word Muslim."
 
 
-On January 27, 2017, one week after taking office, President Trump signed Executive Order No. 13769 (EO–1), entitled “Protecting the
-    Nation From Foreign Terrorist Entry Into the United
-    States.” As he signed it, President Trump read the title,
-    looked up, and said “We all know what that means.” That same day, President Trump explained to the
-    media that, under EO–1, Christians would be given priority for entry as refugees into the United States. In particu­lar, he bemoaned the fact that in the past, “[i]f you were a
-    Muslim [refugee from Syria] you could come in, but if you
-    were a Christian, it was almost impossible.”  Considering that past policy “very unfair,” President
-    Trump explained that EO–1 was designed “to help” the
-    Christians in Syria. 
+ A month before the 2016 election, Trump reiterated that  his proposed "Muslim ban" had "morphed into a[n] ex­  treme vetting from certain areas of the world." Then, on December 21, 2016, President-elect Trump was  asked whether he would "rethink" his previous "plans to  create a Muslim registry or ban Muslim immigration." He replied: "You know my plans. All along, I've  proven to be right."
 
 
-The following day, one of Presi­dent Trump’s key advisers candidly drew the connection
-    between EO–1 and the “Muslim ban” that the President
-    had pledged to implement if elected. According to that adviser, “[W]hen [Donald Trump] first announced it,
-    he said, ‘Muslim ban.’ He called me up. He said, ‘Put a
-    commission together. Show me the right way to do it
-    legally.’ ” 
+On January 27, 2017, one week after taking office, President Trump signed Executive Order No. 13769 (EO–1), entitled "Protecting the  Nation From Foreign Terrorist Entry Into the United  States." As he signed it, President Trump read the title,  looked up, and said "We all know what that means." That same day, President Trump explained to the  media that, under EO–1, Christians would be given priority for entry as refugees into the United States. In particu­lar, he bemoaned the fact that in the past, "[i]f you were a  Muslim [refugee from Syria] you could come in, but if you  were a Christian, it was almost impossible." Considering that past policy "very unfair," President  Trump explained that EO–1 was designed "to help" the  Christians in Syria.
 
 
-After EO–2 was issued, the White House Press Secretary told reporters
-    that, by issuing EO–2, President Trump “continue[d] to
-    deliver on . . . his most significant campaign promises.” That statement was consistent with President
-    Trump’s own declaration that “I keep my campaign prom­ises, and our citizens will be very happy when they see the
-    result.” 
+The following day, one of Presi­dent Trump's key advisers candidly drew the connection  between EO–1 and the "Muslim ban" that the President  had pledged to implement if elected. According to that adviser, "[W]hen [Donald Trump] first announced it,  he said, 'Muslim ban.' He called me up. He said, 'Put a  commission together. Show me the right way to do it  legally.' "
 
 
-      While litigation over EO–2 was ongoing, President
-    Trump repeatedly made statements alluding to a desire to
-    keep Muslims out of the country. For instance, he said at
-    a rally of his supporters that EO–2 was just a “watered
-    down version of the first one” and had been “tailor[ed]” at
-    the behest of “the lawyers.” He further added
-    that he would prefer “to go back to the first [executive
-    order] and go all the way” and reiterated his belief that it
-    was “very hard” for Muslims to assimilate into Western
-    culture. 
-
-    During a rally in April 2017,
-    President Trump recited the lyrics to a song called “The
-    Snake,” a song about a woman who nurses a sick snake
-    back to health but then is attacked by the snake, as a
-    warning about Syrian refugees entering the country. And in June 2017, the President stated on
-    Twitter that the Justice Department had submitted a
-    “watered down, politically correct version” of the “original
-    Travel Ban” “to S[upreme] C[ourt].” The
-    President went on to tweet: “People, the lawyers and the
-    courts can call it whatever they want, but I am calling it
-    what we need and what it is, a TRAVEL BAN!”  He added: “That’s right, we need a TRAVEL
-    BAN for certain DANGEROUS countries, not some politi­cally correct term that won’t help us protect our people!”
-    
-    
-    Then, on August 17, 2017, President Trump
-    issued yet another tweet about Islam, once more referenc­ing the story about General Pershing’s massacre of Mus­lims in the Philippines: “Study what General Pershing . . .
-    did to terrorists when caught. There was no more Radical
-    Islamic Terror for 35 years!” 
-
-In September 2017, President Trump tweeted that “[t]he
-    travel ban into the United States should be far larger,
-    tougher and more specific---but stupidly, that would not be
-    politically correct!” Later that month, on Sep­tember 24, 2017, President Trump issued Presidential
-    Proclamation No. 9645, which restricts entry of certain nationals from
-    six Muslim-majority countries. 
-    
-On November 29, 2017,
-    President Trump “retweeted” three anti-Muslim videos,
-    entitled “Muslim Destroys a Statue of Virgin Mary!”,
-    “Islamist mob pushes teenage boy off roof and beats him to
-    death!”, and “Muslim migrant beats up Dutch boy on crutches! Those videos were
-    initially tweeted by a British political party whose mission
-    is to oppose “all alien and destructive politic[al] or reli­gious doctrines, including . . . Islam.”  When asked about these videos, the White House Deputy Press Secre­tary connected them to the Proclamation, responding that
-    the “President has been talking about these security is­sues for years now, from the campaign trail to the White
-    House” and “has addressed these issues with the travel
-    order that he issued earlier this year and the companion
-    proclamation.” 
-
-As the majority correctly notes, “the issue before us is
-    not whether to denounce” these offensive statements.
-     Rather, the dispositive and narrow question
-    here is whether a reasonable observer, presented with all
-    “openly available data,” the text and “historical context” of
-    the Proclamation, and the “specific sequence of events”
-    leading to it, would conclude that the primary purpose of
-    the Proclamation is to disfavor Islam and its adherents by
-    excluding them from the country. McCreary. The answer is unquestionably yes.
-    
-      Taking all the relevant evidence together, a reasonable
-    observer would conclude that the Proclamation was driven
-    primarily by anti-Muslim animus, rather than by the Government’s asserted national-security justifications.
+After EO–2 was issued, the White House Press Secretary told reporters  that, by issuing EO–2, President Trump "continue[d] to  deliver on . . . his most significant campaign promises." That statement was consistent with President  Trump's own declaration that "I keep my campaign prom­ises, and our citizens will be very happy when they see the  result."
 
 
-      Ultimately, what began as a policy explicitly “calling for
-    a total and complete shutdown of Muslims entering the
-    United States” has since morphed into a “Proclamation”
-    putatively based on national-security concerns. But this
-    new window dressing cannot conceal an unassailable fact:
-    the words of the President and his advisers create the
-    strong perception that the Proclamation is contaminated
-    by impermissible discriminatory animus against Islam
-    and its followers.
+ While litigation over EO–2 was ongoing, President  Trump repeatedly made statements alluding to a desire to  keep Muslims out of the country. For instance, he said at  a rally of his supporters that EO–2 was just a "watered  down version of the first one" and had been "tailor[ed]" at  the behest of "the lawyers." He further added  that he would prefer "to go back to the first [executive  order] and go all the way" and reiterated his belief that it  was "very hard" for Muslims to assimilate into Western  culture.
 
-        Rather than defend the President’s problematic state­
-    ments, the Government urges this Court to set them aside
-    and defer to the President on issues related to immigra­tion and national security. The majority accepts that
-    invitation and incorrectly applies a watered-down legal
-    standard in an effort to short circuit plaintiffs’ Establish­ment Clause claim.
-    
-        The majority begins its constitutional analysis by noting
-    that this Court, at times, “has engaged in a circumscribed
-    judicial inquiry when the denial of a visa allegedly bur­dens the constitutional rights of a U. S. citizen.”  As
-    the majority notes, Mandel held that when the Executive
-    Branch provides “a facially legitimate and bona fide rea­
-    son” for denying a visa, “courts will neither look behind
-    the exercise of that discretion, nor test it by balancing its
-    justification.”  In his controlling concurrence
-    in Kerry v. Din, JUSTICE KENNEDY applied Mandel’s holding and elaborated that courts can “ ‘look behind’ the Government’s exclusion of ” a foreign
-    national if there is “an affirmative showing of bad faith on
-    the part of the consular officer who denied [the] visa.” The extent to which Mandel and Din apply at all to this case is unsettled, and there is good reason to
-    think they do not. Indeed, even the Government agreed
-    at oral argument that where the Court confronts a situa­tion involving “all kinds of denigrating comments about” a
-    particular religion and a subsequent policy that is de­signed with the purpose of disfavoring that religion but
-    that “dot[s] all the i’s and . . . cross[es] all the t’s,” Mandel
-    would not “pu[t] an end to judicial review of that set of
-    facts.” 
+ During a rally in April 2017,  President Trump recited the lyrics to a song called "The  Snake," a song about a woman who nurses a sick snake  back to health but then is attacked by the snake, as a  warning about Syrian refugees entering the country. And in June 2017, the President stated on  Twitter that the Justice Department had submitted a  "watered down, politically correct version" of the "original  Travel Ban" "to S[upreme] C[ourt]." The  President went on to tweet: "People, the lawyers and the  courts can call it whatever they want, but I am calling it  what we need and what it is, a TRAVEL BAN!" He added: "That's right, we need a TRAVEL  BAN for certain DANGEROUS countries, not some politi­cally correct term that won't help us protect our people!"
 
-In light of the Government’s suggestion “that it may be
-    appropriate here for the inquiry to extend beyond the
-    facial neutrality of the order,” the majority rightly declines to apply Mandel’s “narrow standard of review” and “as­
-    sume[s] that we may look behind the face of the Proclama­
-    tion.”  In doing so, however, the Court,
-    without explanation or precedential support, limits its
-    review of the Proclamation to rational-basis scrutiny. That approach is perplexing, given that in other
-    Establishment Clause cases, including those involving
-    claims of religious animus or discrimination, this Court
-    has applied a more stringent standard of review. 
-    
-    
-This Court’s Establishment Clause
-    precedents require that, if a reasonable observer would understand an
-    executive action to be driven by discriminatory animus, the action be
-    invalidated. That reasonable-
-    observer inquiry includes consideration of the Government’s asserted
-    justifications for its actions. The Government’s invocation of a national-security justification, however, does not mean that the Court should
-    close its eyes to other relevant information. Deference is different from
-    unquestioning acceptance. Thus, what is “far more problematic” in this
-    case is the majority’s apparent willingness to throw the Establishment
-    Clause out the window and forgo any meaningful constitutional review
-    at the mere mention of a national-security concern. 
-    
+
+ Then, on August 17, 2017, President Trump  issued yet another tweet about Islam, once more referenc­ing the story about General Pershing's massacre of Mus­lims in the Philippines: "Study what General Pershing . . .  did to terrorists when caught. There was no more Radical  Islamic Terror for 35 years!"
+
+In September 2017, President Trump tweeted that "[t]he  travel ban into the United States should be far larger,  tougher and more specific---but stupidly, that would not be  politically correct!" Later that month, on Sep­tember 24, 2017, President Trump issued Presidential  Proclamation No. 9645, which restricts entry of certain nationals from  six Muslim-majority countries.
+
+On November 29, 2017,  President Trump "retweeted" three anti-Muslim videos,  entitled "Muslim Destroys a Statue of Virgin Mary!",  "Islamist mob pushes teenage boy off roof and beats him to  death!", and "Muslim migrant beats up Dutch boy on crutches! Those videos were  initially tweeted by a British political party whose mission  is to oppose "all alien and destructive politic[al] or reli­gious doctrines, including . . . Islam." When asked about these videos, the White House Deputy Press Secre­tary connected them to the Proclamation, responding that  the "President has been talking about these security is­sues for years now, from the campaign trail to the White  House" and "has addressed these issues with the travel  order that he issued earlier this year and the companion  proclamation."
+
+As the majority correctly notes, "the issue before us is  not whether to denounce" these offensive statements.  Rather, the dispositive and narrow question  here is whether a reasonable observer, presented with all  "openly available data," the text and "historical context" of  the Proclamation, and the "specific sequence of events"  leading to it, would conclude that the primary purpose of  the Proclamation is to disfavor Islam and its adherents by  excluding them from the country. McCreary. The answer is unquestionably yes.
+
+ Taking all the relevant evidence together, a reasonable  observer would conclude that the Proclamation was driven  primarily by anti-Muslim animus, rather than by the Government's asserted national-security justifications.
+
+
+ Ultimately, what began as a policy explicitly "calling for  a total and complete shutdown of Muslims entering the  United States" has since morphed into a "Proclamation"  putatively based on national-security concerns. But this  new window dressing cannot conceal an unassailable fact:  the words of the President and his advisers create the  strong perception that the Proclamation is contaminated  by impermissible discriminatory animus against Islam  and its followers.
+
+ Rather than defend the President's problematic state­  ments, the Government urges this Court to set them aside  and defer to the President on issues related to immigra­tion and national security. The majority accepts that  invitation and incorrectly applies a watered-down legal  standard in an effort to short circuit plaintiffs' Establish­ment Clause claim.
+
+ The majority begins its constitutional analysis by noting  that this Court, at times, "has engaged in a circumscribed  judicial inquiry when the denial of a visa allegedly bur­dens the constitutional rights of a U. S. citizen." As  the majority notes, Mandel held that when the Executive  Branch provides "a facially legitimate and bona fide rea­  son" for denying a visa, "courts will neither look behind  the exercise of that discretion, nor test it by balancing its  justification." In his controlling concurrence  in Kerry v. Din, JUSTICE KENNEDY applied Mandel's holding and elaborated that courts can " 'look behind' the Government's exclusion of " a foreign  national if there is "an affirmative showing of bad faith on  the part of the consular officer who denied [the] visa." The extent to which Mandel and Din apply at all to this case is unsettled, and there is good reason to  think they do not. Indeed, even the Government agreed  at oral argument that where the Court confronts a situa­tion involving "all kinds of denigrating comments about" a  particular religion and a subsequent policy that is de­signed with the purpose of disfavoring that religion but  that "dot[s] all the i's and . . . cross[es] all the t's," Mandel  would not "pu[t] an end to judicial review of that set of  facts."
+
+In light of the Government's suggestion "that it may be  appropriate here for the inquiry to extend beyond the  facial neutrality of the order," the majority rightly declines to apply Mandel's "narrow standard of review" and "as­  sume[s] that we may look behind the face of the Proclama­  tion." In doing so, however, the Court,  without explanation or precedential support, limits its  review of the Proclamation to rational-basis scrutiny. That approach is perplexing, given that in other  Establishment Clause cases, including those involving  claims of religious animus or discrimination, this Court  has applied a more stringent standard of review.
+
+
+This Court's Establishment Clause  precedents require that, if a reasonable observer would understand an  executive action to be driven by discriminatory animus, the action be  invalidated. That reasonable-  observer inquiry includes consideration of the Government's asserted  justifications for its actions. The Government's invocation of a national-security justification, however, does not mean that the Court should  close its eyes to other relevant information. Deference is different from  unquestioning acceptance. Thus, what is "far more problematic" in this  case is the majority's apparent willingness to throw the Establishment  Clause out the window and forgo any meaningful constitutional review  at the mere mention of a national-security concern.
+
 [extended analysis of implausibility of national security concern omitted]
-   
-       In sum, none of the features of the Proclamation high­
-    lighted by the majority supports the Government’s claim
-    that the Proclamation is genuinely and primarily rooted in
-    a legitimate national-security interest. What the unrebut­ted evidence actually shows is that a reasonable observer
-    would conclude, quite easily, that the primary purpose and
-    function of the Proclamation is to disfavor Islam by ban­
-    ning Muslims from entering our country.
 
-       The First Amendment stands as a bulwark against
-    official religious prejudice and embodies our Nation’s deep
-    commitment to religious plurality and tolerance. That
-    constitutional promise is why, “[f ]or centuries now, people
-    have come to this country from every corner of the world
-    to share in the blessing of religious freedom.” Instead of vindicating those principles,
-    today’s decision tosses them aside. In holding that the
-    First Amendment gives way to an executive policy that a
-    reasonable observer would view as motivated by animus
-    against Muslims, the majority opinion upends this Court’s
-    precedent, repeats tragic mistakes of the past, and denies
-    countless individuals the fundamental right of religious
-    liberty.
-    
-       Just weeks ago, the Court rendered its decision in Mas­
-    terpiece Cakeshop, which applied the bed­
-    rock principles of religious neutrality and tolerance in
-    considering a First Amendment challenge to government
-    action. Those principles should apply equally
-    here. In both instances, the question is whether a gov­ernment actor exhibited tolerance and neutrality in reach­
-    ing a decision that affects individuals’ fundamental religious freedom. But unlike in Masterpiece, where a state
-    civil rights commission was found to have acted without
-    “the neutrality that the Free Exercise Clause requires,” the government actors in this
-    case will not be held accountable for breaching the First
-    Amendment’s guarantee of religious neutrality and toler­ance. Unlike in Masterpiece, where the majority consid­ered the state commissioners’ statements about religion to
-    be persuasive evidence of unconstitutional government
-    action, the majority
-    here completely sets aside the President’s charged state­
-    ments about Muslims as irrelevant. That holding erodes
-    the foundational principles of religious tolerance that the
-    Court elsewhere has so emphatically protected, and it tells
-    members of minority religions in our country “ ‘that they
-    are outsiders, not full members of the political commu­nity.’ ” 
+ In sum, none of the features of the Proclamation high­  lighted by the majority supports the Government's claim  that the Proclamation is genuinely and primarily rooted in  a legitimate national-security interest. What the unrebut­ted evidence actually shows is that a reasonable observer  would conclude, quite easily, that the primary purpose and  function of the Proclamation is to disfavor Islam by ban­  ning Muslims from entering our country.
 
-       Today’s holding is all the more troubling given the stark
-    parallels between the reasoning of this case and that of
-    Korematsu v. United States. In Korematsu, the Court gave “a pass [to] an
-    odious, gravely injurious racial classification” authorized
-    by an executive order.  As here, the Government invoked an ill-defined national-security threat to justify an exclusionary policy of sweep­ing proportion.  As here, the exclusion order was rooted in dangerous stereotypes about, inter
-    alia, a particular group’s supposed inability to assimilate
-    and desire to harm the United States.  As here, the
-    Government was unwilling to reveal its own intelligence
-    agencies’ views of the alleged security concerns to the very
-    citizens it purported to protect. And as here, there was strong
-    evidence that impermissible hostility and animus moti-
-    vated the Government’s policy.
-    
-       Although a majority of the Court in Korematsu was
-    willing to uphold the Government’s actions based on a
-    barren invocation of national security, dissenting Justices
-    warned of that decision’s harm to our constitutional fabric.
-    Justice Murphy recognized that there is a need for great
-    deference to the Executive Branch in the context of na­tional security, but cautioned that “it is essential that
-    there be definite limits to [the government’s] discretion,”
-    as “[i]ndividuals must not be left impoverished of their
-    constitutional rights on a plea of military necessity that
-    has neither substance nor support.” Justice Jackson lamented that
-    the Court’s decision upholding the Government’s policy
-    would prove to be “a far more subtle blow to liberty than
-    the promulgation of the order itself,” for although the
-    executive order was not likely to be long lasting, the
-    Court’s willingness to tolerate it would endure. 
+ The First Amendment stands as a bulwark against  official religious prejudice and embodies our Nation's deep  commitment to religious plurality and tolerance. That  constitutional promise is why, "[f ]or centuries now, people  have come to this country from every corner of the world  to share in the blessing of religious freedom." Instead of vindicating those principles,  today's decision tosses them aside. In holding that the  First Amendment gives way to an executive policy that a  reasonable observer would view as motivated by animus  against Muslims, the majority opinion upends this Court's  precedent, repeats tragic mistakes of the past, and denies  countless individuals the fundamental right of religious  liberty.
+
+ Just weeks ago, the Court rendered its decision in Mas­  terpiece Cakeshop, which applied the bed­  rock principles of religious neutrality and tolerance in  considering a First Amendment challenge to government  action. Those principles should apply equally  here. In both instances, the question is whether a gov­ernment actor exhibited tolerance and neutrality in reach­  ing a decision that affects individuals' fundamental religious freedom. But unlike in Masterpiece, where a state  civil rights commission was found to have acted without  "the neutrality that the Free Exercise Clause requires," the government actors in this  case will not be held accountable for breaching the First  Amendment's guarantee of religious neutrality and toler­ance. Unlike in Masterpiece, where the majority consid­ered the state commissioners' statements about religion to  be persuasive evidence of unconstitutional government  action, the majority  here completely sets aside the President's charged state­  ments about Muslims as irrelevant. That holding erodes  the foundational principles of religious tolerance that the  Court elsewhere has so emphatically protected, and it tells  members of minority religions in our country " 'that they  are outsiders, not full members of the political commu­nity.' "
+
+ Today's holding is all the more troubling given the stark  parallels between the reasoning of this case and that of  Korematsu v. United States. In Korematsu, the Court gave "a pass [to] an  odious, gravely injurious racial classification" authorized  by an executive order. As here, the Government invoked an ill-defined national-security threat to justify an exclusionary policy of sweep­ing proportion. As here, the exclusion order was rooted in dangerous stereotypes about, inter  alia, a particular group's supposed inability to assimilate  and desire to harm the United States. As here, the  Government was unwilling to reveal its own intelligence  agencies' views of the alleged security concerns to the very  citizens it purported to protect. And as here, there was strong  evidence that impermissible hostility and animus moti-  vated the Government's policy.
+
+ Although a majority of the Court in Korematsu was  willing to uphold the Government's actions based on a  barren invocation of national security, dissenting Justices  warned of that decision's harm to our constitutional fabric.  Justice Murphy recognized that there is a need for great  deference to the Executive Branch in the context of na­tional security, but cautioned that "it is essential that  there be definite limits to [the government's] discretion,"  as "[i]ndividuals must not be left impoverished of their  constitutional rights on a plea of military necessity that  has neither substance nor support." Justice Jackson lamented that  the Court's decision upholding the Government's policy  would prove to be "a far more subtle blow to liberty than  the promulgation of the order itself," for although the  executive order was not likely to be long lasting, the  Court's willingness to tolerate it would endure.
 
 
-       In the intervening years since Korematsu, our Nation
-    has done much to leave its sordid legacy behind. See, e.g.,
-    Civil Liberties Act of 1988 (setting forth remedies to individuals affected by the
-    executive order at issue in Korematsu); Non-Detention Act
-    of 1971, (forbidding the imprisonment
-    or detention by the United States of any citizen absent an
-    Act of Congress). Today, the Court takes the important
-    step of finally overruling Korematsu, denouncing it as
-    “gravely wrong the day it was decided.” 
+ In the intervening years since Korematsu, our Nation  has done much to leave its sordid legacy behind. See, e.g.,  Civil Liberties Act of 1988 (setting forth remedies to individuals affected by the  executive order at issue in Korematsu); Non-Detention Act  of 1971, (forbidding the imprisonment  or detention by the United States of any citizen absent an  Act of Congress). Today, the Court takes the important  step of finally overruling Korematsu, denouncing it as  "gravely wrong the day it was decided."
 
-    This formal repudiation of a shameful precedent is laud­
-    able and long overdue. But it does not make the majority’s
-    decision here acceptable or right. By blindly accepting the
-    Government’s misguided invitation to sanction a discrimi­natory policy motivated by animosity toward a disfavored
-    group, all in the name of a superficial claim of national
-    security, the Court redeploys the same dangerous logic
-    underlying Korematsu and merely replaces one “gravely
-    wrong” decision with another. 
-    
-       Our Constitution demands, and our country deserves, a
-    Judiciary willing to hold the coordinate branches to ac­count when they defy our most sacred legal commitments.
-    Because the Court’s decision today has failed in that
-    respect, with profound regret, I dissent.
-    \newpage
+ This formal repudiation of a shameful precedent is laud­  able and long overdue. But it does not make the majority's  decision here acceptable or right. By blindly accepting the  Government's misguided invitation to sanction a discrimi­natory policy motivated by animosity toward a disfavored  group, all in the name of a superficial claim of national  security, the Court redeploys the same dangerous logic  underlying Korematsu and merely replaces one "gravely  wrong" decision with another.
+
+ Our Constitution demands, and our country deserves, a  Judiciary willing to hold the coordinate branches to ac­count when they defy our most sacred legal commitments.  Because the Court's decision today has failed in that  respect, with profound regret, I dissent.  \newpage
 

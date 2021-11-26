@@ -5,170 +5,56 @@
 **Mr. Justice STEWART delivered the opinion of the Court.**
 
 
-In this case we are called upon to determine the scope and constitutionality
-of an Act of Congress, 42 U.S.C. § 1982, which provides that:
+In this case we are called upon to determine the scope and constitutionality of an Act of Congress, 42 U.S.C. § 1982, which provides that:
 
 > All citizens of the United States shall have the same right, in every State and Territory, as is enjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.'
 
-On September 2, 1965, the petitioners filed a complaint in the District Court
-for the Eastern District of Missouri, alleging that the respondents had
-refused to sell them a home in the Paddock Woods community of St. Louis County
-for the sole reason that petitioner Joseph Lee Jones is a Negro. Relying in
-part upon § 1982, the petitioners sought injunctive and other relief. The
-District Court sustained the respondents' motion to dismiss the complaint,
-and the Court of Appeals for the Eighth Circuit affirmed, concluding that §1982 applies only to state action and does not reach private refusals to
-sell. We granted certiorari to consider the questions thus presented. For
-the reasons that follow, we reverse the judgment of the Court of Appeals. We
-hold that § 1982 bars all racial discrimination, private as well as public, in
-the sale or rental of property, and that the statute, thus construed, is a
-valid exercise of the power of Congress to enforce the Thirteenth Amendment.
+On September 2, 1965, the petitioners filed a complaint in the District Court for the Eastern District of Missouri, alleging that the respondents had refused to sell them a home in the Paddock Woods community of St. Louis County for the sole reason that petitioner Joseph Lee Jones is a Negro. Relying in part upon § 1982, the petitioners sought injunctive and other relief. The District Court sustained the respondents' motion to dismiss the complaint, and the Court of Appeals for the Eighth Circuit affirmed, concluding that §1982 applies only to state action and does not reach private refusals to sell. We granted certiorari to consider the questions thus presented. For the reasons that follow, we reverse the judgment of the Court of Appeals. We hold that § 1982 bars all racial discrimination, private as well as public, in the sale or rental of property, and that the statute, thus construed, is a valid exercise of the power of Congress to enforce the Thirteenth Amendment.
 
 [discussion of interpreting the statute to cover private versus public discrimination mostly omitted, except for the following paragraphs which have important history]
 
-We begin with the language of the statute itself. In plain and unambiguous
-terms, § 1982 grants to all citizens, without regard to race or color, 'the
-same right' to purchase and lease property 'as is enjoyed by white citizens.'
-As the Court of Appeals in this case evidently recognized, that right can be
-impaired as effectively by 'those who place property on the market' as by
-the State itself. For, even if the State and its agents lend no support to
-those who wish to exclude persons from their communities on racial grounds,
-the fact remains that, whenever property 'is placed on the market for whites
-only, whites have a right denied to Negroes.' So long as a Negro citizen who
-wants to buy or rent a home can be turned away simply because he is not white,
-he cannot be said to enjoy 'the same right * * * as is enjoyed by white
-citizens * * * to * * * purchase (and) lease * * * real and personal
-property.' 
+We begin with the language of the statute itself. In plain and unambiguous terms, § 1982 grants to all citizens, without regard to race or color, 'the same right' to purchase and lease property 'as is enjoyed by white citizens.' As the Court of Appeals in this case evidently recognized, that right can be impaired as effectively by 'those who place property on the market' as by the State itself. For, even if the State and its agents lend no support to those who wish to exclude persons from their communities on racial grounds, the fact remains that, whenever property 'is placed on the market for whites only, whites have a right denied to Negroes.' So long as a Negro citizen who wants to buy or rent a home can be turned away simply because he is not white, he cannot be said to enjoy 'the same right * * * as is enjoyed by white citizens * * * to * * * purchase (and) lease * * * real and personal property.'
 
-On its face, therefore, § 1982 appears to prohibit all discrimination against
-Negroes in the sale or rental of property discrimination by private owners as
-well as discrimination by public authorities. Indeed, even the respondents
-seem to concede that, if § 1982 'means what it says'--to use the words of the
-respondents' brief--then it must encompass every racially motivated refusal to
-sell or rent and cannot be confined to officially sanctioned segregationin
-housing. Stressing what they consider to be the revolutionary implications of
-so literal a reading of § 1982, the respondents argue that Congress cannot
-possibly have intended any such result. Our examination of the relevant
-history, however, persuades us that Congress meant exactly what it said.
+On its face, therefore, § 1982 appears to prohibit all discrimination against Negroes in the sale or rental of property discrimination by private owners as well as discrimination by public authorities. Indeed, even the respondents seem to concede that, if § 1982 'means what it says'--to use the words of the respondents' brief--then it must encompass every racially motivated refusal to sell or rent and cannot be confined to officially sanctioned segregationin housing. Stressing what they consider to be the revolutionary implications of so literal a reading of § 1982, the respondents argue that Congress cannot possibly have intended any such result. Our examination of the relevant history, however, persuades us that Congress meant exactly what it said.
 
-In its original form, 42 U.S.C. § 1982 was part of § 1 of the Civil Rights Act
-of 1866. That section was cast in sweeping terms:
+In its original form, 42 U.S.C. § 1982 was part of § 1 of the Civil Rights Act of 1866. That section was cast in sweeping terms:
 
 > Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That all persons born in the United States and not subject to any foreign power, * * * are hereby declared to be citizens of the United States; and such citizens, of every race and color, without regard to any previous condition of slavery or involuntary servitude, * * * shall have the same right, in every State and Territory in the United States, to make and enforce contracts, to sue, be parties, and give evidence, to inherit, purchase, lease, sell, hold, and convey real and personal property, and to full and equal benefit of all laws and proceedings for the security of person and property, as is enjoyed by white citizens, and shall be subject to like punishment, pains, and penalties, and to none other, any law, statute, ordinance, regulation, or custom, to the contrary notwithstanding.
 
-The crucial language for our purposes was that which guaranteed all citizens
-'the same right, in every State and Territory in the United States, * * * to
-inherit, purchase, lease, sell, hold, and convey real and personal property *
-* * as is enjoyed by white citizens * * *.' To the Congress that passed the
-Civil Rights Act of 1866, it was clear that the right to do these things might
-be infringed not only by 'State or local law' but also by 'custom, or
-prejudice.' Thus, when Congress provided in § 1 of the Civil Rights Act that
-the right to purchase and lease property was to be enjoyed equally throughout
-the United States by Negro and white citizens alike, it plainly meant to
-secure that right against interference from any source whatever, whether
-governmental or private.
+The crucial language for our purposes was that which guaranteed all citizens 'the same right, in every State and Territory in the United States, * * * to inherit, purchase, lease, sell, hold, and convey real and personal property *
+* * as is enjoyed by white citizens * * *.' To the Congress that passed the Civil Rights Act of 1866, it was clear that the right to do these things might be infringed not only by 'State or local law' but also by 'custom, or prejudice.' Thus, when Congress provided in § 1 of the Civil Rights Act that the right to purchase and lease property was to be enjoyed equally throughout the United States by Negro and white citizens alike, it plainly meant to secure that right against interference from any source whatever, whether governmental or private.
 
-Indeed, if § 1 had been intended to grant nothing more than an immunity from
-governmental interference, then much of § 2 would have made no sense at all.
-For that section, which provided fines and prison terms for certain
-individuals who deprived others of rights 'secured or protcted' by § 1, was
-carefully drafted to exempt private violations of § 1 from the criminal
-sanctions it imposed. There would, of course, have been no private
-violations to exempt if the only 'right' granted by § 1 had been a right to be
-free of discrimination by public officials. Hence the structure of the 1866
-Act, as well as its language, points to the conclusion urged by the
-petitioners in this case that § 1 was meant to prohibit all racially motivated
-deprivations of the rights enumerated in the statute, although only those
-deprivations perpetrated 'under color of law' were to be criminally punishable
-under § 2.
+Indeed, if § 1 had been intended to grant nothing more than an immunity from governmental interference, then much of § 2 would have made no sense at all. For that section, which provided fines and prison terms for certain individuals who deprived others of rights 'secured or protcted' by § 1, was carefully drafted to exempt private violations of § 1 from the criminal sanctions it imposed. There would, of course, have been no private violations to exempt if the only 'right' granted by § 1 had been a right to be free of discrimination by public officials. Hence the structure of the 1866 Act, as well as its language, points to the conclusion urged by the petitioners in this case that § 1 was meant to prohibit all racially motivated deprivations of the rights enumerated in the statute, although only those deprivations perpetrated 'under color of law' were to be criminally punishable under § 2.
 
-In attempting to demonstrate the contrary, the respondents rely heavily upon
-the fact that the Congress which approved the 1866 statute wished to eradicate
-the recently enacted Black Codes laws which had saddled Negroes with 'onerous
-disabilities and burdens, and curtailed their rights * * * to such an extent
-that their freedom was of little value * * *.' Slaughter-House Cases. The respondents suggest that the only evil Congress sought to eliminate was that of racially discriminatory laws in the former
-Confederate States. But the Civil Rights Act was drafted to apply throughout
-the country, and its language was far broader than would have been necessary
-to strike down discriminatory statutes.
+In attempting to demonstrate the contrary, the respondents rely heavily upon the fact that the Congress which approved the 1866 statute wished to eradicate the recently enacted Black Codes laws which had saddled Negroes with 'onerous disabilities and burdens, and curtailed their rights * * * to such an extent that their freedom was of little value * * *.' Slaughter-House Cases. The respondents suggest that the only evil Congress sought to eliminate was that of racially discriminatory laws in the former Confederate States. But the Civil Rights Act was drafted to apply throughout the country, and its language was far broader than would have been necessary to strike down discriminatory statutes.
 
-That broad language, we are asked to believe, was a mere slip of the
-legislative pen. We disagree. For the same Congress that wanted to do away
-with the Black Codes also had before it an imposing body of evidence pointing
-to the mistreatment of Negroes by private individuals and unofficial groups,
-mistreatment unrelated to any hostile state legislation. 'Accounts in
-newspapers North and South, Freedmen's Bureau and other official documents,
-private reports and correspondence were all adduced' to show that 'private
-outrage and atrocity' were 'daily inflicted on freedmen * * *.' The
-congressional debates are replete with references to private injustices
-against Negroes--references to white employers who refused to pay their Negro
-workers, white planters who agreed among themselves not to hire freed slaves
-without the permission of their former masters, white citizens who assaulted
-Negroes or who combined to drive them out of their communities.
+That broad language, we are asked to believe, was a mere slip of the legislative pen. We disagree. For the same Congress that wanted to do away with the Black Codes also had before it an imposing body of evidence pointing to the mistreatment of Negroes by private individuals and unofficial groups, mistreatment unrelated to any hostile state legislation. 'Accounts in newspapers North and South, Freedmen's Bureau and other official documents, private reports and correspondence were all adduced' to show that 'private outrage and atrocity' were 'daily inflicted on freedmen * * *.' The congressional debates are replete with references to private injustices against Negroes--references to white employers who refused to pay their Negro workers, white planters who agreed among themselves not to hire freed slaves without the permission of their former masters, white citizens who assaulted Negroes or who combined to drive them out of their communities.
 
-Indeed, one of the most comprehensive studies then before Congress stressed
-the prevalence of private hostility toward negroes and the need to protect
-them from the resulting persecution and discrimination. The report noted the
-existence of laws virtually prohibiting Negroes from owning or renting
-property in certain towns, but described such laws as 'mere isolated cases,'
-representing 'the local outcroppings of a spirit * * * found to prevail
-everywhere'--a spirit expressed, for example, by lawless acts of brutality
-directed against Negroes who traveled to areas where they were not wanted.
-The report concluded that, even if anti-Negro legislation were 'repealed in
-all the States lately in rebellion,' equal treatment for the Negro would not
-yet be secured.
+Indeed, one of the most comprehensive studies then before Congress stressed the prevalence of private hostility toward negroes and the need to protect them from the resulting persecution and discrimination. The report noted the existence of laws virtually prohibiting Negroes from owning or renting property in certain towns, but described such laws as 'mere isolated cases,' representing 'the local outcroppings of a spirit * * * found to prevail everywhere'--a spirit expressed, for example, by lawless acts of brutality directed against Negroes who traveled to areas where they were not wanted. The report concluded that, even if anti-Negro legislation were 'repealed in all the States lately in rebellion,' equal treatment for the Negro would not yet be secured.
 
-In this setting, it would have been strange indeed if Congress had viewed its
-task as encompassing merely the nullification of racist laws in the former
-rebel States. That the Congress which assembled in the Nation's capital in
-December 1865 in fact had a broader vision of the task before it became clear
-early in the session, when three proposals to invalidate discriminatory state
-statutes were rejected as 'to narrowly conceived.' From the outset it seemed
-clear, at least to Senator Trumbull of Illinois, Chairman of the Judiciary
-Committee, that stronger legislation might prove necessary. After Senator
-Wilson of Massachusetts had introduced his bill to strike down all racially
-discriminatory laws in the South, Senator Trumbull said this:
+In this setting, it would have been strange indeed if Congress had viewed its task as encompassing merely the nullification of racist laws in the former rebel States. That the Congress which assembled in the Nation's capital in December 1865 in fact had a broader vision of the task before it became clear early in the session, when three proposals to invalidate discriminatory state statutes were rejected as 'to narrowly conceived.' From the outset it seemed clear, at least to Senator Trumbull of Illinois, Chairman of the Judiciary Committee, that stronger legislation might prove necessary. After Senator Wilson of Massachusetts had introduced his bill to strike down all racially discriminatory laws in the South, Senator Trumbull said this:
 
 > I reported from the Judiciary Committee the second section of the (Thirteenth Amendment) for the very purpose of conferring upon Congress authority to see that the first section was carried out in good faith * * * and I hold that under that second section Congress will have the authority, when the constitutional amendment is adopted, not only to pass the bill of the Senator from Massachusetts, but a bill that will be much more efficient to protect the freedman in his rights. * * * And, sir, when the constitutional amendment shall have been adopted, if the information from the South be that the men whose liberties are secured by it are deprived of the privilege to go and come when they please, to buy and sell when they please, to make contracts and enforce contracts, I give notice that, if no one else does, I shall introduce a bill and urge its passage through Congress that will secure to those men every one of these rights: they would not be freemen without them. It is idle to say that a man is free who cannot go and come at pleasure, who cannot buy and sell, who cannot enforce his rights. * * * (So) when the constitutional amendment is adopted I trust we may pass a bill, if the action of the people in the southern States should make it necessary, that will be much more sweeping and efficient than the bill under consideration.'
 
-Five days later, on December 18, 1865, the Secretary of State officially
-certified the ratification of the Thirteenth Amendment. The next day Senator
-Trumbull again rose to speak. He had decided, he said, that the 'more sweeping
-and efficient' bill of which he had spoken previously ought to be enacted
+Five days later, on December 18, 1865, the Secretary of State officially certified the ratification of the Thirteenth Amendment. The next day Senator Trumbull again rose to speak. He had decided, he said, that the 'more sweeping and efficient' bill of which he had spoken previously ought to be enacted
 
 > at an early day for the purpose of quieting apprehensions in the minds of many friends of freedom lest by local legislation or a prevailing public sentiment in some of the States persons of the African race should continue to be oppressed and in fact deprived of their freedom * * *.
 
-On January 5, 1866, Senator Trumbull introduced the bill he had in mind--the
-bill which later became the Civil Rights Act of 1866.50 He described its
-objectives in terms that belie any attempt to read it narrowly:
+On January 5, 1866, Senator Trumbull introduced the bill he had in mind--the bill which later became the Civil Rights Act of 1866.50 He described its objectives in terms that belie any attempt to read it narrowly:
 
 > Mr. President, I regard the bill to which the attention of the Senate is now called as the most important measure that has been under its consideration since the adoption of the constitutional amendment abolishing slavery. That amendment declared that all persons in the United States should be free. This measure is intended to give effect to that declaration and secure to all persons within the United States practical freedom. There is very little importance in the general declaration of abstract truths and principles unless they can be carried into effect, unless the persons who are to be affected by them have some means of availing themselves of their benefits.
 
-Of course, Senator Trumbull's bill would, as he pointed out, 'destroy all
-(the) discriminations' embodied in the Black Codes,52 but it would do more: It
-would affirmatively secure for all men, whatever their race or color, what the
-Senator called the 'great fundamental rights':
+Of course, Senator Trumbull's bill would, as he pointed out, 'destroy all (the) discriminations' embodied in the Black Codes,52 but it would do more: It would affirmatively secure for all men, whatever their race or color, what the Senator called the 'great fundamental rights':
 
 > the right to acquire property, the right to go and come at pleasure, the right to enforce rights in the courts, to make contracts, and to inherit and dispose of property.'
 
-As to those basic civil rights, the Senator said, the bill would 'break down
-all discrimination between black men and white men.'
+As to those basic civil rights, the Senator said, the bill would 'break down all discrimination between black men and white men.'
 
-That the bill would indeed have so sweeping an effect was seen as its great
-virtue by its friends and as its great danger by its enemies but was
-disputed by none. Opponents of the bill charged that it would not only
-regulate state laws but would directly 'determine the persons who (would)
-enjoy * * * property within the States.' threatening the ability of white
-citizens 'to determine who (would) be members of (their) communit(ies) * *
-*.' The bill's advocates did not deny the accuracy of those
-characterizations. Instead, they defended the propriety of employing federal
-authority to deal with 'the white man * * * (who) would invoke the power of
-local prejudice' against the Negro. Thus, when the Senate passed the Civil
-Rights Act on February 2, 1866, it did so fully aware of the breadth of the
-measure it had approved.
+That the bill would indeed have so sweeping an effect was seen as its great virtue by its friends and as its great danger by its enemies but was disputed by none. Opponents of the bill charged that it would not only regulate state laws but would directly 'determine the persons who (would) enjoy * * * property within the States.' threatening the ability of white citizens 'to determine who (would) be members of (their) communit(ies) * *
+*.' The bill's advocates did not deny the accuracy of those characterizations. Instead, they defended the propriety of employing federal authority to deal with 'the white man * * * (who) would invoke the power of local prejudice' against the Negro. Thus, when the Senate passed the Civil Rights Act on February 2, 1866, it did so fully aware of the breadth of the measure it had approved.
 
-In the House, as in the Senate, much was said about eliminating the infamous
-Black Codes. But, like the Senate, the House was moved by a larger objective
---that of giving real content to the freedom guaranteed by the Thirteenth
-Amendment. Representative Thayer of Pennsylvania put it this way:
+In the House, as in the Senate, much was said about eliminating the infamous Black Codes. But, like the Senate, the House was moved by a larger objective
+--that of giving real content to the freedom guaranteed by the Thirteenth Amendment. Representative Thayer of Pennsylvania put it this way:
 
 > (W)hen I voted for the amendment to abolish slavery * * * I did not suppose that I was offering * * * a mere paper guarantee. And when I voted for the second section of the amendment, I felt * * * certain that I had * * * given to Congress ability to protect * * * the rights which the first section gave * * *.'
 
@@ -176,51 +62,18 @@ Amendment. Representative Thayer of Pennsylvania put it this way:
 
 > Representative Cook of Illinois thought that, without appropriate federal legislation, any 'combination of men in (a) neighborhood (could) prevent (a Negro) from having any chance' to enjoy those benefits. To Congressman Cook and others like him, it seemed evident that, with respect to basic civil rights including the 'right to * * * purchase, lease, sell, hold, and convey * * * property,' Congress must provide that 'there * * * be no discrimination' on grounds of race or color.
 
-It thus appears that, when the House passed the Civil Rights Act on March 13,
-1866, it did so on the same assumption that had prevailed in the Senate: It
-too believed that it was approving a comprehensive statute forbidding all
-racial discrimination affecting the basic civil rights enumerated in the Act.
+It thus appears that, when the House passed the Civil Rights Act on March 13, 1866, it did so on the same assumption that had prevailed in the Senate: It too believed that it was approving a comprehensive statute forbidding all racial discrimination affecting the basic civil rights enumerated in the Act.
 
 39
 
-President Andrew Johnson vetoed the Act on March 27, and in the brief
-congressional debate that followed, his supporters characterized its reach in
-all-embracing terms. One stressed the fact that § 1 would confer 'the right * *
-* to purchase * * * real estate * * * without any qualification and without
-any restriction whatever * * *.' Another predicted, as a corollary, that the
-Act would preclude preferential treatment for white persons in the rental of
-hotel rooms and in the sale of church pews. Those observations elicited no
-reply. On April 6 the Senate, and on April 9 the House, overrode the
-President's veto by the requisite majorities, and the Civil Rights Act of
-1866 became law.
+President Andrew Johnson vetoed the Act on March 27, and in the brief congressional debate that followed, his supporters characterized its reach in all-embracing terms. One stressed the fact that § 1 would confer 'the right * *
+* to purchase * * * real estate * * * without any qualification and without any restriction whatever * * *.' Another predicted, as a corollary, that the Act would preclude preferential treatment for white persons in the rental of hotel rooms and in the sale of church pews. Those observations elicited no reply. On April 6 the Senate, and on April 9 the House, overrode the President's veto by the requisite majorities, and the Civil Rights Act of 1866 became law.
 
-In light of the concerns that led Congress to adopt it and the contents of the
-debates that proceded its passage, it is clear that the Act was designed to do
-just what its terms suggest: to prohibit all racial discrimination, whether or
-not under color of law, with respect to the rights enumerated therein--
-including the right to purchase or lease property.
+In light of the concerns that led Congress to adopt it and the contents of the debates that proceded its passage, it is clear that the Act was designed to do just what its terms suggest: to prohibit all racial discrimination, whether or not under color of law, with respect to the rights enumerated therein-- including the right to purchase or lease property.
 
-Nor was the scope of the 1866 Act altered when it was re-enacted in 1870, some
-two years after the ratification of the Fourteenth Amendment. It is quite
-true that some members of Congress supported the Fourteenth Amendment 'in
-order to eliminate doubt as to the constitutional validity of the Civil Rights
-Act as applied to the States.'  But it certainly does not follow that the adoption of the Fourteenth
-Amendment or the subsequent readoption of the Civil Rights Act were meant
-somehow to limit its application to state action. The legislative history
-furnishes not the slightest factual basis for any such speculation, and the
-conditions prevailing in 1870 make it highly implausible. For by that time
-most, if not all, of the former Confederate States, then under the control of
-'reconstructed' legislatures, had formally repudiated racial discrimination,
-and the focus of congressional concern had clearly shifted from hostile
-statutes to the activities of groups like the Ku Klux Klan, operating wholly
-outside the law.
+Nor was the scope of the 1866 Act altered when it was re-enacted in 1870, some two years after the ratification of the Fourteenth Amendment. It is quite true that some members of Congress supported the Fourteenth Amendment 'in order to eliminate doubt as to the constitutional validity of the Civil Rights Act as applied to the States.' But it certainly does not follow that the adoption of the Fourteenth Amendment or the subsequent readoption of the Civil Rights Act were meant somehow to limit its application to state action. The legislative history furnishes not the slightest factual basis for any such speculation, and the conditions prevailing in 1870 make it highly implausible. For by that time most, if not all, of the former Confederate States, then under the control of 'reconstructed' legislatures, had formally repudiated racial discrimination, and the focus of congressional concern had clearly shifted from hostile statutes to the activities of groups like the Ku Klux Klan, operating wholly outside the law.
 
-The remaining question is whether Congress has power under the Constitution to
-do what § 1982 purports to do: to prohibit all racial discrimination, private
-and public, in the sale and rental of property. Our starting point is the
-Thirteenth Amendment, for it was pursuant to that constitutional provision
-that Congress originally enacted what is now § 1982. The Amendment consists
-of two parts. Section 1 states:
+The remaining question is whether Congress has power under the Constitution to do what § 1982 purports to do: to prohibit all racial discrimination, private and public, in the sale and rental of property. Our starting point is the Thirteenth Amendment, for it was pursuant to that constitutional provision that Congress originally enacted what is now § 1982. The Amendment consists of two parts. Section 1 states:
 
 > Neither slavery nor involuntary servitude, except as a punishment for crime whereby the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.'
 
@@ -229,74 +82,19 @@ Section 2 provides:
 > Congress shall have power to enforce this article by appropriate legislation.'
 
 
-As its text reveals, the Thirteenth Amendment 'is not a mere prohibition of
-state laws establishing or upholding slavery, but an absolute declaration that
-slavery or involuntary servitude shall not exist in any part of the United
-States.' It has never been doubted, therefore, 'that the power vested in Congress to
-enforce the article by appropriate legislation,' ibid., includes the power to
-enact laws 'direct and primary, operating upon the acts of individuals,
-whether sanctioned by state legislation or not.' 
+As its text reveals, the Thirteenth Amendment 'is not a mere prohibition of state laws establishing or upholding slavery, but an absolute declaration that slavery or involuntary servitude shall not exist in any part of the United States.' It has never been doubted, therefore, 'that the power vested in Congress to enforce the article by appropriate legislation,' ibid., includes the power to enact laws 'direct and primary, operating upon the acts of individuals, whether sanctioned by state legislation or not.'
 
-Thus, the fact that § 1982 operates upon the unofficial acts of private
-individuals, whether or not sanctioned by state law, presents no
-constitutional problem. If Congress has power under the Thirteenth Amendment
-to eradicate conditions that prevent Negroes from buying and renting property
-because of their race or color, then no federal statute calculated to achieve
-that objective can be thought to exceed the constitutional power of Congress
-simply because it reaches beyond state action to regulate the conduct of
-private individuals. The constitutional question in this case, therefore,
-comes to this: Does the authority of Congress to enforce the Thirteenth
-Amendment 'by appropriate legislation' include the power to eliminate all
-racial barriers to the acquisition of real and personal property? We think the
-answer to that question is plainly yes.
+Thus, the fact that § 1982 operates upon the unofficial acts of private individuals, whether or not sanctioned by state law, presents no constitutional problem. If Congress has power under the Thirteenth Amendment to eradicate conditions that prevent Negroes from buying and renting property because of their race or color, then no federal statute calculated to achieve that objective can be thought to exceed the constitutional power of Congress simply because it reaches beyond state action to regulate the conduct of private individuals. The constitutional question in this case, therefore, comes to this: Does the authority of Congress to enforce the Thirteenth Amendment 'by appropriate legislation' include the power to eliminate all racial barriers to the acquisition of real and personal property? We think the answer to that question is plainly yes.
 
-'By its own unaided force and effect,' the Thirteenth Amendment 'abolished
-slavery, and established universal freedom.'. Whether or not the Amendment itself did any more than that---a question not involved in this case---it is at least clear that the Enabling
-Clause of that Amendment empowered Congress to do much more. For that clause
-clothed 'Congress with power to pass all laws necessary and proper for
-abolishing all badges and incidents of slavery in the United States.' [citing the Civil Rights Cases]
+'By its own unaided force and effect,' the Thirteenth Amendment 'abolished slavery, and established universal freedom.'. Whether or not the Amendment itself did any more than that---a question not involved in this case---it is at least clear that the Enabling Clause of that Amendment empowered Congress to do much more. For that clause clothed 'Congress with power to pass all laws necessary and proper for abolishing all badges and incidents of slavery in the United States.' [citing the Civil Rights Cases]
 
-Those who opposed passage of the Civil Rights Act of 1866 argued in effect
-that the Thirteenth Amendment merely authorized Congress to dissolve the legal
-bond by which the Negro slave was held to his master. Yet many had earlier
-opposed the Thirteenth Amendment on the very ground that it would give
-Congress virtually unlimited power to enact laws for the protection of Negroes
-in every State. And the majority leaders in Congress--who were, after all,
-the authors of the Thirteenth Amendment--had no doubt that its Enabling Clause
-contemplated the sort of positive legislation that was embodied in the 1866
-Civil Rights Act. Their chief spokesman, Senator Trumbull of Illinois, the
-Chairman of the Judiciary Committee, had brought the Thirteenth Amendment to
-the floor of the Senate in 1864. In defending the constitutionality of the
-1866 Act, he argued that, if the narrower construction of the Enabling Clause
-were correct, then
+Those who opposed passage of the Civil Rights Act of 1866 argued in effect that the Thirteenth Amendment merely authorized Congress to dissolve the legal bond by which the Negro slave was held to his master. Yet many had earlier opposed the Thirteenth Amendment on the very ground that it would give Congress virtually unlimited power to enact laws for the protection of Negroes in every State. And the majority leaders in Congress--who were, after all, the authors of the Thirteenth Amendment--had no doubt that its Enabling Clause contemplated the sort of positive legislation that was embodied in the 1866 Civil Rights Act. Their chief spokesman, Senator Trumbull of Illinois, the Chairman of the Judiciary Committee, had brought the Thirteenth Amendment to the floor of the Senate in 1864. In defending the constitutionality of the 1866 Act, he argued that, if the narrower construction of the Enabling Clause were correct, then
 
 > the trumpet of freedom that we have been blowing throughout the land has given an (uncertain sound,' and the promised freedom is a delusion. Such was not the intention of Congress, which proposed the constitutional amendment, nor is such the fair meaning of the amendment itself. * * * I have no doubt that under this provision * * * we may destroy all these discriminations in civil rights against the black man; and if we cannot, our constitutional amendment amounts to nothing. It was for that purpose that the second clause of that amendment was adopted, which says that Congress shall have authority, by appropriate legislation, to carry into effect the article prohibiting slavery. Who is to decide what that appropriate legislation is to be? The Congress of the United States; and it is for Congress to adopt such appropriate legislation as it may think proper, so that it be a means to accomplish the end.'
 
-Surely Senator Trumbull was right. Surely Congress has the power under the
-Thirteenth Amendment rationally to determine what are the badges and the
-incidents of slavery, and the authority to translate that determination into
-effective legislation. Nor can we say that the determination Congress has made
-is an irrational one. For this Court recognized long ago that, whatever else
-they may have encompassed, the badges and incidents of slavery--its 'burdens
-and disabilities'--included restrations upon 'those fundamental rights which
-are the essence of civil freedom, namely, the same right * * * to inherit,
-purchase, lease, sell and convey property, as is enjoyed by white citizens.' Just as the Black Codes,
-enacted after the Civil War to restrict the free exercise of those rights,
-were substitutes for the slave system, so the exclusion of Negroes from white
-communities became a substitute for the Black Codes. And when racial
-discrimination herds men into ghettos and makes their ability to buy property
-turn on the color of their skin, then it too is a relic of slavery.
+Surely Senator Trumbull was right. Surely Congress has the power under the Thirteenth Amendment rationally to determine what are the badges and the incidents of slavery, and the authority to translate that determination into effective legislation. Nor can we say that the determination Congress has made is an irrational one. For this Court recognized long ago that, whatever else they may have encompassed, the badges and incidents of slavery--its 'burdens and disabilities'--included restrations upon 'those fundamental rights which are the essence of civil freedom, namely, the same right * * * to inherit, purchase, lease, sell and convey property, as is enjoyed by white citizens.' Just as the Black Codes, enacted after the Civil War to restrict the free exercise of those rights, were substitutes for the slave system, so the exclusion of Negroes from white communities became a substitute for the Black Codes. And when racial discrimination herds men into ghettos and makes their ability to buy property turn on the color of their skin, then it too is a relic of slavery.
 
-Negro citizens, North and South, who saw in the Thirteenth Amendment a promise
-of freedom--freedom to 'go and come at pleasure' and to 'buy and sell when
-they please'--would be left with 'a more paper guarantee' if Congress were
-powerless to assure that a dollar in the hands of a Negro will purchase the
-same thing as a dollar in the hands of a white man. At the very least, the
-freedom that Congress is empowered to secure under the Thirteenth Amendment
-includes the freedom to buy whatever a white man can buy, the right to live
-wherever a white man can live. If Congress cannot say that being a free man
-means at least this much, then the Thirteenth Amendment made a promise the
-Nation cannot keep.
+Negro citizens, North and South, who saw in the Thirteenth Amendment a promise of freedom--freedom to 'go and come at pleasure' and to 'buy and sell when they please'--would be left with 'a more paper guarantee' if Congress were powerless to assure that a dollar in the hands of a Negro will purchase the same thing as a dollar in the hands of a white man. At the very least, the freedom that Congress is empowered to secure under the Thirteenth Amendment includes the freedom to buy whatever a white man can buy, the right to live wherever a white man can live. If Congress cannot say that being a free man means at least this much, then the Thirteenth Amendment made a promise the Nation cannot keep.
 
 \newpage
 

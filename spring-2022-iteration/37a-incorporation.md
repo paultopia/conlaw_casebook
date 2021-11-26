@@ -1,7 +1,6 @@
+ # Incorporation and Second Amendment
 
-# Incorporation and Second Amendment
-
-The basic problem that incorporation solves is really simple: the Bill of Rights only, on its terms, applies to the federal government.  It's full of lines like "Congress shall make no law," rather than "the states shall make no law." 
+The basic problem that incorporation solves is really simple: the Bill of Rights only, on its terms, applies to the federal government. It's full of lines like "Congress shall make no law," rather than "the states shall make no law."
 
 Accordingly, there's nothing on its face forbidding the states from, e.g., conducting unreasonable searches, levying cruel and unusual punishments, establishing churches, coercing confessions, and so on, and so on. And this makes sense: the Constitution was supposed to be primarily about enumerating and limiting federal power, right? At the time of the framing, the states had their own constitutions, and those were live things---in Virginia, for example, there were real serious debates about religious freedom in the terms of state law and state ideals; these were rights guaranteed in state courts. (At least, that's one conventional story.)
 
@@ -19,9 +18,9 @@ So in the Slaughterhouse cases, 83 U.S. 36 (1873), the Court held that the privi
 
 ## Due Process incorporation
 
-So when the Supreme Court turned around at the end of the 19th and beginning of 20th centuries and actually started applying Bill of Rights protections to the states, guess what clause they used. I'll give you a clue: it's the same clause they use every time they want to make up some constitutional law. Yep, you got it. It's the Due Process Clause again!  Because, YOLO. The Bill of Rights isn't part of the privileges and immunities of citizens, but it is, according to the wise heads on the Supreme Court, part of the liberty guaranteed by the Due Process Clause! And, as usual, never mind that on its face all that clause guarantees is process; we'll just use it once again as a second-choice textual hook for our constitutional doctrine.
+So when the Supreme Court turned around at the end of the 19th and beginning of 20th centuries and actually started applying Bill of Rights protections to the states, guess what clause they used. I'll give you a clue: it's the same clause they use every time they want to make up some constitutional law. Yep, you got it. It's the Due Process Clause again! Because, YOLO. The Bill of Rights isn't part of the privileges and immunities of citizens, but it is, according to the wise heads on the Supreme Court, part of the liberty guaranteed by the Due Process Clause! And, as usual, never mind that on its face all that clause guarantees is process; we'll just use it once again as a second-choice textual hook for our constitutional doctrine.
 
-So they started incorporating the Bill of Rights through the Due Process Clause. And then the debates started. 
+So they started incorporating the Bill of Rights through the Due Process Clause. And then the debates started.
 
 ## Total vs partial incorporation
 
@@ -31,7 +30,7 @@ So instead of incorporating the whole thing, the Court incorporated the Bill of 
 
 ## Second Amendment
 
-So that's what you really need to know about incorporation. And it's also a good route into the Second Amendment question, because the the Second Amendment was only recently incorporated against the states, as you'll see, in 2010. That's the case we're reading on the subject, McDonald. But you need to know a little about the prior history. 
+So that's what you really need to know about incorporation. And it's also a good route into the Second Amendment question, because the the Second Amendment was only recently incorporated against the states, as you'll see, in 2010. That's the case we're reading on the subject, McDonald. But you need to know a little about the prior history.
 
 The prior history is essentially one case: District of Columbia v. Heller, 554 U.S. 570 (2008). Two years before McDonald, Scalia, writing for the court, declared that the Second Amendment protected an individual right to bear arms, and struck down a D.C. handgun law.^[Note that because it's D.C., that is, a territory under the direct control of the federal government, the Court didn't need to resolve the incorporation issue in order to strike down that municipal regulation.]
 
@@ -49,9 +48,9 @@ So even if you disagree with the claim that the founders originally thought that
 
 ### Bear arms for what purpose?
 
-Particularly, there's a further question, aptly raised by Stevens. Suppose the Second Amendment protects a right to individually bear arms, e.g., to potentially form a militia at some point or to resist a tyrannical English king. Does it also protect an individual right to bear arms for revolution, for hunting, for self-defense, or what? 
+Particularly, there's a further question, aptly raised by Stevens. Suppose the Second Amendment protects a right to individually bear arms, e.g., to potentially form a militia at some point or to resist a tyrannical English king. Does it also protect an individual right to bear arms for revolution, for hunting, for self-defense, or what?
 
-This is an important question, because lots of gun regulations require things like trigger locks, disassembled storage, and the like, which make it harder, arguably, to use guns for self-defense against some imaginary burglar, but still perfectly possible to take the gun out and use it to participate in the revolution to throw off the stamp act or some bloody colonial nonsense, or to go out hunting deer, or whatever. Likewise, consider regulations of things like concealed carry: probably won't impede hunting, might impede vigilantism or rebellion. 
+This is an important question, because lots of gun regulations require things like trigger locks, disassembled storage, and the like, which make it harder, arguably, to use guns for self-defense against some imaginary burglar, but still perfectly possible to take the gun out and use it to participate in the revolution to throw off the stamp act or some bloody colonial nonsense, or to go out hunting deer, or whatever. Likewise, consider regulations of things like concealed carry: probably won't impede hunting, might impede vigilantism or rebellion.
 
 The Court had to confront those issues in Heller, and struck down a D.C. trigger lock requirement on the grounds that it would make the weapon less useful for self defense. Scalia again: "We must also address the District's requirement (as applied to respondent's handgun) that firearms in the home be rendered and kept inoperable at all times. This makes it impossible for citizens to use them for the core lawful purpose of self-defense and is hence unconstitutional." So this substantially restricts the scope of regulations that might be permissible, by constitutionalizing a principle of self-defense use.
 
@@ -67,32 +66,32 @@ That takes us to McDonald. In reading McDonald, look for the standard by which t
 
 Consider the following gun regulations. Which are constitutional? Which aren't? What arguments might we make on either side?
 
-1.  No citizen may possess more than three guns.
+1. No citizen may possess more than three guns.
 
-2.  No guns may be stored loaded in a home.
+2. No guns may be stored loaded in a home.
 
-3.  No persons with convictions for any violent crime, at any point in the past, may possess a gun. (Assume here that "violent crime" is defined in a sensible way.)
+3. No persons with convictions for any violent crime, at any point in the past, may possess a gun. (Assume here that "violent crime" is defined in a sensible way.)
 
-4.  Before any person is permitted to possess a gun, they must pass a state-licensed firearms safety course. (Assume here that availability and standards in such a course are more-or-less reasonable.)
+4. Before any person is permitted to possess a gun, they must pass a state-licensed firearms safety course. (Assume here that availability and standards in such a course are more-or-less reasonable.)
 
-5.  No firearms with a magazine capacity of more than six bullets may be sold or possessed within the state.
+5. No firearms with a magazine capacity of more than six bullets may be sold or possessed within the state.
 
-6.  Any firearm possessed in the state must have a biometric trigger lock which effectively prevents it being fired by any person other than the purchaser.
+6. Any firearm possessed in the state must have a biometric trigger lock which effectively prevents it being fired by any person other than the purchaser.
 
-7.  No concealed firearms are permitted in the state; all firearms must be worn openly and visible to the public at all times.
+7. No concealed firearms are permitted in the state; all firearms must be worn openly and visible to the public at all times.
 
-8.  There is a "gun violence remediation tax" assessed yearly on all owners of firearms, assessed at 10% of the market value of each weapon owned.
+8. There is a "gun violence remediation tax" assessed yearly on all owners of firearms, assessed at 10% of the market value of each weapon owned.
 
-9.  No firearms may be carried within 1000 yards of any school, playground, nursery, daycare, or public park.
+9. No firearms may be carried within 1000 yards of any school, playground, nursery, daycare, or public park.
 
-10.  When outside the home, all firearms must be carried inside a locked container that takes no less than one minute to open.
+10. When outside the home, all firearms must be carried inside a locked container that takes no less than one minute to open.
 
-11.  No semi-automatic weapons may be sold or possessed within the state. (N.B., gun advocates (a.k.a. "gun nuts") often argue that gun control advocates (a.k.a. "gun grabbers") misunderstand the definition of a semi-automatic weapon; for present purposes, assume that this law means that no gun may be sold unless it mechanically requires some separate chambering action, independent of a trigger pull, between firings.)
+11. No semi-automatic weapons may be sold or possessed within the state. (N.B., gun advocates (a.k.a. "gun nuts") often argue that gun control advocates (a.k.a. "gun grabbers") misunderstand the definition of a semi-automatic weapon; for present purposes, assume that this law means that no gun may be sold unless it mechanically requires some separate chambering action, independent of a trigger pull, between firings.)
 
-12.  No "hollow-point" bullets may be sold or possessed in the state. (N.B., many gun control advocates argue that "hollow-point" bullets are designed to expand and do more damage to flesh on impact)
+12. No "hollow-point" bullets may be sold or possessed in the state. (N.B., many gun control advocates argue that "hollow-point" bullets are designed to expand and do more damage to flesh on impact)
 
-13.  No person may buy more than fifty rounds of ammunition per month. (Or some higher number... what's a reasonable limit?)
+13. No person may buy more than fifty rounds of ammunition per month. (Or some higher number... what's a reasonable limit?)
 
-14.  No person may buy ammunition over the internet or mail order; all must be purchased in person.
+14. No person may buy ammunition over the internet or mail order; all must be purchased in person.
 
 \newpage

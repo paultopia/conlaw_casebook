@@ -4,447 +4,110 @@
 
 **Justice O'CONNOR delivered the opinion of the Court.**
 
-This case implicates one of our Nation's newest problems of public policy and
-perhaps our oldest question of constitutional law. The public policy issue
-involves the disposal of radioactive waste: In this case, we address the
-constitutionality of three provisions of the Low-Level Radioactive Waste
-Policy Amendments Act of 1985. The constitutional question is as old as the Constitution: It consists of discerning the proper division of authority between the Federal
-Government and the States. We conclude that while Congress has substantial
-power under the Constitution to encourage the States to provide for the
-disposal of the radioactive waste generated within their borders, the
-Constitution does not confer upon Congress the ability simply to compel the
-States to do so. We therefore find that only two of the Act's three provisions
-at issue are consistent with the Constitution's allocation of power to the
-Federal Government.
+This case implicates one of our Nation's newest problems of public policy and perhaps our oldest question of constitutional law. The public policy issue involves the disposal of radioactive waste: In this case, we address the constitutionality of three provisions of the Low-Level Radioactive Waste Policy Amendments Act of 1985. The constitutional question is as old as the Constitution: It consists of discerning the proper division of authority between the Federal Government and the States. We conclude that while Congress has substantial power under the Constitution to encourage the States to provide for the disposal of the radioactive waste generated within their borders, the Constitution does not confer upon Congress the ability simply to compel the States to do so. We therefore find that only two of the Act's three provisions at issue are consistent with the Constitution's allocation of power to the Federal Government.
 
 
-Faced with the possibility that the Nation would be left with no disposal
-sites for low level radioactive waste, Congress responded by enacting the Low-
-Level Radioactive Waste Policy Act. Relying
-largely on a report submitted by the National Governors' Association, Congress declared a federal policy of holding each State
-"responsible for providing for the availability of capacity either within or
-outside the State for the disposal of low-level radioactive waste generated
-within its borders," and found that such waste could be disposed of "most
-safely and efficiently . . . on a regional basis."
-The 1980 Act authorized States to enter into regional compacts that, once
-ratified by Congress, would have the authority beginning in 1986 to restrict
-the use of their disposal facilities to waste generated within member States.
-The 1980 Act included no penalties for States
-that failed to participate in this plan.
+Faced with the possibility that the Nation would be left with no disposal sites for low level radioactive waste, Congress responded by enacting the Low- Level Radioactive Waste Policy Act. Relying largely on a report submitted by the National Governors' Association, Congress declared a federal policy of holding each State "responsible for providing for the availability of capacity either within or outside the State for the disposal of low-level radioactive waste generated within its borders," and found that such waste could be disposed of "most safely and efficiently . . . on a regional basis." The 1980 Act authorized States to enter into regional compacts that, once ratified by Congress, would have the authority beginning in 1986 to restrict the use of their disposal facilities to waste generated within member States. The 1980 Act included no penalties for States that failed to participate in this plan.
 
-By 1985, only three approved regional compacts had operational disposal
-facilities. The following year,
-the 1980 Act would have given these three compacts the ability to exclude
-waste from nonmembers, and the remaining 31 States would have had no assured
-outlet for their low level radioactive waste. With this prospect looming,
-Congress once again took up the issue of waste disposal. The result was the
-legislation challenged here, the Low-Level Radioactive Waste Policy Amendments
-Act of 1985.
+By 1985, only three approved regional compacts had operational disposal facilities. The following year, the 1980 Act would have given these three compacts the ability to exclude waste from nonmembers, and the remaining 31 States would have had no assured outlet for their low level radioactive waste. With this prospect looming, Congress once again took up the issue of waste disposal. The result was the legislation challenged here, the Low-Level Radioactive Waste Policy Amendments Act of 1985.
 
-The 1985 Act was again based largely on a proposal submitted by the National
-Governors' Association. In broad outline, the Act embodies a compromise among
-the sited and unsited States. The sited States agreed to extend for seven
-years the period in which they would accept low level radioactive waste from
-other States. In exchange, the unsited States agreed to end their reliance on
-the sited States by 1992.
+The 1985 Act was again based largely on a proposal submitted by the National Governors' Association. In broad outline, the Act embodies a compromise among the sited and unsited States. The sited States agreed to extend for seven years the period in which they would accept low level radioactive waste from other States. In exchange, the unsited States agreed to end their reliance on the sited States by 1992.
 
-The mechanics of this compromise are intricate. The Act directs: "Each State
-shall be responsible for providing, either by itself or in cooperation with
-other States, for the disposal of . . . low-level radioactive waste generated
-within the State." The Act authorizes States to "enter into such [interstate] compacts as may be necessary to provide for the establishment and operation of regional disposal
-facilities for low-level radioactive waste."  For an additional
-seven years beyond the period contemplated by the 1980 Act, from the beginning
-of 1986 through the end of 1992, the three existing disposal sites "shall make
-disposal capacity available for low-level radioactive waste generated by any
-source." But the
-three States in which the disposal sites are located are permitted to exact a
-graduated surcharge for waste arriving from outside the regional compact. After the seven-year transition
-period expires, approved regional compacts may exclude radioactive waste
-generated outside the region. 
+The mechanics of this compromise are intricate. The Act directs: "Each State shall be responsible for providing, either by itself or in cooperation with other States, for the disposal of . . . low-level radioactive waste generated within the State." The Act authorizes States to "enter into such [interstate] compacts as may be necessary to provide for the establishment and operation of regional disposal facilities for low-level radioactive waste." For an additional seven years beyond the period contemplated by the 1980 Act, from the beginning of 1986 through the end of 1992, the three existing disposal sites "shall make disposal capacity available for low-level radioactive waste generated by any source." But the three States in which the disposal sites are located are permitted to exact a graduated surcharge for waste arriving from outside the regional compact. After the seven-year transition period expires, approved regional compacts may exclude radioactive waste generated outside the region.
 
-The Act provides three types of incentives to encourage the States to comply
-with their statutory obligation to provide for the disposal of waste generated
-within their borders.
+The Act provides three types of incentives to encourage the States to comply with their statutory obligation to provide for the disposal of waste generated within their borders.
 
 10
 
-1\. Monetary incentives. One quarter of the surcharges collected by the
-sited States must be transferred to an escrow account held by the Secretary of
-Energy. The Secretary then makes payments from this account
-to each State that has complied with a series of deadlines. By July 1, 1986,
-each State was to have ratified legislation either joining a regional compact
-or indicating an intent to develop a disposal facility within the State.  [description of similar steps and deadlines] 
+1\. Monetary incentives. One quarter of the surcharges collected by the sited States must be transferred to an escrow account held by the Secretary of Energy. The Secretary then makes payments from this account to each State that has complied with a series of deadlines. By July 1, 1986, each State was to have ratified legislation either joining a regional compact or indicating an intent to develop a disposal facility within the State. [description of similar steps and deadlines]
 
-2\. Access incentives. The second type of incentive involves the denial of
-access to disposal sites. States that fail to meet the July 1986 deadline may
-be charged twice the ordinary surcharge for the remainder of 1986 and may be
-denied access to disposal facilities thereafter. [etc.
+2\. Access incentives. The second type of incentive involves the denial of access to disposal sites. States that fail to meet the July 1986 deadline may be charged twice the ordinary surcharge for the remainder of 1986 and may be denied access to disposal facilities thereafter. [etc.
 
 
-3\. The take title provision. The third type of incentive is the most
-severe. The Act provides:
+3\. The take title provision. The third type of incentive is the most severe. The Act provides:
 
-> If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated is unable to provide for the disposal of all such waste generated within such State or compact region by January 1, 1996, each State in which such waste is generated, upon the request of the generator or owner of the waste, shall take title to the waste, be obligated to take possession of the waste, and shall be liable for all damages directly or indirectly incurred by such generator or owner as a consequence of the failure of the State to take possession of the waste as soon after January 1, 1996, as the generator or owner notifies the State that the waste is available for shipment." 
+> If a State (or, where applicable, a compact region) in which low-level radioactive waste is generated is unable to provide for the disposal of all such waste generated within such State or compact region by January 1, 1996, each State in which such waste is generated, upon the request of the generator or owner of the waste, shall take title to the waste, be obligated to take possession of the waste, and shall be liable for all damages directly or indirectly incurred by such generator or owner as a consequence of the failure of the State to take possession of the waste as soon after January 1, 1996, as the generator or owner notifies the State that the waste is available for shipment."
 
 These three incentives are the focus of petitioners' constitutional challenge.
 
 
-Petitioners--the State of New York and the two counties--filed this suit
-against the United States in 1990. They sought a declaratory judgment that the
-Act is inconsistent with the Tenth and Eleventh Amendments to the
-Constitution, with the Due Process Clause of the Fifth Amendment, and with the
-Guarantee Clause of Article IV of the Constitution. Petitioners have abandoned their Due
-Process and Eleventh Amendment claims on their way up the appellate ladder; as
-the case stands before us, petitioners claim only that the Act is inconsistent
-with the Tenth Amendment and the Guarantee Clause.
+Petitioners--the State of New York and the two counties--filed this suit against the United States in 1990. They sought a declaratory judgment that the Act is inconsistent with the Tenth and Eleventh Amendments to the Constitution, with the Due Process Clause of the Fifth Amendment, and with the Guarantee Clause of Article IV of the Constitution. Petitioners have abandoned their Due Process and Eleventh Amendment claims on their way up the appellate ladder; as the case stands before us, petitioners claim only that the Act is inconsistent with the Tenth Amendment and the Guarantee Clause.
 
 
-In 1788, in the course of explaining to the citizens of New York why the
-recently drafted Constitution provided for federal courts, Alexander Hamilton
-observed: "The erection of a new government, whatever care or wisdom may
-distinguish the work, cannot fail to originate questions of intricacy and
-nicety; and these may, in a particular manner, be expected to flow from the
-the establishment of a constitution founded upon the total or partial
-incorporation of a number of distinct sovereignties." The Federalist No. 82. Hamilton's prediction has proved quite
-accurate. While no one disputes the proposition that "[t]he Constitution
-created a Federal Government of limited powers"; and while the
-Tenth Amendment makes explicit that "[t]he powers not delegated to the United
-States by the Constitution, nor prohibited by it to the States, are reserved
-to the States respectively, or to the people"; the task of ascertaining the
-constitutional line between federal and state power has given rise to many of
-the Court's most difficult and celebrated cases. 
+In 1788, in the course of explaining to the citizens of New York why the recently drafted Constitution provided for federal courts, Alexander Hamilton observed: "The erection of a new government, whatever care or wisdom may distinguish the work, cannot fail to originate questions of intricacy and nicety; and these may, in a particular manner, be expected to flow from the the establishment of a constitution founded upon the total or partial incorporation of a number of distinct sovereignties." The Federalist No. 82. Hamilton's prediction has proved quite accurate. While no one disputes the proposition that "[t]he Constitution created a Federal Government of limited powers"; and while the Tenth Amendment makes explicit that "[t]he powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people"; the task of ascertaining the constitutional line between federal and state power has given rise to many of the Court's most difficult and celebrated cases.
 
-These questions can be viewed in either of two ways. In some cases the Court
-has inquired whether an Act of Congress is authorized by one of the powers
-delegated to Congress in Article I of the Constitution.  In other cases the Court has
-sought to determine whether an Act of Congress invades the province of state
-sovereignty reserved by the Tenth Amendment. In a
-case like this one, involving the division of authority between federal and
-state governments, the two inquiries are mirror images of each other. If a
-power is delegated to Congress in the Constitution, the Tenth Amendment
-expressly disclaims any reservation of that power to the States; if a power is
-an attribute of state sovereignty reserved by the Tenth Amendment, it is
-necessarily a power the Constitution has not conferred on Congress. 
+These questions can be viewed in either of two ways. In some cases the Court has inquired whether an Act of Congress is authorized by one of the powers delegated to Congress in Article I of the Constitution. In other cases the Court has sought to determine whether an Act of Congress invades the province of state sovereignty reserved by the Tenth Amendment. In a case like this one, involving the division of authority between federal and state governments, the two inquiries are mirror images of each other. If a power is delegated to Congress in the Constitution, the Tenth Amendment expressly disclaims any reservation of that power to the States; if a power is an attribute of state sovereignty reserved by the Tenth Amendment, it is necessarily a power the Constitution has not conferred on Congress.
 
-It is in this sense that the Tenth Amendment "states but a truism that all is
-retained which has not been surrendered." As Justice Story put it,
-"[t]his amendment is a mere affirmation of what, upon any just reasoning, is a
-necessary rule of interpreting the constitution. Being an instrument of
-limited and enumerated powers, it follows irresistibly, that what is not
-conferred, is withheld, and belongs to the state authorities."  This has
-been the Court's consistent understanding: "The States unquestionably do
-retai[n] a significant measure of sovereign authority . . . to the extent that
-the Constitution has not divested them of their original powers and
-transferred those powers to the Federal Government." 
+It is in this sense that the Tenth Amendment "states but a truism that all is retained which has not been surrendered." As Justice Story put it, "[t]his amendment is a mere affirmation of what, upon any just reasoning, is a necessary rule of interpreting the constitution. Being an instrument of limited and enumerated powers, it follows irresistibly, that what is not conferred, is withheld, and belongs to the state authorities." This has been the Court's consistent understanding: "The States unquestionably do retai[n] a significant measure of sovereign authority . . . to the extent that the Constitution has not divested them of their original powers and transferred those powers to the Federal Government."
 
-Congress exercises its conferred powers subject to the limitations contained
-in the Constitution. Thus, for example, under the Commerce Clause Congress may
-regulate publishers engaged in interstate commerce, but Congress is
-constrained in the exercise of that power by the First Amendment. The Tenth
-Amendment likewise restrains the power of Congress, but this limit is not
-derived from the text of the Tenth Amendment itself, which, as we have
-discussed, is essentially a tautology. Instead, the Tenth Amendment confirms
-that the power of the Federal Government is subject to limits that may, in a
-given instance, reserve power to the States. The Tenth Amendment thus directs
-us to determine, as in this case, whether an incident of state sovereignty is
-protected by a limitation on an Article I power.
+Congress exercises its conferred powers subject to the limitations contained in the Constitution. Thus, for example, under the Commerce Clause Congress may regulate publishers engaged in interstate commerce, but Congress is constrained in the exercise of that power by the First Amendment. The Tenth Amendment likewise restrains the power of Congress, but this limit is not derived from the text of the Tenth Amendment itself, which, as we have discussed, is essentially a tautology. Instead, the Tenth Amendment confirms that the power of the Federal Government is subject to limits that may, in a given instance, reserve power to the States. The Tenth Amendment thus directs us to determine, as in this case, whether an incident of state sovereignty is protected by a limitation on an Article I power.
 
 
 
-Petitioners do not contend that Congress lacks the power to regulate the
-disposal of low level radioactive waste. Space in radioactive waste disposal
-sites is frequently sold by residents of one State to residents of another.
-Regulation of the resulting interstate market in waste disposal is therefore
-well within Congress' authority under the Commerce Clause. Petitioners likewise do not dispute that under the Supremacy Clause Congress could, if it wished, pre-empt state radioactive waste regulation. Petitioners contend only that the Tenth Amendment limits the power of Congress to regulate in the way it has chosen. Rather than addressing the problem of waste disposal by directly regulating the generators and disposers of waste, petitioners argue, Congress has impermissibly directed the States to regulate in this
-field.
+Petitioners do not contend that Congress lacks the power to regulate the disposal of low level radioactive waste. Space in radioactive waste disposal sites is frequently sold by residents of one State to residents of another. Regulation of the resulting interstate market in waste disposal is therefore well within Congress' authority under the Commerce Clause. Petitioners likewise do not dispute that under the Supremacy Clause Congress could, if it wished, pre-empt state radioactive waste regulation. Petitioners contend only that the Tenth Amendment limits the power of Congress to regulate in the way it has chosen. Rather than addressing the problem of waste disposal by directly regulating the generators and disposers of waste, petitioners argue, Congress has impermissibly directed the States to regulate in this field.
 
 
-Most of our recent cases interpreting the Tenth Amendment have concerned the
-authority of Congress to subject state governments to generally applicable
-laws. This case instead concerns the circumstances under which Congress may use the
-States as implements of regulation; that is, whether Congress may direct or
-otherwise motivate the States to regulate in a particular field or a
-particular way. Our cases have established a few principles that guide our
-resolution of the issue.
+Most of our recent cases interpreting the Tenth Amendment have concerned the authority of Congress to subject state governments to generally applicable laws. This case instead concerns the circumstances under which Congress may use the States as implements of regulation; that is, whether Congress may direct or otherwise motivate the States to regulate in a particular field or a particular way. Our cases have established a few principles that guide our resolution of the issue.
 
-As an initial matter, Congress may not simply "commandee[r] the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program." While Congress
-has substantial powers to govern the Nation directly, including in areas of
-intimate concern to the States, the Constitution has never been understood to
-confer upon Congress the ability to require the States to govern according to
-Congress' instructions. The Court has been explicit about this
-distinction. "Both the States and the United States existed before the
-Constitution. The people, through that instrument, established a more perfect
-union by substituting a national government, acting, with ample power,
-directly upon the citizens, instead of the Confederate government, which
-acted with powers, greatly restricted, only upon the States." 
+As an initial matter, Congress may not simply "commandee[r] the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program." While Congress has substantial powers to govern the Nation directly, including in areas of intimate concern to the States, the Constitution has never been understood to confer upon Congress the ability to require the States to govern according to Congress' instructions. The Court has been explicit about this distinction. "Both the States and the United States existed before the Constitution. The people, through that instrument, established a more perfect union by substituting a national government, acting, with ample power, directly upon the citizens, instead of the Confederate government, which acted with powers, greatly restricted, only upon the States."
 
-Indeed, the question whether the Constitution should permit Congress to employ
-state governments as regulatory agencies was a topic of lively debate among
-the Framers. Under the Articles of Confederation, Congress lacked the
-authority in most respects to govern the people directly. In practice,
-Congress "could not directly tax or legislate upon individuals; it had no
-explicit 'legislative' or 'governmental' power to make binding 'law'
-enforceable as such." 
+Indeed, the question whether the Constitution should permit Congress to employ state governments as regulatory agencies was a topic of lively debate among the Framers. Under the Articles of Confederation, Congress lacked the authority in most respects to govern the people directly. In practice, Congress "could not directly tax or legislate upon individuals; it had no explicit 'legislative' or 'governmental' power to make binding 'law' enforceable as such."
 
-The inadequacy of this governmental structure was responsible in part for the
-Constitutional Convention. Alexander Hamilton observed: "The great and radical
-vice in the construction of the existing Confederation is in the principle of
-LEGISLATION for STATES or GOVERNMENTS, in their CORPORATE or COLLECTIVE
-CAPACITIES, and as contra-distinguished from the INDIVIDUALS of whom they
-consist." The Federalist No. 15. As Hamilton
-saw it, "we must resolve to incorporate into our plan those ingredients which
-may be considered as forming the characteristic difference between a league
-and a government; we must extend the authority of the Union to the persons of
-the citizens--the only proper objects of government." 
+The inadequacy of this governmental structure was responsible in part for the Constitutional Convention. Alexander Hamilton observed: "The great and radical vice in the construction of the existing Confederation is in the principle of LEGISLATION for STATES or GOVERNMENTS, in their CORPORATE or COLLECTIVE CAPACITIES, and as contra-distinguished from the INDIVIDUALS of whom they consist." The Federalist No. 15. As Hamilton saw it, "we must resolve to incorporate into our plan those ingredients which may be considered as forming the characteristic difference between a league and a government; we must extend the authority of the Union to the persons of the citizens--the only proper objects of government."
 
-In the end, the Convention opted for a Constitution in which Congress would
-exercise its legislative authority directly over individuals rather than over
-States. This choice was made clear to the
-subsequent state ratifying conventions. Oliver Ellsworth, a member of the
-Connecticut delegation in Philadelphia, explained the distinction to his
-State's convention: "This Constitution does not attempt to coerce sovereign
-bodies, states, in their political capacity. . . . But this legal coercion
-singles out the . . . individual." 
+In the end, the Convention opted for a Constitution in which Congress would exercise its legislative authority directly over individuals rather than over States. This choice was made clear to the subsequent state ratifying conventions. Oliver Ellsworth, a member of the Connecticut delegation in Philadelphia, explained the distinction to his State's convention: "This Constitution does not attempt to coerce sovereign bodies, states, in their political capacity. . . . But this legal coercion singles out the . . . individual."
 
-In providing for a stronger central government, therefore, the Framers
-explicitly chose a Constitution that confers upon Congress the power to
-regulate individuals, not States. As we have seen, the Court has consistently
-respected this choice. We have always understood that even where Congress has
-the authority under the Constitution to pass laws requiring or prohibiting
-certain acts, it lacks the power directly to compel the States to require or
-prohibit those acts. 
+In providing for a stronger central government, therefore, the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals, not States. As we have seen, the Court has consistently respected this choice. We have always understood that even where Congress has the authority under the Constitution to pass laws requiring or prohibiting certain acts, it lacks the power directly to compel the States to require or prohibit those acts.
 
-This is not to say that Congress lacks the ability to encourage a State to
-regulate in a particular way, or that Congress may not hold out incentives to
-the States as a method of influencing a State's policy choices. Our cases have
-identified a variety of methods, short of outright coercion, by which Congress
-may urge a State to adopt a legislative program consistent with federal
-interests. Two of these methods are of particular relevance here.
+This is not to say that Congress lacks the ability to encourage a State to regulate in a particular way, or that Congress may not hold out incentives to the States as a method of influencing a State's policy choices. Our cases have identified a variety of methods, short of outright coercion, by which Congress may urge a State to adopt a legislative program consistent with federal interests. Two of these methods are of particular relevance here.
 
 42
 
-First, under Congress' spending power, "Congress may attach conditions on the
-receipt of federal funds." South Dakota v. Dole,. Such conditions must (among other requirements) bear some
-relationship to the purpose of the federal spending; otherwise, of course, the spending power
-could render academic the Constitution's other grants and limits of federal
-authority. Where the recipient of federal funds is a State, as is not unusual
-today, the conditions attached to the funds by Congress may influence a
-State's legislative choices. 
+First, under Congress' spending power, "Congress may attach conditions on the receipt of federal funds." South Dakota v. Dole,. Such conditions must (among other requirements) bear some relationship to the purpose of the federal spending; otherwise, of course, the spending power could render academic the Constitution's other grants and limits of federal authority. Where the recipient of federal funds is a State, as is not unusual today, the conditions attached to the funds by Congress may influence a State's legislative choices.
 
-Second, where Congress has the authority to regulate private activity under
-the Commerce Clause, we have recognized Congress' power to offer States the
-choice of regulating that activity according to federal standards or having
-state law pre-empted by federal regulation. This arrangement, which has been termed "a program of cooperative federalism," is replicated in
-numerous federal statutory schemes. These include the Clean Water Act, the Occupational Safety and Health Act of 1970 [and others].
+Second, where Congress has the authority to regulate private activity under the Commerce Clause, we have recognized Congress' power to offer States the choice of regulating that activity according to federal standards or having state law pre-empted by federal regulation. This arrangement, which has been termed "a program of cooperative federalism," is replicated in numerous federal statutory schemes. These include the Clean Water Act, the Occupational Safety and Health Act of 1970 [and others].
 
-By either of these two methods, as by any other permissible method of
-encouraging a State to conform to federal policy choices, the residents of the
-State retain the ultimate decision as to whether or not the State will comply.
-If a State's citizens view federal policy as sufficiently contrary to local
-interests, they may elect to decline a federal grant. If state residents would
-prefer their government to devote its attention and resources to problems
-other than those deemed important by Congress, they may choose to have the
-Federal Government rather than the State bear the expense of a federally
-mandated regulatory program, and they may continue to supplement that program
-to the extent state law is not preempted. Where Congress encourages state
-regulation rather than compelling it, state governments remain responsive to
-the local electorate's preferences; state officials remain accountable to the
-people.
+By either of these two methods, as by any other permissible method of encouraging a State to conform to federal policy choices, the residents of the State retain the ultimate decision as to whether or not the State will comply. If a State's citizens view federal policy as sufficiently contrary to local interests, they may elect to decline a federal grant. If state residents would prefer their government to devote its attention and resources to problems other than those deemed important by Congress, they may choose to have the Federal Government rather than the State bear the expense of a federally mandated regulatory program, and they may continue to supplement that program to the extent state law is not preempted. Where Congress encourages state regulation rather than compelling it, state governments remain responsive to the local electorate's preferences; state officials remain accountable to the people.
 
-By contrast, where the Federal Government compels States to regulate, the
-accountability of both state and federal officials is diminished. If the
-citizens of New York, for example, do not consider that making provision for
-the disposal of radioactive waste is in their best interest, they may elect
-state officials who share their view. That view can always be preempted under
-the Supremacy Clause if it is contrary to the national view, but in such a
-case it is the Federal Government that makes the decision in full view of the
-public, and it will be federal officials that suffer the consequences if the
-decision turns out to be detrimental or unpopular. But where the Federal
-Government directs the States to regulate, it may be state officials who will
-bear the brunt of public disapproval, while the federal officials who devised
-the regulatory program may remain insulated from the electoral ramifications
-of their decision. Accountability is thus diminished when, due to federal
-coercion, elected state officials cannot regulate in accordance with the views
-of the local electorate in matters not pre-empted by federal regulation. 
+By contrast, where the Federal Government compels States to regulate, the accountability of both state and federal officials is diminished. If the citizens of New York, for example, do not consider that making provision for the disposal of radioactive waste is in their best interest, they may elect state officials who share their view. That view can always be preempted under the Supremacy Clause if it is contrary to the national view, but in such a case it is the Federal Government that makes the decision in full view of the public, and it will be federal officials that suffer the consequences if the decision turns out to be detrimental or unpopular. But where the Federal Government directs the States to regulate, it may be state officials who will bear the brunt of public disapproval, while the federal officials who devised the regulatory program may remain insulated from the electoral ramifications of their decision. Accountability is thus diminished when, due to federal coercion, elected state officials cannot regulate in accordance with the views of the local electorate in matters not pre-empted by federal regulation.
 
-With these principles in mind, we turn to the three challenged provisions of
-the Low-Level Radioactive Waste Policy Amendments Act of 1985.
+With these principles in mind, we turn to the three challenged provisions of the Low-Level Radioactive Waste Policy Amendments Act of 1985.
 
 
-The parties in this case advance two quite different views of the Act. As
-petitioners see it, the Act imposes a requirement directly upon the States
-that they regulate in the field of radioactive waste disposal in order to meet
-Congress' mandate that "[e]ach State shall be responsible for providing . . .
-for the disposal of . . . low-level radioactive waste."  Petitioners understand this provision as a direct command from
-Congress, enforceable independent of the three sets of incentives provided by
-the Act. Respondents, on the other hand, read this provision together with the
-incentives, and see the Act as affording the States three sets of choices.
-According to respondents, the Act permits a State to choose first between
-regulating pursuant to federal standards and losing the right to a share of
-the Secretary of Energy's escrow account; to choose second between regulating
-pursuant to federal standards and progressively losing access to disposal
-sites in other States; and to choose third between regulating pursuant to
-federal standards and taking title to the waste generated within the State.
-Respondents thus interpret § 2021c(a)(1)(A), despite the statute's use of the
-word "shall," to provide no more than an option which a State may elect or
-eschew.
+The parties in this case advance two quite different views of the Act. As petitioners see it, the Act imposes a requirement directly upon the States that they regulate in the field of radioactive waste disposal in order to meet Congress' mandate that "[e]ach State shall be responsible for providing . . . for the disposal of . . . low-level radioactive waste." Petitioners understand this provision as a direct command from Congress, enforceable independent of the three sets of incentives provided by the Act. Respondents, on the other hand, read this provision together with the incentives, and see the Act as affording the States three sets of choices. According to respondents, the Act permits a State to choose first between regulating pursuant to federal standards and losing the right to a share of the Secretary of Energy's escrow account; to choose second between regulating pursuant to federal standards and progressively losing access to disposal sites in other States; and to choose third between regulating pursuant to federal standards and taking title to the waste generated within the State. Respondents thus interpret § 2021c(a)(1)(A), despite the statute's use of the word "shall," to provide no more than an option which a State may elect or eschew.
 
-The Act could plausibly be understood either as a mandate to regulate or as a
-series of incentives. Under petitioners' view, however, § 2021c(a)(1)(A) of
-the Act would clearly "commandee[r] the legislative processes of the States by
-directly compelling them to enact and enforce a federal regulatory program." We must reject this interpretation of the provision
-for two reasons. First, such an outcome would, to say the least, "upset the
-usual constitutional balance of federal and state powers." "[I]t is incumbent upon the
-federal courts to be certain of Congress' intent before finding that federal
-law overrides this balance," but
-the Act's amenability to an equally plausible alternative construction
-prevents us from possessing such certainty. Second, "where an otherwise
-acceptable construction of a statute would raise serious constitutional
-problems, the Court will construe the statute to avoid such problems unless
-such construction is plainly contrary to the intent of Congress." This rule of
-statutory construction pushes us away from petitioners' understanding of §
-2021c(a)(1)(A) of the Act, under which it compels the States to regulate
-according to Congress' instructions.
+The Act could plausibly be understood either as a mandate to regulate or as a series of incentives. Under petitioners' view, however, § 2021c(a)(1)(A) of the Act would clearly "commandee[r] the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program." We must reject this interpretation of the provision for two reasons. First, such an outcome would, to say the least, "upset the usual constitutional balance of federal and state powers." "[I]t is incumbent upon the federal courts to be certain of Congress' intent before finding that federal law overrides this balance," but the Act's amenability to an equally plausible alternative construction prevents us from possessing such certainty. Second, "where an otherwise acceptable construction of a statute would raise serious constitutional problems, the Court will construe the statute to avoid such problems unless such construction is plainly contrary to the intent of Congress." This rule of statutory construction pushes us away from petitioners' understanding of § 2021c(a)(1)(A) of the Act, under which it compels the States to regulate according to Congress' instructions.
 
-We therefore decline petitioners' invitation to construe § 2021c(a)(1)(A),
-alone and in isolation, as a command to the States independent of the
-remainder of the Act. Construed as a whole, the Act comprises three sets of
-"incentives" for the States to provide for the disposal of low level
-radioactive waste generated within their borders. We consider each in turn.
+We therefore decline petitioners' invitation to construe § 2021c(a)(1)(A), alone and in isolation, as a command to the States independent of the remainder of the Act. Construed as a whole, the Act comprises three sets of "incentives" for the States to provide for the disposal of low level radioactive waste generated within their borders. We consider each in turn.
 
 The first set of incentives works in three steps. First, Congress has authorized States with disposal sites to impose a surcharge on radioactive waste received from other States. Second, the Secretary of Energy collects a portion of this surcharge and places the money in an escrow account. Third, States achieving a series of milestones receive portions of this fund.
 
-The first of these steps is an unexceptionable exercise of Congress' power to
-authorize the States to burden interstate commerce. While the Commerce Clause
-has long been understood to limit the States' ability to discriminate against
-interstate commerce, that limit may be lifted, as it has been here, by an expression of the "unambiguous intent" of Congress. Whether or not the States would be permitted to burden the interstate
-transport of low level radioactive waste in the absence of Congress' approval,
-the States can clearly do so with Congress' approval, which is what the Act
-gives them.
+The first of these steps is an unexceptionable exercise of Congress' power to authorize the States to burden interstate commerce. While the Commerce Clause has long been understood to limit the States' ability to discriminate against interstate commerce, that limit may be lifted, as it has been here, by an expression of the "unambiguous intent" of Congress. Whether or not the States would be permitted to burden the interstate transport of low level radioactive waste in the absence of Congress' approval, the States can clearly do so with Congress' approval, which is what the Act gives them.
 
-The second step, the Secretary's collection of a percentage of the surcharge,
-is no more than a federal tax on interstate commerce, which petitioners do not
-claim to be an invalid exercise of either Congress' commerce or taxing power.
+The second step, the Secretary's collection of a percentage of the surcharge, is no more than a federal tax on interstate commerce, which petitioners do not claim to be an invalid exercise of either Congress' commerce or taxing power.
 
-The third step is a conditional exercise of Congress' authority under the
-Spending Clause: Congress has placed conditions--the achievement of the
-milestones--on the receipt of federal funds. Petitioners do not contend that
-Congress has exceeded its authority in any of the four respects our cases have
-identified.  The expenditure is for the general welfare; the
-States are required to use the money they receive for the purpose of assuring
-the safe disposal of radioactive waste. The
-conditions imposed are unambiguous; the Act informs the States
-exactly what they must do and by when they must do it in order to obtain a
-share of the escrow account. The conditions imposed are reasonably related to
-the purpose of the expenditure; both the conditions and the payments embody Congress'
-efforts to address the pressing problem of radioactive waste disposal.
-Finally, petitioners do not claim that the conditions imposed by the Act
-violate any independent constitutional prohibition. 
+The third step is a conditional exercise of Congress' authority under the Spending Clause: Congress has placed conditions--the achievement of the milestones--on the receipt of federal funds. Petitioners do not contend that Congress has exceeded its authority in any of the four respects our cases have identified. The expenditure is for the general welfare; the States are required to use the money they receive for the purpose of assuring the safe disposal of radioactive waste. The conditions imposed are unambiguous; the Act informs the States exactly what they must do and by when they must do it in order to obtain a share of the escrow account. The conditions imposed are reasonably related to the purpose of the expenditure; both the conditions and the payments embody Congress' efforts to address the pressing problem of radioactive waste disposal. Finally, petitioners do not claim that the conditions imposed by the Act violate any independent constitutional prohibition.
 
 
-The Act's first set of incentives, in which Congress has conditioned grants to
-the States upon the States' attainment of a series of milestones, is thus well
-within the authority of Congress under the Commerce and Spending Clauses.
-Because the first set of incentives is supported by affirmative constitutional
-grants of power to Congress, it is not inconsistent with the Tenth Amendment.
+The Act's first set of incentives, in which Congress has conditioned grants to the States upon the States' attainment of a series of milestones, is thus well within the authority of Congress under the Commerce and Spending Clauses. Because the first set of incentives is supported by affirmative constitutional grants of power to Congress, it is not inconsistent with the Tenth Amendment.
 
-In the second set of incentives, Congress has authorized States and regional
-compacts with disposal sites gradually to increase the cost of access to the
-sites, and then to deny access altogether, to radioactive waste generated in
-States that do not meet federal deadlines. As a simple regulation, this
-provision would be within the power of Congress to authorize the States to
-discriminate against interstate commerce.  Where federal regulation of private
-activity is within the scope of the Commerce Clause, we have recognized the
-ability of Congress to offer states the choice of regulating that activity
-according to federal standards or having state law pre-empted by federal
-regulation. 
+In the second set of incentives, Congress has authorized States and regional compacts with disposal sites gradually to increase the cost of access to the sites, and then to deny access altogether, to radioactive waste generated in States that do not meet federal deadlines. As a simple regulation, this provision would be within the power of Congress to authorize the States to discriminate against interstate commerce. Where federal regulation of private activity is within the scope of the Commerce Clause, we have recognized the ability of Congress to offer states the choice of regulating that activity according to federal standards or having state law pre-empted by federal regulation.
 
-This is the choice presented to nonsited States by the Act's second set of
-incentives: States may either regulate the disposal of radioactive waste
-according to federal standards by attaining local or regional self-
-sufficiency, or their residents who produce radioactive waste will be subject
-to federal regulation authorizing sited States and regions to deny access to
-their disposal sites. The affected States are not compelled by Congress to
-regulate, because any burden caused by a State's refusal to regulate will fall
-on those who generate waste and find no outlet for its disposal, rather than
-on the State as a sovereign. A State whose citizens do not wish it to attain
-the Act's milestones may devote its attention and its resources to issues its
-citizens deem more worthy; the choice remains at all times with the residents
-of the State, not with Congress. The State need not expend any funds, or
-participate in any federal program, if local residents do not view such
-expenditures or participation as worthwhile.  Nor must the State abandon the field if it does not
-accede to federal direction; the State may continue to regulate the generation
-and disposal of radioactive waste in any manner its citizens see fit.
+This is the choice presented to nonsited States by the Act's second set of incentives: States may either regulate the disposal of radioactive waste according to federal standards by attaining local or regional self- sufficiency, or their residents who produce radioactive waste will be subject to federal regulation authorizing sited States and regions to deny access to their disposal sites. The affected States are not compelled by Congress to regulate, because any burden caused by a State's refusal to regulate will fall on those who generate waste and find no outlet for its disposal, rather than on the State as a sovereign. A State whose citizens do not wish it to attain the Act's milestones may devote its attention and its resources to issues its citizens deem more worthy; the choice remains at all times with the residents of the State, not with Congress. The State need not expend any funds, or participate in any federal program, if local residents do not view such expenditures or participation as worthwhile. Nor must the State abandon the field if it does not accede to federal direction; the State may continue to regulate the generation and disposal of radioactive waste in any manner its citizens see fit.
 
 
-The Act's second set of incentives thus represents a conditional exercise of
-Congress' commerce power, along the lines of those we have held to be within
-Congress' authority. As a result, the second set of incentives does not
-intrude on the sovereignty reserved to the States by the Tenth Amendment.
+The Act's second set of incentives thus represents a conditional exercise of Congress' commerce power, along the lines of those we have held to be within Congress' authority. As a result, the second set of incentives does not intrude on the sovereignty reserved to the States by the Tenth Amendment.
 
 
-The take title provision is of a different character. This third so-called
-"incentive" offers States, as an alternative to regulating pursuant to
-Congress' direction, the option of taking title to and possession of the low
-level radioactive waste generated within their borders and becoming liable for
-all damages waste generators suffer as a result of the States' failure to do
-so promptly. In this provision, Congress has crossed the line distinguishing
-encouragement from coercion.
+The take title provision is of a different character. This third so-called "incentive" offers States, as an alternative to regulating pursuant to Congress' direction, the option of taking title to and possession of the low level radioactive waste generated within their borders and becoming liable for all damages waste generators suffer as a result of the States' failure to do so promptly. In this provision, Congress has crossed the line distinguishing encouragement from coercion.
 
-The take title provision offers state governments a "choice" of either
-accepting ownership of waste or regulating according to the instructions of
-Congress. Respondents do not claim that the Constitution would authorize
-Congress to impose either option as a freestanding requirement. On one hand,
-the Constitution would not permit Congress simply to transfer radioactive
-waste from generators to state governments. Such a forced transfer, standing
-alone, would in principle be no different than a congressionally compelled
-subsidy from state governments to radioactive waste producers. The same is
-true of the provision requiring the States to become liable for the
-generators' damages. Standing alone, this provision would be indistinguishable
-from an Act of Congress directing the States to assume the liabilities of
-certain state residents. Either type of federal action would "commandeer"
-state governments into the service of federal regulatory purposes, and would
-for this reason be inconsistent with the Constitution's division of authority
-between federal and state governments. On the other hand, the second
-alternative held out to state governments--regulating pursuant to Congress'
-direction--would, standing alone, present a simple command to state
-governments to implement legislation enacted by Congress. As we have seen, the
-Constitution does not empower Congress to subject state governments to this
-type of instruction.
+The take title provision offers state governments a "choice" of either accepting ownership of waste or regulating according to the instructions of Congress. Respondents do not claim that the Constitution would authorize Congress to impose either option as a freestanding requirement. On one hand, the Constitution would not permit Congress simply to transfer radioactive waste from generators to state governments. Such a forced transfer, standing alone, would in principle be no different than a congressionally compelled subsidy from state governments to radioactive waste producers. The same is true of the provision requiring the States to become liable for the generators' damages. Standing alone, this provision would be indistinguishable from an Act of Congress directing the States to assume the liabilities of certain state residents. Either type of federal action would "commandeer" state governments into the service of federal regulatory purposes, and would for this reason be inconsistent with the Constitution's division of authority between federal and state governments. On the other hand, the second alternative held out to state governments--regulating pursuant to Congress' direction--would, standing alone, present a simple command to state governments to implement legislation enacted by Congress. As we have seen, the Constitution does not empower Congress to subject state governments to this type of instruction.
 
-Because an instruction to state governments to take title to waste, standing
-alone, would be beyond the authority of Congress, and because a direct order
-to regulate, standing alone, would also be beyond the authority of Congress,
-it follows that Congress lacks the power to offer the States a choice between
-the two. Unlike the first two sets of incentives, the take title incentive
-does not represent the conditional exercise of any congressional power
-enumerated in the Constitution. In this provision, Congress has not held out
-the threat of exercising its spending power or its commerce power; it has
-instead held out the threat, should the States not regulate according to one
-federal instruction, of simply forcing the States to submit to another federal
-instruction. A choice between two unconstitutionally coercive regulatory
-techniques is no choice at all. Either way, "the Act commandeers the
-legislative processes of the States by directly compelling them to enact and
-enforce a federal regulatory program." 
+Because an instruction to state governments to take title to waste, standing alone, would be beyond the authority of Congress, and because a direct order to regulate, standing alone, would also be beyond the authority of Congress, it follows that Congress lacks the power to offer the States a choice between the two. Unlike the first two sets of incentives, the take title incentive does not represent the conditional exercise of any congressional power enumerated in the Constitution. In this provision, Congress has not held out the threat of exercising its spending power or its commerce power; it has instead held out the threat, should the States not regulate according to one federal instruction, of simply forcing the States to submit to another federal instruction. A choice between two unconstitutionally coercive regulatory techniques is no choice at all. Either way, "the Act commandeers the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program."
 
-Respondents emphasize the latitude given to the States to implement Congress'
-plan. The Act enables the States to regulate pursuant to Congress'
-instructions in any number of different ways. States may avoid taking title by
-contracting with sited regional compacts, by building a disposal site alone or
-as part of a compact, or by permitting private parties to build a disposal
-site. States that host sites may employ a wide range of designs and disposal
-methods, subject only to broad federal regulatory limits. This line of
-reasoning, however, only underscores the critical alternative a State lacks: A
-State may not decline to administer the federal program. No matter which path
-the State chooses, it must follow the direction of Congress.
+Respondents emphasize the latitude given to the States to implement Congress' plan. The Act enables the States to regulate pursuant to Congress' instructions in any number of different ways. States may avoid taking title by contracting with sited regional compacts, by building a disposal site alone or as part of a compact, or by permitting private parties to build a disposal site. States that host sites may employ a wide range of designs and disposal methods, subject only to broad federal regulatory limits. This line of reasoning, however, only underscores the critical alternative a State lacks: A State may not decline to administer the federal program. No matter which path the State chooses, it must follow the direction of Congress.
 
-The take title provision appears to be unique. No other federal statute has
-been cited which offers a state government no option other than that of
-implementing legislation enacted by Congress. Whether one views the take title
-provision as lying outside Congress' enumerated powers, or as infringing upon
-the core of state sovereignty reserved by the Tenth Amendment, the provision
-is inconsistent with the federal structure of our Government established by
-the Constitution.
+The take title provision appears to be unique. No other federal statute has been cited which offers a state government no option other than that of implementing legislation enacted by Congress. Whether one views the take title provision as lying outside Congress' enumerated powers, or as infringing upon the core of state sovereignty reserved by the Tenth Amendment, the provision is inconsistent with the federal structure of our Government established by the Constitution.
 
 \newpage
 

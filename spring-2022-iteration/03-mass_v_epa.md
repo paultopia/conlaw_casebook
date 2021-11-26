@@ -4,403 +4,96 @@
 
 **Justice STEVENS delivered the opinion of the Court.**
 
-A well-documented rise in global temperatures has coincided with a significant
-increase in the concentration of carbon dioxide in the atmosphere. Respected
-scientists believe the two trends are related. For when carbon dioxide is
-released into the atmosphere, it acts like the ceiling of a greenhouse,
-trapping solar energy and retarding the escape of reflected heat. It is
-therefore a speciesthe most important speciesof a "greenhouse gas."
+A well-documented rise in global temperatures has coincided with a significant increase in the concentration of carbon dioxide in the atmosphere. Respected scientists believe the two trends are related. For when carbon dioxide is released into the atmosphere, it acts like the ceiling of a greenhouse, trapping solar energy and retarding the escape of reflected heat. It is therefore a speciesthe most important speciesof a "greenhouse gas."
 
-Calling global warming "the most pressing environmental challenge of our
-time," a group of States, local governments, and private
-organizations alleged in a petition for certiorari that the Environmental
-Protection Agency (EPA) has abdicated its responsibility under the Clean Air
-Act to regulate the emissions of four greenhouse gases, including carbon
-dioxide. Specifically, petitioners asked us to answer two questions concerning
-the meaning of § 202(a)(1) of the Act: whether EPA has the statutory authority
-to regulate greenhouse gas emissions from new motor vehicles; and if so,
-whether its stated reasons for refusing to do so are consistent with the
-statute.
+Calling global warming "the most pressing environmental challenge of our time," a group of States, local governments, and private organizations alleged in a petition for certiorari that the Environmental Protection Agency (EPA) has abdicated its responsibility under the Clean Air Act to regulate the emissions of four greenhouse gases, including carbon dioxide. Specifically, petitioners asked us to answer two questions concerning the meaning of § 202(a)(1) of the Act: whether EPA has the statutory authority to regulate greenhouse gas emissions from new motor vehicles; and if so, whether its stated reasons for refusing to do so are consistent with the statute.
 
-EPA maintains that because greenhouse gas emissions inflict widespread harm,
-the doctrine of standing presents an insuperable jurisdictional obstacle. We
-do not agree. At bottom, "the gist of the question of standing" is whether
-petitioners have "such a personal stake in the outcome of the controversy as
-to assure that concrete adverseness which sharpens the presentation of issues
-upon which the court so largely depends for illumination." 
+EPA maintains that because greenhouse gas emissions inflict widespread harm, the doctrine of standing presents an insuperable jurisdictional obstacle. We do not agree. At bottom, "the gist of the question of standing" is whether petitioners have "such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination."
 
-> While it does not matter how many persons have been injured by the
-> challenged action, the party bringing suit must show that the action injures
-> him in a concrete and personal way. This requirement is not just an empty
-> formality. It preserves the vitality of the adversarial process by assuring
-> both that the parties before the court have an actual, as opposed to
-> professed, stake in the outcome, and that the legal questions presented ...
-> will be resolved, not in the rarified atmosphere of a debating society, but
-> in a concrete factual context conducive to a realistic appreciation of the
-> consequences of judicial action.
+> While it does not matter how many persons have been injured by the > challenged action, the party bringing suit must show that the action injures > him in a concrete and personal way. This requirement is not just an empty > formality. It preserves the vitality of the adversarial process by assuring > both that the parties before the court have an actual, as opposed to > professed, stake in the outcome, and that the legal questions presented ... > will be resolved, not in the rarified atmosphere of a debating society, but > in a concrete factual context conducive to a realistic appreciation of the > consequences of judicial action.
 
-Only one of the petitioners needs to have standing to permit us to consider
-the petition for review. We stress here, as did Judge Tatel below, the special position and interest of Massachusetts. It is of considerable relevance that the party
-seeking review here is a sovereign State and not, as it was in Lujan, a
-private individual.
+Only one of the petitioners needs to have standing to permit us to consider the petition for review. We stress here, as did Judge Tatel below, the special position and interest of Massachusetts. It is of considerable relevance that the party seeking review here is a sovereign State and not, as it was in Lujan, a private individual.
 
-Well before the creation of the modern administrative state, we recognized
-that States are not normal litigants for the purposes of invoking federal
-jurisdiction. As Justice Holmes explained in Georgia v. Tennessee Copper
-Co., (1907), a case in which
-Georgia sought to protect its citizens from air pollution originating outside
-its borders:
+Well before the creation of the modern administrative state, we recognized that States are not normal litigants for the purposes of invoking federal jurisdiction. As Justice Holmes explained in Georgia v. Tennessee Copper Co., (1907), a case in which Georgia sought to protect its citizens from air pollution originating outside its borders:
 
-> The case has been argued largely as if it were one between two private
-> parties; but it is not. The very elements that would be relied upon in a
-> suit between fellow-citizens as a ground for equitable relief are wanting
-> here. The State owns very little of the territory alleged to be affected,
-> and the damage to it capable of estimate in money, possibly, at least, is
-> small. This is a suit by a State for an injury to it in its capacity of
-> quasi-sovereign. In that capacity the State has an interest independent
-> of and behind the titles of its citizens, in all the earth and air within
-> its domain. It has the last word as to whether its mountains shall be
-> stripped of their forests and its inhabitants shall breathe pure air.
+> The case has been argued largely as if it were one between two private > parties; but it is not. The very elements that would be relied upon in a > suit between fellow-citizens as a ground for equitable relief are wanting > here. The State owns very little of the territory alleged to be affected, > and the damage to it capable of estimate in money, possibly, at least, is > small. This is a suit by a State for an injury to it in its capacity of > quasi-sovereign. In that capacity the State has an interest independent > of and behind the titles of its citizens, in all the earth and air within > its domain. It has the last word as to whether its mountains shall be > stripped of their forests and its inhabitants shall breathe pure air.
 
-Just as Georgia's "independent interest... in all the earth and air within its
-domain" supported federal jurisdiction a century ago, so too does
-Massachusetts' well-founded desire to preserve its sovereign territory today. That Massachusetts does in fact own a great deal of the "territory alleged to be affected" only
-reinforces the conclusion that its stake in the outcome of this case is
-sufficiently concrete to warrant the exercise of federal judicial power.
+Just as Georgia's "independent interest... in all the earth and air within its domain" supported federal jurisdiction a century ago, so too does Massachusetts' well-founded desire to preserve its sovereign territory today. That Massachusetts does in fact own a great deal of the "territory alleged to be affected" only reinforces the conclusion that its stake in the outcome of this case is sufficiently concrete to warrant the exercise of federal judicial power.
 
-When a State enters the Union, it surrenders certain sovereign prerogatives.
-Massachusetts cannot invade Rhode Island to force reductions in greenhouse gas
-emissions, it cannot negotiate an emissions treaty with China or India, and in
-some circumstances the exercise of its police powers to reduce in-state motor-
-vehicle emissions might well be pre-empted. See Alfred L. Snapp & Son, Inc.
-v. Puerto Rico ex rel. Barez (1982) ("One helpful indication in determining whether an alleged injury to the health and welfare of its citizens suffices to give the State standing to sue parens patriae is whether the injury is one that the State, if it
-could, would likely attempt to address through its sovereign lawmaking
-powers").
+When a State enters the Union, it surrenders certain sovereign prerogatives. Massachusetts cannot invade Rhode Island to force reductions in greenhouse gas emissions, it cannot negotiate an emissions treaty with China or India, and in some circumstances the exercise of its police powers to reduce in-state motor- vehicle emissions might well be pre-empted. See Alfred L. Snapp & Son, Inc. v. Puerto Rico ex rel. Barez (1982) ("One helpful indication in determining whether an alleged injury to the health and welfare of its citizens suffices to give the State standing to sue parens patriae is whether the injury is one that the State, if it could, would likely attempt to address through its sovereign lawmaking powers").
 
-These sovereign prerogatives are now lodged in the Federal Government, and
-Congress has ordered EPA to protect Massachusetts (among others) by
-prescribing standards applicable to the "emission of any air pollutant from
-any class or classes of new motor vehicle engines, which in [the
-Administrator's] judgment cause, or contribute to, air pollution which may
-reasonably be anticipated to endanger public health or welfare."  Congress has moreover recognized a concomitant procedural right to
-challenge the rejection of its rulemaking petition as arbitrary and
-capricious.  Given that procedural right and Massachusetts' stake
-in protecting its quasi-sovereign interests, the Commonwealth  is
-entitled to special solicitude in our standing analysis.
+These sovereign prerogatives are now lodged in the Federal Government, and Congress has ordered EPA to protect Massachusetts (among others) by prescribing standards applicable to the "emission of any air pollutant from any class or classes of new motor vehicle engines, which in [the Administrator's] judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare." Congress has moreover recognized a concomitant procedural right to challenge the rejection of its rulemaking petition as arbitrary and capricious. Given that procedural right and Massachusetts' stake in protecting its quasi-sovereign interests, the Commonwealth is entitled to special solicitude in our standing analysis.
 
-With that in mind, it is clear that petitioners' submissions as they pertain
-to Massachusetts have satisfied the most demanding standards of the
-adversarial process. EPA's steadfast refusal to regulate greenhouse gas
-emissions presents a risk of harm to Massachusetts that is both "actual" and
-"imminent." There is, moreover, a "substantial likelihood that the
-judicial relief requested" will prompt EPA to take steps to reduce that risk.
+With that in mind, it is clear that petitioners' submissions as they pertain to Massachusetts have satisfied the most demanding standards of the adversarial process. EPA's steadfast refusal to regulate greenhouse gas emissions presents a risk of harm to Massachusetts that is both "actual" and "imminent." There is, moreover, a "substantial likelihood that the judicial relief requested" will prompt EPA to take steps to reduce that risk.
 
 *The Injury*
 
-The harms associated with climate change are serious and well recognized.
-Indeed, the NRC Report itself, which EPA regards as an "objective and
-independent assessment of the relevant science," identifies
-a number of environmental changes that have already inflicted significant
-harms, including "the global retreat of mountain glaciers, reduction in snow-
-cover extent, the earlier spring melting of rivers and lakes, [and] the
-accelerated rate of rise of sea levels during the 20th century relative to the
-past few thousand years ...." 
-Petitioners allege that this only hints at the environmental damage yet to
-come. According to the climate scientist Michael MacCracken, "qualified
-scientific experts involved in climate change research" have reached a "strong
-consensus" that global warming threatens (among other things) a precipitate
-rise in sea levels by the end of the century, "severe and irreversible changes to natural ecosystems," a "significant reduction in water storage in winter snowpack in
-mountainous regions with direct and important economic consequences," and an increase in the spread of disease. He also
-observes that rising ocean temperatures may contribute to the ferocity of
-hurricanes. 
+The harms associated with climate change are serious and well recognized. Indeed, the NRC Report itself, which EPA regards as an "objective and independent assessment of the relevant science," identifies a number of environmental changes that have already inflicted significant harms, including "the global retreat of mountain glaciers, reduction in snow- cover extent, the earlier spring melting of rivers and lakes, [and] the accelerated rate of rise of sea levels during the 20th century relative to the past few thousand years ...." Petitioners allege that this only hints at the environmental damage yet to come. According to the climate scientist Michael MacCracken, "qualified scientific experts involved in climate change research" have reached a "strong consensus" that global warming threatens (among other things) a precipitate rise in sea levels by the end of the century, "severe and irreversible changes to natural ecosystems," a "significant reduction in water storage in winter snowpack in mountainous regions with direct and important economic consequences," and an increase in the spread of disease. He also observes that rising ocean temperatures may contribute to the ferocity of hurricanes.
 
-That these climate-change risks are "widely shared" does not minimize
-Massachusetts' interest in the outcome of this litigation. According to petitioners' unchallenged affidavits, global sea levels rose somewhere between 10 and 20 centimeters over the 20th century as a result of global warming. These
-rising seas have already begun to swallow Massachusetts' coastal land.
-Because the Commonwealth "owns a substantial portion of the state's coastal
-property," it has
-alleged a particularized injury in its capacity as a landowner. The severity
-of that injury will only increase over the course of the next century: If sea
-levels continue to rise as predicted, one Massachusetts official believes that
-a significant fraction of coastal property will be "either permanently lost
-through inundation or temporarily lost through periodic storm surge and
-flooding events." Remediation costs alone, petitioners
-allege, could run well into the hundreds of millions of dollars. 
+That these climate-change risks are "widely shared" does not minimize Massachusetts' interest in the outcome of this litigation. According to petitioners' unchallenged affidavits, global sea levels rose somewhere between 10 and 20 centimeters over the 20th century as a result of global warming. These rising seas have already begun to swallow Massachusetts' coastal land. Because the Commonwealth "owns a substantial portion of the state's coastal property," it has alleged a particularized injury in its capacity as a landowner. The severity of that injury will only increase over the course of the next century: If sea levels continue to rise as predicted, one Massachusetts official believes that a significant fraction of coastal property will be "either permanently lost through inundation or temporarily lost through periodic storm surge and flooding events." Remediation costs alone, petitioners allege, could run well into the hundreds of millions of dollars.
 
 *Causation*
 
-EPA does not dispute the existence of a causal connection between man-made
-greenhouse gas emissions and global warming. At a minimum, therefore, EPA's
-refusal to regulate such emissions "contributes" to Massachusetts' injuries.
+EPA does not dispute the existence of a causal connection between man-made greenhouse gas emissions and global warming. At a minimum, therefore, EPA's refusal to regulate such emissions "contributes" to Massachusetts' injuries.
 
-EPA nevertheless maintains that its decision not to regulate greenhouse gas
-emissions from new motor vehicles contributes so insignificantly to
-petitioners' injuries that the agency cannot be haled into federal court to
-answer for them. For the same reason, EPA does not believe that any realistic
-possibility exists that the relief petitioners seek would mitigate global
-climate change and remedy their injuries. That is especially so because
-predicted increases in greenhouse gas emissions from developing nations,
-particularly China and India, are likely to offset any marginal domestic
-decrease.
+EPA nevertheless maintains that its decision not to regulate greenhouse gas emissions from new motor vehicles contributes so insignificantly to petitioners' injuries that the agency cannot be haled into federal court to answer for them. For the same reason, EPA does not believe that any realistic possibility exists that the relief petitioners seek would mitigate global climate change and remedy their injuries. That is especially so because predicted increases in greenhouse gas emissions from developing nations, particularly China and India, are likely to offset any marginal domestic decrease.
 
-But EPA overstates its case. Its argument rests on the erroneous assumption
-that a small incremental step, because it is incremental, can never be
-attacked in a federal judicial forum. Yet accepting that premise would doom
-most challenges to regulatory action. Agencies, like legislatures, do not
-generally resolve massive problems in one fell regulatory swoop. They instead whittle away at them over time, refining their preferred
-approach as circumstances change and as they develop a more-nuanced
-understanding of how best to proceed. That a first step might be tentative does not by
-itself support the notion that federal courts lack jurisdiction to determine
-whether that step conforms to law.
+But EPA overstates its case. Its argument rests on the erroneous assumption that a small incremental step, because it is incremental, can never be attacked in a federal judicial forum. Yet accepting that premise would doom most challenges to regulatory action. Agencies, like legislatures, do not generally resolve massive problems in one fell regulatory swoop. They instead whittle away at them over time, refining their preferred approach as circumstances change and as they develop a more-nuanced understanding of how best to proceed. That a first step might be tentative does not by itself support the notion that federal courts lack jurisdiction to determine whether that step conforms to law.
 
-And reducing domestic automobile emissions is hardly a tentative step. Even
-leaving aside the other greenhouse gases, the United States transportation
-sector emits an enormous quantity of carbon dioxide into the
-atmosphere, according to the MacCracken affidavit, more than 1.7 billion metric
-tons in 1999 alone. That accounts for more than 6% of
-worldwide carbon dioxide emissions. To put this in perspective: Considering
-just emissions from the transportation sector, which represent less than one-
-third of this country's total carbon dioxide emissions, the United States
-would still rank as the third-largest emitter of carbon dioxide in the world,
-outpaced only by the European Union and China. Judged by any standard, U.S. motor-vehicle emissions make a meaningful contribution to
-greenhouse gas concentrations and hence, according to petitioners, to global
-warming.
+And reducing domestic automobile emissions is hardly a tentative step. Even leaving aside the other greenhouse gases, the United States transportation sector emits an enormous quantity of carbon dioxide into the atmosphere, according to the MacCracken affidavit, more than 1.7 billion metric tons in 1999 alone. That accounts for more than 6% of worldwide carbon dioxide emissions. To put this in perspective: Considering just emissions from the transportation sector, which represent less than one- third of this country's total carbon dioxide emissions, the United States would still rank as the third-largest emitter of carbon dioxide in the world, outpaced only by the European Union and China. Judged by any standard, U.S. motor-vehicle emissions make a meaningful contribution to greenhouse gas concentrations and hence, according to petitioners, to global warming.
 
 *The Remedy*
 
-While it may be true that regulating motor-vehicle emissions will not by
-itself reverse global warming, it by no means follows that we lack
-jurisdiction to decide whether EPA has a duty to take steps to slow or
-reduce it. Because of the enormity of the potential consequences
-associated with man-made climate change, the fact that the effectiveness of a
-remedy might be delayed during the (relatively short) time it takes for a new
-motor-vehicle fleet to replace an older one is essentially irrelevant. Nor
-is it dispositive that developing countries such as China and India are poised
-to increase greenhouse gas emissions substantially over the next century: A
-reduction in domestic emissions would slow the pace of global emissions
-increases, no matter what happens elsewhere.
+While it may be true that regulating motor-vehicle emissions will not by itself reverse global warming, it by no means follows that we lack jurisdiction to decide whether EPA has a duty to take steps to slow or reduce it. Because of the enormity of the potential consequences associated with man-made climate change, the fact that the effectiveness of a remedy might be delayed during the (relatively short) time it takes for a new motor-vehicle fleet to replace an older one is essentially irrelevant. Nor is it dispositive that developing countries such as China and India are poised to increase greenhouse gas emissions substantially over the next century: A reduction in domestic emissions would slow the pace of global emissions increases, no matter what happens elsewhere.
 
-We moreover attach considerable significance to EPA's "agree[ment] with the
-President that `we must address the issue of global climate change,'" and to EPA's ardent support for various voluntary emission-reduction
-programs. As Judge Tatel observed in dissent below, "EPA
-would presumably not bother with such efforts if it thought emissions
-reductions would have no discernable impact on future global warming." 
+We moreover attach considerable significance to EPA's "agree[ment] with the President that `we must address the issue of global climate change,'" and to EPA's ardent support for various voluntary emission-reduction programs. As Judge Tatel observed in dissent below, "EPA would presumably not bother with such efforts if it thought emissions reductions would have no discernable impact on future global warming."
 
-In sum, at least according to petitioners' uncontested affidavits, the rise in
-sea levels associated with global warming has already harmed and will continue
-to harm Massachusetts. The risk of catastrophic harm, though remote, is
-nevertheless real. That risk would be reduced to some extent if petitioners
-received the relief they seek. We therefore hold that petitioners have
-standing to challenge the EPA's denial of their rulemaking petition.
+In sum, at least according to petitioners' uncontested affidavits, the rise in sea levels associated with global warming has already harmed and will continue to harm Massachusetts. The risk of catastrophic harm, though remote, is nevertheless real. That risk would be reduced to some extent if petitioners received the relief they seek. We therefore hold that petitioners have standing to challenge the EPA's denial of their rulemaking petition.
 
-**Chief Justice ROBERTS, with whom Justice SCALIA, Justice THOMAS, and Justice
-ALITO join, dissenting.**
+**Chief Justice ROBERTS, with whom Justice SCALIA, Justice THOMAS, and Justice ALITO join, dissenting.**
 
-Our modern framework for addressing standing is familiar: "A plaintiff must
-allege personal injury fairly traceable to the defendant's allegedly unlawful
-conduct and likely to be redressed by the requested relief."  Applying that standard here, petitioners bear the burden of alleging an injury that is fairly traceable to the Environmental Protection Agency's failure to promulgate new motor vehicle greenhouse gas emission standards, and that is likely to be redressed by the prospective issuance of
-such standards.
+Our modern framework for addressing standing is familiar: "A plaintiff must allege personal injury fairly traceable to the defendant's allegedly unlawful conduct and likely to be redressed by the requested relief." Applying that standard here, petitioners bear the burden of alleging an injury that is fairly traceable to the Environmental Protection Agency's failure to promulgate new motor vehicle greenhouse gas emission standards, and that is likely to be redressed by the prospective issuance of such standards.
 
-Before determining whether petitioners can meet this familiar test, however,
-the Court changes the rules. It asserts that "States are not normal litigants
-for the purposes of invoking federal jurisdiction," and that given
-"Massachusetts' stake in protecting its quasi-sovereign interests, the
-Commonwealth is entitled to _special solicitude_ in our standing analysis."
+Before determining whether petitioners can meet this familiar test, however, the Court changes the rules. It asserts that "States are not normal litigants for the purposes of invoking federal jurisdiction," and that given "Massachusetts' stake in protecting its quasi-sovereign interests, the Commonwealth is entitled to _special solicitude_ in our standing analysis."
 
-A claim of parens patriae standing is distinct from an allegation of direct
-injury. Far from being a substitute for Article III injury,
-parens patriae actions raise an additional hurdle for a state litigant: the
-articulation of a "quasi-sovereign interest" "apart from the interests of
-particular private parties." Just as an association suing on
-behalf of its members must show not only that it represents the members but
-that at least one satisfies Article III requirements, so too a State asserting
-quasi-sovereign interests as parens patriae must still show that its
-citizens satisfy Article III. Focusing on Massachusetts's interests as quasi-
-sovereign makes the required showing here harder, not easier. The Court, in
-effect, takes what has always been regarded as a necessary condition for
-*parens patriae standing---a quasi-sovereign interest---and converts it
-into a sufficient showing for purposes of Article III.
+A claim of parens patriae standing is distinct from an allegation of direct injury. Far from being a substitute for Article III injury, parens patriae actions raise an additional hurdle for a state litigant: the articulation of a "quasi-sovereign interest" "apart from the interests of particular private parties." Just as an association suing on behalf of its members must show not only that it represents the members but that at least one satisfies Article III requirements, so too a State asserting quasi-sovereign interests as parens patriae must still show that its citizens satisfy Article III. Focusing on Massachusetts's interests as quasi- sovereign makes the required showing here harder, not easier. The Court, in effect, takes what has always been regarded as a necessary condition for
+*parens patriae standing---a quasi-sovereign interest---and converts it into a sufficient showing for purposes of Article III.
 
-What is more, the Court's reasoning falters on its own terms. The Court
-asserts that Massachusetts is entitled to "special solicitude" due to its
-"quasi-sovereign interests," but then applies our Article III
-standing test to the asserted injury of the State's loss of coastal property.
-See ante, at 1456 (concluding that Massachusetts "has alleged a
-particularized injury *in its capacity as a landowner*" (emphasis added)). In
-the context of parens patriae standing, however, we have characterized state
-ownership of land as a "nonsovereign interes[t]" because a State "is likely to
-have the same interests as other similarly situated proprietors." 
+What is more, the Court's reasoning falters on its own terms. The Court asserts that Massachusetts is entitled to "special solicitude" due to its "quasi-sovereign interests," but then applies our Article III standing test to the asserted injury of the State's loss of coastal property. See ante, at 1456 (concluding that Massachusetts "has alleged a particularized injury *in its capacity as a landowner*" (emphasis added)). In the context of parens patriae standing, however, we have characterized state ownership of land as a "nonsovereign interes[t]" because a State "is likely to have the same interests as other similarly situated proprietors."
 
-On top of everything else, the Court overlooks the fact that our cases cast
-significant doubt on a State's standing to assert a quasi-sovereign
-interest---as opposed to a direct injury---against the Federal Government. As a
-general rule, we have held that while a State might assert a quasi-sovereign
-right as parens patriae "for the protection of its citizens, it is no part
-of its duty or power to enforce their rights in respect of their relations
-with the Federal Government. In that field it is the United States, and not
-the State, which represents them." 
+On top of everything else, the Court overlooks the fact that our cases cast significant doubt on a State's standing to assert a quasi-sovereign interest---as opposed to a direct injury---against the Federal Government. As a general rule, we have held that while a State might assert a quasi-sovereign right as parens patriae "for the protection of its citizens, it is no part of its duty or power to enforce their rights in respect of their relations with the Federal Government. In that field it is the United States, and not the State, which represents them."
 
-It is not at all clear how the Court's "special solicitude" for Massachusetts
-plays out in the standing analysis, except as an implicit concession that
-petitioners cannot establish standing on traditional terms. But the status of
-Massachusetts as a State cannot compensate for petitioners' failure to
-demonstrate injury in fact, causation, and redressability.
+It is not at all clear how the Court's "special solicitude" for Massachusetts plays out in the standing analysis, except as an implicit concession that petitioners cannot establish standing on traditional terms. But the status of Massachusetts as a State cannot compensate for petitioners' failure to demonstrate injury in fact, causation, and redressability.
 
-When the Court actually applies the three-part test, it focuses on
-the State's asserted loss of coastal land as the injury in fact. If
-petitioners rely on loss of land as the Article III injury, however, they must
-ground the rest of the standing analysis in that specific injury. That alleged
-injury must be "concrete and particularized," and "distinct and palpable." Central to this
-concept of "particularized" injury is the requirement that a plaintiff be
-affected in a "personal and individual way," and seek relief that "directly and
-tangibly benefits him" in a manner distinct from its impact on "the public at
-large." Without "particularized injury,
-there can be no confidence of `a real need to exercise the power of judicial
-review' or that relief can be framed `no broader than required by the precise
-facts to which the court's ruling would be applied.'"
+When the Court actually applies the three-part test, it focuses on the State's asserted loss of coastal land as the injury in fact. If petitioners rely on loss of land as the Article III injury, however, they must ground the rest of the standing analysis in that specific injury. That alleged injury must be "concrete and particularized," and "distinct and palpable." Central to this concept of "particularized" injury is the requirement that a plaintiff be affected in a "personal and individual way," and seek relief that "directly and tangibly benefits him" in a manner distinct from its impact on "the public at large." Without "particularized injury, there can be no confidence of `a real need to exercise the power of judicial review' or that relief can be framed `no broader than required by the precise facts to which the court's ruling would be applied.'"
 
-The very concept of global warming seems inconsistent with this
-particularization requirement. Global warming is a phenomenon "harmful to
-humanity at large," and the redress petitioners seek is focused no more
-on them than on the public generally---it is literally to change the atmosphere
-around the world.
+The very concept of global warming seems inconsistent with this particularization requirement. Global warming is a phenomenon "harmful to humanity at large," and the redress petitioners seek is focused no more on them than on the public generally---it is literally to change the atmosphere around the world.
 
-If petitioners' particularized injury is loss of coastal land, it is also that
-injury that must be "actual or imminent, not conjectural or hypothetical."
+If petitioners' particularized injury is loss of coastal land, it is also that injury that must be "actual or imminent, not conjectural or hypothetical."
 
-As to "actual" injury, the Court observes that "global sea levels rose
-somewhere between 10 and 20 centimeters over the 20th century as a result of
-global warming" and that "[t]hese rising seas have already begun to swallow
-Massachusetts' coastal land." But none of petitioners'
-declarations supports that connection. One declaration states that "a rise in
-sea level due to climate change is occurring on the coast of Massachusetts, in
-the metropolitan Boston area," but there is no elaboration.  And the
-declarant goes on to identify a "significan[t]" non-global-warming cause of
-Boston's rising sea level: land subsidence. Thus, aside from a single conclusory statement, there is nothing in petitioners' standing declarations and accompanying exhibits to support an
-inference of actual loss of Massachusetts coastal land from 20th century
-global sea level increases. It is pure conjecture.
+As to "actual" injury, the Court observes that "global sea levels rose somewhere between 10 and 20 centimeters over the 20th century as a result of global warming" and that "[t]hese rising seas have already begun to swallow Massachusetts' coastal land." But none of petitioners' declarations supports that connection. One declaration states that "a rise in sea level due to climate change is occurring on the coast of Massachusetts, in the metropolitan Boston area," but there is no elaboration. And the declarant goes on to identify a "significan[t]" non-global-warming cause of Boston's rising sea level: land subsidence. Thus, aside from a single conclusory statement, there is nothing in petitioners' standing declarations and accompanying exhibits to support an inference of actual loss of Massachusetts coastal land from 20th century global sea level increases. It is pure conjecture.
 
-The Court's attempts to identify "imminent" or "certainly impending" loss of
-Massachusetts coastal land fares no better. One of
-petitioners' declarants predicts global warming will cause sea level to rise
-by 20 to 70 centimeters by the year 2100. Another uses a
-computer modeling program to map the Commonwealth's coastal land and its
-current elevation, and calculates that the high-end estimate of sea level rise
-would result in the loss of significant state-owned coastal land. But the computer modeling program has a conceded average error of about
-30 centimeters and a maximum observed error of 70 centimeters. As an initial matter, if it is possible that the model
-underrepresents the elevation of coastal land to an extent equal to or in
-excess of the projected sea level rise, it is difficult to put much stock in
-the predicted loss of land. But even placing that problem to the side,
-accepting a century-long time horizon and a series of compounded estimates
-renders requirements of imminence and immediacy utterly toothless.  "Allegations of possible future injury
-do not satisfy the requirements of Art. III. A threatened injury must be
-_certainly impending_ to constitute injury in fact." 
+The Court's attempts to identify "imminent" or "certainly impending" loss of Massachusetts coastal land fares no better. One of petitioners' declarants predicts global warming will cause sea level to rise by 20 to 70 centimeters by the year 2100. Another uses a computer modeling program to map the Commonwealth's coastal land and its current elevation, and calculates that the high-end estimate of sea level rise would result in the loss of significant state-owned coastal land. But the computer modeling program has a conceded average error of about 30 centimeters and a maximum observed error of 70 centimeters. As an initial matter, if it is possible that the model underrepresents the elevation of coastal land to an extent equal to or in excess of the projected sea level rise, it is difficult to put much stock in the predicted loss of land. But even placing that problem to the side, accepting a century-long time horizon and a series of compounded estimates renders requirements of imminence and immediacy utterly toothless. "Allegations of possible future injury do not satisfy the requirements of Art. III. A threatened injury must be _certainly impending_ to constitute injury in fact."
 
-Petitioners' reliance on Massachusetts's loss of coastal land as their injury
-in fact for standing purposes creates insurmountable problems for them with
-respect to causation and redressability. To establish standing, petitioners
-must show a causal connection between that specific injury and the lack of new
-motor vehicle greenhouse gas emission standards, and that the promulgation of
-such standards would likely redress that injury. As is often the case, the
-questions of causation and redressability overlap. And importantly, when a
-party is challenging the Government's allegedly unlawful regulation, or lack
-of regulation, of a third party, satisfying the causation and redressability
-requirements becomes "substantially more difficult." 
+Petitioners' reliance on Massachusetts's loss of coastal land as their injury in fact for standing purposes creates insurmountable problems for them with respect to causation and redressability. To establish standing, petitioners must show a causal connection between that specific injury and the lack of new motor vehicle greenhouse gas emission standards, and that the promulgation of such standards would likely redress that injury. As is often the case, the questions of causation and redressability overlap. And importantly, when a party is challenging the Government's allegedly unlawful regulation, or lack of regulation, of a third party, satisfying the causation and redressability requirements becomes "substantially more difficult."
 
-Petitioners view the relationship between their injuries and EPA's failure to
-promulgate new motor vehicle greenhouse gas emission standards as simple and
-direct: Domestic motor vehicles emit carbon dioxide and other greenhouse
-gases. Worldwide emissions of greenhouse gases contribute to global warming
-and therefore also to petitioners' alleged injuries. Without the new vehicle
-standards, greenhouse gas emissions---and therefore global warming and its
-attendant harms---have been higher than they otherwise would have been; once EPA
-changes course, the trend will be reversed.
+Petitioners view the relationship between their injuries and EPA's failure to promulgate new motor vehicle greenhouse gas emission standards as simple and direct: Domestic motor vehicles emit carbon dioxide and other greenhouse gases. Worldwide emissions of greenhouse gases contribute to global warming and therefore also to petitioners' alleged injuries. Without the new vehicle standards, greenhouse gas emissions---and therefore global warming and its attendant harms---have been higher than they otherwise would have been; once EPA changes course, the trend will be reversed.
 
-The Court ignores the complexities of global warming, and does so by now
-disregarding the "particularized" injury it relied on in step one, and using
-the dire nature of global warming itself as a bootstrap for finding causation
-and redressability. First, it is important to recognize the extent of the
-emissions at issue here. Because local greenhouse gas emissions disperse
-throughout the atmosphere and remain there for anywhere from 50 to 200 years,
-it is global emissions data that are relevant. According to one of petitioners' declarations, domestic motor vehicles
-contribute about 6 percent of global carbon dioxide emissions and 4 percent of
-global greenhouse gas emissions. The amount of global emissions
-at issue here is smaller still; § 202(a)(1) of the Clean Air Act covers
-only new motor vehicles and new motor vehicle engines, so petitioners'
-desired emission standards might reduce only a fraction of 4 percent of global
-emissions.
+The Court ignores the complexities of global warming, and does so by now disregarding the "particularized" injury it relied on in step one, and using the dire nature of global warming itself as a bootstrap for finding causation and redressability. First, it is important to recognize the extent of the emissions at issue here. Because local greenhouse gas emissions disperse throughout the atmosphere and remain there for anywhere from 50 to 200 years, it is global emissions data that are relevant. According to one of petitioners' declarations, domestic motor vehicles contribute about 6 percent of global carbon dioxide emissions and 4 percent of global greenhouse gas emissions. The amount of global emissions at issue here is smaller still; § 202(a)(1) of the Clean Air Act covers only new motor vehicles and new motor vehicle engines, so petitioners' desired emission standards might reduce only a fraction of 4 percent of global emissions.
 
-This gets us only to the relevant greenhouse gas emissions; linking them to
-global warming and ultimately to petitioners' alleged injuries next requires
-consideration of further complexities. As EPA explained in its denial of
-petitioners' request for rulemaking,
+This gets us only to the relevant greenhouse gas emissions; linking them to global warming and ultimately to petitioners' alleged injuries next requires consideration of further complexities. As EPA explained in its denial of petitioners' request for rulemaking,
 
-> "predicting future climate change necessarily involves a complex web of
-> economic and physical factors including: our ability to predict future
-> global anthropogenic emissions of [greenhouse gases] and aerosols; the fate
-> of these emissions once they enter the atmosphere (e.g., what percentage are
-> absorbed by vegetation or are taken up by the oceans); the impact of those
-> emissions that remain in the atmosphere on the radiative properties of the
-> atmosphere; changes in critically important climate feedbacks (e.g., changes
-> in cloud cover and ocean circulation); changes in temperature
-> characteristics (e.g., average temperatures, shifts in daytime and evening
-> temperatures); changes in other climatic parameters (e.g., shifts in
-> precipitation, storms); and ultimately the impact of such changes on human
-> health and welfare (e.g., increases or decreases in agricultural
-> productivity, human health impacts)." 
+> "predicting future climate change necessarily involves a complex web of > economic and physical factors including: our ability to predict future > global anthropogenic emissions of [greenhouse gases] and aerosols; the fate > of these emissions once they enter the atmosphere (e.g., what percentage are > absorbed by vegetation or are taken up by the oceans); the impact of those > emissions that remain in the atmosphere on the radiative properties of the > atmosphere; changes in critically important climate feedbacks (e.g., changes > in cloud cover and ocean circulation); changes in temperature > characteristics (e.g., average temperatures, shifts in daytime and evening > temperatures); changes in other climatic parameters (e.g., shifts in > precipitation, storms); and ultimately the impact of such changes on human > health and welfare (e.g., increases or decreases in agricultural > productivity, human health impacts)."
 
-Petitioners are never able to trace their alleged injuries back through this
-complex web to the fractional amount of global emissions that might have been
-limited with EPA standards. In light of the bit-part domestic new motor
-vehicle greenhouse gas emissions have played in what petitioners describe as a
-150-year global phenomenon, and the myriad additional factors bearing on
-petitioners' alleged injury---the loss of Massachusetts coastal land---the
-connection is far too speculative to establish causation.
+Petitioners are never able to trace their alleged injuries back through this complex web to the fractional amount of global emissions that might have been limited with EPA standards. In light of the bit-part domestic new motor vehicle greenhouse gas emissions have played in what petitioners describe as a 150-year global phenomenon, and the myriad additional factors bearing on petitioners' alleged injury---the loss of Massachusetts coastal land---the connection is far too speculative to establish causation.
 
-Redressability is even more problematic. To the tenuous link between
-petitioners' alleged injury and the indeterminate fractional domestic
-emissions at issue here, add the fact that petitioners cannot meaningfully
-predict what will come of the 80 percent of global greenhouse gas emissions
-that originate outside the United States. As the Court acknowledges,
-"developing countries such as China and India are poised to increase
-greenhouse gas emissions substantially over the next century," at
-1458, so the domestic emissions at issue here may become an increasingly
-marginal portion of global emissions, and any decreases produced by
-petitioners' desired standards are likely to be overwhelmed many times over by
-emissions increases elsewhere in the world.
+Redressability is even more problematic. To the tenuous link between petitioners' alleged injury and the indeterminate fractional domestic emissions at issue here, add the fact that petitioners cannot meaningfully predict what will come of the 80 percent of global greenhouse gas emissions that originate outside the United States. As the Court acknowledges, "developing countries such as China and India are poised to increase greenhouse gas emissions substantially over the next century," at 1458, so the domestic emissions at issue here may become an increasingly marginal portion of global emissions, and any decreases produced by petitioners' desired standards are likely to be overwhelmed many times over by emissions increases elsewhere in the world.
 
-Petitioners offer declarations attempting to address this uncertainty,
-contending that "[i]f the U.S. takes steps to reduce motor vehicle emissions,
-other countries are very likely to take similar actions regarding their own
-motor vehicles using technology developed in response to the U.S. program." In other words, do not worry that
-other countries will contribute far more to global warming than will U.S.
-automobile emissions; someone is bound to invent something, and places like
-the People's Republic of China or India will surely require use of the new
-technology, regardless of cost. The Court previously has explained that when
-the existence of an element of standing "depends on the unfettered choices
-made by independent actors not before the courts and whose exercise of
-broad and legitimate discretion the courts cannot presume either to control or
-to predict," a party must present facts supporting an assertion that the actor
-will proceed in such a manner. The declarations' conclusory (not to say fanciful) statements do not even come close.
+Petitioners offer declarations attempting to address this uncertainty, contending that "[i]f the U.S. takes steps to reduce motor vehicle emissions, other countries are very likely to take similar actions regarding their own motor vehicles using technology developed in response to the U.S. program." In other words, do not worry that other countries will contribute far more to global warming than will U.S. automobile emissions; someone is bound to invent something, and places like the People's Republic of China or India will surely require use of the new technology, regardless of cost. The Court previously has explained that when the existence of an element of standing "depends on the unfettered choices made by independent actors not before the courts and whose exercise of broad and legitimate discretion the courts cannot presume either to control or to predict," a party must present facts supporting an assertion that the actor will proceed in such a manner. The declarations' conclusory (not to say fanciful) statements do not even come close.
 
-No matter, the Court reasons, because any decrease in domestic emissions
-will "slow the pace of global emissions increases, no matter what happens
-elsewhere." Every little bit helps, so Massachusetts can sue
-over any little bit.
+No matter, the Court reasons, because any decrease in domestic emissions will "slow the pace of global emissions increases, no matter what happens elsewhere." Every little bit helps, so Massachusetts can sue over any little bit.
 
-The Court's sleight-of-hand is in failing to link up the different elements of
-the three-part standing test. What must be likely to be redressed is the
-particular injury in fact. The injury the Court looks to is the asserted loss
-of land. The Court contends that regulating domestic motor vehicle emissions
-will reduce carbon dioxide in the atmosphere, and therefore redress
-Massachusetts's injury. But even if regulation does reduce emissions---to some
-indeterminate degree, given events elsewhere in the world---the Court never
-explains why that makes it likely that the injury in fact---the loss of
-land---will be redressed. Schoolchildren know that a kingdom might be lost "all
-for the want of a horseshoe nail," but "likely" redressability is a different
-matter. The realities make it pure conjecture to suppose that EPA regulation
-of new automobile emissions will likely prevent the loss of Massachusetts
-coastal land.
+The Court's sleight-of-hand is in failing to link up the different elements of the three-part standing test. What must be likely to be redressed is the particular injury in fact. The injury the Court looks to is the asserted loss of land. The Court contends that regulating domestic motor vehicle emissions will reduce carbon dioxide in the atmosphere, and therefore redress Massachusetts's injury. But even if regulation does reduce emissions---to some indeterminate degree, given events elsewhere in the world---the Court never explains why that makes it likely that the injury in fact---the loss of land---will be redressed. Schoolchildren know that a kingdom might be lost "all for the want of a horseshoe nail," but "likely" redressability is a different matter. The realities make it pure conjecture to suppose that EPA regulation of new automobile emissions will likely prevent the loss of Massachusetts coastal land.
 
 
 \newpage

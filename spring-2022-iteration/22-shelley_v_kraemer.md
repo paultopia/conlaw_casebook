@@ -4,253 +4,57 @@
 
 **Mr. Chief Justice VINSON delivered the opinion of the Court.**
 
-These cases present for our consideration questions relating to the validity
-of court enforcement of private agreements, generally described as restrictive
-covenants, which have as their purpose the exclusion of persons of designated
-race or color from the ownership or occupancy of real property. Basic constitutional issues of obvious importance have been raised.
+These cases present for our consideration questions relating to the validity of court enforcement of private agreements, generally described as restrictive covenants, which have as their purpose the exclusion of persons of designated race or color from the ownership or occupancy of real property. Basic constitutional issues of obvious importance have been raised.
 
-On February 16, 1911, thirty out of a total of thirty-nine
-owners of property fronting both sides of Labadie Avenue between Taylor Avenue
-and Cora Avenue in the city of St. Louis, signed an agreement, which was
-subsequently recorded, providing in part:
+On February 16, 1911, thirty out of a total of thirty-nine owners of property fronting both sides of Labadie Avenue between Taylor Avenue and Cora Avenue in the city of St. Louis, signed an agreement, which was subsequently recorded, providing in part:
 
 > the said property is hereby restricted to the use and occupancy for the term of Fifty (50) years from this date, so that it shall be a condition all the time and whether recited and referred to as (sic) not in subsequent conveyances and shall attach to the land, as a condition precedent to the sale of the same, that hereafter no part of said property or any portion thereof shall be, for said term of Fifty-years, occupied by any person not of the Caucasian race, it being intended hereby to restrict the use of said property for said period of time against the occupancy as owners or tenants of any portion of said property for resident or other purpose by people of the Negro or Mongolian Race.'
 
 
-On August 11, 1945, pursuant to a contract of sale, petitioners Shelley, who
-are Negroes, for valuable consideration received from one Fitzgerald a
-warranty deed to the parcel in question. The trial court found that
-petitioners had no actual knowledge of the restrictive agreement at the time
-of the purchase.
+On August 11, 1945, pursuant to a contract of sale, petitioners Shelley, who are Negroes, for valuable consideration received from one Fitzgerald a warranty deed to the parcel in question. The trial court found that petitioners had no actual knowledge of the restrictive agreement at the time of the purchase.
 
-On October 9, 1945, respondents, as owners of other property subject to the
-terms of the restrictive covenant, brought suit in Circuit Court of the city
-of St. Louis prarying that petitioners Shelley be restrained from taking
-possession of the property and that judgment be entered divesting title out of
-petitioners Shelley and revesting title in the immediate grantor or in such
-other person as the court should direct. 
+On October 9, 1945, respondents, as owners of other property subject to the terms of the restrictive covenant, brought suit in Circuit Court of the city of St. Louis prarying that petitioners Shelley be restrained from taking possession of the property and that judgment be entered divesting title out of petitioners Shelley and revesting title in the immediate grantor or in such other person as the court should direct.
 
-It should be observed that these covenants do not seek to proscribe any
-particular use of the affected properties. Use of the properties for
-residential occupancy, as such, is not forbidden. The restrictions of these
-agreements, rather, are directed toward a designated class of persons and seek
-to determine who may and who may not own or make use of the properties for
-residential purposes. The excluded class is defined wholly in terms of race or
-color.; 'simply that and nothing more.'
+It should be observed that these covenants do not seek to proscribe any particular use of the affected properties. Use of the properties for residential occupancy, as such, is not forbidden. The restrictions of these agreements, rather, are directed toward a designated class of persons and seek to determine who may and who may not own or make use of the properties for residential purposes. The excluded class is defined wholly in terms of race or color.; 'simply that and nothing more.'
 
-It cannot be doubted that among the civil rights intended to be protected from
-discriminatory state action by the Fourteenth Amendment are the rights to
-acquire, enjoy, own and dispose of property. Equality in the enjoyment of
-property rights was regarded by the framers of that Amendment as an essential
-pre-condition to the realization of other basic civil rights and liberties
-which the Amendment was intended to guarantee. Thus, s 1978 of the Revised
-Statutes, derived from § 1 of the Civil Rights Act of 1866 which was enacted by Congress while the Fourteenth Amendment was also under consideration, provides:
+It cannot be doubted that among the civil rights intended to be protected from discriminatory state action by the Fourteenth Amendment are the rights to acquire, enjoy, own and dispose of property. Equality in the enjoyment of property rights was regarded by the framers of that Amendment as an essential pre-condition to the realization of other basic civil rights and liberties which the Amendment was intended to guarantee. Thus, s 1978 of the Revised Statutes, derived from § 1 of the Civil Rights Act of 1866 which was enacted by Congress while the Fourteenth Amendment was also under consideration, provides:
 
 > All citizens of the United States shall have the same right, in every State and Territory, as is enjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.
 
-It is likewise clear that restrictions on the right of occupancy of the sort
-sought to be created by the private agreements in these cases could not be
-squared with the requirements of the Fourteenth Amendment if imposed by state
-statute or local ordinance. We do not understand respondents to urge the
-contrary. In the case of Buchanan v. Warley, a unanimous Court declared
-unconstitutional the provisions of a city ordinance which denied to colored
-persons the right to occupy houses in blocks in which the greater number of
-houses were occupied by white persons, and imposed similar restrictions on
-white persons with respect to blocks in which the greater number of houses
-were occupied by colored persons. During the course of the opinion in that
-case, this Court stated: 'The Fourteenth Amendment and these statutes enacted
-in furtherance of its purpose operate to qualify and entitle a colored man to
-acquire property without state legislation discriminating against him solely
-because of color.'
+It is likewise clear that restrictions on the right of occupancy of the sort sought to be created by the private agreements in these cases could not be squared with the requirements of the Fourteenth Amendment if imposed by state statute or local ordinance. We do not understand respondents to urge the contrary. In the case of Buchanan v. Warley, a unanimous Court declared unconstitutional the provisions of a city ordinance which denied to colored persons the right to occupy houses in blocks in which the greater number of houses were occupied by white persons, and imposed similar restrictions on white persons with respect to blocks in which the greater number of houses were occupied by colored persons. During the course of the opinion in that case, this Court stated: 'The Fourteenth Amendment and these statutes enacted in furtherance of its purpose operate to qualify and entitle a colored man to acquire property without state legislation discriminating against him solely because of color.'
 
-In Harmon v. Tyler, a unanimous court, on the authority of Buchanan v. Warley, declared
-invalid an ordinance which forbade any Negro to establish a home on any
-property in a white community or any white person to establish a home in a
-Negro community, 'except on the written consent of a majority of the persons
-of the opposite race inhabiting such community or portion of the City to be
-affected.'
+In Harmon v. Tyler, a unanimous court, on the authority of Buchanan v. Warley, declared invalid an ordinance which forbade any Negro to establish a home on any property in a white community or any white person to establish a home in a Negro community, 'except on the written consent of a majority of the persons of the opposite race inhabiting such community or portion of the City to be affected.'
 
-But the present cases, unlike those just discussed, do not involve action by
-state legislatures or city councils. Here the particular patterns of
-discrimination and the areas in which the restrictions are to operate, are
-determined, in the first instance, by the terms of agreements among private
-individuals. Participation of the State consists in the enforcement of the
-restrictions so defined. The crucial issue with which we are here confronted
-is whether this distinction removes these cases from the operation of the
-prohibitory provisions of the Fourteenth Amendment.
+But the present cases, unlike those just discussed, do not involve action by state legislatures or city councils. Here the particular patterns of discrimination and the areas in which the restrictions are to operate, are determined, in the first instance, by the terms of agreements among private individuals. Participation of the State consists in the enforcement of the restrictions so defined. The crucial issue with which we are here confronted is whether this distinction removes these cases from the operation of the prohibitory provisions of the Fourteenth Amendment.
 
-Since the decision of this Court in the Civil Rights Cases, 1883, the principle has become firmly embedded in our constitutional law that the action inhibited by the first section of the
-Fourteenth Amendment is only such action as may fairly be said to be that of
-the States. That Amendment erects no shield against merely private conduct,
-however discriminatory or wrongful.
+Since the decision of this Court in the Civil Rights Cases, 1883, the principle has become firmly embedded in our constitutional law that the action inhibited by the first section of the Fourteenth Amendment is only such action as may fairly be said to be that of the States. That Amendment erects no shield against merely private conduct, however discriminatory or wrongful.
 
-We conclude, therefore, that the restrictive agreements standing alone cannot
-be regarded as a violation of any rights guaranteed to petitioners by the
-Fourteenth Amendment. So long as the purposes of those agreements are
-effectuated by voluntary adherence to their terms, it would appear clear that
-there has been no action by the State and the provisions of the Amendment have
-not been violated.
+We conclude, therefore, that the restrictive agreements standing alone cannot be regarded as a violation of any rights guaranteed to petitioners by the Fourteenth Amendment. So long as the purposes of those agreements are effectuated by voluntary adherence to their terms, it would appear clear that there has been no action by the State and the provisions of the Amendment have not been violated.
 
-But here there was more. These are cases in which the purposes of the
-agreements were secured only by judicial enforcement by state courts of the
-restrictive terms of the agreements. The respondents urge that judicial
-enforcement of private agreements does not amount to state action; or, in any
-event, the participation of the State is so attenuated in character as not to
-amount to state action within the meaning of the Fourteenth Amendment.
-Finally, it is suggested, even if the States in these cases may be deemed to
-have acted in the constitutional sense, their action did not deprive
-petitioners of rights guaranteed by the Fourteenth Amendment. We move to a
-consideration of these matters.
+But here there was more. These are cases in which the purposes of the agreements were secured only by judicial enforcement by state courts of the restrictive terms of the agreements. The respondents urge that judicial enforcement of private agreements does not amount to state action; or, in any event, the participation of the State is so attenuated in character as not to amount to state action within the meaning of the Fourteenth Amendment. Finally, it is suggested, even if the States in these cases may be deemed to have acted in the constitutional sense, their action did not deprive petitioners of rights guaranteed by the Fourteenth Amendment. We move to a consideration of these matters.
 
-That the action of state courts and of judicial officers in their official
-capacities is to be regarded as action of the State within the meaning of the
-Fourteenth Amendment, is a proposition which has long been established by
-decisions of this Court. One of the earliest applications of the prohibitions contained in the
-Fourteenth Amendment to action of state judicial officials occurred in cases
-in which Negroes had been excluded from jury service in criminal prosecutions
-by reason of their race or color. These cases demonstrate, also, the early
-recognition by this Court that state action in violation of the Amendment's
-provisions is equally repugnant to the constitutional commands whether
-directed by state statute or taken by a judicial official in the absence of
-statute. Thus, in Strauder v. West Virginia, 1880,this Court declared invalid a state statute restricting jury service to white persons as amounting to a denial of the equal protection of the laws to the colored defendant in that case. Ex parte Virginia held that a similar discrimination imposed by the action of a state judge denied rights protected by the Amendment, despite the
-fact that the language of the state statute relating to jury service contained
-no such restrictions.
+That the action of state courts and of judicial officers in their official capacities is to be regarded as action of the State within the meaning of the Fourteenth Amendment, is a proposition which has long been established by decisions of this Court. One of the earliest applications of the prohibitions contained in the Fourteenth Amendment to action of state judicial officials occurred in cases in which Negroes had been excluded from jury service in criminal prosecutions by reason of their race or color. These cases demonstrate, also, the early recognition by this Court that state action in violation of the Amendment's provisions is equally repugnant to the constitutional commands whether directed by state statute or taken by a judicial official in the absence of statute. Thus, in Strauder v. West Virginia, 1880,this Court declared invalid a state statute restricting jury service to white persons as amounting to a denial of the equal protection of the laws to the colored defendant in that case. Ex parte Virginia held that a similar discrimination imposed by the action of a state judge denied rights protected by the Amendment, despite the fact that the language of the state statute relating to jury service contained no such restrictions.
 
-The action of state courts in imposing penalties or depriving parties of other
-substantive rights without providing adequate notice and opportunity to defend,
-has, of course, long been regarded as a denial of the due process of law
-guaranteed by the Fourteenth Amendment. In numerous cases, this Court has reversed criminal convictions in state courts for failure of those courts to provide the essential ingredients of a
-fair hearing. Thus it has been held that convictions obtained in state courts
-under the domination of a mob are void. Convictions obtained by coerced confessions, by the
-use of perjured testimony known by the prosecution to be such, or without
-the effective assistance of counsel, have also been held to be exertions of
-state authority in conflict with the fundamental rights protected by the
-Fourteenth Amendment.
+The action of state courts in imposing penalties or depriving parties of other substantive rights without providing adequate notice and opportunity to defend, has, of course, long been regarded as a denial of the due process of law guaranteed by the Fourteenth Amendment. In numerous cases, this Court has reversed criminal convictions in state courts for failure of those courts to provide the essential ingredients of a fair hearing. Thus it has been held that convictions obtained in state courts under the domination of a mob are void. Convictions obtained by coerced confessions, by the use of perjured testimony known by the prosecution to be such, or without the effective assistance of counsel, have also been held to be exertions of state authority in conflict with the fundamental rights protected by the Fourteenth Amendment.
 
-But the examples of state judicial action which have been held by this Court
-to violate the Amendment's commands are not restricted to situations in which
-the judicial proceedings were found in some manner to be procedurally unfair.
-It has been recognized that the action of state courts in enforcing a
-substantive common-law rule formulated by those courts, may result in the
-denial of rights guaranteed by the Fourteenth Amendment, even though the
-judicial proceedings in such cases may have been in complete accord with the
-most rigorous conceptions of procedural due process. Thus, in American
-Federation of Labor v. Swing, 1941, enforcement by state courts of the common-law policy of the State, which resulted in the restraining of peaceful picketing, was held to be state action
-of the sort prohibited by the Amendment's guaranties of freedom of
-discussion. In Cantwell v. Connecticut, 1940, a conviction in a state court of the common-law
-crime of breach of the peace was, under the circumstances of the case, found
-to be a violation of the Amendment's commonds relating to freedom of religion.
+But the examples of state judicial action which have been held by this Court to violate the Amendment's commands are not restricted to situations in which the judicial proceedings were found in some manner to be procedurally unfair. It has been recognized that the action of state courts in enforcing a substantive common-law rule formulated by those courts, may result in the denial of rights guaranteed by the Fourteenth Amendment, even though the judicial proceedings in such cases may have been in complete accord with the most rigorous conceptions of procedural due process. Thus, in American Federation of Labor v. Swing, 1941, enforcement by state courts of the common-law policy of the State, which resulted in the restraining of peaceful picketing, was held to be state action of the sort prohibited by the Amendment's guaranties of freedom of discussion. In Cantwell v. Connecticut, 1940, a conviction in a state court of the common-law crime of breach of the peace was, under the circumstances of the case, found to be a violation of the Amendment's commonds relating to freedom of religion.
 
-The short of the matter is that from the time of the adoption of the
-Fourteenth Amendment until the present, it has been the consistent ruling of
-this Court that the action of the States to which the Amendment has reference,
-includes action of state courts and state judicial officials. Although, in
-construing the terms of the Fourteenth Amendment, differences have from time
-to time been expressed as to whether particular types of state action may be
-said to offend the Amendment's prohibitory provisions, it has never been
-suggested that state court action is immunized from the operation of those
-provisions simply because the act is that of the judicial branch of the state
-government.
+The short of the matter is that from the time of the adoption of the Fourteenth Amendment until the present, it has been the consistent ruling of this Court that the action of the States to which the Amendment has reference, includes action of state courts and state judicial officials. Although, in construing the terms of the Fourteenth Amendment, differences have from time to time been expressed as to whether particular types of state action may be said to offend the Amendment's prohibitory provisions, it has never been suggested that state court action is immunized from the operation of those provisions simply because the act is that of the judicial branch of the state government.
 
-Against this background of judicial construction, extending over a period of
-some three-quarters of a century, we are called upon to consider whether
-enforcement by state courts of the restrictive agreements in these cases may
-be deemed to be the acts of those States; and, if so, whether that action has
-denied these petitioners the equal protection of the laws which the Amendment
-was intended to insure.
+Against this background of judicial construction, extending over a period of some three-quarters of a century, we are called upon to consider whether enforcement by state courts of the restrictive agreements in these cases may be deemed to be the acts of those States; and, if so, whether that action has denied these petitioners the equal protection of the laws which the Amendment was intended to insure.
 
-We have no doubt that there has been state action in these cases in the full
-and complete sense of the phrase. The undisputed facts disclose that
-petitioners were willing purchasers of properties upon which they desired to
-establish homes. The owners of the properties were willing sellers; and
-contracts of sale were accordingly consummated. It is clear that but for the
-active intervention of the state courts, supported by the full panoply of
-state power, petitioners would have been free to occupy the properties in
-question without restraint.
+We have no doubt that there has been state action in these cases in the full and complete sense of the phrase. The undisputed facts disclose that petitioners were willing purchasers of properties upon which they desired to establish homes. The owners of the properties were willing sellers; and contracts of sale were accordingly consummated. It is clear that but for the active intervention of the state courts, supported by the full panoply of state power, petitioners would have been free to occupy the properties in question without restraint.
 
-These are not cases, as has been suggested, in which the States have merely
-abstained from action, leaving private individuals free to impose such
-discriminations as theys see fit. Rather, these are cases in which the States
-have made available to such individuals the full coercive power of government
-to deny to petitioners, on the grounds of race or color, the enjoyment of
-property rights in premises which petitioners are willing and financially able
-to acquire and which the grantors are willing to sell. The difference between
-judicial enforcement and nonenforcement of the restrictive covenants is the
-difference to petitioners between being denied rights of property available to
-other members of the community and being accorded full enjoyment of those
-rights on an equal footing.
+These are not cases, as has been suggested, in which the States have merely abstained from action, leaving private individuals free to impose such discriminations as theys see fit. Rather, these are cases in which the States have made available to such individuals the full coercive power of government to deny to petitioners, on the grounds of race or color, the enjoyment of property rights in premises which petitioners are willing and financially able to acquire and which the grantors are willing to sell. The difference between judicial enforcement and nonenforcement of the restrictive covenants is the difference to petitioners between being denied rights of property available to other members of the community and being accorded full enjoyment of those rights on an equal footing.
 
-The enforcement of the restrictive agreements by the state courts courts in
-these cases was directed pursuant to the common-law policy of the States as
-formulated by those courts in earlier decisions. In the Missouri case,
-enforcement of the covenant was directed in the first instance by the highest
-court of the State after the trial court had determined the agreement to be
-invalid for want of the requisite number of signatures. In the Michigan case,
-the order of enforcement by the trial court was affirmed by the highest state
-court. The judicial action in each case bears the clear and unmistakable
-imprimatur of the State. We have noted that previous decisions of this Court
-have established the proposition that judicial action is not immunized from
-the operation of the Fourteenth Amendment simply because it is taken pursuant
-to the state's common-law policy. Nor is the Amendment ineffective simply
-because the particular pattern of discrimination, which the State has
-enforced, was defined initially by the terms of a private agreement. State
-action, as that phrase is understood for the purposes of the Fourteenth
-Amendment, refers to exertions of state power in all forms. And when the
-effect of that action is to deny rights subject to the protection of the
-Fourteenth Amendment, it is the obligation of this Court to enforce the
-constitutional commands.
+The enforcement of the restrictive agreements by the state courts courts in these cases was directed pursuant to the common-law policy of the States as formulated by those courts in earlier decisions. In the Missouri case, enforcement of the covenant was directed in the first instance by the highest court of the State after the trial court had determined the agreement to be invalid for want of the requisite number of signatures. In the Michigan case, the order of enforcement by the trial court was affirmed by the highest state court. The judicial action in each case bears the clear and unmistakable imprimatur of the State. We have noted that previous decisions of this Court have established the proposition that judicial action is not immunized from the operation of the Fourteenth Amendment simply because it is taken pursuant to the state's common-law policy. Nor is the Amendment ineffective simply because the particular pattern of discrimination, which the State has enforced, was defined initially by the terms of a private agreement. State action, as that phrase is understood for the purposes of the Fourteenth Amendment, refers to exertions of state power in all forms. And when the effect of that action is to deny rights subject to the protection of the Fourteenth Amendment, it is the obligation of this Court to enforce the constitutional commands.
 
-We hold that in granting judicial enforcement of the restrictive agreements in
-these cases, the States have denied petitioners the equal protection of the
-laws and that, therefore, the action of the state courts cannot stand. We have
-noted that freedom from discrimination by the States in the enjoyment of
-property rights was among the basic objectives sought to be effectuated by the
-framers of the Fourteenth Amendment. That such discrimination has occurred in
-these cases is clear. Because of the race or color of these petitioners they
-have been denied rights of ownership or occupancy enjoyed as a matter of
-course by other citizens of different race or color. The Fourteenth
-Amendment declares 'that all persons, whether colored or white, shall stand
-equal before the laws of the States, and, in regard to the colored race, for
-whose protection the amendment was primarily designed, that no discrimination
-shall be made against them by law because of their color.' Only recently this Court has
-had occasion to declare that a state law which denied equal enjoyment of
-property rights to a designated class of citizens of specified race and
-ancestry, was not a legitimate exercise of the state's police power but
-violated the guaranty of the equal protection of the laws. Oyama v. California, 1948. Nor may the discriminations imposed by the state courts in these cases be justified as proper exertions of state police power. Cf. Buchanan v. Warley, supra.
+We hold that in granting judicial enforcement of the restrictive agreements in these cases, the States have denied petitioners the equal protection of the laws and that, therefore, the action of the state courts cannot stand. We have noted that freedom from discrimination by the States in the enjoyment of property rights was among the basic objectives sought to be effectuated by the framers of the Fourteenth Amendment. That such discrimination has occurred in these cases is clear. Because of the race or color of these petitioners they have been denied rights of ownership or occupancy enjoyed as a matter of course by other citizens of different race or color. The Fourteenth Amendment declares 'that all persons, whether colored or white, shall stand equal before the laws of the States, and, in regard to the colored race, for whose protection the amendment was primarily designed, that no discrimination shall be made against them by law because of their color.' Only recently this Court has had occasion to declare that a state law which denied equal enjoyment of property rights to a designated class of citizens of specified race and ancestry, was not a legitimate exercise of the state's police power but violated the guaranty of the equal protection of the laws. Oyama v. California, 1948. Nor may the discriminations imposed by the state courts in these cases be justified as proper exertions of state police power. Cf. Buchanan v. Warley, supra.
 
-Respondents urge, however, that since the state courts stand ready to enforce
-restrictive covenants excluding white persons from the ownership or occupancy
-of property covered by such agreements, enforcement of covenants excluding
-colored persons may not be deemed a denial of equal protection of the laws to
-the colored persons who are thereby affected. This contention does not bear
-scrutiny. The parties have directed our attention to no case in which a court,
-state or federal, has been called upon to enforce a covenant excluding members
-of the white majority from ownership or occupancy of real property on grounds
-of race or color. But there are more fundamental considerations. The rights
-ceated by the first section of the Fourteenth Amendment are, by its terms,
-guaranteed to the individual. The rights established are personal rights. It
-is, therefore, no answer to these petitioners to say that the courts may also
-be induced to deny white persons rights of ownership and occupancy on grounds
-of race or color. Equal protection of the laws is not achieved through
-indiscriminate imposition of inequalities.
+Respondents urge, however, that since the state courts stand ready to enforce restrictive covenants excluding white persons from the ownership or occupancy of property covered by such agreements, enforcement of covenants excluding colored persons may not be deemed a denial of equal protection of the laws to the colored persons who are thereby affected. This contention does not bear scrutiny. The parties have directed our attention to no case in which a court, state or federal, has been called upon to enforce a covenant excluding members of the white majority from ownership or occupancy of real property on grounds of race or color. But there are more fundamental considerations. The rights ceated by the first section of the Fourteenth Amendment are, by its terms, guaranteed to the individual. The rights established are personal rights. It is, therefore, no answer to these petitioners to say that the courts may also be induced to deny white persons rights of ownership and occupancy on grounds of race or color. Equal protection of the laws is not achieved through indiscriminate imposition of inequalities.
 
-Nor do we find merit in the suggestion that property owners who are parties to
-these agreements are denied equal protection of the laws if denied access to
-the courts to enforce the terms of restrictive covenants and to assert
-property rights which the state courts have held to be created by such
-agreements. The Constitution confers upon no individual the right to demand
-action by the State which results in the denial of equal protection of the
-laws to other individuals. And it would appear beyond question that the power
-of the State to create and enforce property interests must be exercised within
-the boundaries defined by the Fourteenth Amendment. Cf. Marsh v. Alabama.^[Marsh is a case in which First Amendment protections were extended to petititioners on private property in a "company town" on the grounds that it was effectively functioning like a publicly-owned public forum (though petitioners were also arrested by the normal government police for trespass)--PG].
+Nor do we find merit in the suggestion that property owners who are parties to these agreements are denied equal protection of the laws if denied access to the courts to enforce the terms of restrictive covenants and to assert property rights which the state courts have held to be created by such agreements. The Constitution confers upon no individual the right to demand action by the State which results in the denial of equal protection of the laws to other individuals. And it would appear beyond question that the power of the State to create and enforce property interests must be exercised within the boundaries defined by the Fourteenth Amendment. Cf. Marsh v. Alabama.^[Marsh is a case in which First Amendment protections were extended to petititioners on private property in a "company town" on the grounds that it was effectively functioning like a publicly-owned public forum (though petitioners were also arrested by the normal government police for trespass)--PG].
 
-The historical context in which the Fourteenth Amendment became a part of the
-Constitution should not be forgotten. Whatever else the framers sought to
-achieve, it is clear that the matter of primary concern was the establishment
-of equality in the enjoyment of basic civil and political rights and the
-preservation of those rights from discriminatory action on the part of the
-States based on considerations of race or color. Seventy-five years ago this
-Court announced that the provisions of the Amendment are to be construed with
-this fundamental purpose in mind. 
+The historical context in which the Fourteenth Amendment became a part of the Constitution should not be forgotten. Whatever else the framers sought to achieve, it is clear that the matter of primary concern was the establishment of equality in the enjoyment of basic civil and political rights and the preservation of those rights from discriminatory action on the part of the States based on considerations of race or color. Seventy-five years ago this Court announced that the provisions of the Amendment are to be construed with this fundamental purpose in mind.
 
 \newpage

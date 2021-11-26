@@ -1,5 +1,4 @@
-
-### City of Boerne v. Flores
+ ### City of Boerne v. Flores
 
 521 U.S. 507 (1997)
 
@@ -25,7 +24,7 @@ The Act's stated purposes are:
 
 > (1) to restore the compelling interest test as set forth in Sherbert v. Verner (1963) and Wisconsin v. Yoder (1972) and to guarantee its application in all cases where free exercise of religion is substantially burdened; and (2) to provide a claim or defense to persons whose religious exercise is substantially burdened by government.
 
-RFRA prohibits "[g]overnment" from "substantially burden[ing]" a person's exercise of religion even if the burden results from a rule of general applicability unless the government can demonstrate the burden "(1) is in furtherance of a compelling governmental interest; and (2) is the least restrictive means of furthering that compelling governmental interest." The Act's mandate applies to any "branch, department, agency, instrumentality, and official (or other person acting under color of law) of the United States," as well as to any "State, or ... subdivision of a State."  RFRA "applies to all Federal and State law, and the implementation of that law, whether statutory or otherwise, and whether adopted before or after [RFRA's enactment]." In accordance with RFRA's usage of the term, we shall use "state law" to include local and municipal ordinances.
+RFRA prohibits "[g]overnment" from "substantially burden[ing]" a person's exercise of religion even if the burden results from a rule of general applicability unless the government can demonstrate the burden "(1) is in furtherance of a compelling governmental interest; and (2) is the least restrictive means of furthering that compelling governmental interest." The Act's mandate applies to any "branch, department, agency, instrumentality, and official (or other person acting under color of law) of the United States," as well as to any "State, or ... subdivision of a State." RFRA "applies to all Federal and State law, and the implementation of that law, whether statutory or otherwise, and whether adopted before or after [RFRA's enactment]." In accordance with RFRA's usage of the term, we shall use "state law" to include local and municipal ordinances.
 
 Smith held that neutral, generally applicable laws may be applied to religious practices even when not supported by a compelling governmental interest. The parties disagree over whether RFRA is a proper exercise of Congress' § 5 power "to enforce" by "appropriate legislation" the constitutional guarantee that no State shall deprive any person of "life, liberty, or property, without due process of law," nor deny any person "equal protection of the laws."
 
