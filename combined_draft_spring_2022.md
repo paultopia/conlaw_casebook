@@ -10,7 +10,7 @@ toc_depth: 4
 
 \newpage
 
-# Notes on this Reader
+# How to Use This Reader
 
 This document compiles materials for the Northwestern Law Spring 2022 Constitutional Law class taught by Paul Gowder.
 
@@ -31,6 +31,10 @@ Moreover, my edits are unmarked. As such, please do not rely on the text of case
 This casebook/reader/thingy is entirely composed of U.S. Supreme Court cases (which are not subject to copyright) and materials written by me. My own materials are \textcopyright [Paul Gowder](https://gowder.io), 2017-2022 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 These materials may be downloaded from [https://courses.gowder.io/conlaw](https://courses.gowder.io/conlaw).
+
+Please note that assignments from these materials refer to **top level items in the table of contents**.  Don't rely on page numbers or the like, as I will have a team of TAs actively working on cleaning them up during the class, and so new versions may be issued with different pagination on the fly. 
+
+Finally, you'll observe that the notes on cases and on areas of law are placed *after* the relevant cases.  This is intentional: in an ideal world, you'd read the cases first, try to make sense of them, then read the summary material, and then go *back* to the cases to look over the relevant sections again and solidify your understanding.  I do realize, however, that this process might be more aspirational than real given the time pressures under which law students work.
 
 \newpage
 
@@ -74,7 +78,7 @@ In some sense, this means that judges have less freedom. Common law is judge-mad
 
 Because there's a text, we have to learn how to interpret text, as authoritative. Interpreting a Constitution or a statute is different from interpreting a case. In particular, we have a bunch of difficult and incredibly controversial questions about what we're trying to do when we interpret authoritative text. This is especially true when we get into ambiguous words (and they all get ambiguous if you poke at them enough). Are we trying to get at what the drafters (people like James Madison) *meant*? Are we trying to get at what ordinary people understand the text to mean? If so, which ordinary people---ordinary people today or ordinary people when it was written? Are we just trying to get at the "plain meaning" of the text? Do we use a dictionary?
 
-Another major feature of the Constitution, as opposed to ordinary statutes, is that the text is often written in terms of *values*. A statute might say "nobody may drive over 65 miles an hour," whereas the Constitution says things like "no cruel and unusual punishment." But "cruel" is a values word, just like the "unreasonable" in "unreasonable searches and seizures" and the "equal" in "equal protection of the laws." A court, in interpreting these Constitutional provisions, has to interpret the underlying *values* those words refer to.
+Another major feature of the Constitution, as opposed to ordinary statutes, is that the text is often written in terms of *values*. A statute might say "nobody may drive over 65 miles an hour," whereas the Constitution says things like "no cruel and unusual punishment." But "cruel" is a values word, just like the "unreasonable" in "unreasonable searches and seizures" and the "equal" in "equal protection of the laws." A court, in interpreting these Constitutional provisions, has to interpret the underlying *values* those words refer to.^[This is controversial too.  In face, just assume that at least half of constitutional law professors disagree with anything I write in this section.]
 
 ## The Idea of Limited Government
 
@@ -104,7 +108,7 @@ So in 1787, the framers basically went into a locked room and hashed it out. The
 
 The Constitution that came out of the process was very controversial. The states had lots of objections. Many thought the federal government was too powerful, many were upset by the absence of specific protections for individual rights (hence the Bill of Rights that got added right afterward). Lots of states ratified the Constitution with ratification statements saying, basically, "1, protect states rights better, 2. protect individual rights better."
 
-The Federalist Papers, several of which we are reading in this course, were Madison, Hamilton and Jay's defense of the Constitution. They're very widely cited by contemporary Constitutional scholars and sometimes the Supreme Court as a way of getting at what the framing generation thought they were doing when they wrote and ratified the document.
+The Federalist Papers, which get cited a *lot* in con law, were Madison, Hamilton and Jay's defense of the Constitution. They're very widely cited by contemporary Constitutional scholars and sometimes the Supreme Court as a way of getting at what the framing generation thought they were doing when they wrote and ratified the document.
 
 At the time, the political environment had two basic divisions---first the Federalists, who favored a strong central government (and, very roughly, a commercial economy). Exemplars include Alexander Hamilton and George Washington. Second the Anti-Federalists, who favored stronger states (and, again very roughly, a more agrarian economy). Exemplars include Thomas Jefferson. Madison started out a Federalist but later became a kind of de facto Anti-Federalist and close ally of Jefferson. One huge important issue right at the beginning was the creation of a National Bank---Hamilton was a major advocate, many states strongly opposed. The election of 1800 was a hugely important shift in early power from Federalists to Anti-Federalists.
 
@@ -129,10 +133,7 @@ The United States is a system of divided sovereignty between the federal and sta
 Honestly, I think most of this talk about "sovereignty" as a theoretical concept is a bit of a distraction---at most, we might think that the framers had a theory of sovereignty and use it to interpret some ambiguous ideas in the Constitution---but it's hard to see why we might want to talk about *sovereignty* that way, Consider *Bush v. Gore*, the infamous Supreme Court case that handed the 2000 election to the former by tinkering in how Florida counted its votes: does it really add anything to the debate about its permissibility to start talking about whether the People exercise sovereignty through Florida or through the United States or both?
 
 
-
-\newpage
-
-# Doctrine and theory
+## Doctrine and theory
 
 
 Constitutional lawyers tend to understand how doctrine actually works by thinking about how it fits into overarching theories of the structure of rights and responsibility of government.
@@ -151,11 +152,8 @@ Students who come to constitutional law often find themselves frustrated by the 
 
 The best way to deal with this is to view Supreme Court decisions as arguments, not as rules of law--and particularly, as arguments about how to apply, or whether to apply, the doctrinal framework that they tell us they're applying. And by putting ourselves in the places of the justices, and of litigants, we learn to apply constitutional modes of reasoning; the ultimate goal being to be able to make our own constitutional arguments, not in terms of little-respected black letter niceties which we can get out of a book, but in terms of the core principles that drive the area of law.
 
-\newpage
 
-# Practical lawyering in Constitutional Law
-
-## Three Modes of Argument
+## Practical lawyering in Constitutional Law
 
 In constitutional law, we have three key modes of argument. These modes also show up in other areas of law, but they look a bit different in this course, and different modes are emphasized in different ways in our cases.
 
@@ -721,8 +719,7 @@ To sustain this general view, the following proposition is submitted as the theo
 The institution of American liberty is based upon the principles, that the people are capable of self-government, and have an inalienable right at all times, and in any manner they please, to establish and alter or change the constitution or particular form under which that government shall be effected. This is especially true of the several States composing the Union, subject only to a limitation provided by the United States Constitution, that the State governments shall be republican.
 
 In order to support this proposition, we have to establish the following points:
----- 
-
+ 
 
 
 
@@ -743,7 +740,6 @@ In order to support this proposition, we have to establish the following points:
 7th. And more especially is this true in the case of the then subsisting government of Rhode Island, which derived no power from the charter or from the people to alter or amend the frame of government, or to change the basis of representation, or even to propose initiatory measures to that end.
 
 Upon the foregoing hypothesis, then, the following questions arise:
----- 
 
 
 
@@ -756,7 +752,6 @@ Upon the foregoing hypothesis, then, the following questions arise:
 If these questions are answered in the negative, then the theory of American free governments for the States is unavailable in practice.
 
 If they be answered in the affirmative, then the consequences which necessarily follow are,
----- 
 
 
 
@@ -1685,9 +1680,7 @@ Foreign affairs rules are difficult. If I had to distill some rules out of it fo
 
 5. When there is a conflict between a treaty and a federal statute, they're treated as of equivalent precedence, i.e., the last one wins. This is why Congress can abrogate a treaty at will, and why, presumably, it can also control the alleged "executive agreement" power.
 
-\newpage
-
-# Administrative law
+## Administrative law
 
 
 Much of the material about executive power starts to shade into administrative law. As I keep saying, you really need to take that course; this material will help you see why. I can't really teach you any significant part of adlaw at the same time as constitutional law, but I can at least give you a basic introduction to the key terms and concepts so that you can understand this week's reading.
@@ -1725,6 +1718,7 @@ Note that Justice Gorsuch in particular (but to a lesser degree others too) is k
 
 
 \newpage
+
 # McCulloch v. Maryland
 
 17 U.S. 316 (1819)
@@ -1823,8 +1817,6 @@ After the most deliberate consideration, it is the unanimous and decided opinion
 The branches, proceeding from the same stock, and being conducive to the complete accomplishment of the object, are equally constitutional. It would have been unwise, to locate them in the charter, and it would be unnecessarily inconvenient, to employ the legislative power in making those subordinate arrangements. The great duties of the bank are prescribed; those duties require branches; and the bank itself may, we think, be safely trusted with the selection of places where those branches shall be fixed; reserving always to the government the right to require that a branch shall be located where it may be deemed necessary.
 
 It being the opinion of the court, that the act incorporating the bank is constitutional; and that the power of establishing a branch in the state of Maryland might be properly exercised by the bank itself, we proceed to inquire
----- 
-
 
 
 2\. Whether the state of Maryland may, without violating the constitution, tax that branch? That the power of taxation is one of vital importance; that it is retained by the states; that it is not abridged by the grant of a similar power to the government of the Union; that it is to be concurrently exercised by the two governments--are truths which have never been denied. But such is the paramount character of the constitution, that its capacity to withdraw any subject from the action of even this power, is admitted. The states are expressly forbidden to lay any duties on imports or exports, except what may be absolutely necessary for executing their inspection laws. If the obligation of this prohibition must be conceded--if it may restrain a state from the exercise of its taxing power on imports and exports--the same paramount character would seem to restrain, as it certainly may restrain, a state from such other exercise of this power, as is in its nature incompatible with, and repugnant to, the constitutional laws of the Union. A law, absolutely repugnant to another, as entirely repeals that other as if express terms of repeal were used.
@@ -3246,9 +3238,7 @@ A careful reading will suggest that this part of the order might not have very m
 
 Suppose, for example, that a sanctuary city receives $10,000,000 in discretionary federal funds administered by the Attorney General. Further suppose that this represents 2/3 of the city's law enforcement budget, but that the AG concludes that it isn't "necessary" (obviously not using Justice Marshall's definition of "necessary"). Can the AG say, purusant to this executive order, "order your police to turn over information about undocumented people who have been picked up to ICE, or we take away the money?" Does it matter what the money is for?
 
-\newpage
-
-# NFIB v. Sebelius
+# Notes on NFIB v. Sebelius
 
 Obviously this is a really big case for us. It actually ties together 100% of the federalism material we've seen thus far---the commerce clause, the necessary and proper clause, the taxing power, and the spending power used to commandeer.
 
@@ -4179,7 +4169,8 @@ A plaintiff with standing challenges the Democratic Party rule under the Equal P
 Note that "private associations" sometimes, but not always, have a constitutional right to discriminate even to the point that anti-discrimination statutes cannot constitutionally apply to them, under the 1st amendment association right. We haven't covered this in the course, but it depends on the extent to which the association is super-intimate ("intimate association"), or about expressing a message contrary to the anti-discrimination law ("expressive association). See generally *Boy Scouts of America v. Dale*, 530 U.S. 640 (2000), which comprehensively goes over the doctrine.
 
 \newpage
-### Washington v. Davis
+
+# Washington v. Davis
 
 426 U.S. 229 (1976)
 
@@ -4254,7 +4245,9 @@ There are two reasons why I am convinced that the challenge to Test 21 is insuff
 
 --
 
-*Excerpt from Alexander v. Louisiana, 405 U.S. 625 (1972), discussed by the Court in Washington v. Davis*
+# Alexander v. Louisiana
+
+405 U.S. 625 (1972) (short excerpt to contextualize discussion by the Court in Washington v. Davis*)
 
 According to 1960 U.S. census figures admitted into evidence below, Lafayette Parish contained 44,986 persons over 21 years of age and therefore presumptively eligible for grand jury service; of this total, 9,473 persons (21.06%) were Negro. At the hearing on petitioner's motions to quash the indictment, the evidence revealed that the Lafayette Parish jury commission consisted of five members, all of whom were white, who had been appointed by the court. The commission compiled a list of names from various sources (telephone directory, city directory, voter registration rolls, lists prepared by the school board, and by the jury commissioners themselves) and sent questionnaires to the persons on this list to determine those qualified for grand jury service. The questionnaire included a space to indicate the race of the recipient. Through this process, 7,374 questionnaires were returned, 1,015 of which (13.76%) were from Negroes, and the jury commissioners attached to each questionnaire an information card designating, among other things, the race of the person, and a white slip indicating simply the name and address of the person. The commissioners then culled out about 5,000 questionnaires, ostensibly on the ground that these persons were not qualified for grand jury service or were exempted under state law. The remaining 2,000 sets of papers were placed on a table, and the papers of 400 persons were selected, purportedly at random, and placed in a box from which the grand jury panels of 20 for Lafayette Parish were drawn. Twenty-seven of the persons thus selected were Negro (6.75%). On petitioner's grand jury venire, one of the 20 persons drawn was Negro (5%), but none of the 12 persons on the grand jury that indicted him, drawn from this 20, was Negro.
 
@@ -4265,7 +4258,8 @@ This Court has never announced mathematical standards for the demonstration of '
 The situation here is thus similar to Avery v. Georgia, where the Court sustained a challenge to an array of petit jurors in which the names of prospective jurors had been selected from segregated tax lists. Juror cards were prepared from these lists, yellow cards being used for Negro citizens and white cards for whites. Cards were drawn by a judge, and there was no evidence of specific discrimination. The Court held that such evidence was unnecessary, however, given the fact that no Negroes had appeared on the final jury: 'Obviously that practice makes it easier for those to discriminate who are of a mind to discriminate.' Again, in Whitus v. Georgia, the Court reversed the conviction of a defendant who had been tried before an all-white petit jury. Jurors had been selected from a one-volume tax digest divided into separate sections of Negroes and whites; black taxpayers also had a '(c)' after their names as required by Georgia law at the time. The jury commissioners testified that they were not aware of the '(c)' appearing after the names of the Negro taxpayers; that they had never included or excluded anyone because of race; that they had placed on the jury list only those persons whom they knew personally; and that the jury list they compiled had had no designation of race on it. The county from which jury selection was made was 42% Negro, and 27% of the county's taxpayers were Negro. Of the 33 persons drawn for the grand jury panel, three (9%) were Negro, while on the 19-member grand jury only one was Negro; on the 90-man venire from which the petit jury was selected, there were seven Negros (8%), but no Negroes appeared on the actual jury that tried petitioner. The Court held that this combination of factors constituted a prima facie case of discrimination, and a similar conclusion is mandated in the present case.
 
 Once a prima facie case of invidious discrimination is established, the burden of proof shifts to the State to rebut the presumption of unconstitutional action by showing that permissible racially neutral selection criteria and procedures have produced the monochromatic result. The State has not carried this burden in this case; it has not adequately explained the elimination of Negroes during the process of selecting the grand jury that indicted petitioner. As in Whitus v. Georgia, the clerk of the court, who was also a member of the jury commission, testified that no consideration was given to race during the selection procedure. The Court has squarely held, however, that affirmations of good faith in making individual selections are insufficient to dispel a prima facie case of systematic exclusion.
-# Equal Protection of the laws
+
+# Equal Protection of the Laws I 
 
 The Equal Protection Clause comprises the following parts of the text of the 14th Amendment: "no state shall... deny to any person within its jurisdiction the equal protection of the laws."
 
@@ -4558,7 +4552,7 @@ A man who was rejected from a position in the Senior Executive Service in favor 
 
 \newpage
 
-# Exercise: Transgender hair
+# Exercise: Transgender Hair Discrimination
 
 Patricia Plaintiff, a transgender individual who was born with male physical features but who holds a female gender identity, has joined the Illinois National Guard. The Guard has no gender-based regulations on hair length, however, it is customary for female recruits to wear their hair somewhat longer than male recruits, within the overall limitations provided by regulation. In boot camp, Patricia wore her hair at a customary female, rather than male, length.
 
@@ -4616,7 +4610,7 @@ That takes us to our final point about rational basis. Because it's the default 
 
 \newpage
 
- ### United States v. Carolene Products Co.
+# United States v. Carolene Products Co.
 
 304 U.S. 144 (1938)
 
@@ -4644,7 +4638,7 @@ As the statute is not unconstitutional on its face, the demurrer should have bee
 
 There may be narrower scope for operation of the presumption of constitutionality when legislation appears on its face to be within a specific prohibition of the Constitution, such as those of the first ten Amendments, which are deemed equally specific when held to be embraced within the Fourteenth. It is unnecessary to consider now whether legislation which restricts those political processes which can ordinarily be expected to bring about repeal of undesirable legislation, is to be subjected to more exacting judicial scrutiny under the general prohibitions of the Fourteenth Amendment than are most other types of legislation. On restrictions upon the right to vote, see Nixon v. Herndon; Nixon v. Condon; on restraints upon the dissemination of information, see Near v. Minnesota; Grosjean v. American Press Co.; Lovell v. Griffin; on interferences with political organizations, see Stromberg v. California; Fiske v. Kansas; Whitney v. California; Herndon v. Lowry; and see Holmes, J., in Gitlow v. New York; as to prohibition of peaceable assembly, see De Jonge v. Oregon. Nor need we enquire whether similar considerations enter into the review of statutes directed at particular religious, Pierce v. Society of Sisters, or national, Meyer v. Nebraska; Bartels v. Iowa; Farrington v. Tokushige, or racial minorities; Nixon v. Herndon; Nixon v. Condon; whether prejudice against discrete and insular minorities may be a special condition, which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities, and which may call for a correspondingly more searching judicial inquiry.
 
-### Griswold v. Connecticut
+# Griswold v. Connecticut
 
 381 U.S. 479 (1965)
 
@@ -4851,11 +4845,13 @@ What provision of the Constitution, then, does make this state law invalid? The 
 
 At the oral argument in this case we were told that the Connecticut law does not "conform to current community standards." But it is not the function of this Court to decide cases on the basis of community standards. We are here to decide cases "agreeably to the Constitution and laws of the United States." It is the essence of judicial duty to subordinate our own personal views, our own ideas of what legislation is wise and what is not. If, as I should surely hope, the law before us does not reflect the standards of the people of Connecticut, the people of Connecticut can freely exercise their true Ninth and Tenth Amendment rights to persuade their elected representatives to repeal it. That is the constitutional way to take this law off the books.
 
-### Roe v. Wade
+# Roe v. Wade
 
 410 U.S. 113 (1973)
 
-**Mr. Justice Blackmun delivered the opinion of the Court.** This Texas federal appeal and its Georgia companion, Doe v. Bolton present constitutional challenges to state criminal abortion legislation. The Texas statutes under attack here are typical of those that have been in effect in many States for approximately a century. The Georgia statutes, in contrast, have a modern cast and are a legislative product that, to an extent at least, obviously reflects the influences of recent attitudinal change, of advancing medical knowledge and techniques, and of new thinking about an old issue.
+**Mr. Justice Blackmun delivered the opinion of the Court.** 
+
+This Texas federal appeal and its Georgia companion, Doe v. Bolton present constitutional challenges to state criminal abortion legislation. The Texas statutes under attack here are typical of those that have been in effect in many States for approximately a century. The Georgia statutes, in contrast, have a modern cast and are a legislative product that, to an extent at least, obviously reflects the influences of recent attitudinal change, of advancing medical knowledge and techniques, and of new thinking about an old issue.
 
 We forthwith acknowledge our awareness of the sensitive and emotional nature of the abortion controversy, of the vigorous opposing views, even among physicians, and of the deep and seemingly absolute convictions that the subject inspires. One's philosophy, one's experiences, one's exposure to the raw edges of human existence, one's religious training, one's attitudes toward life and family and their values, and the moral standards one establishes and seeks to observe, are all likely to influence and to color one's thinking and conclusions about abortion.
 
@@ -5007,7 +5003,7 @@ To summarize and to repeat:
 
 This holding, we feel, is consistent with the relative weights of the respective interests involved, with the lessons and examples of medical and legal history, with the lenity of the common law, and with the demands of the profound problems of the present day. The decision leaves the State free to place increasing restrictions on abortion as the period of pregnancy lengthens, so long as those restrictions are tailored to the recognized state interests. The decision vindicates the right of the physician to administer medical treatment according to his professional judgment up to the points where important state interests provide compelling justifications for intervention. Up to those points, the abortion decision in all its aspects is inherently, and primarily, a medical decision, and basic responsibility for it must rest with the physician. If an individual practitioner abuses the privilege of exercising proper medical judgment, the usual remedies, judicial and intra-professional, are available.
 
-### Washington v. Glucksberg
+# Washington v. Glucksberg
 
 521 U.S. 702 (1997)
 
@@ -5397,7 +5393,7 @@ A real estate developer who has purchased a number of residential properties, wi
 
 \newpage
 
-### Romer v. Evans
+# Romer v. Evans
 
 517 U.S. 620 (1996)
 
@@ -5498,7 +5494,9 @@ When the Court takes sides in the culture wars, it tends to be with the knights 
 
 
 
-*Excerpts of "precedents involving discriminatory restructuring of governmental decisionmaking" cited by the Court in Romer*
+## Excerpts of precedents involving discriminatory restructuring of governmental decisionmaking
+
+(cited by the Court in Romer)
 
 *From Reitman v. Mulkey, 387 U.S. 369 (1967)*:
 
@@ -5542,7 +5540,12 @@ Lee v. Nyquist offers an application of the Hunter doctrine in a setting strikin
 
 Applying Hunter, the three-judge District Court invalidated the statute, noting that under the provision "[t]he Commissioner [of Education] and local appointed officials are prohibited from acting in [student assignment] matters only where racial criteria are involved." In the court's view, the statute therefore "placed burdens on the implementation of educational policies designed to deal with race on the local level" by "treating educational matters involving racial criteria differently from other educational matters and making it more difficult to deal with racial imbalance in the public schools." This drew an impermissible distinction "between the treatment of problems involving racial matters and that afforded other problems in the same area." This Court affirmed the District Court's judgment without opinion.
 
-These cases yield a simple but central principle. As Justice Harlan noted while concurring in the Court's opinion in Hunter, laws structuring political institutions or allocating political power according to "neutral principles"—such as the executive veto, or the typically burdensome requirements for amending state constitutions—are not subject to equal protection attack, though they may "make it more difficult for minorities to achieve favorable legislation." Because such laws make it more difficult for every group in the community to enact comparable laws, they "provide a just framework within which the diverse political groups in our society may fairly compete." Thus, the political majority may generally restructure the political process to place obstacles in the path of everyone seeking to secure the benefits of governmental action. But a different analysis is required when the State allocates governmental power nonneutrally, by explicitly using the racial nature of a decision to determine the decisionmaking process. State action of this kind, the Court said, "places special burdens on racial minorities within the governmental process," thereby "making it more difficult for certain racial and religious minorities [than for other members of the community] to achieve legislation that is in their interest." Such a structuring of the political process, the Court said, was "no more permissible than [is] denying [members of a racial minority] the vote, on an equal basis with others."### Lawrence v. Texas
+These cases yield a simple but central principle. As Justice Harlan noted while concurring in the Court's opinion in Hunter, laws structuring political institutions or allocating political power according to "neutral principles"—such as the executive veto, or the typically burdensome requirements for amending state constitutions—are not subject to equal protection attack, though they may "make it more difficult for minorities to achieve favorable legislation." Because such laws make it more difficult for every group in the community to enact comparable laws, they "provide a just framework within which the diverse political groups in our society may fairly compete." Thus, the political majority may generally restructure the political process to place obstacles in the path of everyone seeking to secure the benefits of governmental action. But a different analysis is required when the State allocates governmental power nonneutrally, by explicitly using the racial nature of a decision to determine the decisionmaking process. State action of this kind, the Court said, "places special burdens on racial minorities within the governmental process," thereby "making it more difficult for certain racial and religious minorities [than for other members of the community] to achieve legislation that is in their interest." Such a structuring of the political process, the Court said, was "no more permissible than [is] denying [members of a racial minority] the vote, on an equal basis with others."
+
+
+\newpage
+
+# Lawrence v. Texas
 
 539 U.S. 558 (2003)
 
@@ -5640,7 +5643,13 @@ A law branding one class of persons as criminal solely based on the State's mora
 
 Realizing that fact, the Court instead says: "[W]e think that our laws and traditions in the past half century are of most relevance here. These references show an emerging awareness that liberty gives substantial protection to adult persons in deciding how to conduct their private lives in matters pertaining to sex." Apart from the fact that such an "emerging awareness" does not establish a "fundamental right," the statement is factually false. States continue to prosecute all sorts of crimes by adults "in matters pertaining to sex": prostitution, adult incest, adultery, obscenity, and child pornography. Sodomy laws, too, have been enforced "in the past half century," in which there have been 134 reported cases involving prosecutions for consensual, adult, homosexual sodomy. In relying, for evidence of an "emerging recognition," upon the American Law Institute's 1955 recommendation not to criminalize "consensual sexual relations conducted in private," ante, at 11, the Court ignores the fact that this recommendation was "a point of resistance in most of the states that considered adopting the Model Penal Code."
 
-In any event, an "emerging awareness" is by definition not "deeply rooted in this Nation's history and tradition[s]," as we have said "fundamental right" status requires. Constitutional entitlements do not spring into existence because some States choose to lessen or eliminate criminal sanctions on certain behavior. Much less do they spring into existence, as the Court seems to believe, because foreign nations decriminalize conduct. The Bowers majority opinion never relied on "values we share with a wider civilization," but rather rejected the claimed right to sodomy on the ground that such a right was not "deeply rooted in this Nation's history and tradition." Bowers' rational-basis holding is likewise devoid of any reliance on the views of a "wider civilization." The Court's discussion of these foreign views (ignoring, of course, the many countries that have retained criminal prohibitions on sodomy) is therefore meaningless dicta. Dangerous dicta, however, since "this Court should not impose foreign moods, fads, or fashions on Americans." ### Obergefell v. Hodges
+In any event, an "emerging awareness" is by definition not "deeply rooted in this Nation's history and tradition[s]," as we have said "fundamental right" status requires. Constitutional entitlements do not spring into existence because some States choose to lessen or eliminate criminal sanctions on certain behavior. Much less do they spring into existence, as the Court seems to believe, because foreign nations decriminalize conduct. The Bowers majority opinion never relied on "values we share with a wider civilization," but rather rejected the claimed right to sodomy on the ground that such a right was not "deeply rooted in this Nation's history and tradition." Bowers' rational-basis holding is likewise devoid of any reliance on the views of a "wider civilization." The Court's discussion of these foreign views (ignoring, of course, the many countries that have retained criminal prohibitions on sodomy) is therefore meaningless dicta. Dangerous dicta, however, since "this Court should not impose foreign moods, fads, or fashions on Americans." 
+
+
+\newpage
+
+
+# Obergefell v. Hodges
 
 576 U.S. ___ (2015)
 
@@ -5990,7 +5999,10 @@ Nor, under the broader definition, can they claim that the States have restricte
 Instead, the States have refused to grant them governmental entitlements. Petitioners claim that as a matter of "liberty," they are entitled to access privileges and benefits that exist solely because of the government. They want, for example, to receive the State's imprimatur on their marriages—on state issued marriage licenses, death certificates, or other official forms. And they want to receive various monetary benefits, including reduced inheritance taxes upon the death of a spouse, compensation if a spouse dies as a result of a work-related injury, or loss of consortium damages in tort suits. But receiving governmental recognition and benefits has nothing to do with any understanding of "liberty" that the Framers would have recognized.
 
 The suggestion of petitioners and their amici that antimiscegenation laws are akin to laws defining marriage as between one man and one woman is both offensive and inaccurate. "America's earliest laws against interracial sex and marriage were spawned by slavery." For instance, Maryland's 1664 law prohibiting marriages between "freeborne English women" and "Negro Slaves" was passed as part of the very act that authorized lifelong slavery in the colony. Virginia's antimiscegenation laws likewise were passed in a 1691 resolution entitled "An act for suppressing outlying Slaves." "It was not until the Civil War threw the future of slavery into doubt that lawyers, legislators, and judges began to develop the elaborate justifications that signified the emergence of miscegenation law and made restrictions on interracial marriage the foundation of post-Civil War white supremacy."
-### San Antonio Independent School District v. Rodriguez
+
+\newpage
+
+# San Antonio Independent School District v. Rodriguez
 
 411 U.S. 1 (1973)
 
@@ -6414,6 +6426,7 @@ Nor does the District Court's decision even necessarily eliminate local control 
 Still, we are told that this case requires us 'to condemn the State's judgment in conferring on political subdivisions the power to tax local property to supply revenues for local interests.' Yet no one in the course of this entire litigation has ever questioned the constitutionality of the local property tax as a device for raising educational funds. The District Court's decision, at most, restricts the power of the State to make educational funding dependent exclusively upon local property taxation so long as there exists interdistrict disparities in taxable property wealth. But it hardly eliminates the local property tax as a source of educational funding or as a means of providing local fiscal control.
 
 The Court seeks solace for its action today in the possibility of legislative reform. The Court's suggestions of legislative redress and experimentation will doubtless be of great comfort to the schoolchildren of Texas' disadvantaged districts, but considering the vested interests of wealthy school districts in the preservation of the status quo, they are worth little more. The possibility of legislative action is, in all events, no answer to this Court's duty under the Constitution to eliminate unjustified state discrimination. In this case we have been presented with an instance of such discrimination, in a particularly invidious form, against an individual interest of large constitutional and practical importance. To support the demonstrated discrimination in the provision of educational opportunity the State has offered a justification which, on analysis, takes on at best an ephemeral character. Thus, I believe that the wide disparities in taxable district property wealth inherent in the local property tax element of the Texas financing scheme render that scheme violative of the Equal Protection Clause.
+
 # First Amendment: Free Speech
 
 Our class doesn't read any free speech cases. This is purely a time issue: there just isn't the room to cover it, and often it's taught in a separate course altogether. Nonetheless, you ought to have *some* exposure to the doctrine, so I'm just summarizing a few of the major themes here.
@@ -7138,6 +7151,7 @@ Respondent has not demonstrated, moreover, that, in the context of these ordinan
 The Free Exercise Clause commits government itself to religious tolerance, and upon even slight suspicion that proposals for state intervention stem from animosity to religion or distrust of its practices, all officials must pause to remember their own high duty to the Constitution and to the rights it secures. Those in office must be resolute in resisting importunate demands and must ensure that the sole reasons for imposing the burdens of law and regulation are secular. Legislators may not devise mechanisms, overt or disguised, designed to persecute or oppress a religion or its practices. The laws here in question were enacted contrary to these constitutional principles, and they are void.
 
 \newpage
+
 # Fulton v. Philadelphia
 
 
@@ -7391,7 +7405,7 @@ Suppressing speech-or religious practice-simply because it expresses an idea tha
 
 \newpage
 
-Free Exercise
+# Free Exercise
 
 ## Is there a tension between Free Exercise and Establishment?
 
@@ -7467,9 +7481,9 @@ But what courts can and do do is judge the sincerity of a litigant's religious b
 Well, maybe. As Fulton indicates, there are at least 3 justices who flat-out want to overrule Smith, and a fourth (Barrett) who is strongly leaning toward the idea. We'll see what happens when someone gives the court a case that Roberts and Barrett can't dispose of without doing so. A lot of the impetus for this really came from the covid cases---as the Alito opinion in Fulton hints, we've seen a *lot* of cases where churches successfully challenged stay-at-home orders during covid, universally on the argument that the laws weren't neutral under Lukumi because other secular activities like going to the grocery store were permitted.^[This seems to me a strained application of Lukumi, because we damn well know the motivations of the religious bigots running the city of Hialeah, whereas by contrast it's pretty hard to believe that people like Andrew Cuomo, for all their flaws, were bent on persecuting Christians. But Alito's points about the difficulty of figuring out comparators really come out in thinking about those cases.]
 
 \newpage
- \newpage
 
-### McDonald v. City of Chicago
+
+# McDonald v. City of Chicago
 
 561 U.S. 742 (2010)
 
@@ -7913,7 +7927,10 @@ Subsequently, at the urging of ban opponents the Board held a community referend
 Given the empirical and local value-laden nature of the questions that lie at the heart of the issue, why, in a Nation whose Constitution foresees democratic decisionmaking, is it so fundamental a matter as to require taking that power from the people? What is it here that the people did not know? What is it that a judge knows better?
 
 In sum, the police power, the superiority of legislative decisionmaking, the need for local decisionmaking, the comparative desirability of democratic decisionmaking, the lack of a manageable judicial standard, and the life-threatening harm that may flow from striking down regulations all argue against incorporation. Where the incorporation of other rights has been at issue, some of these problems have arisen. But in this instance all these problems are present, all at the same time, and all are likely to be present in most, perhaps nearly all, of the cases in which the constitutionality of a gun regulation is at issue. At the same time, the important factors that favor incorporation in other instances— e.g., the protection of broader constitutional objectives—are not present here. The upshot is that all factors militate against incorporation—with the possible exception of historical factors.
- # Incorporation and Second Amendment
+
+\newpage
+
+# Incorporation and Second Amendment
 
 The basic problem that incorporation solves is really simple: the Bill of Rights only, on its terms, applies to the federal government. It's full of lines like "Congress shall make no law," rather than "the states shall make no law."
 
@@ -7974,6 +7991,8 @@ The Court had to confront those issues in Heller, and struck down a D.C. trigger
 Breyer's dissent in Heller focuses on the idea of a "well-regulated" militia. Doesn't that, just textually, imply that there's a substantial scope for, well, regulation? And then he has a lot of talk about the standard to apply to Second Amendment cases, which Scalia basically just dismisses.
 
 That takes us to McDonald. In reading McDonald, look for the standard by which the court decides incorporation questions, and also for the way the court uses post-framing history, especially around the time of the civil war. Also comsider the question of the messy relationship between incorporation and substantive due process, as discussed by Stevens, and his exchange with Scalia's concurrence---and perhaps even think about it in the context of Harlan's opinion in Griswold. This is a case where the concurrences and the multiple dissents really add a bunch of value to thinking about the root-level constitutional issues in play. We get a bunch of really interesting and important theories about the reconstruction amendments flying about in this case, and it needs to be read very carefully.
+
+FYI, as of this writing there's a new Second Amendment case pending before the Supreme Court, [New York State Rifle & Pistol Association Inc. v. Bruen,](https://www.scotusblog.com/case-files/cases/new-york-state-rifle-pistol-association-inc-v-bruen/) so we might get some clarification soon.
 
 \newpage
 
@@ -8459,7 +8478,8 @@ The sad irony of today's decision lies in its utter failure  to grasp why the VR
  The record supporting the 2006 reauthorization of  the VRA is also extraordinary. It was described by the  Chairman of the House Judiciary Committee as "one of  the most extensive considerations of any piece of legislation that the United States Congress has dealt with in the  27½ years" he had served in the House. After exhaustive evidence-gathering and deliberative  process, Congress reauthorized the VRA, including the  coverage provision, with overwhelming bipartisan support.  It was the judgment of Congress that "40 years has not  been a sufficient amount of time to eliminate the vestiges  of discrimination following nearly 100 years of disregard  for the dictates of the 15th amendment and to ensure that  the right of all citizens to vote is protected as guaranteed  by the Constitution." That determination of the body empowered to enforce the Civil War Amendments "by appropriate legislation" merits this Court's utmost respect. In my judgment, the Court errs egregiously by overriding Congress'  decision.
 
 \newpage
- ### City of Boerne v. Flores
+
+# City of Boerne v. Flores
 
 521 U.S. 507 (1997)
 
@@ -8692,7 +8712,7 @@ It is, of course, quite true that the responsibility for public education is pri
 
 \newpage
 
-### Planned Parenthood v. Casey
+# Planned Parenthood v. Casey
 
 505 U.S. 833 (1992)
 
@@ -9362,7 +9382,8 @@ Of course the existence of a military power resting on force, so vagrant, so cen
 My duties as a justice as I see them do not require me to make a military judgment as to whether General DeWitt's evacuation and detention program was a reasonable military necessity. I do not suggest that the courts should have attempted to interfere with the Army in carrying out its task. But I do not think they may be asked to execute a military expedient that has no place in law under the Constitution. I would reverse the judgment and discharge the prisoner.
 
 \newpage
-# Trump v. HAwaii
+
+# Trump v. Hawaii
 
 (2018)
 
