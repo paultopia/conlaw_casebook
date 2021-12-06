@@ -16,11 +16,11 @@ This document compiles materials for the Northwestern Law Spring 2022 Constituti
 
 This document and the Constitutional Law class assume a basic knowledge of the history and workings of the United States government at least at the level of an introductory college-level Political Science course such as "Introduction to American Politics." For students who lack this knowledge, some free resources that may be useful (I have not carefully reviewed these, and offer no warranties) include:
 
-- MIT's OpenCourseware (online lecture notes) for [an introductory American Politics course](https://ocw.mit.edu/courses/political-science/17-20-introduction-to-american-politics-spring-2013/).
+- MIT's OpenCourseware (online lecture notes) for [an introductory American Politics course.](https://ocw.mit.edu/courses/political-science/17-20-introduction-to-american-politics-spring-2013/)
 
-- Videos and notes from Harvard University's [introduction to American Government on edX](https://www.edx.org/course/american-government-harvardx-hks101a-0).
+- Videos and notes from Harvard University's [introduction to American Government on edX.](https://www.edx.org/course/american-government-harvardx-hks101a-0)
 
-- The open textbook, [American Government and Politics in the Information Age](https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=64).
+- The open textbook, [American Government and Politics in the Information Age.](https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=64)
 
 For a deeper view, I would be remiss to not mention my own recently published book, *The Rule of Law in the United States: An Unfinished Project of Black Liberation*, which covers a significant amount of American constitutional history through an approximately critical race lens that focuses on the ongoing effort of Black Americans to obtain the protections of equal law. You can download an open access (that is, free) PDF from [https://rulelaw.us](https://rulelaw.us).
 
@@ -28,7 +28,7 @@ This cases in this collection were collected and edited by me for the purposes o
 
 Moreover, my edits are unmarked. As such, please do not rely on the text of cases in this reader for the accuracy of citations or quotes within cases. (Obviously, I expect you to rely on the text as a fair representation of the justices's arguments!) And if it looks like a Justice is just asserting some random fact, there's a very good chance that I cut out the citation.
 
-This casebook/reader/thingy is entirely composed of U.S. Supreme Court cases (which are not subject to copyright) and materials written by me. My own materials are \textcopyright [Paul Gowder](https://gowder.io), 2017-2022 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+This casebook/reader/thingy is entirely composed of U.S. Supreme Court cases (which are not subject to copyright) and materials written by me. My own materials are \textcopyright  [Paul Gowder,](https://gowder.io) 2017-2022 and are freely sharable under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License.](https://creativecommons.org/licenses/by/4.0/)
 
 These materials may be downloaded from [https://courses.gowder.io/conlaw](https://courses.gowder.io/conlaw).
 
@@ -573,7 +573,7 @@ The Court ignores the complexities of global warming, and does so by now disrega
 
 This gets us only to the relevant greenhouse gas emissions; linking them to global warming and ultimately to petitioners' alleged injuries next requires consideration of further complexities. As EPA explained in its denial of petitioners' request for rulemaking,
 
-> "predicting future climate change necessarily involves a complex web of > economic and physical factors including: our ability to predict future > global anthropogenic emissions of [greenhouse gases] and aerosols; the fate > of these emissions once they enter the atmosphere (e.g., what percentage are > absorbed by vegetation or are taken up by the oceans); the impact of those > emissions that remain in the atmosphere on the radiative properties of the > atmosphere; changes in critically important climate feedbacks (e.g., changes > in cloud cover and ocean circulation); changes in temperature > characteristics (e.g., average temperatures, shifts in daytime and evening > temperatures); changes in other climatic parameters (e.g., shifts in > precipitation, storms); and ultimately the impact of such changes on human > health and welfare (e.g., increases or decreases in agricultural > productivity, human health impacts)."
+> "predicting future climate change necessarily involves a complex web of economic and physical factors including: our ability to predict future global anthropogenic emissions of [greenhouse gases] and aerosols; the fate of these emissions once they enter the atmosphere (e.g., what percentage are absorbed by vegetation or are taken up by the oceans); the impact of those emissions that remain in the atmosphere on the radiative properties of the atmosphere; changes in critically important climate feedbacks (e.g., changes in cloud cover and ocean circulation); changes in temperature characteristics (e.g., average temperatures, shifts in daytime and evening temperatures); changes in other climatic parameters (e.g., shifts in precipitation, storms); and ultimately the impact of such changes on human health and welfare (e.g., increases or decreases in agricultural productivity, human health impacts)."
 
 Petitioners are never able to trace their alleged injuries back through this complex web to the fractional amount of global emissions that might have been limited with EPA standards. In light of the bit-part domestic new motor vehicle greenhouse gas emissions have played in what petitioners describe as a 150-year global phenomenon, and the myriad additional factors bearing on petitioners' alleged injury---the loss of Massachusetts coastal land---the connection is far too speculative to establish causation.
 
@@ -615,11 +615,8 @@ The defendants filed four pleas in justification, averring, in substance,
 
 **Mr. Chief Justice TANEY delivered the opinion of the court.**
 
-215
 
 This case has arisen out of the unfortunate political differences which agitated the people of Rhode Island in 1841 and 1842.
-
-216
 
 It is an action of trespass brought by Martin Luther, the plaintiff in error, against Luther M. Borden and others, the defendants, in the Circuit Court of the United States for the District of Rhode Island, for breaking and entering the plaintiff's house. The defendants justify upon the ground that large numbers of men were assembled in different parts of the State for the purpose of overthrowing the government by military force, and were actually levying war upon the State; that, in order to defend itself from this insurrection, the State was declared by competent authority to be under martial law; that the plaintiff was engaged in the insurrection; and that the defendants, being in the military service of the State, by command of their superior officer, broke and entered the house and searched the rooms for the plaintiff, who was supposed to be there concealed, in order to arrest him, doing as little damage as possible. The plaintiff replied, that the trespass was committed by the defendants of their own proper wrong, and without any such cause; and upon the issue joined on this replication, the parties proceeded to trial.
 
@@ -718,11 +715,8 @@ To sustain this general view, the following proposition is submitted as the theo
 
 The institution of American liberty is based upon the principles, that the people are capable of self-government, and have an inalienable right at all times, and in any manner they please, to establish and alter or change the constitution or particular form under which that government shall be effected. This is especially true of the several States composing the Union, subject only to a limitation provided by the United States Constitution, that the State governments shall be republican.
 
-In order to support this proposition, we have to establish the following points:
+In order to support this proposition, we have to establish the following points,
  
-
-
-
 1st. That the sovereignty of the people is supreme, and may act in forming government without the assent of the existing government.
 
 2d. That the people are the sole judges of the form of government best calculated to promote their safety and happiness.
@@ -851,9 +845,7 @@ The General Assembly of Tennessee consists of the Senate with 33 members and the
 
 > Between 1901 and 1961, Tennessee has experienced substantial growth and redistribution of her population. In 1901 the population was 2,020,616, of whom 487,380 were eligible to vote.11 The 1960 Federal Census reports the State's population at 3,567,089, of whom 2,092,891 are eligible to vote. The relative standings of the counties in terms of qualified voters have changed significantly. It is primarily the continued application of the 1901 Apportionment Act to this shifted and enlarged voting population which gives rise to the present controversy.
 
-9
-
-Indeed, the complaint alleges that the 1901 statute, even as of the time of its passage, 'made no apportionment of Representatives and Senators in accordance with the constitutional formula * * *, but instead arbitrarily and capriciously apportioned representatives in the Senate and House without reference * * * to any logical or reasonable formula whatever.' It is further alleged that 'because of the population changes since 1900, and the failure of the Legislature to reapportion itself since 1901,' the 1901 statute became 'unconstitutional and obsolete.' Appellants also argue that, because of the composition of the legislature effected by the 1901 Apportionment Act, redress in the form of a state constitutional amendment to change the entire mechanism for reapportioning, or any other change short of that, is difficult or impossible. The complaint concludes that 'these plaintiffs and others similarly situated, are denied the equal protection of the laws accorded them by the Fourteenth Amendment to the Constitution of the United States by virtue of the debasement of their votes.' They seek a declaration that the 1901 statute is unconstitutional and an injunction restraining the appellees from acting to conduct any further elections under it. They also pray that unless and until the General Assembly enacts a valid reapportionment, the District Court should either decree a reapportionment by mathematical application of the Tennessee constitutional formulae to the most recent Federal Census figures, or direct the appellees to conduct legislative elections, primary and general, at large. They also pray for such other and further relief as may be appropriate.
+Indeed, the complaint alleges that the 1901 statute, even as of the time of its passage, 'made no apportionment of Representatives and Senators in accordance with the constitutional formula ... , but instead arbitrarily and capriciously apportioned representatives in the Senate and House without reference ... to any logical or reasonable formula whatever.' It is further alleged that 'because of the population changes since 1900, and the failure of the Legislature to reapportion itself since 1901,' the 1901 statute became 'unconstitutional and obsolete.' Appellants also argue that, because of the composition of the legislature effected by the 1901 Apportionment Act, redress in the form of a state constitutional amendment to change the entire mechanism for reapportioning, or any other change short of that, is difficult or impossible. The complaint concludes that 'these plaintiffs and others similarly situated, are denied the equal protection of the laws accorded them by the Fourteenth Amendment to the Constitution of the United States by virtue of the debasement of their votes.' They seek a declaration that the 1901 statute is unconstitutional and an injunction restraining the appellees from acting to conduct any further elections under it. They also pray that unless and until the General Assembly enacts a valid reapportionment, the District Court should either decree a reapportionment by mathematical application of the Tennessee constitutional formulae to the most recent Federal Census figures, or direct the appellees to conduct legislative elections, primary and general, at large. They also pray for such other and further relief as may be appropriate.
 
 The District Court was uncertain whether our cases withholding federal judicial relief rested upon a lack of federal jurisdiction or upon the inappropriateness of the subject matter for judicial consideration--what we have designated 'nonjusticiability.' The distinction between the two grounds is significant. In the instance of nonjusticiability, consideration of the cause is not wholly and immediately foreclosed; rather, the Court's inquiry necessarily proceeds to the point of deciding whether the duty asserted can be judicially identified and its breach judicially determined, and whether protection for the right asserted can be judicially molded. In the instance of lack of jurisdiction the cause either does not 'arise under' the Federal Constitution, laws or treaties (or fall within one of the other enumerated categories of Art. III, § 2), or is not a 'case or controversy' within the meaning of that section; or the cause is not one described by any jurisdictional statute.
 
@@ -874,8 +866,6 @@ Foreign relations: There are sweeping statements to the effect that all question
 
 While recognition of foreign governments so strongly defies judicial treatment that without executive recognition a foreign state has been called 'a republic of whose existence we know nothing,' and the judiciary ordinarily follows the executive as to which nation has sovereignty over disputed territory, once sovereignty over an area is politically determined and declared, courts may examine the resulting status and decide independently whether a statute applies to that area. Similarly, recognition of belligerency abroad is an executive responsibility, but if the executive proclamations fall short of an explicit answer, a court may construe them seeking, for example, to determine whether the situation is such that statutes designed to assure American neutrality have become operative. Still again, though it is the executive that determines a person's status as representative of a foreign government, the executive's statements will be construed where necessary to determine the court's jurisdiction. Similar judicial action in the absence of a recognizedly authoritative executive declaration occurs in cases involving the immunity from seizure of vessels owned by friendly foreign governments.
 
-46
-
 Dates of duration of hostilities: Though it has been stated broadly that 'the power which declared the necessity is the power to declare its cessation, and what the cessation requires,' here too analysis reveals isolable reasons for the presence of political questions, underlying this Court's refusal to review the political departments' determination of when or whether a war has ended. Dominant is the need for finality in the political determination, for emergency's nature demands 'A prompt and unhesitating obedience.' But deference rests on reason, not habit. The question in a particular case may not seriously implicate considerations of finality-- e.g., a public program of importance (rent control) yet not central to the emergency effort. Further, clearly definable criteria for decision may be available. In such case the political question barrier falls away: '(A) Court is not at liberty to shut its eyes to an obvious mistake, when the validity of the law depends upon the truth of what is declared. (It can) inquire whether the exigency still existed upon which the continued operation of the law depended.' On the other hand, even in private litigation which directly implicates no feature of separation of powers, lack of judicially discoverable standards and the drive for even-handed application may impel reference to the political departments' determination of dates of hostilities' beginning and ending.
 
 Validity of enactments: In Coleman v. Miller, supra, this Court held that the questions of how long a proposed amendment to the Federal Constitution remained open to ratification, and what effect a prior rejection had on a subsequent ratification, were committed to congressional resolution and involved criteria of decision that necessarily escaped the judicial grasp. Similar considerations apply to the enacting process: 'The respect due to coequal and independent departments,' and the need for finality and certainty about the status of a statute contribute to judicial reluctance to inquire whether, as passed, it complied with all requisite formalities. But it is not true that courts will never delve into a legislature's records upon such a quest: If the enrolled statute lacks an effective date, a court will not hesitate to seek it in the legislative journals in order to preserve the enactment. The political question doctrine, a tool for maintenance of governmental order, will not be so applied as to promote only disorder.
@@ -888,7 +878,9 @@ But it is argued that this case shares the characteristics of decisions that con
 
 Republican form of government: Luther v. Borden, though in form simply an action for damages for trespass was, as Daniel Webster said in opening the argument for the defense, 'an unusual case.' The defendants, admitting an otherwise tortious breaking and entering, sought to justify their action on the ground that they were agents of the established lawful government of Rhode Island, which State was then under martial law to defend itself from active insurrection; that the plaintiff was engaged in that insurrection; and that they entered under orders to arrest the plaintiff. The case arose 'out of the unfortunate political differences which agitated the people of Rhode Island in 1841 and 1842,' and which had resulted in a situation wherein two groups laid competing claims to recognition as the lawful government. The plaintiff's right to recover depended upon which of the two groups was entitled to such recognition; but the lower court's refusal to receive evidence or hear argument on that issue, its charge to the jury that the earlier established or 'charter' government was lawful, and the verdict for the defendants, were affirmed upon appeal to this Court.
 
-Chief Justice Taney's opinion for the Court reasoned as follows: (1) If a court were to hold the defendants' acts unjustified because the charter government had no legal existence during the period in question, it would follow that all of that government's actions--laws enacted, taxes collected, salaries paid, accounts settled, sentences passed--were of no effect; and that 'the officers who carried their decisions into operation (were) answerable as trespassers, if not in some cases as criminals.' There was, of course, no room for application of any doctrine of de facto status to uphold prior acts of an officer not authorized de jure, for such would have defeated the plaintiff's very action. A decision for the plaintiff would inevitably have produced some significant measure of chaos, a consequence to be avoided if it could be done without abnegation of the judicial duty to uphold the Constitution.
+Chief Justice Taney's opinion for the Court reasoned as follows: 
+
+(1) If a court were to hold the defendants' acts unjustified because the charter government had no legal existence during the period in question, it would follow that all of that government's actions--laws enacted, taxes collected, salaries paid, accounts settled, sentences passed--were of no effect; and that 'the officers who carried their decisions into operation (were) answerable as trespassers, if not in some cases as criminals.' There was, of course, no room for application of any doctrine of de facto status to uphold prior acts of an officer not authorized de jure, for such would have defeated the plaintiff's very action. A decision for the plaintiff would inevitably have produced some significant measure of chaos, a consequence to be avoided if it could be done without abnegation of the judicial duty to uphold the Constitution.
 
 (2) No state court had recognized as a judicial responsibility settlement of the issue of the locus of state governmental authority. Indeed, the courts of Rhode Island had in several cases held that 'it rested with the political power to decide whether the charter government had been displaced or not,' and that that department had acknowledged no change.
 
@@ -911,7 +903,7 @@ This case does, in one sense, involve the allocation of political power within a
 
 \newpage
 
- # Justiciability
+# Justiciability
 
 ## The Five Justiciability Doctrines
 
@@ -1169,8 +1161,6 @@ Take ten minutes or so and write down one concrete example for each of the follo
 
 \newpage
 
-[CLEANUP NOTES: STRIP LEADING WHITESPACE FROM EVERY PARAGRAPH UGH]
-
 # Zivotofsky v. Kerry
 
 576 U.S. 1 (2015)
@@ -1284,8 +1274,7 @@ A decade later, President Jackson faced a recognition  crisis over Texas. In 183
  \newpage
 
 
-
-INS v. Chadha
+# INS v. Chadha
 
 462 U.S. 919 (1983)
 
@@ -1328,8 +1317,6 @@ The proposal to permit one House of Congress to veto the Attorney General's susp
 [...]
 
 We turn now to the question whether action of one House of Congress under § 244(c)(2) violates strictures of the Constitution. [T]he fact that a given law or procedure is efficient, convenient, and useful in facilitating functions of government, standing alone, will not save it if it is contrary to the Constitution. Convenience and efficiency are not the primary objectives--or the hallmarks--of democratic government and our inquiry is sharpened rather than blunted by the fact that Congressional veto provisions are appearing with increasing frequency in statutes which delegate authority to executive and independent agencies.
-
-64
 
 Justice WHITE undertakes to make a case for the proposition that the one-House veto is a useful "political invention," and we need not challenge that assertion. We can even concede this utilitarian argument although the long range political wisdom of this "invention" is arguable. But policy arguments supporting even useful "political inventions" are subject to the demands of the Constitution which defines powers and, with respect to this subject, sets out just how those powers are to be exercised.
 
@@ -1856,7 +1843,8 @@ The court has bestowed on this subject its most deliberate consideration. The re
 This opinion does not deprive the states of any resources which they originally possessed. It does not extend to a tax paid by the real property of the bank, in common with the other real property within the state, nor to a tax imposed on the interest which the citizens of Maryland may hold in this institution, in common with other property of the same description throughout the state. But this is a tax on the operations of the bank, and is, consequently, a tax on the operation of an instrument employed by the government of the Union to carry its powers into execution. Such a tax must be unconstitutional.
 
 \newpage
-Wickard v. Filburn
+
+# Wickard v. Filburn
 
 317 U.S. 111 (1942)
 
@@ -2121,8 +2109,6 @@ The mechanics of this compromise are intricate. The Act directs: "Each State sha
 
 The Act provides three types of incentives to encourage the States to comply with their statutory obligation to provide for the disposal of waste generated within their borders.
 
-10
-
 1\. Monetary incentives. One quarter of the surcharges collected by the sited States must be transferred to an escrow account held by the Secretary of Energy. The Secretary then makes payments from this account to each State that has complied with a series of deadlines. By July 1, 1986, each State was to have ratified legislation either joining a regional compact or indicating an intent to develop a disposal facility within the State. [description of similar steps and deadlines]
 
 2\. Access incentives. The second type of incentive involves the denial of access to disposal sites. States that fail to meet the July 1986 deadline may be charged twice the ordinary surcharge for the remainder of 1986 and may be denied access to disposal facilities thereafter. [etc.
@@ -2165,7 +2151,6 @@ In providing for a stronger central government, therefore, the Framers explicitl
 
 This is not to say that Congress lacks the ability to encourage a State to regulate in a particular way, or that Congress may not hold out incentives to the States as a method of influencing a State's policy choices. Our cases have identified a variety of methods, short of outright coercion, by which Congress may urge a State to adopt a legislative program consistent with federal interests. Two of these methods are of particular relevance here.
 
-42
 
 First, under Congress' spending power, "Congress may attach conditions on the receipt of federal funds." South Dakota v. Dole,. Such conditions must (among other requirements) bear some relationship to the purpose of the federal spending; otherwise, of course, the spending power could render academic the Constitution's other grants and limits of federal authority. Where the recipient of federal funds is a State, as is not unusual today, the conditions attached to the funds by Congress may influence a State's legislative choices.
 
@@ -2240,8 +2225,6 @@ The petitioners here object to being pressed into federal service, and contend t
 
 Petitioners contend that compelled enlistment of state executive officers for the administration of federal programs is, until very recent years at least, unprecedented. The Government contends, to the contrary, that "the earliest Congresses enacted statutes that required the participation of state officials in the implementation of federal laws,'' The Government's contention demands our careful consideration, since early congressional enactments "provid[e] "contemporaneous and weighty evidence' of the Constitution's meaning.'' Indeed, such "contemporaneous legislative exposition of the Constitution . . . , acquiesced in for a long term of years, fixes the construction to be given its provisions.'' Conversely if, as petitioners contend, earlier Congresses avoided use of this highly attractive power, we would have reason to believe that the power was thought not to exist.
 
-9
-
 The Government observes that statutes enacted by the first Congresses required state courts to record applications for citizenship, to transmit abstracts of citizenship applications and other naturalization records to the Secretary of State, and to register aliens seeking naturalization and issue certificates of registry. It may well be, however, that these requirements applied only in States that authorized their courts to conduct naturalization proceedings. Other statutes of that era apparently or at least arguably required state courts to perform functions unrelated to naturalization, such as resolving controversies between a captain and the crew of his ship concerning the seaworthiness of the vessel, hearing the claims of slave owners who had apprehended fugitive slaves and issuing certificates authorizing the slave's forced removal to the State from which he had fled, taking proof of the claims of Canadian refugees who had assisted the United States during the Revolutionary War, and ordering the deportation of alien enemies in times of war.
 
 These early laws establish, at most, that the Constitution was originally understood to permit imposition of an obligation on state judges to enforce federal prescriptions, insofar as those prescriptions related to matters appropriate for the judicial power. That assumption was perhaps implicit in one of the provisions of the Constitution, and was explicit in another. In accord with the so-called Madisonian Compromise, Article III, §1, established only a Supreme Court, and made the creation of lower federal courts optional with the Congress-even though it was obvious that the Supreme Court alone could not hear all federal cases throughout the United States. And the Supremacy Clause, Art. VI, cl. 2, announced that "the Laws of the United States . . . shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby.'' It is understandable why courts should have been viewed distinctively in this regard; unlike legislatures and executives, they applied the law of other sovereigns all the time. The principle underlying so-called "transitory'' causes of action was that laws which operated elsewhere created obligations in justice that courts of the forum state would enforce. The Constitution itself, in the Full Faith and Credit Clause, Art. IV, §1, generally required such enforcement with respect to obligations arising in other States.
@@ -2285,10 +2268,7 @@ The spending power is of course not unlimited, but is instead subject to several
 
 South Dakota does not seriously claim that § 158 is inconsistent with any of the first three restrictions mentioned above. We can readily conclude that the provision is designed to serve the general welfare, especially in light of the fact that "the concept of welfare or the opposite is shaped by Congress. . . ." Congress found that the differing drinking ages in the States created particular incentives for young persons to combine their desire to drink with their ability to drive, and that this interstate problem required a national solution. The means it chose to address this dangerous situation were reasonably calculated to advance the general welfare. The conditions upon which States receive the funds, moreover, could not be more clearly stated by Congress. And the State itself, rather than challenging the germaneness of the condition to federal purposes, admits that it "has never contended that the congressional action was . . . unrelated to a national concern in the absence of the Twenty-first Amendment." Indeed, the condition imposed by Congress is directly related to one of the main purposes for which highway funds are expended--safe interstate travel. This goal of the interstate highway system had been frustrated by varying drinking ages among the States. A Presidential commission appointed to study alcohol-related accidents and fatalities on the Nation's highways concluded that the lack of uniformity in the States' drinking ages created "an incentive to drink and drive" because "young persons commut[e] to border States where the drinking age is lower." By enacting § 158, Congress conditioned the receipt of federal funds in a way reasonably calculated to address this particular impediment to a purpose for which the funds are expended.
 
-7
-
 The remaining question about the validity of § 158--and the basic point of disagreement between the parties--is whether the Twenty-first Amendment constitutes an "independent constitutional bar" to the conditional grant of federal funds. Petitioner, relying on its view that the Twenty-first Amendment prohibits direct regulation of drinking ages by Congress, asserts that "Congress may not use the spending power to regulate that which it is prohibited from regulating directly under the Twenty-first Amendment." But our cases show that this "independent constitutional bar" limitation on the spending power is not of the kind petitioner suggests. United States v. Butler, for example, established that the constitutional limitations on Congress when exercising its spending power are less exacting than those on its authority to regulate directly.
-
 
 We have also held that a perceived Tenth Amendment limitation on congressional regulation of state affairs did not concomitantly limit the range of conditions legitimately placed on federal grants. In _Oklahoma v. Civil Service Comm'n, the Court considered the validity of the Hatch Act insofar as it was applied to political activities of state officials whose employment was financed in whole or in part with federal funds. The State contended that an order under this provision to withhold certain federal funds unless a state official was removed invaded its sovereignty in violation of the Tenth Amendment. Though finding that "the United States is not concerned with, and has no power to regulate, local political activities as such of state officials," the Court nevertheless held that the Federal Government "does have power to fix the terms upon which its money allotments to states shall be disbursed." The Court found no violation of the State's sovereignty because the State could, and did, adopt "the 'simple expedient' of not yielding to what she urges is federal coercion. The offer of benefits to a state by the United States dependent upon cooperation by the state with federal plans, assumedly for the general welfare, is not unusual."
 
